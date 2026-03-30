@@ -1,0 +1,225 @@
+KB-POND-SP08 – Black bass (Micropterus salmoides)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Rybníkářství – druhové profily
+Typ dokumentu: Species Profile
+Použití v Aquantis: Diagnostika, návrh obsádky, krmení, management predátorů
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ZÁKLADNÍ CHARAKTERISTIKA DRUHU
+------------------------------------------------
+
+Název:
+- Český: Okounek velkoústý (Black bass)
+- Latinský: Micropterus salmoides
+
+Původ:
+- Severní Amerika (USA, Kanada)
+- Celosvětově introdukován (Evropa, Asie, Afrika, Jižní Amerika)
+
+Typ ryby:
+- Dravá ryba
+- Aktivní vizuální predátor
+- Teritoriální chování
+
+Hlavní využití:
+- Sportovní rybolov
+- Polointenzivní produkce
+- Regulace drobných ryb (biomanipulace)
+- Kombinovaný chov v rybnících
+
+
+------------------------------------------------
+2. VHODNÉ PROSTŘEDÍ A TYP RYBNÍKA
+------------------------------------------------
+
+Optimální typ rybníka:
+- Malé až střední rybníky
+- Hloubka: 1.5–3.0 m
+- Členité dno, vegetace, úkryty
+- Klidné vody bez silného proudění
+
+Nevhodné podmínky:
+- Studené horské rybníky
+- Silně eutrofní rybníky s častou hypoxií
+- Vysoká zákalová voda (omezuje lov)
+
+Black bass vyžaduje:
+- Dobrou průhlednost vody
+- Strukturu (kořeny, kameny, vegetace)
+- Stabilní teplotní režim
+
+
+------------------------------------------------
+3. TEPLOTA A KYSLÍK
+------------------------------------------------
+
+Optimální teplota:
+- Růst: 20–28 °C
+- Aktivita a krmení: >18 °C
+- Reprodukce: 18–22 °C
+
+Teplotní limity:
+- Minimum: ~10–12 °C (omezená aktivita)
+- Maximum: ~32–34 °C (stres)
+
+Rozpuštěný kyslík (O₂):
+- Optimální: >6 mg/l
+- Minimální: 4–5 mg/l
+- Krátkodobě toleruje nižší O₂ než salmonidi
+
+Poznámka:
+Black bass je relativně tolerantní vůči teplotním výkyvům,
+ale citlivý na kombinaci vysoké teploty + nízkého kyslíku.
+
+
+------------------------------------------------
+4. pH, Amoniak a Dusíkaté látky
+------------------------------------------------
+
+Optimální pH:
+- 6.5–8.5
+- Ideál: 7.0–8.0
+
+Amoniak (NH₃):
+- Bezpečná hranice: <0.02 mg/l
+- Citlivější v teplé vodě
+
+Dusitany (NO₂):
+- Ideálně <0.1 mg/l
+- Citlivost střední
+- Chronická expozice zpomaluje růst
+
+Dusičnany (NO₃):
+- Tolerantní až do 100–150 mg/l
+- Dlouhodobě preferováno <80 mg/l
+
+
+------------------------------------------------
+5. POTRAVA A KRMENÍ
+------------------------------------------------
+
+Přirozená potrava:
+- Malé ryby (bělice, plotice, karas, slunečnice)
+- Raci
+- Vodní hmyz
+- Larvy obojživelníků
+
+Umělé krmení:
+- Možné při adaptaci
+- Granule s vysokým obsahem bílkovin (40–50 %)
+- Spíše doplňkově
+
+Krmení v rybníku:
+- Často bez přímého krmení
+- Produkce závislá na dostatku krmných ryb
+
+Poměr dravec : krmná ryba:
+- Orientačně 1 : 8 až 1 : 12
+- Záleží na velikosti ryb a produkčním cíli
+
+
+------------------------------------------------
+6. OBSÁDKA A KOMBINOVANÝ CHOV
+------------------------------------------------
+
+Doporučená obsádka:
+- Nízká hustota
+- Typicky 50–150 ks/ha (produkční chov)
+- Vyšší hustoty jen při intenzivním managementu
+
+Vhodné kombinace:
+- Kapr (nižší hustota)
+- Amur
+- Tolstolobik
+- Planktonožravé ryby
+
+Nevhodné kombinace:
+- Salmonidi
+- Velmi malé ryby bez úkrytů
+- Přerybněné rybníky
+
+Poznámka:
+Black bass silně ovlivňuje strukturu rybí obsádky.
+
+
+------------------------------------------------
+7. ROZMNOŽOVÁNÍ
+------------------------------------------------
+
+Tření:
+- Jaro (18–22 °C)
+- Samec buduje hnízdo na dně
+- Teritoriální ochrana jiker a plůdku
+
+Specifika:
+- Silná ochrana hnízda
+- Citlivost na rušení
+- Při dobrých podmínkách přirozená reprodukce
+
+V produkčních rybnících:
+- Často dochází k přemnožení
+- Nutná regulace populace
+
+
+------------------------------------------------
+8. ZDRAVOTNÍ RIZIKA A PREVENCE
+------------------------------------------------
+
+Typické problémy:
+- Stres z přelovení
+- Poranění při manipulaci
+- Bakteriální infekce při vysoké teplotě
+
+Prevence:
+- Minimální manipulace
+- Dostatek úkrytů
+- Stabilní kyslíkový režim
+- Vyvážená obsádka
+
+
+------------------------------------------------
+9. PRODUKČNÍ POTENCIÁL A VÝZNAM
+------------------------------------------------
+
+Produkce:
+- Střední (nižší než kapr, vyšší než štika)
+- Vysoce ceněná ryba
+
+Hlavní hodnota:
+- Sportovní rybolov
+- Regulace nežádoucích ryb
+- Diverzifikace produkce
+
+Vhodné regiony:
+- Teplejší oblasti
+- Nížiny
+- Mírné klima
+
+
+------------------------------------------------
+10. SHRNUTÍ PRO AQUANTIS (DIAGNOSTICKÝ PROFIL)
+------------------------------------------------
+
+Black bass je:
+- Teplomilný dravec
+- Relativně tolerantní, ale citlivý na hypoxii v létě
+- Silně ovlivňuje strukturu rybí obsádky
+- Ideální pro kombinované rybníky a sportovní chov
+
+Typické varovné signály:
+- Ztráta aktivity → nízký O₂
+- Slabý růst → nedostatek krmné ryby
+- Přemnožení → nutnost regulace obsádky
+
+
+------------------------------------------------
+KONEC DOKUMENTU
+------------------------------------------------

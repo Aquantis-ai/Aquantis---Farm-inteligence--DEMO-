@@ -1,0 +1,213 @@
+KB-REPRO-09 – Reprodukce v RAS a kontrolovaných systémech (V1)
+==============================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Reprodukce ryb
+Typ dokumentu: Technický / procesní
+Použití v Aquantis: Diagnostika, návrh chovu, reprodukční management
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument popisuje specifika reprodukce ryb v RAS a dalších
+kontrolovaných systémech (indoor RAS, průtočné haly, líhně, hatchery).
+
+Zaměřuje se na:
+- rozdíly oproti přirozené reprodukci v rybnících,
+- nutnost přesné environmentální kontroly,
+- technické a biologické limity,
+- rizika spontánního tření,
+- řízení stresu generačních ryb.
+
+Dokument je určen jako odborný základ pro:
+- návrh reprodukčních jednotek,
+- řízení generačních ryb,
+- prevenci selhání výtěru v RAS.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ ROZDÍLY OPROTI RYBNÍKŮM
+------------------------------------------------
+
+Reprodukce v RAS se zásadně liší od rybníků:
+
+Rybníky:
+- přirozené sezónní signály,
+- kolísání teploty a světla,
+- přirozený substrát a biotopy,
+- vyšší variabilita, nižší kontrola.
+
+RAS / kontrolované systémy:
+- stabilní nebo uměle řízené prostředí,
+- chybějící přirozené spouštěče,
+- vysoká hustota ryb,
+- vyšší stresová zátěž,
+- nutnost aktivního řízení reprodukce.
+
+Bez cíleného managementu má většina druhů v RAS:
+- opožděné tření,
+- neúplné dozrávání jiker,
+- nízkou fertilitu,
+- vysokou mortalitu jiker.
+
+
+------------------------------------------------
+3. NUTNOST PŘESNÉ KONTROLY PROSTŘEDÍ
+------------------------------------------------
+
+### 3.1 Teplota
+
+Teplota je klíčovým spouštěčem gonadálního vývoje.
+
+V RAS je nutné:
+- simulovat sezónní teplotní křivku,
+- zajistit pomalé změny (0,5–1 °C / týden),
+- vyhnout se náhlým skokům.
+
+Chyby:
+- konstantní teplota celý rok → potlačení reprodukce,
+- příliš rychlý ohřev → stres, resorpce jiker.
+
+
+### 3.2 Světlo (fotoperioda)
+
+Fotoperioda nahrazuje přirozený denní a roční cyklus.
+
+Doporučení:
+- řízený světelný režim (L:D),
+- simulace jara (prodlužování dne),
+- tlumené světlo u citlivých druhů.
+
+Typické chyby:
+- nepřetržité osvětlení,
+- náhlé změny délky dne,
+- příliš silné světlo → stres, agresivita.
+
+
+### 3.3 Kvalita vody
+
+Reprodukce je výrazně citlivější na kvalitu vody než growout.
+
+Kritické parametry:
+- O₂: ideálně > 6 mg/l,
+- NO₂: blízké nule (< 0.1 mg/l),
+- TAN: co nejnižší,
+- stabilní pH (bez výkyvů),
+- nízké organické zatížení.
+
+I mírné zhoršení kvality vody může:
+- narušit hormonální regulaci,
+- snížit kvalitu jiker,
+- zvýšit deformace larev.
+
+
+------------------------------------------------
+4. SEPARACE RODIČŮ A ORGANIZACE CHOVU
+------------------------------------------------
+
+V RAS je separace klíčová:
+
+- oddělení pohlaví mimo třecí období,
+- oddělení generačních ryb od produkčních,
+- kontrolovaný kontakt pouze při plánovaném výtěru.
+
+Důvody:
+- prevence předčasného tření,
+- omezení agresivity,
+- lepší kontrola kondice a výživy,
+- snížení stresu.
+
+U některých druhů (např. kaprovité):
+- dlouhodobé společné držení → nekontrolované tření,
+- ztráta jiker v biofiltru.
+
+
+------------------------------------------------
+5. ŘÍZENÍ STRESU GENERAČNÍCH RYB
+------------------------------------------------
+
+Stres je nejčastější příčina selhání reprodukce v RAS.
+
+Hlavní stresory:
+- manipulace,
+- vysoká hustota,
+- hluk a vibrace,
+- kolísání kvality vody,
+- sociální hierarchie.
+
+Doporučení:
+- nízká hustota generačních ryb,
+- minimalizace manipulace,
+- klidné prostředí,
+- stabilní provozní režim.
+
+Chronický stres vede k:
+- hormonálním dysbalancím,
+- resorpci jiker,
+- snížené spermiogenezi.
+
+
+------------------------------------------------
+6. SPONTÁNNÍ TŘENÍ – RIZIKO I PROBLÉM
+------------------------------------------------
+
+U některých druhů (kaprovité, tilapie, sumci) může v RAS dojít
+ke spontánnímu tření.
+
+Rizika spontánního tření:
+- jikry jsou okamžitě nasáty do filtrace,
+- zhoršení kvality vody,
+- kolaps biofiltru,
+- nulový reprodukční výsledek.
+
+Prevence:
+- oddělení pohlaví,
+- odstranění třecího substrátu,
+- řízení teploty a fotoperiody,
+- fyzické bariéry v nádržích.
+
+
+------------------------------------------------
+7. TECHNICKÉ POŽADAVKY NA REPRODUKČNÍ RAS
+------------------------------------------------
+
+Reprodukční jednotky by měly mít:
+- samostatnou hydraulickou smyčku,
+- nezávislou filtraci,
+- možnost rychlé úpravy teploty,
+- regulovatelné osvětlení,
+- jednoduchý přístup k manipulaci.
+
+Doporučuje se:
+- oddělení od hlavního growout RAS,
+- zvýšená redundance (O₂, energie),
+- monitoring v reálném čase.
+
+
+------------------------------------------------
+8. VÝCHODISKA Z ODBORNÝCH ZDROJŮ (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+Dokument vychází z odborné syntézy těchto zdrojů:
+
+- FAO Fisheries & Aquaculture Technical Papers – reprodukce ryb v kontrolovaných systémech.
+- WorldFish hatchery manuals – řízení reprodukce v uzavřených systémech.
+- Boyd & Tucker (Auburn University) – vztah kvality vody a reprodukce.
+- International Journal of Aquaculture & Fishery Sciences – open-access studie o RAS reprodukci.
+- Evropské hatchery best practices (EU RAS provozy).
+
+Text je formulován nově, bez přímého přebírání chráněného obsahu.
+
+
+------------------------------------------------
+9. VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB-REPRO-09 – V1  
+Určeno pro: Aquantis Knowledge Base (interní použití)

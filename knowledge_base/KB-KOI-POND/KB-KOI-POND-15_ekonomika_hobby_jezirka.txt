@@ -1,0 +1,220 @@
+KB-KOI-POND-15 – Ekonomika hobby jezírka (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Okrasná jezírka / hobby chovy
+Typ dokumentu: Ekonomika a rozhodovací rámec
+Použití v Aquantis: Edukace, diagnostika chyb, očekávání hobby chovatelů
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument slouží k realistickému pochopení ekonomiky hobby jezírka.
+Cílem není maximalizace zisku, ale:
+- dlouhodobá stabilita systému,
+- minimalizace krizových nákladů,
+- správné investiční rozhodování,
+- prevence typických finančních chyb hobby chovatelů.
+
+Dokument vychází z:
+- evropské a japonské hobby KOI praxe,
+- zkušeností servisních firem jezírek,
+- reálných nákladových struktur hobby chovů.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ EKONOMICKÁ SPECIFIKA HOBBY JEZÍRKA
+------------------------------------------------
+
+Hobby jezírko:
+- negeneruje přímý příjem,
+- má převážně fixní náklady,
+- největší finanční ztráty vznikají nárazově (havárie, úhyny).
+
+Ekonomický úspěch hobby jezírka =
+nízká variabilita nákladů + minimální havárie.
+
+
+------------------------------------------------
+3. INVESTIČNÍ NÁKLADY (CAPEX)
+------------------------------------------------
+
+Typické jednorázové investice:
+
+1. Jezírko a stavební část:
+- výkop, fólie / beton, izolace
+- orientačně 30–50 % celkového rozpočtu
+
+2. Filtrace a technologie:
+- mechanická filtrace (sítový filtr, bubnový filtr)
+- biologická filtrace
+- UV, případně ozon
+- čerpadla a rozvody
+
+3. Elektrická infrastruktura:
+- rozvaděč
+- jištění
+- záložní napájení (často podceňováno)
+
+4. Ryby:
+- KOI: velmi široké cenové rozpětí
+- doplňkové druhy (karas, lín, jeseter)
+
+Poznámka:
+Podcenění filtrace je nejčastější příčinou budoucích nákladů.
+
+
+------------------------------------------------
+4. PROVOZNÍ NÁKLADY (OPEX)
+------------------------------------------------
+
+Pravidelné roční náklady:
+
+1. Energie:
+- čerpadla (nepřetržitý provoz)
+- UV lampy
+- vzduchování
+- případné ohřevy
+
+2. Krmivo:
+- silně sezónní
+- vyšší náklady u KOI s cílem růstu/barvy
+
+3. Voda:
+- dopouštění
+- výměny při problémech
+
+4. Spotřební materiál:
+- filtrační média
+- UV zářivky
+- testy vody
+
+5. Servis:
+- profesionální zásah (pokud chovatel nezvládne sám)
+
+
+------------------------------------------------
+5. SKRYTÉ A NEPŘÍMÉ NÁKLADY
+------------------------------------------------
+
+Často přehlížené položky:
+
+- čas chovatele (údržba, čištění),
+- stres z havárií,
+- náklady na léčbu ryb,
+- nutnost náhlých investic (nové čerpadlo, filtr).
+
+Psychologická stránka:
+Nečekané úhyny ryb často vedou k emocionálním rozhodnutím
+→ další neplánované investice.
+
+
+------------------------------------------------
+6. HAVÁRIE JAKO NEJVĚTŠÍ EKONOMICKÉ RIZIKO
+------------------------------------------------
+
+Typické havárie:
+- výpadek elektřiny,
+- ucpaná filtrace,
+- kolaps biofiltru,
+- přehřátí vody,
+- noční hypoxie.
+
+Ekonomický dopad:
+- ztráta ryb (často v řádu tisíců až desítek tisíc EUR),
+- nutnost kompletní obnovy systému,
+- dlouhodobá destabilizace jezírka.
+
+Prevence havárií je ekonomicky nejvýhodnější investice.
+
+
+------------------------------------------------
+7. EKONOMIKA RYB (KOI VS. DOPLŇKOVÉ DRUHY)
+------------------------------------------------
+
+KOI:
+- vysoká pořizovací cena,
+- vysoké nároky na vodu,
+- vysoké ztráty při chybách.
+
+Zlaté rybky / karasi:
+- nízká pořizovací cena,
+- vyšší organická zátěž,
+- nižší individuální ztráta.
+
+Jeseter:
+- vysoké riziko úhynu,
+- nízká kompatibilita s KOI,
+- ekonomicky nejproblematičtější druh v hobby jezírku.
+
+
+------------------------------------------------
+8. TYPICKÉ EKONOMICKÉ CHYBY HOBBY CHOVATELŮ
+------------------------------------------------
+
+- investice do ryb dříve než do filtrace,
+- nákup drahých ryb do nestabilního systému,
+- podcenění provozních nákladů,
+- ignorování záložních systémů,
+- snaha „ušetřit“ na kritických komponentech.
+
+Pravidlo:
+Levné jezírko je často nejdražší.
+
+
+------------------------------------------------
+9. REALISTICKÝ EKONOMICKÝ MODEL HOBBY JEZÍRKA
+------------------------------------------------
+
+Základní cíle:
+- stabilní parametry vody,
+- nízké kolísání nákladů,
+- minimální zásahy v krizích.
+
+Doporučený přístup:
+- investovat více na začátku,
+- snížit dlouhodobé provozní riziko,
+- počítat s rezervou na havárie.
+
+
+------------------------------------------------
+10. ROLE AQUANTIS V EKONOMICE JEZÍRKA
+------------------------------------------------
+
+Aquantis:
+- pomáhá předcházet chybám,
+- upozorňuje na rizika dříve než dojde k havárii,
+- snižuje pravděpodobnost nárazových ztrát,
+- pomáhá optimalizovat rozhodování hobby chovatele.
+
+Ekonomický přínos Aquantis není ve snížení ceny jezírka,
+ale ve snížení pravděpodobnosti drahých chyb.
+
+
+------------------------------------------------
+11. ZÁVĚREČNÉ SHRNUTÍ
+------------------------------------------------
+
+Hobby jezírko je dlouhodobý projekt, nikoli jednorázová investice.
+Ekonomicky úspěšné jezírko:
+- stojí na kvalitní filtraci,
+- má jednoduchý, stabilní design,
+- vyhýbá se zbytečně rizikovým druhům,
+- má připravené krizové scénáře.
+
+Správná ekonomika hobby jezírka =
+klidný chovatel + zdravé ryby + stabilní systém.
+
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB-KOI-POND-15 – V1
+Určeno pro: Aquantis Knowledge Base (interní použití)

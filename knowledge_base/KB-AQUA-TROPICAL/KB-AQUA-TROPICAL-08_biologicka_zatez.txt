@@ -1,0 +1,198 @@
+KB-AQUA-TROPICAL-08 – Biologická zátěž v tropických nádržích (V1)
+===============================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – tropické systémy
+Typ dokumentu: Technický / diagnostický
+Použití v Aquantis: Diagnostika, návrh osádky, prevence kolapsů
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+------------------------------------------------
+1. DEFINICE BIOLOGICKÉ ZÁTĚŽE
+------------------------------------------------
+
+Biologická zátěž v akváriu představuje celkové množství organického
+a metabolického odpadu produkovaného:
+
+- rybami (exkrementy, dýchání),
+- zbytky krmiva,
+- rozkladem organické hmoty,
+- mikrobiální aktivitou.
+
+V tropických nádržích je biologická zátěž:
+- vyšší než ve studenovodních systémech,
+- dynamičtější,
+- rychleji eskaluje do krizových stavů.
+
+Důvodem je vyšší teplota → vyšší metabolismus → vyšší produkce dusíku.
+
+
+------------------------------------------------
+2. HLAVNÍ ZDROJE BIOLOGICKÉ ZÁTĚŽE
+------------------------------------------------
+
+2.1 Ryby
+- metabolismus (NH₃/NH₄⁺),
+- respirace (CO₂),
+- sliz a mikrooděr kůže.
+
+2.2 Krmení
+- nadbytečné dávky,
+- nekvalitní krmivo,
+- nespotřebované částice.
+
+2.3 Substrát a dekorace
+- zachytávání detritu,
+- anaerobní kapsy,
+- rozklad rostlinné biomasy.
+
+2.4 Rostliny
+- rozpad listů,
+- noční respirace (spotřeba O₂),
+- organické exudáty.
+
+
+------------------------------------------------
+3. VLIV TEPLOTY NA BIOLOGICKOU ZÁTĚŽ
+------------------------------------------------
+
+Obecné pravidlo:
+Zvýšení teploty o 10 °C → cca 2× vyšší metabolická aktivita.
+
+Důsledky v tropických nádržích (24–30 °C):
+- rychlejší akumulace TAN,
+- vyšší spotřeba kyslíku,
+- nižší rozpustnost O₂,
+- vyšší citlivost na přetížení filtrace.
+
+Teplotní extrémy (>30 °C):
+- kolaps nitrifikace,
+- náhlé hypoxie,
+- stres a imunodeprese ryb.
+
+
+------------------------------------------------
+4. UKAZATELE PŘETÍŽENÍ BIOLOGICKOU ZÁTĚŽÍ
+------------------------------------------------
+
+Včasné signály:
+- zvýšené NO₂,
+- kolísání pH,
+- biofilm na hladině,
+- zákal vody,
+- snížená aktivita ryb.
+
+Pokročilé projevy:
+- lapání po vzduchu,
+- apatie,
+- časté nemoci,
+- úhyny bez zjevné příčiny.
+
+
+------------------------------------------------
+5. ROLE FILTRACE A JEJÍ LIMITY
+------------------------------------------------
+
+5.1 Biologická filtrace
+- kapacita musí odpovídat max. krmné dávce,
+- stabilita závisí na O₂, pH a teplotě.
+
+5.2 Mechanická filtrace
+- klíčová pro snížení organické zátěže před biofiltrem,
+- zanesení → sekundární zdroj NH₄.
+
+5.3 Chemická filtrace
+- uhlí / zeolit pouze doplňkově,
+- nesmí nahrazovat správný návrh systému.
+
+
+------------------------------------------------
+6. VZTAH BIOLOGICKÉ ZÁTĚŽE A DRUHOVÉ SKLADBY
+------------------------------------------------
+
+Vysoce zatěžující druhy:
+- velké cichlidy,
+- zlaté rybky v tropických nádržích (nevhodné),
+- aktivní hejnové ryby ve vysokých hustotách.
+
+Nižší zatížení:
+- malé tetry,
+- razbory,
+- drobní pancéřníčci (při správném substrátu).
+
+Smíšené nádrže:
+- biologická zátěž se sčítá,
+- problémem bývá „největší producent odpadu“.
+
+
+------------------------------------------------
+7. ŘÍZENÍ BIOLOGICKÉ ZÁTĚŽE – PREVENCE
+------------------------------------------------
+
+Základní principy:
+- méně ryb, ale kvalitní podmínky,
+- krmit méně, ale cíleně,
+- silná a stabilní filtrace,
+- pravidelné výměny vody (20–30 % týdně).
+
+Dlouhodobá stabilita:
+- nepřerybňovat při zakládání,
+- respektovat růst ryb,
+- plánovat kapacitu filtru na dospělé jedince.
+
+
+------------------------------------------------
+8. KRIZOVÉ SCÉNÁŘE
+------------------------------------------------
+
+Typické chyby:
+- rychlé navýšení osádky,
+- nárazové překrmení,
+- výpadek filtru nebo proudu,
+- letní přehřátí.
+
+Okamžitá opatření:
+- snížit krmení,
+- zvýšit aeraci,
+- částečná výměna vody,
+- odstranění organických zdrojů.
+
+
+------------------------------------------------
+9. DIAGNOSTICKÁ LOGIKA (AQUANTIS)
+------------------------------------------------
+
+Symptom → Pravděpodobná příčina:
+- NO₂ roste → biofiltr přetížen,
+- ryby u hladiny → hypoxie + organika,
+- zákal → bakteriální exploze,
+- kolísání pH → nadměrná biologická aktivita.
+
+Aquantis hodnotí:
+- teplotu,
+- krmení,
+- velikost osádky,
+- kapacitu filtrace,
+- historii zásahů.
+
+
+------------------------------------------------
+10. ZDROJE A ODBORNÁ VÝCHODISKA
+------------------------------------------------
+
+Dokument vychází ze syntézy:
+- FAO aquaculture water quality guidelines,
+- Boyd, C.E. – Water Quality Management,
+- University Extension materials (UF/IFAS, Texas A&M),
+- akvaristické best practices (ADA, EAPLC),
+- obecně uznávaných biologických principů metabolismu ryb.
+
+Veškerý text je parafrázovaný a autorsky přepracovaný.
+------------------------------------------------
+
+KONEC DOKUMENTU
+------------------------------------------------

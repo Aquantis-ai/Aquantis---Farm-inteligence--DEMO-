@@ -1,0 +1,217 @@
+KB-KOI-POND-10 – Hustota ryb v hobby jezírcích (časté mýty) – V1
+===============================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Okrasná jezírka / hobby chov
+Typ dokumentu: Praktický technický přehled + edukace
+Použití v Aquantis: Diagnostika problémů, návrh obsádky, prevence havárií
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. PROČ JE HUSTOTA RYB KRITICKÝ FAKTOR
+------------------------------------------------
+
+V hobby jezírcích není největším problémem technika, ale **nesprávná hustota ryb**.
+Přerybnění vede k:
+
+- chronickému stresu ryb,
+- přetížení filtrace,
+- nestabilní kvalitě vody,
+- vyšší nemocnosti,
+- letním a zimním úhynům,
+- frustraci chovatele („jezírko pořád zlobí“).
+
+Na rozdíl od RAS systémů:
+- hobby jezírko má omezenou kontrolu,
+- je silně ovlivněno počasím,
+- má výrazné sezónní výkyvy.
+
+
+------------------------------------------------
+2. NEJČASTĚJŠÍ MÝTY O HUSTOTĚ RYB
+------------------------------------------------
+
+Mýtus 1:
+„Mám silnou filtraci, můžu mít víc ryb.“
+
+→ Filtrace řeší **část problému**, ale:
+- neřeší prostor,
+- neřeší stres,
+- neřeší kyslíkové špičky v létě,
+- neřeší zimní období.
+
+Mýtus 2:
+„Ryby jsou ještě malé, to nevadí.“
+
+→ Ryby **rostou rychleji, než si chovatel uvědomuje**.
+KOI 10 cm → 40–60 cm během několika let.
+Plánování musí vycházet z **konečné velikosti**, ne aktuální.
+
+Mýtus 3:
+„V přírodě jsou ryby taky nahusto.“
+
+→ Přírodní vodní plochy mají:
+- obrovský objem,
+- stabilní mikrobiální rovnováhu,
+- přirozené únikové zóny.
+Hobby jezírko je **uzavřený systém**.
+
+Mýtus 4:
+„Když je voda čirá, je vše v pořádku.“
+
+→ Čirá voda ≠ zdravé prostředí.
+Chronický stres a špatná hustota se projeví:
+- později,
+- náhle,
+- často formou kolapsu.
+
+
+------------------------------------------------
+3. ZÁKLADNÍ PRINCIPY SPRÁVNÉ HUSTOTY
+------------------------------------------------
+
+Hustotu nelze posuzovat jen podle:
+- objemu jezírka,
+- počtu ryb.
+
+Je nutné brát v úvahu:
+- druh ryb,
+- konečnou velikost,
+- tvar jezírka,
+- hloubku,
+- filtrační kapacitu,
+- sezónní teploty,
+- krmný režim.
+
+
+------------------------------------------------
+4. ORIENTAČNÍ DOPORUČENÍ PRO HOBBY JEZÍRKA
+------------------------------------------------
+
+Obecné pravidlo (konzervativní):
+
+- KOI kapr:
+  1 dospělý KOI (60–70 cm) / 1 500–2 000 l vody
+
+- Zlatý karas, lín zlatý:
+  1 ryba / 300–500 l vody
+
+- Jeseter (vhodný jen do velkých jezírek):
+  velmi nízká hustota, vysoké nároky na kyslík,
+  nehodí se do malých jezírek
+
+Smíšená obsádka:
+→ vždy se řídit **nejnáročnějším druhem**.
+
+Doporučení:
+Pokud si nejsi jistý → **méně ryb je vždy lepší než více**.
+
+
+------------------------------------------------
+5. SEZÓNNÍ POHLED NA HUSTOTU
+------------------------------------------------
+
+Jaro:
+- biofiltr ještě není plně rozběhnutý,
+- ryby se začínají krmit,
+- vysoké riziko přetížení.
+
+Léto:
+- vysoká teplota = nízký kyslík,
+- nejvyšší metabolismus ryb,
+- nejvyšší riziko úhynů při přerybnění.
+
+Podzim:
+- ryby stále produkují odpad,
+- biofiltr se zpomaluje,
+- hromadění organiky.
+
+Zima:
+- ryby jsou v klidu,
+- ale vysoká hustota zvyšuje:
+  - spotřebu kyslíku pod ledem,
+  - riziko zimní mortality.
+
+
+------------------------------------------------
+6. HUSTOTA A STRES RYB
+------------------------------------------------
+
+Přerybnění vede k:
+- omezenému prostoru pro únik,
+- častým kontaktům mezi rybami,
+- agresi,
+- poraněním,
+- oslabení imunity.
+
+Typické projevy:
+- apatie,
+- ztráta chuti k jídlu,
+- pomalý růst,
+- opakované zdravotní problémy bez jasné příčiny.
+
+
+------------------------------------------------
+7. JAK SPRÁVNĚ NAVRHOVAT OBSÁDKU
+------------------------------------------------
+
+Postup:
+
+1. Urči objem jezírka (reálný, ne nominální).
+2. Vyber hlavní druh (KOI / smíšené jezírko).
+3. Zohledni konečnou velikost ryb.
+4. Navrhni obsádku s rezervou 20–30 %.
+5. Počítej s budoucím růstem.
+6. Pravidelně přehodnocuj obsádku (odlov, přesun).
+
+
+------------------------------------------------
+8. ROLE AQUANTIS V HODNOCENÍ HUSTOTY
+------------------------------------------------
+
+Aquantis by měl:
+- upozornit na pravděpodobné přerybnění,
+- vysvětlit dlouhodobá rizika,
+- navrhnout snížení obsádky,
+- oddělit mýty od reality,
+- doporučit bezpečnější variantu, i když je „méně atraktivní“.
+
+
+------------------------------------------------
+9. KLÍČOVÉ POSLÁNÍ TOHOTO DOKUMENTU
+------------------------------------------------
+
+Správná hustota ryb není kompromis,
+ale **základní podmínka zdravého jezírka**.
+
+Méně ryb:
+- = stabilnější voda
+- = méně nemocí
+- = méně stresu
+- = více radosti z jezírka
+
+
+------------------------------------------------
+10. ZDROJOVÁ VÝCHODISKA (PARAFRÁZOVANÁ)
+------------------------------------------------
+
+- Koi Organisation International – hobby pond best practices
+- FAO pond aquaculture manuals
+- University extension materials (pond management)
+- Evropská hobby pond praxe
+- Dlouhodobě ověřené zkušenosti chovatelů KOI
+
+Text je syntézou odborných a praktických poznatků,
+formulovaný nově pro účely Aquantis Knowledge Base.
+
+
+------------------------------------------------
+11. VERZE DOKUMENTU
+------------------------------------------------
+KB-KOI-POND-10 – V1
+Určeno pro: Aquantis Knowledge Base

@@ -1,0 +1,185 @@
+KB-REPRO-07 – PÉČE O LARVY RYB (ROZPLAVÁNÍ, PRVNÍ KRMENÍ, KRITICKÉ BODY) – V1
+================================================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Reprodukce ryb
+Typ dokumentu: Technický / provozní
+Použití v Aquantis: Diagnostika, larvální management, prevence ztrát
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+------------------------------------------------
+ZDROJE (PARAFRÁZOVANÉ, OPEN / ODBORNÉ)
+------------------------------------------------
+- FAO Aquaculture Technical Papers – larval rearing
+- WorldFish larval rearing manuals
+- Aquaculture Journal (open-access články)
+- International Journal of Aquatic Biology
+- Boyd, Tucker – pond & hatchery management
+- University Extension (Auburn, Texas A&M, UF/IFAS)
+- Praktické hatchery protokoly (EU, Asie)
+
+Veškerý obsah je nově formulovaný, konsolidovaný a právně bezpečný.
+
+------------------------------------------------
+1. DEFINICE LARVÁLNÍ FÁZE
+------------------------------------------------
+Larvální fáze začíná:
+- vylíhnutím z jikry
+a končí:
+- plně funkčním příjmem externí potravy
+- stabilním osmoregulačním a respiračním aparátem
+
+Tato fáze je:
+- biologicky nejcitlivější,
+- s nejvyšší mortalitou v celém životním cyklu ryby.
+
+------------------------------------------------
+2. ROZPLAVÁNÍ LAREV
+------------------------------------------------
+Rozplavání = okamžik, kdy larva:
+- opouští substrát / inkubační médium,
+- začíná aktivně plavat,
+- spotřebovává zbytkový žloutkový váček.
+
+Kritické znaky správného rozplavání:
+- synchronizované chování většiny larev,
+- rovnoměrné rozptýlení ve vodním sloupci,
+- absence deformací (páteř, ocas, ploutevní základy).
+
+Varovné znaky:
+- neaktivní larvy na dně,
+- nekoordinované pohyby,
+- vysoký podíl deformací.
+
+------------------------------------------------
+3. ŽLOUTKOVÝ VÁČEK A ČASOVÁ OKNA
+------------------------------------------------
+Žloutkový váček:
+- slouží jako jediný zdroj energie po vylíhnutí,
+- jeho resorpce určuje kritické okno pro první krmení.
+
+Obecné orientační hodnoty:
+- studenovodní druhy: 5–10 dní
+- teplovodní druhy: 2–5 dní
+
+Chyba:
+- příliš pozdní zahájení krmení → nevratná hladovění
+- příliš brzké krmení → znečištění vody
+
+------------------------------------------------
+4. PRVNÍ KRMENÍ – KRITICKÝ BOD
+------------------------------------------------
+První externí krmení musí být:
+- biologicky dostupné,
+- velikostně odpovídající,
+- snadno stravitelné.
+
+Typy prvního krmiva:
+- živá potrava (rotifery, Artemia nauplii),
+- mikrokrmiva (mikroenkapsulovaná),
+- kombinované strategie (živé + suché).
+
+Zlaté pravidlo:
+„Larva musí krmivo POTKAT, POZNAT a POZŘÍT.“
+
+------------------------------------------------
+5. VELIKOST KRMIVA VS. VELIKOST TLAmy
+------------------------------------------------
+Orientační poměr:
+- velikost částice = max. 25–50 % šířky tlamy larvy
+
+Příliš velké částice:
+- larva je nedokáže pozřít,
+- dochází k hladovění i při „plném krmení“.
+
+------------------------------------------------
+6. KRMNÁ FREKVENCE A DISTRIBUCE
+------------------------------------------------
+Larvy:
+- nemají zásoby energie,
+- vyžadují téměř kontinuální přísun potravy.
+
+Doporučení:
+- 6–12 krmných dávek denně
+- rovnoměrná distribuce v prostoru
+- jemné proudění pro udržení krmiva ve vodním sloupci
+
+------------------------------------------------
+7. KVALITA VODY V LARVÁLNÍ FÁZI
+------------------------------------------------
+Optimální podmínky:
+- O₂: ≥ 7 mg/l (ideálně blízko saturace)
+- NH₃: prakticky 0
+- NO₂: 0
+- pH: stabilní, bez výkyvů
+- jemné, neagresivní proudění
+
+Larvy jsou:
+- extrémně citlivé na NH₃ a NO₂,
+- citlivější než dospělé ryby o řád velikosti.
+
+------------------------------------------------
+8. SVĚTLO A FOTOPERIODA
+------------------------------------------------
+Světlo ovlivňuje:
+- orientaci larvy,
+- schopnost najít potravu,
+- stresovou odezvu.
+
+Obecné zásady:
+- nízká až střední intenzita světla,
+- difuzní osvětlení,
+- vyhnout se náhlým změnám (on/off).
+
+------------------------------------------------
+9. NEJČASTĚJŠÍ PŘÍČINY MORTALITY
+------------------------------------------------
+1. Pozdní první krmení
+2. Nevhodná velikost krmiva
+3. Kolaps kvality vody
+4. Nedostatek kyslíku
+5. Nevhodné proudění
+6. Přílišná manipulace
+7. Bakteriální přerůstání
+
+------------------------------------------------
+10. DIAGNOSTICKÉ SIGNÁLY PRO AQUANTIS
+------------------------------------------------
+Symptom → Pravděpodobná příčina:
+
+- Prázdná střeva → krmivo není přijímáno
+- Nerovnoměrný růst → nerovnoměrná distribuce potravy
+- Hromadění na hladině → O₂ nebo proudění
+- Náhlé úhyny → NH₃ / bakteriální kolaps
+
+------------------------------------------------
+11. ZÁSADY PREVENCE
+------------------------------------------------
+- Precizní načasování prvního krmení
+- Konzervativní přístup ke krmné dávce
+- Přísná hygiena
+- Stabilní parametry vody
+- Minimum stresových zásahů
+
+------------------------------------------------
+12. SHRNUTÍ PRO PRAXI
+------------------------------------------------
+Larvální fáze rozhoduje o:
+- přežití,
+- kvalitě násady,
+- ekonomice celého chovu.
+
+V této fázi:
+- „malá chyba = velká ztráta“,
+- prevence je vždy levnější než náprava.
+
+------------------------------------------------
+13. VERZE DOKUMENTU
+------------------------------------------------
+KB-REPRO-07 – V1
+Určeno pro: Aquantis Knowledge Base
+Interní odborný dokument

@@ -1,0 +1,221 @@
+KB-AQUA-COLDWATER-12
+STUDENOVODNÍ ROSTLINY A JEJICH ROLE (V1)
+================================================
+
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – studenovodní systémy
+Typ dokumentu: Knowledge Base
+Použití v Aquantis: Diagnostika, návrh nádrže, stabilita systému
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument popisuje roli vodních rostlin ve studenovodních akváriích
+a jezírkových systémech (goldfish, dania, mírné pásmo).
+
+Zaměřuje se na:
+- biologickou stabilitu,
+- vliv na kvalitu vody,
+- kompatibilitu s rybami,
+- časté chyby chovatelů.
+
+Dokument je určen pro:
+- domácí studenovodní akvária,
+- hobby chovy zlatých rybek,
+- přechodové systémy mezi akváriem a jezírkem.
+
+
+------------------------------------------------
+2. SPECIFIKA STUDENOVODNÍCH ROSTLIN
+------------------------------------------------
+Studenovodní rostliny jsou adaptované na:
+- nižší teploty (10–22 °C),
+- pomalejší metabolismus,
+- nižší intenzitu světla,
+- sezónní kolísání podmínek.
+
+Oproti tropickým rostlinám:
+- rostou pomaleji,
+- mají nižší spotřebu živin,
+- lépe snášejí kolísání parametrů,
+- často přežívají i chladnější zimní období.
+
+
+------------------------------------------------
+3. HLAVNÍ FUNKCE ROSTLIN VE STUDENOVODNÍM AKVÁRIU
+------------------------------------------------
+
+3.1 Biologická stabilita
+- odběr dusičnanů (NO₃⁻),
+- částečný odběr amoniaku (NH₄⁺),
+- podpora mikrobiálních biofilmů.
+
+3.2 Okysličení (sekundární efekt)
+- produkce kyslíku při fotosyntéze,
+- efekt však nelze považovat za hlavní zdroj O₂.
+
+3.3 Úkryt a redukce stresu
+- snížení stresu ryb,
+- rozdělení teritoria,
+- úkryt pro slabší jedince.
+
+3.4 Estetická a behaviorální funkce
+- přirozenější prostředí,
+- podpora přirozeného chování ryb.
+
+
+------------------------------------------------
+4. VHODNÉ ROSTLINY PRO STUDENOVODNÍ AKVÁRIA
+------------------------------------------------
+
+4.1 Rychle rostoucí (stabilizační)
+- Elodea canadensis
+- Egeria densa
+- Ceratophyllum demersum (růžkatec)
+
+Využití:
+- rychlá absorpce živin,
+- prevence řas,
+- vhodné při vysokém bioloadu.
+
+4.2 Středně rostoucí
+- Vallisneria spiralis
+- Sagittaria subulata
+- Hygrophila polysperma (chladnější varianty)
+
+4.3 Plovoucí rostliny
+- Lemna minor (okřehek)
+- Pistia stratiotes (jen při vyšší teplotě)
+
+Poznámka:
+Plovoucí rostliny účinně odebírají živiny,
+ale mohou snižovat světlo a O₂ výměnu.
+
+
+------------------------------------------------
+5. ROSTLINY NEVHODNÉ NEBO RIZIKOVÉ
+------------------------------------------------
+- Tropické náročné druhy (Echinodorus high-tech varianty)
+- Rostliny vyžadující vysoké CO₂
+- Jemné kobercové rostliny
+
+Důvody:
+- neprospívají při nízkých teplotách,
+- stagnují → rozklad biomasy,
+- zvyšují organickou zátěž.
+
+
+------------------------------------------------
+6. INTERAKCE ROSTLIN SE ZLATÝMI RYBKAMI
+------------------------------------------------
+Zlaté rybky:
+- vyhrabávají substrát,
+- okusují jemné listy,
+- produkují vysoký bioload.
+
+Doporučení:
+- používat robustní druhy,
+- pevné zakořenění,
+- ochrana kořenů (kameny, koše),
+- preferovat plovoucí nebo rychle rostoucí rostliny.
+
+Častá chyba:
+Přetížení nádrže rostlinami → jejich mechanické poškození
+→ rozklad → zhoršení kvality vody.
+
+
+------------------------------------------------
+7. SUBSTRÁT A ŽIVINY
+------------------------------------------------
+Studenovodní akvária:
+- nepotřebují aktivní substráty,
+- vhodné jsou inertní štěrky nebo písek.
+
+Živiny:
+- většinou pochází z rybího odpadu,
+- nadbytečné hnojení je častá chyba.
+
+Varování:
+Přidávání tekutých hnojiv v nádržích se zlatými rybkami
+často vede k řasám.
+
+
+------------------------------------------------
+8. SVĚTLO A FOTOPERIODA
+------------------------------------------------
+Doporučení:
+- 6–8 hodin denně,
+- střední intenzita světla,
+- stabilní denní režim.
+
+Příliš silné světlo:
+- podporuje řasy,
+- bez adekvátní spotřeby živin.
+
+Příliš slabé světlo:
+- stagnace rostlin,
+- rozklad listů.
+
+
+------------------------------------------------
+9. SEZÓNNÍ ASPEKTY
+------------------------------------------------
+V chladnějších obdobích:
+- zpomalení růstu,
+- snížená spotřeba živin.
+
+V přechodných obdobích:
+- možné kolísání stability,
+- nutnost sledovat NO₃ a organickou zátěž.
+
+
+------------------------------------------------
+10. ČASTÉ CHYBY CHOVATELŮ
+------------------------------------------------
+- kombinace tropických rostlin se studenovodními rybami,
+- nadměrné hnojení,
+- ignorování mechanického poškození rostlin,
+- snaha „vyřešit filtraci rostlinami“.
+
+Rostliny jsou podpůrný prvek, ne náhrada filtrace.
+
+
+------------------------------------------------
+11. SOUVISLOSTI S DIAGNOSTIKOU PROBLÉMŮ
+------------------------------------------------
+Rozpad rostlin:
+→ zvýšení NH₄⁺
+→ zvýšení NO₂⁻
+→ stres ryb.
+
+Špatný růst rostlin:
+→ indikátor:
+- nízkého světla,
+- nízké teploty,
+- přetížení rybami.
+
+
+------------------------------------------------
+12. ZDROJE A ODBORNÉ VÝCHODISKO
+------------------------------------------------
+Dokument je založen na syntéze:
+- univerzitních extension materiálů (coldwater aquaria),
+- zkušeností z hobby chovů goldfish,
+- obecných principů vodní botaniky mírného pásma,
+- odborné praxe akvaristických institucí.
+
+Text je formulován nově, bez přímého přebírání
+autorsky chráněných materiálů.
+
+
+------------------------------------------------
+13. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-COLDWATER-12
+Verze: V1
+Určeno pro: Aquantis Knowledge Base

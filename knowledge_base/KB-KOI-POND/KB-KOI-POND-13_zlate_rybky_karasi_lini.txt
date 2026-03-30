@@ -1,0 +1,195 @@
+KB-KOI-POND-13 – Zlaté rybky, karasi, líni v okrasných jezírkách (V1)
+===============================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: KOI / Hobby jezírka
+Typ dokumentu: Druhové profily – doplňkové ryby
+Použití v Aquantis: Diagnostika, návrh obsádky, prevence chyb
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument popisuje biologické a provozní rozdíly mezi:
+- KOI kaprem (Cyprinus rubrofuscus),
+- zlatými rybkami (Carassius auratus),
+- karasem (Carassius spp.),
+- línem (Tinca tinca),
+
+v kontextu hobby okrasných jezírek.
+
+Cílem je:
+- vysvětlit, proč tyto druhy **nejsou biologicky ekvivalentní**,
+- popsat jejich vliv na kvalitu vody, parazity a stabilitu jezírka,
+- pomoci správně rozhodnout, kdy jsou vhodní a kdy představují riziko.
+
+
+------------------------------------------------
+2. BIOLOGICKÉ ROZDÍLY OPROTI KOI
+------------------------------------------------
+
+2.1 Metabolismus a produkce odpadu
+
+Zlaté rybky a karasi:
+- mají **vyšší produkci jemného organického odpadu** na jednotku biomasy,
+- více kalí vodu (jemné suspendované částice),
+- produkují více biofilmového slizu.
+
+Lín:
+- bentický druh – aktivně rozrývá dno,
+- výrazně zvyšuje zákal a resuspenzi sedimentu,
+- zatěžuje jezírko hlavně **mechanicky**, ne chemicky.
+
+KOI:
+- větší ryba s pomalejším relativním metabolismem,
+- snáze řiditelná filtračně,
+- lépe snáší vyšší hustoty při dobré filtraci.
+
+
+------------------------------------------------
+3. VLIV NA ORGANICKOU ZÁTĚŽ
+------------------------------------------------
+
+Zlaté rybky a karasi:
+- vysoká produkce jemných fekálií,
+- rychlé zanášení mechanické filtrace,
+- vyšší BOD/COD než u KOI při stejné biomase.
+
+Lín:
+- významně zvyšuje:
+  - zákal,
+  - koncentraci fosforu ze sedimentu,
+  - riziko anaerobních zón na dně.
+
+Typický problém:
+- jezírko „funguje“ bez problémů při KOI,
+- po přidání karasů nebo línů se:
+  - voda zakalí,
+  - zhorší filtrace,
+  - zvýší výskyt parazitů.
+
+
+------------------------------------------------
+4. VLIV NA PARAZITY A NEMOCI
+------------------------------------------------
+
+Zlaté rybky a karasi:
+- velmi častí **asymptomatičtí nosiči parazitů**:
+  - Trichodina,
+  - Chilodonella,
+  - Gyrodactylus,
+  - Dactylogyrus.
+- parazity často nepoškodí je,
+  ale způsobí problémy KOI.
+
+Lín:
+- může být nositelem:
+  - kožních parazitů,
+  - bakteriálních infekcí v sedimentu.
+- často zvyšuje infekční tlak v jezírku.
+
+KOI:
+- citlivější na parazity zavlečené doplňkovými druhy,
+- často onemocní dříve než „původce problému“.
+
+
+------------------------------------------------
+5. VLIV NA KVALITU VODY
+------------------------------------------------
+
+Typické důsledky přítomnosti zlatých rybek / karasů / línů:
+- zvýšený zákal,
+- rychlejší růst řas,
+- vyšší koncentrace fosforu,
+- nestabilní průhlednost vody.
+
+Častý omyl:
+„Voda je zelená, protože je léto.“
+Ve skutečnosti:
+- kombinace jemného odpadu + planktonu + sedimentace.
+
+
+------------------------------------------------
+6. KDY JSOU TYTO DRUHY VHODNÉ
+------------------------------------------------
+
+Zlaté rybky:
+- menší jezírka bez KOI,
+- nízká obsádka,
+- silná mechanická filtrace,
+- estetické hobby jezírko.
+
+Karasi:
+- extenzivní jezírka,
+- přírodní vzhled,
+- bez nároků na křišťálovou vodu.
+
+Lín:
+- pouze ve větších přírodních nádržích,
+- nevhodný pro dekorativní jezírka s KOI.
+
+
+------------------------------------------------
+7. KDY JSOU NEVHODNÉ (RIZIKOVÉ)
+------------------------------------------------
+
+Nevhodné kombinace:
+- KOI + vysoký počet zlatých rybek,
+- KOI + karasi z neznámého původu,
+- KOI + lín v malém jezírku.
+
+Rizika:
+- chronický parazitární tlak,
+- dlouhodobý stres KOI,
+- zhoršení růstu a barvy,
+- opakující se zdravotní problémy bez jasné příčiny.
+
+
+------------------------------------------------
+8. TYPICKÉ CHYBY HOBBY CHOVATELŮ
+------------------------------------------------
+
+1. „Zlatá rybka je malá, nezatíží jezírko.“
+2. „Karas je odolný, tak je bezpečný.“
+3. „Lín čistí dno.“
+4. Přidávání doplňkových ryb bez karantény.
+5. Snaha řešit problémy chemicky místo biologicky.
+
+
+------------------------------------------------
+9. DOPORUČENÍ PRO PRAXI
+------------------------------------------------
+
+- Nekombinovat KOI s doplňkovými druhy bez jasného důvodu.
+- Pokud ano:
+  - snížit celkovou obsádku,
+  - posílit mechanickou filtraci,
+  - zvýšit frekvenci údržby.
+- Vždy zvažovat:
+  „Jaký biologický problém tím do jezírka přidávám?“
+
+
+------------------------------------------------
+10. SHRNUTÍ
+------------------------------------------------
+
+Zlaté rybky, karasi a líni:
+- nejsou „menší KOI“,
+- mají odlišný metabolismus,
+- významně ovlivňují biologii jezírka.
+
+Jsou vhodné:
+- pro hobby jezírka bez nároků na vysokou kvalitu vody.
+
+Jsou rizikové:
+- v KOI jezírkách, kde se očekává stabilita, čistota a zdravotní kontrola.
+
+
+------------------------------------------------
+KONEC DOKUMENTU
+------------------------------------------------

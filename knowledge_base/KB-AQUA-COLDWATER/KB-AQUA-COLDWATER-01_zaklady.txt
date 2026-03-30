@@ -1,0 +1,174 @@
+KB-AQUA-COLDWATER-01 – ZÁKLADY STUDENOVODNÍ AKVARISTIKY (V1)
+=========================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – studenovodní systémy
+Typ dokumentu: Základní technický přehled
+Použití v Aquantis: Diagnostika, návrh akvária, edukace
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+------------------------------------------------
+1. ÚVOD DO STUDENOVODNÍ AKVARISTIKY
+------------------------------------------------
+
+Studenovodní akvaristika zahrnuje chov ryb a bezobratlých,
+kteří **nevyžadují tropické teploty** a prosperují typicky
+v rozmezí **10–22 °C**.
+
+Typické znaky studenovodních nádrží:
+- nižší metabolismus ryb,
+- vyšší rozpustnost kyslíku,
+- pomalejší biologické procesy,
+- menší tolerance k organickému přetížení,
+- často delší životnost ryb.
+
+Studenovodní akvária jsou často **podceňována** a mylně
+považována za „jednodušší“ – ve skutečnosti vyžadují
+specifický přístup.
+
+------------------------------------------------
+2. TYPICKÉ SKUPINY STUDENOVODNÍCH RYB
+------------------------------------------------
+
+Nejčastější chované skupiny:
+- zlaté rybky (Carassius auratus – různé formy),
+- dania (Danio rerio a příbuzné),
+- hořavky (Rhodeus),
+- střevle, vranky (regionálně),
+- některé druhy živorodek v chladnější vodě,
+- okrasné formy karasů a línků.
+
+Specifická kategorie:
+- „cool-water fish“ – druhy tolerující 18–22 °C,
+  ale nevhodné pro tropické 25–28 °C.
+
+------------------------------------------------
+3. TEPLOTNÍ REŽIM
+------------------------------------------------
+
+Optimální teploty:
+- zlaté rybky: 14–20 °C (krátkodobě 4–28 °C),
+- dania: 16–22 °C,
+- hořavky: 12–20 °C.
+
+Rizika:
+- dlouhodobě > 22–24 °C → zrychlený metabolismus,
+  zkrácení života, vyšší náchylnost k nemocem,
+- rychlé výkyvy teplot → stres, imunitní kolaps.
+
+Poznámka:
+Studenovodní ryby **trpí v tropických akváriích**,
+i když krátkodobě přežívají.
+
+------------------------------------------------
+4. KYSLÍK A PROUDĚNÍ
+------------------------------------------------
+
+Studená voda:
+- váže více O₂,
+- umožňuje vyšší saturaci (8–11 mg/l).
+
+Požadavky:
+- vysoká výměna plynů,
+- dobré proudění bez extrémního tahu,
+- silná hladinová cirkulace.
+
+Typická chyba:
+- slabá filtrace „protože nejsou tropické ryby“.
+
+------------------------------------------------
+5. BIOLOGICKÁ ZÁTĚŽ A DUSÍKATÝ CYKLUS
+------------------------------------------------
+
+Studenovodní systémy:
+- mají pomalejší nitrifikaci,
+- biofiltr reaguje pomaleji na zátěž,
+- jsou citlivé na překrmování.
+
+Důsledky:
+- NH₃/NH₄⁺ a NO₂ se odbourávají pomaleji,
+- kolaps biofiltru má delší následky.
+
+Zlaté rybky:
+- produkují **extrémně vysoké množství odpadu**
+  vzhledem k velikosti těla.
+
+------------------------------------------------
+6. FILTRACE VE STUDENOVODNÍM AKVÁRIU
+------------------------------------------------
+
+Zásady:
+- naddimenzovaná filtrace (2–4× objem nádrže/h),
+- důraz na biologickou část,
+- nízký průtok přes média (delší kontakt).
+
+Doporučené typy:
+- externí kanystrové filtry,
+- mokro-suché systémy (pokud je prostor),
+- biomédia s vysokou plochou.
+
+Nevhodné:
+- malé vnitřní filtry u zlatých rybek,
+- filtrace dimenzovaná „podle litrů, ne podle ryb“.
+
+------------------------------------------------
+7. KRMENÍ A METABOLISMUS
+------------------------------------------------
+
+Studenovodní ryby:
+- tráví pomaleji,
+- mají nižší enzymatickou aktivitu při nízkých teplotách.
+
+Zásady:
+- méně, ale kvalitně,
+- krmit při teplotě > 10–12 °C,
+- při ochlazení krmení výrazně omezit.
+
+Typické chyby:
+- tropická krmiva,
+- časté krmení malých dávek,
+- ignorování sezónních změn.
+
+------------------------------------------------
+8. DLOUHOVĚKOST A WELFARE
+------------------------------------------------
+
+Studenovodní ryby:
+- mají potenciál žít 10–30 let (zlaté rybky),
+- vyžadují prostor, stabilitu a nízký stres.
+
+Welfare faktory:
+- nízká hustota,
+- stabilní chemismus,
+- minimální manipulace,
+- dostatek kyslíku.
+
+------------------------------------------------
+9. ČASTÉ MÝTY
+------------------------------------------------
+
+❌ „Zlatá rybka patří do koule“
+❌ „Studenovodní ryby nepotřebují filtr“
+❌ „Když přežije, je to v pořádku“
+❌ „Teplota nehraje roli“
+
+------------------------------------------------
+10. ZDROJE A ODBORNÝ KONTEXT (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+Dokument vychází ze syntézy:
+- univerzitních extension materiálů (coldwater fish care),
+- akvaristických biologických studií metabolismu ryb,
+- welfare doporučení pro Carassius auratus,
+- praktických chovatelských standardů EU.
+
+Text je autorsky přeformulovaný a právně bezpečný
+pro použití v Aquantis Knowledge Base.
+
+------------------------------------------------
+KONEC DOKUMENTU
+------------------------------------------------

@@ -1,0 +1,213 @@
+Aquantis_KB-REPRO-14_VÝTĚRY_TILAPIE_V1
+================================================
+
+METADATA
+------------------------------------------------
+KB oblast: Reprodukce ryb
+Typ dokumentu: Reproduction Protocol
+Použití v Aquantis: Reprodukce, diagnostika, návrh hatchery
+Vhodné pro RAG: Ano
+Verze: V1
+Cílové druhy: Tilapie (Oreochromis spp.)
+Systémy: RAS, nádrže, rybníky, klece
+
+
+------------------------------------------------
+1. ÚVOD – SPECIFIKA REPRODUKCE TILAPIE
+------------------------------------------------
+
+Tilapie patří mezi nejlépe reprodukující se ryby v akvakultuře.
+Jejich výtěr je:
+
+- velmi snadno spuštěný,
+- silně závislý na teplotě,
+- často nekontrolovaný (přemnožení),
+- biologicky odlišný od kaprovitých i salmonidů.
+
+Klíčovým znakem většiny druhů rodu Oreochromis je:
+➡️ **mateřské nošení jiker v tlamě (mouthbrooding)**.
+
+Reprodukce tilapie je výhodou v extenzivních systémech,
+ale problémem v intenzivních chovech (RAS).
+
+
+------------------------------------------------
+2. HLAVNÍ CHOVANÉ DRUHY A JEJICH REPRODUKČNÍ CHOVÁNÍ
+------------------------------------------------
+
+Nejčastější druhy:
+
+- Tilapie nilská – Oreochromis niloticus
+- Tilapie modrá – Oreochromis aureus
+- Tilapie mozambická – Oreochromis mossambicus
+
+Společné znaky:
+- vysoká reprodukční frekvence,
+- rychlá pohlavní dospělost,
+- silná teritoriální aktivita samců,
+- opakované výtěry v krátkých intervalech.
+
+
+------------------------------------------------
+3. POHLAVNÍ DOSPĚLOST A REPRODUKČNÍ CYKLUS
+------------------------------------------------
+
+Pohlavní dospělost:
+- 3–6 měsíců (podle teploty a krmení)
+- často při hmotnosti už 30–50 g
+
+Reprodukční cyklus:
+- interval výtěrů: 3–6 týdnů
+- inkubace jiker v tlamě samice: 7–14 dní
+- péče o potěr po vypuštění: krátká (dny)
+
+Důsledek:
+➡️ extrémně rychlé přemnožení v nevhodně řízených systémech.
+
+
+------------------------------------------------
+4. SPOUŠTĚČE VÝTĚRU
+------------------------------------------------
+
+Hlavní faktory:
+
+Teplota:
+- optimální: 26–30 °C
+- výtěr prakticky ustává pod 22 °C
+
+Fotoperioda:
+- dlouhý den (12–16 h světla) podporuje tření
+
+Kvalita vody:
+- O₂ > 5 mg/l
+- pH 6.5–8.5
+- nízký stres a stabilní prostředí
+
+Sociální struktura:
+- přítomnost teritoriálního samce
+- možnost vytvoření hnízda (substrát)
+
+
+------------------------------------------------
+5. TŘENÍ A OPLOZENÍ
+------------------------------------------------
+
+Proces tření:
+
+1. Samec vytváří hnízdo (jamku) na dně
+2. Samice klade jikry
+3. Samec jikry oplodní
+4. Samice okamžitě sbírá jikry do tlamy
+5. Inkubace probíhá výhradně v tlamě samice
+
+Během inkubace:
+- samice omezuje nebo zastavuje příjem potravy
+- je náchylnější ke stresu
+
+
+------------------------------------------------
+6. INKUBACE JIKER A VÝVOJ POTĚRU
+------------------------------------------------
+
+Inkubace:
+- probíhá v tlamě samice
+- 7–14 dní dle teploty
+
+Larvy:
+- po vypuštění mají žloutkový váček
+- samice může larvy opakovaně sbírat zpět
+
+Potěr:
+- rychlý růst
+- velmi brzký přechod na externí krmivo
+
+
+------------------------------------------------
+7. ŘÍZENÍ REPRODUKCE V AKVAKULTUŘE
+------------------------------------------------
+
+Možnosti řízení:
+
+A) Kontrolovaný chov (hatchery):
+- oddělené generační nádrže
+- řízený poměr pohlaví
+- odebírání samic s jikrami
+- umělá inkubace (méně častá)
+
+B) Omezení reprodukce:
+- monosexní populace (samci)
+- hormonální sex-reversal (regulováno legislativou)
+- nízká teplota (dočasné řešení)
+
+C) Nekontrolovaný chov:
+- typický pro extenzivní rybníky
+- vede k zakrnění populace
+
+
+------------------------------------------------
+8. ČASTÉ PROBLÉMY A CHYBY
+------------------------------------------------
+
+1. Přemnožení:
+- malé ryby
+- špatný růst
+- vysoká konkurence o krmivo
+
+2. Stres samic:
+- manipulace během inkubace
+- kolísání teploty
+- nízký kyslík
+
+3. Kanibalismus:
+- rozdílné velikosti potěru
+- nedostatek úkrytů
+
+4. Nekontrolovaná genetika:
+- příbuzenské křížení
+- ztráta růstového potenciálu
+
+
+------------------------------------------------
+9. ROZDÍLY OPROTI JINÝM SKUPINÁM RYB
+------------------------------------------------
+
+Tilapie vs. kaprovité:
+- aktivní péče o jikry
+- rychlejší reprodukční cyklus
+
+Tilapie vs. salmonidi:
+- žádná potřeba umělé inkubace
+- vyšší tolerance prostředí
+- mnohem vyšší reprodukční tlak
+
+
+------------------------------------------------
+10. DOPORUČENÍ PRO PRAXI
+------------------------------------------------
+
+- V intenzivních systémech vždy řídit reprodukci
+- Používat monosexní populace pro growout
+- Oddělovat velikostní kategorie
+- Sledovat chování samic (inkubace)
+- Nepodceňovat genetický management
+
+
+------------------------------------------------
+11. ZDROJE (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+- FAO Fisheries and Aquaculture Technical Papers – Tilapia culture
+- WorldFish – Tilapia breeding manuals
+- Boyd, C.E. – Water Quality in Warmwater Aquaculture
+- Aquaculture Journal – open-access články o reprodukci tilapie
+- Univerzitní extension materiály (Auburn University, WorldFish)
+
+Text je odborná syntéza a neobsahuje žádný převzatý text 1:1.
+
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+KB-REPRO-14 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)

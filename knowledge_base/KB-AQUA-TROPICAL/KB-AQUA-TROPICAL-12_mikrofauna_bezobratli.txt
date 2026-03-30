@@ -1,0 +1,206 @@
+KB-AQUA-TROPICAL-12 – Mikrofauna & bezobratlí v tropických akváriích (V1)
+======================================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – tropická akvária
+Typ dokumentu: Technicko-biologický přehled
+Použití v Aquantis: Diagnostika, stabilita systému, interpretace symptomů
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+------------------------------------------------
+1. ÚLOHA MIKROFAUNY V TROPICKÉM AKVÁRIU
+------------------------------------------------
+
+Mikrofauna a drobní bezobratlí jsou přirozenou součástí
+stabilních tropických akvarijních ekosystémů.
+
+Z biologického hlediska plní několik klíčových funkcí:
+- rozklad organických zbytků,
+- sekundární mineralizaci dusíku,
+- potravní základ pro drobné ryby a larvy,
+- indikátor biologické rovnováhy nebo přetížení.
+
+Jejich přítomnost sama o sobě není problém – 
+problémem je **nekontrolované přemnožení**, které signalizuje chybu v systému.
+
+------------------------------------------------
+2. ZÁKLADNÍ SKUPINY MIKROFAUNY
+------------------------------------------------
+
+### 2.1 Copepodi (buchanky)
+- mikroskopičtí korýši,
+- typicky 0.2–2 mm,
+- živí se bakteriemi, řasami a detritem.
+
+Význam:
+- pozitivní indikátor biologické stability,
+- přirozená potrava pro potěr, drobné ryby, krevety.
+
+Přemnožení:
+- většinou neškodné,
+- často viditelné v noci na skle.
+
+------------------------------------------------
+### 2.2 Ostracodi (lasturnatky)
+- drobní korýši s tvrdým krunýřem,
+- pomalý pohyb po dně a skle.
+
+Význam:
+- rozklad organického materiálu,
+- indikace nadbytku detritu.
+
+Poznámka:
+- ryby je často ignorují → snadné přemnožení.
+
+------------------------------------------------
+### 2.3 Rotifery (vířníci)
+- mikroskopičtí,
+- častí v nově zaběhnutých nádržích.
+
+Význam:
+- součást mikrobiálního potravního řetězce,
+- důležití v larválních nádržích.
+
+------------------------------------------------
+3. ŠNECI V TROPICKÉM AKVÁRIU
+------------------------------------------------
+
+### 3.1 Funkční (žádoucí) šneci
+- Neritina
+- Clithon
+- Tylomelania (omezeně)
+
+Funkce:
+- konzumace biofilmu a řas,
+- minimální reprodukce v sladké vodě.
+
+------------------------------------------------
+### 3.2 Opportunističtí šneci
+- okružák (Planorbidae),
+- levatka (Physidae),
+- piskořka (Melanoides).
+
+Význam:
+- rychlá reakce na nadbytek krmiva,
+- indikátor překrmování.
+
+Přemnožení znamená:
+- příliš mnoho organické hmoty,
+- nedostatečnou údržbu.
+
+------------------------------------------------
+4. PROBLEMATICKÉ ORGANISMY
+------------------------------------------------
+
+### 4.1 Planárie
+- ploštěnci,
+- noční aktivita,
+- často zavlečeni s rostlinami.
+
+Rizika:
+- predace krevetích larev,
+- stres pro malé ryby.
+
+Indikace:
+- nadbytek proteinového krmiva,
+- špatná hygiena substrátu.
+
+------------------------------------------------
+### 4.2 Hydry
+- drobní žahavci,
+- přisedlí na skle a rostlinách.
+
+Rizika:
+- lov drobného potěru,
+- žahavé buňky.
+
+Typické příčiny výskytu:
+- živá potrava,
+- přebytek mikrofauny.
+
+------------------------------------------------
+5. MIKROFAUNA JAKO DIAGNOSTICKÝ NÁSTROJ
+------------------------------------------------
+
+Výskyt konkrétních organismů lze využít diagnosticky:
+
+- masivní šneci → překrmování,
+- planárie → přebytek proteinů,
+- hydry → mikrofaunální exploze,
+- absence mikrofauny → sterilní nebo nestabilní systém.
+
+Mikrofauna reaguje rychleji než ryby – 
+je včasným varovným signálem.
+
+------------------------------------------------
+6. VZTAH K FILTRACI A BIOLOADU
+------------------------------------------------
+
+Množství mikrofauny přímo souvisí s:
+- typem filtrace,
+- průtokem,
+- množstvím jemného detritu.
+
+Nízký průtok + jemný substrát =
+vyšší výskyt mikrofauny.
+
+Silná mechanická filtrace =
+nižší diverzita, ale vyšší čistota.
+
+------------------------------------------------
+7. ŘÍZENÍ POPULACE (NE LIKVIDACE)
+------------------------------------------------
+
+Cílem není sterilita, ale rovnováha.
+
+Bezpečné kroky:
+- snížení krmení,
+- důkladnější odkalování,
+- zvýšení cirkulace,
+- biologická regulace (ryby, krevety).
+
+Chemické zásahy:
+- pouze jako poslední možnost,
+- vysoké riziko narušení biofiltru.
+
+------------------------------------------------
+8. VZTAH KE KREVETÁM A POTĚRU
+------------------------------------------------
+
+Mikrofauna je:
+- klíčová pro odchov potěru,
+- důležitá pro krevety (biofilm).
+
+Současně:
+- planárie a hydry jsou rizikové,
+- vyžadují preventivní kontrolu.
+
+------------------------------------------------
+9. ČASTÉ CHYBY AKVARISTŮ
+------------------------------------------------
+
+- snaha o „sterilní“ akvárium,
+- plošná likvidace bez příčiny,
+- ignorování přemnožení jako symptomu,
+- nadměrné použití chemie.
+
+------------------------------------------------
+10. ZDROJE A ODBORNÝ ZÁKLAD
+------------------------------------------------
+
+Dokument vychází ze syntézy:
+- akvarijní mikroekologie (Walstad, Barr – principy),
+- univerzitních extension materiálů (Florida, Texas A&M),
+- praktických chovatelských dat (tropická akvária),
+- obecně uznávaných biologických principů.
+
+Text je parafrázovaný, originálně formulovaný
+a neobsahuje žádný převzatý chráněný obsah.
+
+------------------------------------------------
+KONEC DOKUMENTU
+------------------------------------------------

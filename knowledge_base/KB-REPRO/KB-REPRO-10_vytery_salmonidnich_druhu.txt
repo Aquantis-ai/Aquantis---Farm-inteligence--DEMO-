@@ -1,0 +1,220 @@
+KB-REPRO-10 – VÝTĚRY SALMONIDNÍCH DRUHŮ (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Reprodukce ryb
+Typ dokumentu: Reprodukční protokoly – salmonidní druhy
+Použití v Aquantis: Reprodukce, inkubace, diagnostika problémů
+Vhodné pro RAG: Ano
+Verze: V1
+Datum: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument popisuje specifika reprodukce salmonidních druhů
+(pstruh, siven, losos) v akvakulturních podmínkách.
+
+Zaměřuje se na:
+- biologii výtěru,
+- řízení podmínek před výtěrem,
+- techniky umělého výtěru,
+- inkubaci jiker,
+- nejčastější chyby a selhání.
+
+Dokument je formulován jako praktický a odborný základ
+pro kontrolované i polokontrolované systémy.
+
+
+------------------------------------------------
+2. TYPICKÉ SALMONIDNÍ DRUHY
+------------------------------------------------
+
+Nejčastěji reprodukované druhy:
+
+- Pstruh duhový (Oncorhynchus mykiss)
+- Pstruh obecný (Salmo trutta)
+- Siven americký (Salvelinus fontinalis)
+- Siven arktický (Salvelinus alpinus)
+- Losos obecný (Salmo salar)
+
+Společné znaky:
+- podzimní až zimní tření,
+- vysoká citlivost na kvalitu vody,
+- jikry citlivé na mechanické poškození a plísně.
+
+
+------------------------------------------------
+3. BIOLOGIE VÝTĚRU SALMONIDŮ
+------------------------------------------------
+
+Přirozené tření:
+- probíhá při nízkých teplotách (4–10 °C),
+- na štěrkovém substrátu,
+- samice vytváří třecí jamku,
+- jikry jsou po oplození zakryty substrátem.
+
+Specifika:
+- pomalý embryonální vývoj,
+- vysoká závislost na kyslíku,
+- nízká tolerance k organickému zatížení.
+
+
+------------------------------------------------
+4. SPOUŠTĚČE VÝTĚRU
+------------------------------------------------
+
+Hlavní spouštěče:
+
+- Teplota:
+  - postupný pokles na cílové hodnoty
+  - náhlé změny jsou nežádoucí
+
+- Fotoperioda:
+  - zkracování dne (simulace podzimu)
+  - klíčová pro dozrávání gonád
+
+- Hydraulika:
+  - mírné proudění
+  - čistá, dobře okysličená voda
+
+- Stres:
+  - musí být minimalizován
+  - stres → resorpce jiker nebo nekvalitní mlíčí
+
+
+------------------------------------------------
+5. PŘÍPRAVA GENERAČNÍCH RYB
+------------------------------------------------
+
+Doba přípravy:
+- 2–4 měsíce před plánovaným výtěrem
+
+Zásady:
+- kvalitní, vyvážená výživa,
+- dostatek esenciálních mastných kyselin,
+- stabilní kvalita vody,
+- nízká hustota obsádky.
+
+Nevhodné:
+- častá manipulace,
+- kolísání teploty,
+- špatná kondice ryb.
+
+
+------------------------------------------------
+6. UMĚLÝ VÝTĚR SALMONIDŮ
+------------------------------------------------
+
+Používaná metoda:
+- ruční výtěr (stripování)
+
+Postup:
+1. Omráčení ryby (šetrně).
+2. Suchá metoda – žádná voda při odběru.
+3. Odběr jiker do suché nádoby.
+4. Přidání mlíčí.
+5. Aktivace vodou až po smíchání gamet.
+
+Důležité:
+- čistota,
+- přesné načasování,
+- jemná manipulace.
+
+
+------------------------------------------------
+7. INKUBACE JIKER
+------------------------------------------------
+
+Optimální podmínky:
+
+- Teplota:
+  - 4–10 °C (dle druhu)
+- Rozpuštěný kyslík:
+  - ideálně > 9 mg/l
+- Průtok:
+  - konstantní, bez turbulence
+- Světlo:
+  - tlumené nebo žádné
+
+Technologie:
+- líhňové žlaby,
+- vertikální inkubátory,
+- Heath tray systémy.
+
+
+------------------------------------------------
+8. RIZIKA A ČASTÉ PROBLÉMY
+------------------------------------------------
+
+Nejčastější problémy:
+
+- Plísně (Saprolegnia):
+  - šíří se z mrtvých jiker
+  - nutnost jejich odstraňování
+
+- Hypoxie:
+  - vede k deformacím embryí
+  - vysoká mortalita
+
+- Mechanické poškození:
+  - příliš silný průtok
+  - manipulace
+
+- Nestabilní teplota:
+  - opožděný nebo neúspěšný vývoj
+
+
+------------------------------------------------
+9. KVALITA VODY – LIMITY
+------------------------------------------------
+
+Doporučené limity:
+
+- O₂: > 9 mg/l
+- pH: 6.5–7.8
+- NH₃: ≈ 0
+- NO₂: < 0.05 mg/l
+- Organické zatížení: minimální
+
+Salmonidní jikry jsou jedny z nejcitlivějších
+na kvalitu vody v akvakultuře.
+
+
+------------------------------------------------
+10. PRAKTICKÉ POZNÁMKY Z PROVOZU
+------------------------------------------------
+
+- Lepší je pomalejší vývoj než rychlý a nestabilní.
+- Stabilita má vyšší prioritu než „ideální“ čísla.
+- Mortalita v inkubaci je často indikátorem problému
+  ještě před výtěrem (kondice rodičů).
+
+
+------------------------------------------------
+11. ZDROJE A ODBORNÁ VÝCHODISKA
+------------------------------------------------
+
+Dokument vychází z parafrázovaných a syntetizovaných poznatků:
+
+- FAO – Salmonid culture manuals
+- EIFAC / FAO technical guidelines
+- Boyd, Tucker – Water Quality Management
+- Auburn University Extension
+- WorldFish (coldwater aquaculture references)
+- Praktické provozní zkušenosti z EU líhní
+
+Text neobsahuje žádný převzatý obsah 1:1.
+
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+
+KB-REPRO-10 – V1  
+Určeno pro: Aquantis Knowledge Base  
+Stav: Produkční dokument

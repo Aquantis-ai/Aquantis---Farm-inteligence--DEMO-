@@ -1,0 +1,228 @@
+Aquantis_KB-KOI-POND-11_DIAGNOSTIKA_PROBLÉMŮ_VE_SMÍŠENÉM_JEZÍRKU_V1
+===============================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: KOI & hobby jezírka
+Podoblast: Diagnostika
+Typ dokumentu: Diagnostický manuál
+Použití v Aquantis: Diagnostika, poradenství, prevence chyb
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument slouží jako praktický diagnostický nástroj pro hobby chovatele
+smíšených okrasných jezírek (KOI + doplňkové druhy jako karas, jeseter, lín,
+amur, zlaté rybky apod.).
+
+Formát je záměrně zjednodušený:
+Symptom → Pravděpodobná příčina → Nejčastější chyba hobby chovatele
+
+Cílem je:
+- rychlá orientace v problému,
+- odhalení typických chyb,
+- prevence neodborných zásahů.
+
+
+------------------------------------------------
+1. RYBY SE SHROMAŽĎUJÍ U HLADINY
+------------------------------------------------
+Symptom:
+- ryby stojí u hladiny,
+- lapají po vzduchu,
+- snížená aktivita.
+
+Pravděpodobná příčina:
+- nízký rozpuštěný kyslík (O₂),
+- vysoké organické zatížení,
+- teplá voda v létě,
+- rozklad organiky na dně.
+
+Nejčastější chyba hobby chovatele:
+- podcenění aerace („jezírko je venku, kyslíku je dost“),
+- vypínání fontán a vzduchování v noci,
+- přerybnění.
+
+
+------------------------------------------------
+2. VODA JE ZELENÁ / MLÉČNÁ / ZAKALENÁ
+------------------------------------------------
+Symptom:
+- zelený zákal (řasy, fytoplankton),
+- mléčný zákal,
+- špatná viditelnost.
+
+Pravděpodobná příčina:
+- nadbytek živin (dusík, fosfor),
+- překrmování,
+- nedostatečná filtrace,
+- absence UV lampy.
+
+Nejčastější chyba hobby chovatele:
+- snaha řešit problém pouze chemickými přípravky,
+- přidávání „čističů vody“ bez řešení příčiny,
+- nulová kontrola krmení.
+
+
+------------------------------------------------
+3. RYBY JSOU LETARGICKÉ, NEŽEROU
+------------------------------------------------
+Symptom:
+- snížený příjem krmiva,
+- apatie,
+- ryby stojí u dna nebo ve stínu.
+
+Pravděpodobná příčina:
+- špatná kvalita vody (NH₃, NO₂),
+- teplotní stres,
+- chronický stres z přerybnění,
+- parazitární zátěž.
+
+Nejčastější chyba hobby chovatele:
+- okamžité přidávání léčiv bez měření vody,
+- ignorování teplotního vlivu na metabolismus,
+- krmení i při nevhodných podmínkách.
+
+
+------------------------------------------------
+4. KOI JSOU OKUSOVÁNY / PORANĚNY
+------------------------------------------------
+Symptom:
+- poškozené ploutve,
+- okousané šupiny,
+- drobná poranění.
+
+Pravděpodobná příčina:
+- nekompatibilní druhová skladba,
+- nedostatek prostoru,
+- stresové chování.
+
+Nejčastější chyba hobby chovatele:
+- kombinování KOI s agresivními nebo teritoriálními druhy,
+- podcenění velikosti ryb v dospělosti,
+- „vypadá to hezky, tak to funguje“.
+
+
+------------------------------------------------
+5. NÁHLÝ ÚHYN JEDNOHO DRUHU (NAPŘ. JESETER)
+------------------------------------------------
+Symptom:
+- úhyn pouze jednoho druhu,
+- ostatní ryby vypadají v pořádku.
+
+Pravděpodobná příčina:
+- druhově specifická citlivost (O₂, teplota),
+- nevhodné krmení,
+- špatná cirkulace u dna.
+
+Nejčastější chyba hobby chovatele:
+- chov jesetera v jezírku bez silného proudění,
+- krmení jesetera plovoucím krmivem,
+- ignorování jeho specifických nároků.
+
+
+------------------------------------------------
+6. PĚNA NA HLADINĚ
+------------------------------------------------
+Symptom:
+- pěna v rozích jezírka,
+- pěna u přepadů nebo filtrů.
+
+Pravděpodobná příčina:
+- vysoké organické zatížení,
+- rozklad proteinů,
+- přetížení filtrace.
+
+Nejčastější chyba hobby chovatele:
+- ignorování pěny jako „kosmetického problému“,
+- pokračování v krmení,
+- nulová údržba filtru.
+
+
+------------------------------------------------
+7. ŘASY NA STĚNÁCH A DNU
+------------------------------------------------
+Symptom:
+- vláknité řasy,
+- slizké povlaky,
+- hnědé nebo zelené usazeniny.
+
+Pravděpodobná příčina:
+- nadbytek živin,
+- přímé slunce,
+- nerovnováha mezi rostlinami a rybami.
+
+Nejčastější chyba hobby chovatele:
+- mechanické odstranění bez řešení příčiny,
+- přidávání algicidů,
+- absence stínění nebo rostlin.
+
+
+------------------------------------------------
+8. PROBLÉMY SE OBJEVUJÍ PO DEŠTI
+------------------------------------------------
+Symptom:
+- změna chování ryb po dešti,
+- zákal,
+- snížená aktivita.
+
+Pravděpodobná příčina:
+- změna pH,
+- splach živin,
+- studený déšť → teplotní šok.
+
+Nejčastější chyba hobby chovatele:
+- nevnímání deště jako rizikového faktoru,
+- žádná kontrola pH po srážkách.
+
+
+------------------------------------------------
+9. DLOUHODOBĚ „NIC DRAMATICKÉHO“, ALE RYBY CHÁTRAJÍ
+------------------------------------------------
+Symptom:
+- pomalý růst,
+- zhoršené barvy,
+- časté drobné problémy.
+
+Pravděpodobná příčina:
+- chronický stres,
+- dlouhodobě suboptimální voda,
+- přerybnění.
+
+Nejčastější chyba hobby chovatele:
+- spokojenost s tím, že „ryby ještě žijí“,
+- žádné systematické měření,
+- absence dlouhodobého plánu údržby.
+
+
+------------------------------------------------
+10. ZÁKLADNÍ DIAGNOSTICKÝ POSTUP AQUANTIS
+------------------------------------------------
+Při jakémkoli problému:
+1. Změř základní parametry vody (O₂, pH, NH₄/NH₃, NO₂).
+2. Zhodnoť druhovou skladbu a hustotu.
+3. Zkontroluj filtraci a aeraci.
+4. Zastav krmení při podezření na problém.
+5. Vyhni se chemickým zásahům bez jasné diagnózy.
+
+------------------------------------------------
+ZÁVĚR
+------------------------------------------------
+Většina problémů ve smíšených hobby jezírkách nevzniká náhle,
+ale postupně v důsledku špatného managementu, přerybnění
+a nepochopení rozdílných nároků jednotlivých druhů.
+
+Správná diagnostika = pochopení systému, ne hledání „rychlého léku“.
+
+
+------------------------------------------------
+VERZE DOKUMENTU
+------------------------------------------------
+KB-KOI-POND-11 – V1
+Určeno pro: Aquantis Knowledge Base
+Interní použití

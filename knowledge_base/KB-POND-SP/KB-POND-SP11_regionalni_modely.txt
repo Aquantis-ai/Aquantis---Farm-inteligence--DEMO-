@@ -1,0 +1,239 @@
+KB-POND-SP11 – Regionální rybníkářské modely (EU, Afrika, Asie, USA, Indie)
+================================================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Rybníkářství – regionální produkční modely
+Typ dokumentu: Regional Production Models
+Použití v Aquantis: Kontextová diagnostika, návrh technologie, druhová doporučení
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument popisuje hlavní regionální modely rybníkářství ve světě.
+Cílem je umožnit Aquantis správně interpretovat problémy, doporučení
+a produkční strategie v závislosti na:
+
+- geografickém regionu,
+- klimatu,
+- dominantních druzích ryb,
+- dostupnosti vstupů (krmivo, voda, energie),
+- ekonomickém a legislativním rámci.
+
+Dokument je koncipován jako **kontextová vrstva** nad ostatními KB
+(kvalita vody, krmení, obsádka, zdraví ryb).
+
+
+------------------------------------------------
+2. EVROPA (EU, střední a východní Evropa)
+------------------------------------------------
+
+Typický model:
+- extenzivní až polointenzivní rybníkářství,
+- silná sezónnost (jaro–léto–podzim),
+- dlouhá zimní fáze.
+
+Dominantní druhy:
+- Kapr obecný (Cyprinus carpio),
+- Vedlejší ryby: amur, tolstolobik, lín,
+- Lokálně: candát, štika, okoun,
+- V některých oblastech: jeseteři (exotenze, kombinované systémy).
+
+Produkční charakteristika:
+- Nízké až střední hustoty obsádky,
+- Kombinace přirozené produkce + obilná krmiva,
+- Významná role hnojení rybníků.
+
+Klíčová rizika:
+- Letní hypoxie,
+- Podzimní manipulace (výlovy),
+- Zimní mortalita pod ledem.
+
+Poznámka pro Aquantis:
+- Konzervativní doporučení,
+- Důraz na kyslíkový režim, sezónní management,
+- Vysoký význam tradičních postupů.
+
+
+------------------------------------------------
+3. AFRIKA (subsaharská Afrika)
+------------------------------------------------
+
+Typický model:
+- Polointenzivní až intenzivní rybníky,
+- Celoroční produkce (bez zimy),
+- Silná vazba na lokální zdroje.
+
+Dominantní druhy:
+- Tilapie (Oreochromis niloticus),
+- Africký sumeček (Clarias gariepinus),
+- Smíšené obsádky (tilapie + predátor).
+
+Produkční charakteristika:
+- Vysoké teploty → rychlý růst,
+- Často nedostatečné řízení kvality vody,
+- Nízká mechanizace.
+
+Klíčová rizika:
+- Překrmování,
+- Amoniaková toxicita,
+- Kolaps kyslíku v noci.
+
+Poznámka pro Aquantis:
+- Doporučení musí být jednoduchá, robustní,
+- Důraz na O₂, krmení, hustotu,
+- Nízká tolerance ke složitým technologiím.
+
+
+------------------------------------------------
+4. ASIE (Čína, JV Asie)
+------------------------------------------------
+
+Typický model:
+- Vysoce intenzivní rybníkářství,
+- Vícedruhové systémy,
+- Maximální využití primární produkce.
+
+Dominantní druhy:
+- Kaprovité ryby (rohu, catla, mrigal),
+- Tilapie,
+- Pangasius,
+- Amur, tolstolobik.
+
+Produkční charakteristika:
+- Husté obsádky,
+- Systematické hnojení rybníků,
+- Vysoká produkce planktonu.
+
+Klíčová rizika:
+- Eutrofizace,
+- Kolísání pH (den/noc),
+- Letní kolapsy kyslíku.
+
+Poznámka pro Aquantis:
+- Doporučení musí počítat s vysokou produktivitou,
+- Důraz na řízení planktonu,
+- Vyšší tolerance k organickému zatížení než v EU.
+
+
+------------------------------------------------
+5. USA
+------------------------------------------------
+
+Typický model:
+- Komerční rybníkářství,
+- Vysoká mechanizace,
+- Silná standardizace provozu.
+
+Dominantní druhy:
+- Channel catfish (Ictalurus punctatus),
+- Hybrid striped bass,
+- Tilapie (jih USA),
+- Black bass (Micropterus salmoides).
+
+Produkční charakteristika:
+- Kontrolované krmení,
+- Aerátory jako standard,
+- Nízká závislost na planktonu.
+
+Klíčová rizika:
+- Energetické náklady,
+- Choroby při vysokých hustotách,
+- Kvalita vody při extrémních teplotách.
+
+Poznámka pro Aquantis:
+- Lze používat exaktní limity,
+- Dobře definované SOP,
+- Vysoký význam aerace a monitoringu.
+
+
+------------------------------------------------
+6. INDIE
+------------------------------------------------
+
+Typický model:
+- Tradiční rybníkářství,
+- Silná orientace na kaprovité ryby,
+- Velké plochy, nízká hloubka.
+
+Dominantní druhy:
+- Rohu (Labeo rohita),
+- Catla (Catla catla),
+- Mrigal (Cirrhinus mrigala),
+- Kombinace s amurem, tolstolobikem.
+
+Produkční charakteristika:
+- Silné hnojení,
+- Nízké vstupy krmiva,
+- Závislost na přírodních procesech.
+
+Klíčová rizika:
+- Nerovnováha planktonu,
+- Letní hypoxie,
+- Kvalita vstupní vody.
+
+Poznámka pro Aquantis:
+- Doporučení musí respektovat tradiční praxi,
+- Nízká tolerance ke „evropskému“ přístupu,
+- Klíčová role biomanipulace.
+
+
+------------------------------------------------
+7. SROVNÁNÍ REGIONÁLNÍCH MODELŮ (SHRNUTÍ)
+------------------------------------------------
+
+EU:
+- stabilita, tradice, nízká intenzita
+
+Afrika:
+- rychlý růst, vysoké teploty, jednoduchost
+
+Asie:
+- extrémní produktivita, vícedruhové systémy
+
+USA:
+- standardizace, technika, aerace
+
+Indie:
+- biologická produkce, hnojení, tradice
+
+
+------------------------------------------------
+8. VYUŽITÍ V AQUANTIS
+------------------------------------------------
+
+Aquantis by měl:
+- rozpoznat regionální kontext z popisu uživatele,
+- automaticky upravit doporučení,
+- neaplikovat univerzální „RAS logiku“ na rybníky,
+- respektovat místní praxi a ekonomiku.
+
+Tento dokument slouží jako **regionální filtr doporučení**.
+
+
+------------------------------------------------
+9. ZDROJOVÝ RÁMEC (PARAFRÁZOVÁNO)
+------------------------------------------------
+
+Obsah je syntézou otevřených a obecně uznávaných zdrojů:
+- FAO Fisheries & Aquaculture Technical Papers,
+- WorldFish regional pond manuals,
+- Auburn University pond aquaculture materials,
+- Extension programs (USA, Indie),
+- FAO Asia-Pacific aquaculture reviews.
+
+Text je plně nově formulovaný, bez přímých citací.
+
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+KB-POND-SP11 – V1
+Určeno pro: Aquantis Knowledge Base
+Interní použití

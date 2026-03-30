@@ -1,0 +1,199 @@
+KB-KOI-POND-09 – Krmení ve smíšeném okrasném jezírku (V1)
+=======================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: KOI / Okrasná jezírka – smíšené chovy
+Typ dokumentu: Management & diagnostika
+Použití v Aquantis: Diagnostika problémů, doporučení krmení
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚVOD – PROČ JE KRMENÍ VE SMÍŠENÉM JEZÍRKU PROBLÉM
+------------------------------------------------
+
+Smíšená okrasná jezírka obvykle obsahují kombinaci:
+- KOI kaprů,
+- karasů, línů, zlatých ryb,
+- jeseterů,
+- případně menších doplňkových druhů.
+
+Každý z těchto druhů má:
+- jiné nutriční potřeby,
+- odlišný způsob příjmu potravy,
+- jinou rychlost metabolismu,
+- jinou toleranci k organickému zatížení vody.
+
+Krmení „jedním krmivem pro všechny“ je častou příčinou:
+- zákalu vody,
+- zvýšeného NH₄ / NO₂,
+- pěnění,
+- zdravotních problémů ryb,
+- chronického stresu.
+
+
+------------------------------------------------
+2. ROZDÍLNÉ NUTRIČNÍ POTŘEBY JEDNOTLIVÝCH SKUPIN RYB
+------------------------------------------------
+
+KOI kapři:
+- všežravci s vysokou tolerancí k sacharidům,
+- dobře využívají plovoucí krmiva,
+- vyšší proteinové nároky při růstu a tvorbě barvy,
+- vyšší produkce odpadu při překrmování.
+
+Karas, lín, zlatá rybka:
+- nižší metabolismus než KOI,
+- lépe využívají přirozenou potravu v jezírku,
+- citlivější na překrmování,
+- vyšší riziko ztučnění jater při vysokoproteinové dietě.
+
+Jeseter:
+- striktně bentický druh,
+- vyžaduje potápivé krmivo,
+- velmi citlivý na kvalitu vody,
+- špatně konkuruje rychlejším rybám u hladiny.
+
+Zásadní pravidlo:
+Jedno krmivo NEMŮŽE optimálně vyhovovat všem druhům současně.
+
+
+------------------------------------------------
+3. SOUTĚŽ O KRMIVO (COMPETITION EFFECT)
+------------------------------------------------
+
+Ve smíšeném jezírku dochází ke konkurenčnímu chování:
+
+- KOI jsou rychlé, dominantní a agresivní u hladiny,
+- pomalejší druhy (jeseter, lín) zůstávají bez krmiva,
+- chovatel reaguje zvýšením dávky → přetížení systému.
+
+Typické důsledky:
+- KOI se překrmují,
+- jeseter hladoví,
+- zhoršení kvality vody,
+- zvýšené organické zatížení dna.
+
+Tento mechanismus je jednou z nejčastějších příčin „nevysvětlitelných“ problémů
+v hobby jezírkách.
+
+
+------------------------------------------------
+4. SEZÓNNÍ CHYBY V KRMENÍ
+------------------------------------------------
+
+Jaro:
+- ryby mají snížený metabolismus,
+- přechod z zimního hladovění,
+- častá chyba: příliš rychlý návrat ke krmení.
+
+Léto:
+- vysoká chuť k příjmu potravy,
+- nejvyšší produkce odpadu,
+- častá chyba: „ryby mají hlad → přidám víc“.
+
+Podzim:
+- nutnost snížit dávky a změnit složení,
+- častá chyba: pokračování letního krmení.
+
+Zima:
+- většina druhů prakticky nepřijímá potravu,
+- jeseter může vyžadovat minimální krmení,
+- častá chyba: krmení při nízkých teplotách.
+
+
+------------------------------------------------
+5. PŘEKRMOVÁNÍ KVŮLI „JINÝM RYBÁM“
+------------------------------------------------
+
+Typický scénář:
+„Jeseter nedostává krmivo, tak přidám víc.“
+
+Výsledek:
+- KOI zkonzumují většinu krmiva,
+- jeseter stále trpí deficitem,
+- zbytky krmiva končí v sedimentu,
+- vznik NH₄, NO₂, pěny, zápach.
+
+Správný přístup:
+- oddělený způsob krmení,
+- cílené dávkování,
+- ne zvyšování celkové dávky.
+
+
+------------------------------------------------
+6. SPRÁVNÉ STRATEGIE KRMENÍ VE SMÍŠENÉM JEZÍRKU
+------------------------------------------------
+
+1. Oddělení krmných zón:
+   - plovoucí krmivo pro KOI u hladiny,
+   - potápivé krmivo pro jesetery na dno.
+
+2. Časové rozdělení:
+   - nejprve krmit KOI,
+   - poté cíleně jesetery.
+
+3. Kontrola doby příjmu:
+   - krmivo má zmizet do 3–5 minut,
+   - zbytky = nadbytek.
+
+4. Sezónní úprava dávek:
+   - snížení proteinů při nižších teplotách,
+   - celkové snížení množství na podzim.
+
+5. Pozorování chování:
+   - aktivita ryb je lepší indikátor než „pocit chovatele“.
+
+
+------------------------------------------------
+7. DIAGNOSTICKÉ SIGNÁLY ŠPATNÉHO KRMENÍ
+------------------------------------------------
+
+Varovné příznaky:
+- zakalená voda po krmení,
+- pěna na hladině,
+- zápach po organice,
+- ryby „žebrají“, ale nerostou,
+- rozdílná kondice mezi druhy.
+
+Tyto symptomy téměř vždy souvisí s:
+- nevhodným složením krmiva,
+- špatným rozdělením,
+- nadměrnou dávkou.
+
+
+------------------------------------------------
+8. SHRNUTÍ – ZLATÁ PRAVIDLA
+------------------------------------------------
+
+- Smíšené jezírko ≠ jedno krmivo.
+- Krmit méně, ale chytře.
+- Nikdy nezvyšovat dávku kvůli jednomu druhu.
+- Sleduj vodu a chování ryb, ne „apetit“.
+- Jeseter vyžaduje vždy zvláštní přístup.
+
+
+------------------------------------------------
+9. ODBORNÉ ZÁKLADY (PARAFRÁZOVÁNO)
+------------------------------------------------
+
+Dokument vychází ze syntézy:
+- FAO pond aquaculture guidelines,
+- University extension materials (pond fish nutrition),
+- WorldFish manuals,
+- KOI Organisation International (KOI & pond management),
+- běžné praxe evropských hobby jezírek.
+
+Text je nově formulovaný, neobsahuje citace 1:1 a je
+určen pro interní Knowledge Base systému Aquantis.
+
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+KB-KOI-POND-09 – V1
+Stav: schváleno pro použití v Aquantis KB

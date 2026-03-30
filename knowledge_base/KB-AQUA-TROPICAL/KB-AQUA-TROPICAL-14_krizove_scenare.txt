@@ -1,0 +1,270 @@
+KB-AQUA-TROPICAL-14 – KRIZOVÉ SCÉNÁŘE V TROPICKÝCH AKVÁRIÍCH (V1)
+=============================================================
+
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – tropická akvária
+Typ dokumentu: Crisis Management / Troubleshooting
+Použití v Aquantis: Diagnostika, krizová doporučení, prevence
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument popisuje nejčastější krizové scénáře v tropických akváriích,
+jejich biologické a technické příčiny, typické chyby chovatelů a
+bezpečné postupy stabilizace systému.
+
+Zaměřuje se na:
+- náhlé kolapsy prostředí,
+- akutní ohrožení ryb,
+- rychlou orientaci v příčinách,
+- prevenci opakování.
+
+Neobsahuje konkrétní dávkování léčiv.
+Slouží jako odborný diagnostický a rozhodovací podklad.
+
+
+------------------------------------------------
+1. PRINCIPY KRIZOVÉ DIAGNOSTIKY
+------------------------------------------------
+
+Každá krize v tropickém akváriu má obvykle:
+- **spouštěč** (technický, biologický, lidská chyba),
+- **zpožděnou reakci** (ryby reagují později než voda),
+- **kaskádový efekt** (jedna chyba vyvolá další).
+
+Základní postup:
+1) Pozoruj chování ryb
+2) Změř klíčové parametry (NH₃/NH₄, NO₂, O₂, pH, teplota)
+3) Zkontroluj techniku
+4) Identifikuj poslední zásah (krmení, údržba, nová ryba)
+
+
+------------------------------------------------
+2. NÁHLÝ ÚHYN RYB (DO 24 HODIN)
+------------------------------------------------
+
+Typické příznaky:
+- ryby u hladiny,
+- lapání po vzduchu,
+- dezorientace,
+- rychlý úhyn více jedinců.
+
+Pravděpodobné příčiny:
+- akutní hypoxie,
+- toxický NH₃ nebo NO₂,
+- prudká změna teploty,
+- kontaminace (čistící prostředky, aerosoly).
+
+Časté chyby:
+- přerybnění,
+- překrmení,
+- vypnutí filtrace přes noc,
+- výměna vody s jinou teplotou / chemií.
+
+Bezpečný postup:
+- okamžitě zvýšit aeraci,
+- zastavit krmení,
+- částečná výměna vody,
+- ověřit funkci filtru.
+
+
+------------------------------------------------
+3. ZKALENÍ VODY (BAKTERIÁLNÍ BLOOM)
+------------------------------------------------
+
+Příznaky:
+- mléčně zakalená voda,
+- snížená viditelnost,
+- ryby zrychleně dýchají.
+
+Příčiny:
+- čerstvě založené akvárium,
+- kolaps nitrifikace,
+- náhlé organické zatížení.
+
+Biologické vysvětlení:
+- masivní růst heterotrofních bakterií,
+- spotřeba kyslíku,
+- konkurenční tlak na nitrifikátory.
+
+Chyby:
+- panická kompletní výměna vody,
+- vypnutí filtrace.
+
+Správný postup:
+- zvýšit aeraci,
+- stabilizovat filtr,
+- vyčkat (nezasahovat agresivně).
+
+
+------------------------------------------------
+4. NÁHLÝ NÁRŮST AMONIAKU / NITRITU
+------------------------------------------------
+
+Příznaky:
+- zarudlé žábry,
+- apatie,
+- zrychlené dýchání.
+
+Spouštěče:
+- čištění filtru pod tekoucí vodou,
+- výměna filtrační hmoty,
+- přerybnění,
+- rozklad uhynulé ryby.
+
+Typická chyba:
+- „příliš důkladná“ údržba.
+
+Krizové kroky:
+- okamžitě snížit krmení,
+- zvýšit aeraci,
+- částečná výměna vody,
+- stabilizace biofiltru.
+
+
+------------------------------------------------
+5. VÝPADKY ELEKTŘINY
+------------------------------------------------
+
+Rizika:
+- ztráta filtrace,
+- pokles O₂,
+- kolaps biofiltru,
+- přehřátí / podchlazení.
+
+Časová osa:
+- 1–2 h: stres ryb
+- 3–4 h: hypoxie
+- 6–12 h: poškození biofiltru
+
+Prevence:
+- záložní vzduchování (baterie),
+- UPS pro filtr,
+- snížení hustoty ryb.
+
+Krizový postup:
+- manuální provzdušnění,
+- minimalizace metabolismu (nekmitat, nekrmit).
+
+
+------------------------------------------------
+6. TEPLOTNÍ ŠOK
+------------------------------------------------
+
+Příznaky:
+- ztráta rovnováhy,
+- rychlé dýchání,
+- kolaps imunity.
+
+Příčiny:
+- porucha topítka,
+- výměna vody bez temperace,
+- přehřátí v létě.
+
+Chyby:
+- příliš rychlá korekce teploty.
+
+Správný přístup:
+- pomalá stabilizace,
+- zvýšení O₂ (teplá voda = méně kyslíku).
+
+
+------------------------------------------------
+7. MASIVNÍ ŘASY A CYANOBAKTERIE
+------------------------------------------------
+
+Příznaky:
+- zelená / modrozelená voda,
+- povlaky,
+- zápach.
+
+Příčiny:
+- přebytek živin,
+- špatný poměr světlo/živiny,
+- nízký průtok.
+
+Krizové chyby:
+- náhlé zatemnění bez řešení příčiny,
+- chemické zásahy bez stabilizace systému.
+
+Řešení:
+- snížení krmení,
+- úprava fotoperiody,
+- zvýšení údržby.
+
+
+------------------------------------------------
+8. STRES A AGRESE
+------------------------------------------------
+
+Projevy:
+- schovávání,
+- okusování ploutví,
+- náhlé úhyny slabších jedinců.
+
+Spouštěče:
+- přerybnění,
+- nekompatibilní druhy,
+- změny prostředí.
+
+Prevence:
+- správná druhová skladba,
+- dostatek úkrytů,
+- stabilní prostředí.
+
+
+------------------------------------------------
+9. LIDSKÝ FAKTOR – NEJČASTĚJŠÍ PŘÍČINA KRIZÍ
+------------------------------------------------
+
+Typické chyby:
+- „rychlá oprava“ bez diagnostiky,
+- přehnaná údržba,
+- přidávání přípravků bez pochopení systému,
+- neplánované zásahy.
+
+Zásada:
+➡️ Stabilita je důležitější než dokonalost.
+
+
+------------------------------------------------
+10. PREVENTIVNÍ CHECKLIST
+------------------------------------------------
+
+Denně:
+- pozorování ryb
+
+Týdně:
+- základní testy vody
+
+Měsíčně:
+- lehká údržba filtrace
+- kontrola techniky
+
+Dlouhodobě:
+- nepřerybňovat
+- nepřekrmovat
+- nepřehánět zásahy
+
+
+------------------------------------------------
+11. ODBORNÉ ZDROJE (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+- FAO & WorldFish – stres a kvalita vody
+- Boyd (Auburn University) – kyslík, toxiny
+- Akvaristické extension materiály (UF/IFAS, University of Florida)
+- Praktické akvaristické studie nitrifikace a bioloadu
+- Obecně uznávané best practices v tropické akvaristice
+
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-TROPICAL-14 – V1
+Určeno pro: Aquantis Knowledge Base
+Status: Produkční dokument

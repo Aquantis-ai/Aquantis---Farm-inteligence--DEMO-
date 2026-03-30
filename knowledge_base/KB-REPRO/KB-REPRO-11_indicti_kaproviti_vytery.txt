@@ -1,0 +1,222 @@
+KB-REPRO-11 – VÝTĚRY INDICKÝCH KAPROVITÝCH RYB (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Reprodukce ryb
+Typ dokumentu: Species-specific reproduction guide
+Použití v Aquantis: Reprodukční diagnostika, plánování výtěrů, rybníkářství, RAS
+Vhodné pro RAG: Ano
+Verze: V1
+Regionální relevance: Indie, Jižní Asie, Afrika, tropické oblasti
+Hlavní druhy:
+- Rohu – Labeo rohita
+- Catla – Catla catla
+- Mrigal – Cirrhinus mrigala
+
+
+------------------------------------------------
+1. OBECNÝ KONTEXT INDICKÝCH KAPROVITÝCH RYB
+------------------------------------------------
+
+Indické kaprovité ryby (Indian Major Carps, IMC) patří mezi
+nejvýznamnější produkční skupiny sladkovodní akvakultury na světě.
+
+Typické znaky:
+- sezónní reprodukce vázaná na monzun,
+- vysoká plodnost,
+- pelagické nebo semi-pelagické jikry,
+- slabý rodičovský instinkt,
+- přirozené tření probíhá v řekách s proudem.
+
+V kontrolovaných podmínkách (rybníky, líhnAS, líhně)
+je přirozené tření omezené → běžně se používá řízený (indukovaný) výtěr.
+
+
+------------------------------------------------
+2. DRUHOVÉ ROZDÍLY – REPRODUKČNÍ STRATEGIE
+------------------------------------------------
+
+2.1 Rohu (Labeo rohita)
+- Střední vodní sloupec
+- Pozdnější pohlavní dospělost
+- Vysoká tolerance prostředí
+- Nejčastější druh pro umělý výtěr
+
+2.2 Catla (Catla catla)
+- Povrchový planktonofág
+- Rychlý růst
+- Vysoké nároky na kyslík během výtěru
+- Citlivější na manipulaci
+
+2.3 Mrigal (Cirrhinus mrigala)
+- Bentický druh
+- Nejodolnější z IMC
+- Nižší citlivost k manipulaci
+- Často používán jako „stabilizační“ druh v obsádkách
+
+
+------------------------------------------------
+3. PŘIROZENÉ REPRODUKČNÍ PODMÍNKY (REFERENČNÍ)
+------------------------------------------------
+
+V přírodě:
+- výtěr během monzunů,
+- prudký nárůst průtoku,
+- zakalená voda,
+- teplota obvykle 26–30 °C,
+- vysoký obsah rozpuštěného kyslíku,
+- dlouhá fotoperioda.
+
+Tyto podmínky slouží jako biologický vzor
+pro umělé řízení výtěru.
+
+
+------------------------------------------------
+4. INDUKOVANÝ (UMĚLÝ) VÝTĚR – ZÁKLADNÍ PRINCIPY
+------------------------------------------------
+
+Indukovaný výtěr je standardní praxí u IMC.
+
+Cíle:
+- synchronizace ovulace,
+- kontrola termínu,
+- zvýšení úspěšnosti oplození,
+- produkce kvalitního plůdku.
+
+Používané přístupy:
+- hormonální stimulace (běžná praxe),
+- kombinace environmentálních signálů,
+- kontrolovaná separace pohlaví.
+
+Poznámka:
+Konkrétní hormonální látky a dávkování
+nejsou v tomto dokumentu uváděny
+(z důvodu legislativních rozdílů).
+
+
+------------------------------------------------
+5. PŘÍPRAVA GENERAČNÍCH RYB
+------------------------------------------------
+
+Klíčové faktory úspěchu:
+
+5.1 Kondice
+- plně vyvinuté gonády,
+- dobrý tukový profil,
+- absence parazitů.
+
+5.2 Výživa
+- dostatek bílkovin a lipidů,
+- dlouhodobá výživa důležitější než krátkodobá stimulace.
+
+5.3 Selekce
+- samice s měkkým, plným břichem,
+- samci s uvolňujícím se mlíčím,
+- vyřazení stresovaných nebo poškozených jedinců.
+
+
+------------------------------------------------
+6. PODMÍNKY PRO ÚSPĚŠNÝ VÝTĚR
+------------------------------------------------
+
+Optimální rozmezí:
+- Teplota: 26–30 °C
+- O₂: > 6 mg/l
+- pH: 7.0–8.0
+- Nízký obsah amoniaku a NO₂
+- Jemný, ale stabilní proud vody
+
+Hydraulika:
+- simulace proudění řeky,
+- žádné ostré turbulence,
+- rovnoměrné okysličení.
+
+
+------------------------------------------------
+7. INKUBACE JIKER
+------------------------------------------------
+
+Charakter jiker:
+- nelepivé,
+- polopelagické,
+- citlivé na mechanické poškození.
+
+Zásady inkubace:
+- kontinuální mírný pohyb vody,
+- vysoký kyslík,
+- prevence usazování jiker,
+- rychlé odstranění mrtvých jiker.
+
+Doba líhnutí:
+- obvykle 12–24 hodin (dle teploty).
+
+
+------------------------------------------------
+8. LARVÁLNÍ FÁZE A KRITICKÉ BODY
+------------------------------------------------
+
+Nejrizikovější období:
+- přechod na exogenní výživu,
+- první 3–5 dní po rozplavání.
+
+Požadavky:
+- stabilní teplota,
+- jemná potrava (plankton / náhrady),
+- minimální manipulace,
+- nízká hustota.
+
+Časté příčiny ztrát:
+- hladovění,
+- hypoxie,
+- bakteriální infekce,
+- kolísání kvality vody.
+
+
+------------------------------------------------
+9. TYPICKÉ CHYBY V PRAXI
+------------------------------------------------
+
+- Špatné načasování výtěru
+- Nedostatečná kondice rodičů
+- Přílišná manipulace
+- Nízký kyslík během inkubace
+- Nevhodná larvální potrava
+- Příliš vysoká hustota plůdku
+
+
+------------------------------------------------
+10. VYUŽITÍ V AKVAKULTURNÍ PRAXI
+------------------------------------------------
+
+Tento dokument je relevantní pro:
+- rybníkářství v tropických oblastech,
+- státní i soukromé líhně,
+- rozvojové projekty (Africa, Asia),
+- kombinované systémy (pond + hatchery),
+- plánování sezónní produkce plůdku.
+
+
+------------------------------------------------
+11. ZDROJOVÁ VÝCHODISKA (PARAFRÁZOVÁNO)
+------------------------------------------------
+
+Obsah dokumentu vychází z odborné syntézy:
+- FAO Fisheries & Aquaculture Technical Papers
+- FAO manuals for induced breeding of carps
+- ICAR (India) extension materials
+- WorldFish hatchery guidelines
+- Regionálních rybníkářských praktik v Indii a Bangladéši
+- Otevřeně dostupných akademických publikací
+
+Text je zcela nově formulovaný,
+bez převzatého chráněného obsahu.
+
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB-REPRO-11 – V1
+Poslední aktualizace: 2025-02
+Určeno pro: Aquantis Knowledge Base (interní použití)

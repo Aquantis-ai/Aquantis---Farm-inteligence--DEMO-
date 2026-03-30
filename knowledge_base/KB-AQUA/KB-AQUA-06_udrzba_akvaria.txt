@@ -1,0 +1,212 @@
+KB-AQUA-06 – ÚDRŽBA AKVÁRIA (RUTINY, CHYBY, HARMONOGRAM) – V1
+==========================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika
+Typ dokumentu: Provozní / údržbový manuál
+Použití v Aquantis: Diagnostika problémů, prevence, edukace
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+Zdroje (syntéza, parafráze):
+- Aquarium Science (R. Malone)
+- University Extension Aquarium Guides
+- Practical Fishkeeping, Aquatic Sciences & Fisheries Abstracts
+- Obecně uznávané akvaristické best practices
+
+
+------------------------------------------------
+1. ROLE ÚDRŽBY V AKVARISTICE
+------------------------------------------------
+
+Údržba akvária je klíčovým faktorem dlouhodobé stability systému.
+Většina problémů v akváriu nevzniká náhle, ale jako důsledek:
+
+- zanedbané údržby,
+- nepravidelnosti,
+- přehnaných zásahů,
+- nepochopení biologických procesů.
+
+Cílem údržby není „čistota za každou cenu“, ale:
+- stabilita chemismu vody,
+- zachování nitrifikačních bakterií,
+- kontrola organické zátěže,
+- minimalizace stresu ryb.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ PRINCIPY SPRÁVNÉ ÚDRŽBY
+------------------------------------------------
+
+1) Pravidelnost je důležitější než intenzita.
+2) Méně je často více – přehnané zásahy destabilizují systém.
+3) Každý zásah do filtru = zásah do biologické rovnováhy.
+4) Údržba musí respektovat typ akvária:
+   - low-tech,
+   - high-tech (CO₂),
+   - chovné,
+   - okrasné / společenské.
+
+
+------------------------------------------------
+3. PRAVIDELNÉ ÚKONY ÚDRŽBY
+------------------------------------------------
+
+3.1 Výměna vody
+----------------
+- Nejzásadnější údržbový krok.
+- Slouží k:
+  - odstranění NO₃,
+  - ředění organických látek,
+  - stabilizaci minerální rovnováhy.
+
+Obecná doporučení:
+- 10–30 % objemu týdně (většina akvárií),
+- menší, častější výměny jsou stabilnější než nárazové.
+
+Poznámky:
+- Teplota nové vody by měla být podobná vodě v akváriu.
+- Prudké změny pH nebo vodivosti jsou stresující.
+
+
+3.2 Odkalování dna
+------------------
+- Odstraňuje zbytky krmiva, detrit, fekálie.
+- Nutné hlavně u:
+  - holého dna,
+  - jemného štěrku,
+  - silně krmených nádrží.
+
+Pozor:
+- U rostlinných akvárií neodkalovat hluboko.
+- Částečný detrit je biologicky užitečný.
+
+
+3.3 Čištění skel
+----------------
+- Řasy na skle jsou běžné.
+- Odstraňují se:
+  - magnetickou stěrkou,
+  - škrabkou (opatrně u akrylátu).
+
+Řasy na skle jsou symptom, ne příčina – vždy je řešit v kontextu světla a živin.
+
+
+------------------------------------------------
+4. ÚDRŽBA FILTRACE
+------------------------------------------------
+
+Filtrace je biologické srdce akvária.
+
+4.1 Jak často čistit filtr
+--------------------------
+- Pouze při snížení průtoku.
+- Typicky 1× za 3–8 týdnů dle zatížení.
+
+4.2 Jak správně čistit
+----------------------
+- Nikdy ne v chlorované vodě.
+- Použít:
+  - vodu odsátou z akvária,
+  - jemné vymačkání, ne „vyprání“.
+
+4.3 Co nedělat
+--------------
+- Neměnit celý filtr najednou.
+- Nekombinovat čištění filtru s masivní výměnou vody.
+- Nepřehnaně sterilizovat média.
+
+
+------------------------------------------------
+5. ÚDRŽBA ROSTLIN (POKUD JSOU)
+------------------------------------------------
+
+- Pravidelné zastřihávání přerostlých částí.
+- Odstraňování odumřelých listů.
+- Kontrola rovnováhy:
+  - světlo,
+  - živiny,
+  - CO₂ (pokud používáno).
+
+Zanedbané rostliny = zdroj organického zatížení.
+
+
+------------------------------------------------
+6. TYPICKÉ CHYBY HOBBY CHOVATELŮ
+------------------------------------------------
+
+1) „Vyčistím všechno, ať je to hezké.“
+   → kolaps nitrifikace.
+
+2) Nepravidelné výměny vody.
+   → pomalé hromadění NO₃ a organiky.
+
+3) Časté změny techniky.
+   → nestabilita systému.
+
+4) Překrmování.
+   → zvýšené NH₄, řasy, zakalení.
+
+5) Ignorování drobných signálů:
+   - lehká apatie ryb,
+   - mírný zákal,
+   - změna chování.
+
+
+------------------------------------------------
+7. DOPORUČENÝ ÚDRŽBOVÝ HARMONOGRAM
+------------------------------------------------
+
+Denně:
+- kontrola ryb (chování, dýchání),
+- kontrola techniky (filtr, topítko).
+
+1× týdně:
+- výměna 10–30 % vody,
+- lehké odkalení dle potřeby,
+- setření řas ze skla.
+
+1× měsíčně:
+- kontrola filtru (bez nutnosti čištění),
+- proplach mechanických médií při sníženém průtoku.
+
+1× za 3–6 měsíců:
+- hlubší revize techniky,
+- kontrola hadic, rotorů, těsnění.
+
+
+------------------------------------------------
+8. DIAGNOSTICKÝ VÝZNAM ÚDRŽBY
+------------------------------------------------
+
+Stav akvária často přímo odráží kvalitu údržby:
+
+- časté řasy → nerovnováha živin / světla,
+- zákal → bakteriální exploze / překrmování,
+- úhyny bez zjevné příčiny → dlouhodobý stres,
+- kolísání pH → špatný režim výměn vody.
+
+Údržba není samostatná činnost – je to kontinuální proces řízení systému.
+
+
+------------------------------------------------
+9. SHRNUTÍ PRO AQUANTIS
+------------------------------------------------
+
+Aquantis by měl:
+- zdůrazňovat pravidelnost,
+- varovat před přehnanými zásahy,
+- vysvětlovat souvislosti, ne jen úkony,
+- pomáhat uživateli nastavit realistický režim údržby.
+
+Správná údržba = stabilní akvárium, zdravé ryby, minimum problémů.
+
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-06 – V1  
+Určeno pro: Aquantis Knowledge Base (interní použití)

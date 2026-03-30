@@ -1,0 +1,226 @@
+Aquantis_KB21_NÁVRH_PRŮTOKŮ_A_PUMP_V_RAS_V1
+============================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument shrnuje principy návrhu průtoků, výběru čerpadel, výpočtu hydraulických ztrát,
+dimenzování potrubí a bezpečnostních přístupů (N+1, redundance, bypass).
+Slouží jako praktický technický základ pro model Aquantis při výpočtech doporučených průtoků
+a hodnocení hydrauliky RAS systémů.
+
+Obsah čerpá z obecných best practices z komerčních RAS, univerzitních extension materiálů,
+standardů návrhu technologických celků a praktických konstrukčních pravidel používaných
+v EU a USA. Neobsahuje 1:1 převzatý text.
+
+
+------------------------------------------------
+1. ZÁKLADNÍ PRINCIPY HYDRAULIKY V RAS
+------------------------------------------------
+
+Účel cirkulačního průtoku:
+- přísun O₂ a distribuce vody po celém systému,
+- transport metabolitů (NH₄ → biofiltr),
+- udržení stabilního prostředí,
+- prevence mrtvých zón,
+- mechanické čištění.
+
+Klíčové faktory:
+- objem tanků,
+- druh ryby (potřeba O₂, preference proudění),
+- zatížení krmivem,
+- konfigurace systému (drum filter → biofiltr → degas → oxygenace → tanky),
+- délka a průměry potrubí.
+
+
+------------------------------------------------
+2. TYPOVÉ PRŮTOKY PODLE DRUHŮ
+------------------------------------------------
+Uvedené hodnoty jsou orientační a vycházejí z kombinace:
+— biologického zatížení,
+— požadavků na O₂,
+— tolerance ryb na proudění,
+— zkušeností z provozů RAS.
+
+Pstruh / siven (studenovodní):
+- 1.0–1.5 objemu tanku za hodinu (1.0–1.5 tank vol/h)
+- citlivé na nízký O₂ → vyšší průtoky pomáhají
+- preferované proudění: 20–40 cm/s dle velikosti
+
+Losos (post-smolt / growout):
+- 0.6–1.2 vol/h
+- v larvární fázi méně: 0.3–0.6 vol/h
+- proudění 10–25 cm/s
+
+Candát, okoun:
+- 0.3–0.8 vol/h
+- nemají rádi silné proudění
+- proudění 3–10 cm/s
+
+Kapr, amur, tolstolobik:
+- 0.3–0.8 vol/h
+- proudění 5–15 cm/s
+
+Tilapie:
+- 0.4–1.0 vol/h
+- proudění 10–20 cm/s (tilapie snáší proudění lépe)
+
+Sumec africký / pangas:
+- 0.5–1.0 vol/h
+- proudění 5–15 cm/s
+
+Jeseteři:
+- 0.5–1.2 vol/h
+- proudění 10–30 cm/s (dle velikosti; larvy níže)
+
+
+------------------------------------------------
+3. VÝPOČET POTŘEBNÉHO PRŮTOKU PRO TANK
+------------------------------------------------
+
+Vstupy:
+- V_tank (m³) – objem tanku
+- n = požadované výměny vody za hodinu (vol/h)
+- Q_target = cílový průtok (m³/h)
+
+Výpočet:
+Q_target = V_tank × n
+
+Příklady:
+- Tank 20 m³, pstruh (1.2 vol/h):  
+  Q = 20 × 1.2 = **24 m³/h**
+
+- Tank 15 m³, candát (0.4 vol/h):  
+  Q = 15 × 0.4 = **6 m³/h**
+
+- Tank 30 m³, tilapie (0.8 vol/h):  
+  Q = 30 × 0.8 = **24 m³/h**
+
+
+------------------------------------------------
+4. DIMENZOVÁNÍ POTRUBÍ (DOPORUČENÉ RYCHLOSTI V POTRUBÍ)
+------------------------------------------------
+
+Doporučené rychlosti:
+- hlavní cirkulační okruh: 1.0–1.8 m/s
+- sekundární větve: 0.6–1.2 m/s
+- přítok do tanku: 0.3–0.8 m/s
+
+Příliš vysoká rychlost:
+- zvyšuje tření → vyšší tlakové ztráty → větší pumpy → vyšší náklady
+
+Příliš nízká rychlost:
+- sedimentace kalu,
+- riziko anaerobních zón.
+
+Pro Aquantis lze vypočítat doporučený průměr potrubí:
+D = f(Q, v)
+kde v je cílová rychlost.
+
+
+
+------------------------------------------------
+5. VÝPOČET HYDRAULICKÝCH ZTRÁT
+------------------------------------------------
+
+Celková tlaková ztráta:
+ΔP_total = ΔP_friction + ΔP_fittings + ΔP_height
+
+Kde:
+- ΔP_friction – ztráty třením v potrubí (Hazen-Williams, Darcy-Weisbach)
+- ΔP_fittings – kolena, T-kusy, ventily
+- ΔP_height – rozdíl výšek (pozitivní, pokud pumpa musí zvedat vodu)
+
+Pro orientační výpočet Aquantis používá zjednodušený model:
+ΔP (m) ≈ 0.1–0.6 m na každých 10 m potrubí podle rychlosti a průměru.
+
+Typické hodnoty:
+- malé RAS (PVC 50–90 mm): 0.2–0.4 m / 10 m
+- větší RAS (110–160 mm): 0.1–0.3 m / 10 m
+
+
+------------------------------------------------
+6. VOLBA PUMPY – HLAVNÍ KRITÉRIA
+------------------------------------------------
+
+Pumpa musí splňovat:
+1. požadovaný průtok Q,
+2. potřebnou výtlačnou výšku H_total = ΔP_total + bezpečnostní rezerva,
+3. účinnost (klíčové pro provozní náklady),
+4. vhodnost pro nepřetržitý provoz 24/7.
+
+Doporučená bezpečnostní rezerva:
+- 10–25 % v H_total,
+- 5–15 % v Q.
+
+Pump curves:
+Pumpa se volí podle tzv. „pump curve“, kde osa x = průtok, osa y = výška.
+Pracovní bod systému musí ležet v optimální oblasti křivky pumpy (mid-efficiency zone).
+
+
+------------------------------------------------
+7. REDUNDANCE A N+1 SYSTÉMY
+------------------------------------------------
+
+Pro RAS je zásadní, že pumpa NIKDY nesmí selhat bez náhrady.
+
+Best practice:
+- alespoň 2 hlavní pumpy = každá zvládne 60–70 % celkového průtoku,
+- N+1 u kritických okruhů (biofiltr → tanky),
+- automatické přepínání nebo alarm.
+
+Redundance může být:
+- paralelní pumpy,
+- bypass,
+- nouzová pumpa,
+- gravitační oběh (jde-li konstrukčně).
+
+
+------------------------------------------------
+8. ZÁLOHOVÁNÍ A NOUZOVÉ REŽIMY
+------------------------------------------------
+
+Doporučené prvky:
+- UPS pro řídicí systém,
+- diesel agregát (počítej min. 2–4× hlavní pump load),
+- možnost nouzového okruhu s nižším průtokem (critical flow),
+- automatické alarmy (hladina, průtok, tlak, O₂).
+
+
+------------------------------------------------
+9. PRAKTICKÉ PŘÍKLADY VÝPOČTŮ
+------------------------------------------------
+
+Příklad 1: Pstruh growout (tank 30 m³)
+- cílový průtok: 30 × 1.2 = 36 m³/h
+- potrubí DN90 → rychlost 1.4 m/s → ΔP ~0.3 m/10 m
+- 20 m potrubí → ΔP = 0.6 m
+- výškový rozdíl: 0.4 m
+- armatury: 0.3 m
+- celkem: 1.3 m
+→ pumpa by měla mít cca 36 m³/h při 1.5–1.7 m H_total
+
+Příklad 2: Candát (tank 20 m³)
+- průtok: 20 × 0.4 = 8 m³/h
+- DN63 potrubí, ΔP ~0.2 m/10 m
+→ pumpa 8 m³/h při 0.6–0.8 m
+
+
+------------------------------------------------
+10. KONTROLNÍ SEZNAM PRO SPRÁVNÝ NÁVRH
+------------------------------------------------
+
+- [ ] Má systém správné průtoky podle druhu ryb?
+- [ ] Je potrubí dimenzováno tak, aby nezpůsobovalo nadměrné ztráty?
+- [ ] Jsou spočítané tlakové ztráty včetně armatur?
+- [ ] Leží pracovní bod na pump curve v optimální zóně?
+- [ ] Je zajištěna redundance pump N+1?
+- [ ] Je přítomen záložní zdroj energie?
+- [ ] Je průtok rovnoměrně distribuován mezi tanky?
+
+
+------------------------------------------------
+11. VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB21 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)

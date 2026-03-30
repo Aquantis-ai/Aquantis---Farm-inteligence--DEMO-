@@ -1,0 +1,219 @@
+KB-AQUA-03 – FILTRACE V AKVÁRIU (V1)
+==================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika
+Typ dokumentu: Technický základ / Best practices
+Použití v Aquantis: Diagnostika problémů, návrh akvária, prevence chyb
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL FILTRACE V AKVÁRIU
+------------------------------------------------
+
+Filtrace v akváriu plní tři klíčové funkce:
+
+1. Odstraňování pevných nečistot (mechanická filtrace)
+2. Biologickou přeměnu toxických dusíkatých látek (biologická filtrace)
+3. Úpravu chemického složení vody (chemická filtrace – volitelná)
+
+Cílem filtrace není sterilní voda, ale:
+- stabilní biologická rovnováha,
+- nízká koncentrace toxických látek (NH₃, NO₂),
+- dostatečná cirkulace a okysličení.
+
+Filtrace je vždy kompromis mezi:
+- potřebami ryb,
+- osádkou rostlin,
+- objemem akvária,
+- úrovní údržby.
+
+
+------------------------------------------------
+2. MECHANICKÁ FILTRACE
+------------------------------------------------
+
+Úloha:
+- Zachytává pevné částice: zbytky krmiva, výkaly, detrit, listy rostlin.
+- Chrání biologickou část filtru před zanesením.
+
+Typická filtrační média:
+- filtrační vata (jemná),
+- molitan (hrubý / střední),
+- filtrační houby,
+- předfiltry na nasávání.
+
+Důležité zásady:
+- Mechanická filtrace musí být snadno čistitelná.
+- Příliš jemná filtrace → rychlé zanesení → pokles průtoku.
+- Zanedbaná mechanická filtrace vede k:
+  - hromadění organického odpadu,
+  - zvýšení NH₃ / NO₂,
+  - bakteriálním problémům.
+
+Údržba:
+- Čistit pravidelně (1× týdně až 1× za 2–4 týdny).
+- Vždy oplachovat ve vodě z akvária, nikdy pod chlorovanou vodou.
+
+
+------------------------------------------------
+3. BIOLOGICKÁ FILTRACE
+------------------------------------------------
+
+Biologická filtrace je nejdůležitější část filtru.
+
+Princip:
+- Nitrifikační bakterie přeměňují:
+  NH₃ / NH₄⁺ → NO₂⁻ → NO₃⁻
+
+Klíčové bakterie:
+- Nitrosomonas (NH₃ → NO₂)
+- Nitrobacter / Nitrospira (NO₂ → NO₃)
+
+Typická biologická média:
+- keramické kroužky,
+- sinterované sklo,
+- bioballs,
+- porézní keramika,
+- hrubý molitan (velmi účinný).
+
+Podmínky pro funkční biofiltr:
+- dostatek kyslíku,
+- stabilní průtok,
+- pH obvykle 6.5–8.0,
+- žádné prudké chemické zásahy.
+
+Zásady:
+- Biologická média se čistí minimálně.
+- Nikdy neměnit všechna média najednou.
+- Kolaps biofiltru = prudký nárůst NH₃ a NO₂.
+
+Rozběh biologické filtrace:
+- Trvá typicky 3–6 týdnů (tzv. „záběh akvária“).
+- Přetížení v této fázi je častou chybou začátečníků.
+
+
+------------------------------------------------
+4. CHEMICKÁ FILTRACE
+------------------------------------------------
+
+Chemická filtrace není povinná, používá se cíleně.
+
+Typická média:
+- aktivní uhlí (odstraňuje organiku, léčiva, barviva),
+- zeolit (váže amoniak),
+- fosfátové absorbéry,
+- rašelina (snižuje pH, zvyšuje huminové látky).
+
+Zásady použití:
+- Používat krátkodobě, ne trvale.
+- Aktivní uhlí po 2–4 týdnech ztrácí účinnost.
+- Při dlouhodobém použití může:
+  - odstranit stopové prvky,
+  - destabilizovat systém.
+
+Chemická filtrace je nástroj, ne řešení špatné údržby.
+
+
+------------------------------------------------
+5. TYPY AKVARIJNÍCH FILTRŮ
+------------------------------------------------
+
+Vnitřní filtry:
+- vhodné pro malá akvária,
+- jednoduché,
+- menší biologická kapacita.
+
+Vnější filtry:
+- vysoká biologická kapacita,
+- snadná modulace médií,
+- vhodné pro střední a velká akvária.
+
+Hamburský filtr (HMF):
+- velmi stabilní biologická filtrace,
+- nízké nároky na údržbu,
+- vhodný pro chovné a odchovné nádrže.
+
+Sump / externí filtrace:
+- profesionální řešení,
+- vysoký objem médií,
+- vhodné pro velké nádrže a náročné druhy.
+
+
+------------------------------------------------
+6. PRŮTOK A DIMENZOVÁNÍ FILTRACE
+------------------------------------------------
+
+Obecné doporučení:
+- 3–5× objem akvária za hodinu (běžné nádrže),
+- 5–8× objem u:
+  - vyšší obsádky,
+  - dravých ryb,
+  - minimální výsadby rostlin.
+
+Pozor:
+- Příliš silný proud → stres ryb.
+- Příliš slabý průtok → lokální hromadění odpadu.
+
+Průtok je vždy kompromis mezi:
+- potřebami ryb,
+- biologickou filtrací,
+- komfortem akvária.
+
+
+------------------------------------------------
+7. ČASTÉ CHYBY VE FILTRACI
+------------------------------------------------
+
+- Přetížení akvária rybami.
+- Čištění filtru pod tekoucí vodou.
+- Výměna všech médií najednou.
+- Příliš malé filtry „na hraně výkonu“.
+- Spoléhání na chemii místo biologické stability.
+
+Filtrace neodpustí:
+- překrmování,
+- zanedbanou údržbu,
+- špatné plánování osádky.
+
+
+------------------------------------------------
+8. SOUHRN – FILTRACE JAKO ZÁKLAD STABILITY
+------------------------------------------------
+
+Dobře navržená filtrace:
+- udržuje nízké NH₃ a NO₂,
+- stabilizuje biologii,
+- snižuje stres ryb,
+- usnadňuje dlouhodobý provoz.
+
+V akvaristice platí:
+„Filtrace má být předimenzovaná – nikdy ne na hraně.“
+
+
+------------------------------------------------
+9. ZDROJE A ODBORNÉ VÝCHODISKO
+------------------------------------------------
+
+Dokument je syntézou odborných a otevřeně dostupných zdrojů:
+
+- FAO – Small-scale aquaculture & water management
+- Boyd, C.E. – Water Quality Management
+- University Extension materials (UF/IFAS, Texas A&M)
+- Praktické poznatky z akvaristiky a chovů
+- Obecně uznávané akvaristické best practices
+
+Text je formulován nově, bez přebírání copyrightovaných pasáží.
+
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-03 – V1
+Určeno pro: Aquantis Knowledge Base
+Interní použití

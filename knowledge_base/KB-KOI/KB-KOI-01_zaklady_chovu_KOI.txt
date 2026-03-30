@@ -1,0 +1,184 @@
+Aquantis_KB-KOI-01_ZAKLADY_CHOVU_KOI_V1
+================================================
+
+METADATA
+------------------------------------------------
+KB oblast: Okrasná jezírka a KOI
+Typ dokumentu: Základní přehled / koncepční dokument
+Použití v Aquantis: Kontext chovu, interpretace problémů, diagnostika
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument slouží jako základní koncepční rámec pro chov okrasných kaprů KOI
+v rámci systému Aquantis Knowledge Base.
+
+Cílem dokumentu je:
+- vysvětlit filozofii chovu KOI,
+- odlišit hobby chov od výstavního (show) chovu,
+- definovat hlavní cíle chovu,
+- vytvořit společný kontext pro interpretaci kvality vody, zdravotního stavu a chování KOI.
+
+Dokument NEŘEŠÍ detailní technické parametry vody, filtrace ani nemoci – ty jsou
+předmětem navazujících KB-KOI dokumentů.
+
+
+------------------------------------------------
+2. HISTORIE A PŮVOD KOI
+------------------------------------------------
+
+KOI (Nishikigoi) jsou vyšlechtěné barevné formy kapra obecného (Cyprinus carpio).
+Jejich původ sahá do Japonska, konkrétně do oblasti Niigata, kde byli původně chováni
+jako potravní ryby.
+
+Zásadní historické milníky:
+- 19. století: selekce barevných mutací (červené, bílé, černé vzory),
+- postupné oddělení chovu KOI od potravního kapra,
+- rozvoj estetických standardů (barva, kresba, tvar těla),
+- vznik výstavního hodnocení a specializovaných chovných linií.
+
+KOI se postupně stali:
+- symbolem dlouhověkosti, prosperity a harmonie,
+- vysoce ceněnou okrasnou rybou,
+- samostatným chovatelským oborem s vlastními pravidly.
+
+
+------------------------------------------------
+3. ZÁKLADNÍ CÍLE CHOVU KOI
+------------------------------------------------
+
+Na rozdíl od produkční akvakultury není cílem chovu KOI maximalizace biomasy
+nebo konverze krmiva.
+
+Hlavní cíle chovu KOI jsou:
+- dlouhověkost (běžně 20–40 let, výjimečně více),
+- stabilní a zdravý růst bez deformací,
+- kvalita zbarvení (hloubka barvy, kontrast, čistota),
+- kvalita tělesného tvaru (konstituce, symetrie),
+- minimalizace stresu.
+
+Z toho vyplývá, že:
+- KOI jsou extrémně citlivé na dlouhodobý stres,
+- malé chronické chyby v chovu mají kumulativní efekt,
+- kvalita prostředí je důležitější než rychlost růstu.
+
+
+------------------------------------------------
+4. HOBBY CHOV VS. SHOW (VÝSTAVNÍ) CHOV
+------------------------------------------------
+
+Chov KOI lze rozdělit do dvou hlavních kategorií:
+
+------------------------------------------------
+4.1 Hobby chov
+------------------------------------------------
+
+Charakteristika:
+- hlavním cílem je radost z chovu a estetiky jezírka,
+- důraz na základní zdraví ryb,
+- větší tolerance k variabilitě parametrů,
+- menší selekční tlak.
+
+Typické znaky:
+- smíšené velikosti a variety,
+- nižší hustota ryb,
+- jednodušší technologie,
+- menší frekvence zásahů.
+
+Rizika:
+- podcenění kvality vody,
+- dlouhodobé přehlížení subklinického stresu,
+- zhoršení barvy a vitality v čase.
+
+
+------------------------------------------------
+4.2 Show (výstavní) chov
+------------------------------------------------
+
+Charakteristika:
+- cílem je maximální estetická kvalita jednotlivých ryb,
+- velmi přísné nároky na stabilitu prostředí,
+- detailní monitoring a řízení systému.
+
+Typické znaky:
+- nízká hustota ryb,
+- vysoce výkonná filtrace,
+- velmi stabilní parametry vody,
+- selekce a vyřazování jedinců,
+- kontrolovaný růst (ne maximalizovaný).
+
+Rizika:
+- vysoká technologická náročnost,
+- citlivost na chyby obsluhy,
+- vysoké ekonomické ztráty při haváriích.
+
+
+------------------------------------------------
+5. FILOZOFIE CHOVU KOI
+------------------------------------------------
+
+Základní principy chovu KOI:
+
+1) Stabilita je důležitější než „ideální čísla“.
+2) Chronický stres je horší než krátkodobý výkyv.
+3) Kvalita vody ovlivňuje barvu dříve než zdraví.
+4) Chování ryb je nejcitlivější diagnostický nástroj.
+5) Prevence má mnohonásobně vyšší hodnotu než léčba.
+
+KOI:
+- velmi dobře maskují počáteční zdravotní problémy,
+- reagují na stres změnou chování dlouho před klinickými příznaky,
+- jsou extrémně citlivé na kvalitu dusíkového cyklu.
+
+
+------------------------------------------------
+6. ROLE KVALITY VODY V CHOVU KOI
+------------------------------------------------
+
+Pro KOI platí:
+- i nízké, ale dlouhodobé koncentrace NO₂ a NH₃ jsou nepřijatelné,
+- organické zatížení a pěnění jsou zásadním indikátorem problému,
+- kolísání pH je často větší problém než absolutní hodnota.
+
+Specifické pro KOI:
+- kvalita vody má přímý vliv na:
+  - intenzitu červené barvy (hi),
+  - čistotu bílé barvy (shiroji),
+  - kvalitu kůže (luster),
+  - rychlost stárnutí ryby.
+
+Proto je chov KOI:
+- více podobný „dlouhodobému wellness managementu“
+  než klasické produkční akvakultuře.
+
+
+------------------------------------------------
+7. DŮSLEDKY PRO NÁVRH DIAGNOSTIKY V AQUANTIS
+------------------------------------------------
+
+Při práci s KOI musí Aquantis:
+
+- klást důraz na dlouhodobé trendy, ne jen aktuální hodnoty,
+- hodnotit chování ryb jako primární signál,
+- pracovat s nízkými tolerancemi pro dusíkaté látky,
+- odlišovat hobby a show kontext,
+- preferovat preventivní doporučení.
+
+Tento dokument tvoří základ pro:
+- KB-KOI-02 (Kvalita vody pro KOI),
+- KB-KOI-03 (Filtrace v KOI jezírkách),
+- KB-KOI-04 (Zdraví a nemoci KOI),
+- KB-KOI-05 (Chování KOI a diagnostika).
+
+
+------------------------------------------------
+8. VERZE DOKUMENTU
+------------------------------------------------
+KB-KOI-01 – Základy chovu KOI
+Verze: V1
+Určeno pro: Aquantis Knowledge Base (interní použití)

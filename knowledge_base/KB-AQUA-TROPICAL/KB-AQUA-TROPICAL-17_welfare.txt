@@ -1,0 +1,199 @@
+KB-AQUA-TROPICAL-17 – WELFARE V TROPICKÝCH AKVÁRIÍCH (V1)
+======================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – tropická akvária
+Typ dokumentu: Welfare & etologie
+Použití v Aquantis: Diagnostika, prevence stresu, edukace chovatele
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. VÝZNAM WELFARE V AKVARISTICE
+------------------------------------------------
+
+Welfare ryb v akváriu je definováno jako stav, kdy ryba:
+
+- není vystavena dlouhodobému stresu,
+- má možnost přirozeného chování,
+- žije v prostředí odpovídajícím jejím biologickým potřebám,
+- není vystavena chronické bolesti, strachu nebo frustraci.
+
+V tropických akváriích je welfare často ohroženo:
+- vysokou hustotou ryb,
+- nekompatibilními druhy,
+- nestabilními parametry vody,
+- nevhodným světlem a layoutem nádrže.
+
+
+------------------------------------------------
+2. HLAVNÍ STRESORY V TROPICKÝCH AKVÁRIÍCH
+------------------------------------------------
+
+### 2.1 Environmentální stresory
+- kolísání teploty (> ±1–2 °C denně),
+- nestabilní pH / KH,
+- zvýšené NO₂ / NH₃ (i subletální koncentrace),
+- nízký nebo kolísající obsah kyslíku,
+- vysoké organické zatížení.
+
+### 2.2 Sociální stresory
+- přerybnění,
+- špatný poměr pohlaví,
+- teritoriální konflikty,
+- dominance agresivních jedinců,
+- nevhodné kombinace druhů.
+
+### 2.3 Provozní stresory
+- časté zásahy do nádrže,
+- nešetrná manipulace,
+- časté přestavby dekorací,
+- hlučné prostředí, vibrace.
+
+
+------------------------------------------------
+3. PROJEVY SNÍŽENÉHO WELFARE
+------------------------------------------------
+
+Typické behaviorální indikátory:
+- zrychlené nebo nepravidelné dýchání,
+- apatie nebo naopak hyperaktivita,
+- skrývání se mimo běžný rytmus,
+- odmítání potravy,
+- stereotypní pohyby (kroužení, „visení“ u hladiny).
+
+Fyziologické projevy:
+- blednutí barev,
+- rozpad ploutví,
+- zvýšená náchylnost k nemocem,
+- zkrácení délky života.
+
+
+------------------------------------------------
+4. HUSTOTA RYB A PROSTOROVÉ POTŘEBY
+------------------------------------------------
+
+Obecné principy:
+- welfare není lineárně závislé jen na objemu nádrže,
+- důležitá je horizontální plocha a členění prostoru.
+
+Orientační zásady:
+- hejnové ryby: min. 6–10 jedinců stejného druhu,
+- teritoriální ryby: jasně vymezená území,
+- kombinace aktivních a klidných druhů vyžaduje rezervu prostoru.
+
+Častý mýtus:
+„Ryby si zvyknou“ – ve skutečnosti dochází k chronickému stresu.
+
+
+------------------------------------------------
+5. ROLE LAYOUTU A STRUKTURY NÁDRŽE
+------------------------------------------------
+
+Pozitivní prvky pro welfare:
+- úkryty (kořeny, kameny, rostliny),
+- vizuální bariéry mezi teritorii,
+- otevřený prostor pro plavání,
+- přirozené členění dna.
+
+Negativní prvky:
+- holé nádrže bez struktury,
+- ostré dekorace,
+- nadměrné zrcadlení skel.
+
+
+------------------------------------------------
+6. SVĚTLO A FOTOPERIODA
+------------------------------------------------
+
+Doporučení:
+- stabilní fotoperioda (8–10 h denně),
+- postupný náběh / stmívání (pokud možné),
+- vyhnout se příliš vysoké intenzitě světla bez úkrytů.
+
+Stres z osvětlení:
+- trvalé silné světlo zvyšuje agresi,
+- náhlé rozsvícení → leknutí, panika, zranění.
+
+
+------------------------------------------------
+7. KRMENÍ A WELFARE
+------------------------------------------------
+
+Vztah krmení a welfare:
+- podkrmení → stres, agrese,
+- překrmování → zhoršení kvality vody.
+
+Doporučení:
+- krmit menší dávky vícekrát denně,
+- sledovat chování při krmení,
+- zajistit, aby potravu dostaly všechny ryby.
+
+Soutěž o potravu je častým zdrojem stresu.
+
+
+------------------------------------------------
+8. MANIPULACE A ÚDRŽBA
+------------------------------------------------
+
+Zásady šetrné manipulace:
+- minimální zásahy,
+- klidné pohyby,
+- tlumené světlo při práci,
+- používání vhodných sítěk.
+
+Údržba:
+- pravidelná, ale ne agresivní,
+- vyhýbat se kompletním „restartům“ nádrže,
+- stabilita je pro welfare důležitější než dokonalá čistota.
+
+
+------------------------------------------------
+9. PREVENCE STRESU A PODPORA WELFARE
+------------------------------------------------
+
+Souhrnná doporučení:
+- stabilní voda > ideální, ale kolísající,
+- méně ryb > více ryb,
+- strukturované prostředí,
+- konzistentní režim,
+- respektování přirozeného chování druhu.
+
+
+------------------------------------------------
+10. VAZBA NA ZDRAVÍ A DLOUHODOBÝ ÚSPĚCH CHOVU
+------------------------------------------------
+
+Dobré welfare:
+- snižuje výskyt nemocí,
+- prodlužuje život ryb,
+- zlepšuje vybarvení a chování,
+- snižuje nutnost zásahů a léčby.
+
+Špatné welfare:
+- je nejčastější skrytou příčinou „nevysvětlitelných“ úhynů.
+
+
+------------------------------------------------
+11. ZDROJE A ODBORNÝ ZÁKLAD (PARAFRÁZOVÁNO)
+------------------------------------------------
+
+Dokument vychází z konsolidovaných poznatků z:
+- FAO – welfare a environmentální stres u ryb,
+- EFSA – Animal Welfare Guidelines (ryby),
+- University Extension Materials (akvaristika, etologie),
+- odborné akvaristické literatury a dlouhodobé praxe,
+- obecně uznávaných etologických principů.
+
+Text je formulován nově, bez převzetí chráněných pasáží.
+
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-TROPICAL-17 – V1
+Určeno pro: Aquantis Knowledge Base

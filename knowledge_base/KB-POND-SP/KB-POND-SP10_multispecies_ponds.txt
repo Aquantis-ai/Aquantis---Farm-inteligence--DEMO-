@@ -1,0 +1,187 @@
+KB-POND-SP10 – SMÍŠENÉ RYBNÍKY (MULTISPECIES PONDS) (V1)
+======================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Rybníkářství – druhové profily
+Typ dokumentu: Species Profile / Production System
+Použití v Aquantis: Návrh obsádky, diagnostika problémů, optimalizace produkce
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL A VÝZNAM SMÍŠENÝCH RYBNÍKŮ
+------------------------------------------------
+
+Smíšené rybníky (multispecies ponds) jsou produkční systémy, kde je v jednom
+rybníku cíleně chováno více druhů ryb s rozdílnou potravní nikou,
+ekologickou funkcí a prostorovým chováním.
+
+Cílem je:
+- lepší využití přírodních zdrojů rybníka (plankton, bentos, makrofyta),
+- zvýšení celkové produkce na hektar,
+- stabilizace ekosystému,
+- snížení rizika přemnožení planktonu nebo makroorganismů,
+- diverzifikace produkce a příjmů.
+
+Multispecies systémy jsou tradiční zejména v:
+- střední Evropě (kaprovité ryby),
+- Asii (poly-culture: Rohu, Catla, Mrigal, kapr, tolstolobik),
+- Africe (tilapie + sumci),
+- USA (channel catfish + hybridní systémy).
+
+
+------------------------------------------------
+2. ZÁKLADNÍ PRINCIPY MULTISPECIES OBSÁDKY
+------------------------------------------------
+
+Úspěšná smíšená obsádka musí splňovat:
+
+1) RŮZNÉ POTRAVNÍ NIKY
+   - planktofágové (tolstolobik),
+   - herbivoři (amur),
+   - bentofágové (kapr, mrigal),
+   - dravci (candát, štika, okoun, black bass),
+   - omnivorní druhy (tilapie).
+
+2) RŮZNÉ PROSTOROVÉ VYUŽITÍ
+   - vodní sloupec,
+   - dno,
+   - litorál.
+
+3) KONTROLU TROFIE
+   - omezení fytoplanktonu,
+   - regulace zooplanktonu,
+   - omezení přemnožení drobných ryb.
+
+4) KOMPATIBILITU RŮSTU A CHOVÁNÍ
+   - podobná teplotní tolerance,
+   - podobná délka vegetační sezóny,
+   - omezení nadměrné predace.
+
+
+------------------------------------------------
+3. TYPICKÉ MODELY SMÍŠENÝCH RYBNÍKŮ
+------------------------------------------------
+
+### 3.1 Středoevropský kaprový rybník
+- Kapr obecný (hlavní produkční druh)
+- Amur bílý (kontrola vegetace)
+- Tolstolobik bílý/pestrý (plankton)
+- Lín, karas (vedlejší produkce)
+- Nízký podíl dravců (candát, štika – regulační funkce)
+
+### 3.2 Asijský polyculture systém
+- Rohu (Labeo rohita) – vodní sloupec
+- Catla (Catla catla) – povrch, plankton
+- Mrigal (Cirrhinus mrigala) – dno
+- Kapr obecný – adaptabilní všežravec
+- Tolstolobik – plankton
+→ Velmi efektivní využití trofie
+
+### 3.3 Smíšený dravě–nedravý systém
+- Kapr / tilapie (produkce biomasy)
+- Candát / okoun / black bass (kontrola přemnožení)
+- Nízká obsádka dravců (2–5 % biomasy)
+
+### 3.4 Tropické rybníky
+- Tilapie nilská
+- Sumec africký / pangasius
+- Doplnění filtrujících ryb (tolstolobik, pokud klima dovolí)
+
+
+------------------------------------------------
+4. DOPORUČENÉ POMĚRY OBSÁDKY (ORIENTAČNĚ)
+------------------------------------------------
+
+Středoevropský rybník:
+- Kapr: 60–75 %
+- Amur: 5–10 %
+- Tolstolobik: 10–20 %
+- Ostatní druhy: 5–10 %
+- Dravci: 1–3 %
+
+Asijský polyculture:
+- Catla: 15–20 %
+- Rohu: 30–35 %
+- Mrigal: 20–25 %
+- Kapr: 10–15 %
+- Tolstolobik: 5–10 %
+
+Poznámka:
+Poměry se vždy upravují podle:
+- úživnosti rybníka,
+- hloubky,
+- průhlednosti,
+- dostupnosti krmiva,
+- cílového trhu.
+
+
+------------------------------------------------
+5. PRODUKČNÍ VÝHODY A RIZIKA
+------------------------------------------------
+
+### Výhody:
+- vyšší produkce na hektar,
+- lepší stabilita vody,
+- snížení výkyvů planktonu,
+- vyšší ekologická odolnost,
+- diverzifikace příjmů.
+
+### Rizika:
+- přehnojení při špatné skladbě,
+- nadměrná predace,
+- konkurence o kyslík při letních hypoxiích,
+- složitější management,
+- obtížnější diagnostika problémů.
+
+
+------------------------------------------------
+6. DIAGNOSTICKÉ SIGNÁLY ŠPATNÉ SKLADBY
+------------------------------------------------
+
+- Přetrvávající zákal vody → nedostatek filtrujících ryb
+- Přemnožení drobných ryb → málo dravců
+- Poškození dna, kal → příliš vysoký podíl kapra
+- Únik vegetace → nedostatek amura
+- Letní kyslíkové krize → příliš vysoká biomasa
+
+
+------------------------------------------------
+7. ROLE SMÍŠENÝCH RYBNÍKŮ V MODERNÍ AKVAKULTUŘE
+------------------------------------------------
+
+Smíšené rybníky:
+- nejsou technologicky náročné,
+- jsou velmi udržitelné,
+- mají nízké CAPEX a OPEX,
+- jsou odolné vůči klimatickým výkyvům,
+- vhodné pro rozvojové i vyspělé regiony.
+
+V Aquantis slouží jako:
+- referenční model pro návrh obsádky,
+- diagnostický rámec při problémech,
+- nástroj pro optimalizaci produkce.
+
+
+------------------------------------------------
+8. ZDROJE A ODBORNÝ KONTEXT (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+- FAO Fisheries & Aquaculture Technical Papers
+- WorldFish – polyculture pond systems
+- Boyd, Tucker – Pond aquaculture ecology
+- Evropské rybníkářské postupy (CZ, AT, DE)
+- Asijské tradiční polyculture modely (India, Bangladesh, China)
+
+Text je odborná syntéza, neobsahuje žádné převzaté pasáže 1:1.
+
+
+------------------------------------------------
+9. VERZE DOKUMENTU
+------------------------------------------------
+KB-POND-SP10 – V1
+Určeno pro: Aquantis Knowledge Base (interní použití)

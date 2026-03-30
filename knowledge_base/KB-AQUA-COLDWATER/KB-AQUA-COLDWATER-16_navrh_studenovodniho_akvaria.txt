@@ -1,0 +1,217 @@
+KB-AQUA-COLDWATER-16 – JAK NAVRHNOUT A VYBUDOVAT VLASTNÍ STUDENOVODNÍ AKVÁRIUM (V1)
+===============================================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – studenovodní systémy
+Typ dokumentu: Návrh systému / praktický manuál
+Použití v Aquantis: Návrh akvária, edukace, prevence chyb
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+Zdroje (syntéza, parafráze):
+- FAO – Freshwater systems & ecology
+- Boyd – Water Quality Management
+- University Extension (coldwater aquaria & ponds)
+- Odborná akvaristická a jezírková praxe (EU, UK)
+
+
+------------------------------------------------
+1. CÍL STUDENOVODNÍHO AKVÁRIA
+------------------------------------------------
+
+Studenovodní akvárium není „levná varianta tropického akvária“,
+ale samostatný ekosystém s vlastními pravidly.
+
+Cílem je:
+- stabilní biologický systém,
+- dlouhodobé zdraví ryb,
+- nízký stres,
+- minimální zásahy.
+
+Základní princip:
+MENŠÍ hustota ryb + VĚTŠÍ objem = stabilita.
+
+
+------------------------------------------------
+2. VÝBĚR VHODNÉHO OBJEMU A TVARU
+------------------------------------------------
+
+Minimální doporučené objemy:
+- malé kaprovité ryby: 80–120 l
+- dania, kardinálky: 100+ l
+- zlaté rybky: 200 l a více
+- fancy goldfish: 250–300 l a více
+
+Tvar:
+- preferovat delší nádrže (lepší okysličení),
+- vyhnout se vysokým úzkým akváriím.
+
+Častá chyba:
+Podcenění konečné velikosti ryb.
+
+
+------------------------------------------------
+3. UMÍSTĚNÍ AKVÁRIA
+------------------------------------------------
+
+Vyhnout se:
+- přímému slunci,
+- blízkosti topení,
+- místům s kolísavou teplotou.
+
+Ideální prostředí:
+- stabilní pokojová teplota,
+- dobrý přístup pro údržbu,
+- pevná podložka (hmotnost vody!).
+
+
+------------------------------------------------
+4. FILTRACE – KLÍČOVÝ PRVEK
+------------------------------------------------
+
+Požadavky na filtraci:
+- silná biologická složka,
+- průtok alespoň 3–5× objem nádrže / hod,
+- možnost snadné údržby.
+
+Typy:
+- externí kanystrové filtry (doporučeno),
+- velké vnitřní filtry u menších nádrží.
+
+Poznámka:
+Ve studené vodě musí být filtrace
+naddimenzovaná oproti tropickým akváriím.
+
+
+------------------------------------------------
+5. OKYSLIČENÍ A PROUDĚNÍ
+------------------------------------------------
+
+Studenovodní ryby:
+- mají vysokou potřebu kyslíku,
+- jsou citlivé na hypoxii.
+
+Doporučení:
+- rozrušení hladiny,
+- vzduchování jako doplněk,
+- rovnoměrné proudění.
+
+Varování:
+Silné proudění ≠ dobré okysličení.
+
+
+------------------------------------------------
+6. SUBSTRÁT A DEKORACE
+------------------------------------------------
+
+Substrát:
+- inertní písek nebo jemný štěrk,
+- snadná údržba,
+- žádné aktivní substráty.
+
+Dekorace:
+- kameny, kořeny (dobře vyčištěné),
+- minimum ostrých hran,
+- nezahlcovat prostor.
+
+Zásada:
+Více prostoru pro plavání než dekorace.
+
+
+------------------------------------------------
+7. ROSTLINY – FUNKČNÍ DOPLNĚK
+------------------------------------------------
+
+Role rostlin:
+- odběr NO₃⁻,
+- stabilizace prostředí,
+- snížení stresu.
+
+Doporučení:
+- odolné studenovodní druhy,
+- žádné náročné CO₂ systémy.
+
+Pozor:
+Rostliny nenahrazují filtraci.
+
+
+------------------------------------------------
+8. ZALOŽENÍ AKVÁRIA (STARTUP)
+------------------------------------------------
+
+Postup:
+1. Naplnění vodou
+2. Zapnutí filtrace a aerace
+3. Záběh nitrifikace (2–4 týdny)
+4. Postupné osazení ryb
+
+Nikdy:
+- nenasazovat plnou obsádku ihned,
+- neměnit masivně vodu během záběhu.
+
+
+------------------------------------------------
+9. NASAZENÍ RYB
+------------------------------------------------
+
+Zásady:
+- pomalu,
+- po skupinách,
+- s karanténou.
+
+Častá chyba:
+„Akvárium vypadá prázdné, přidám ryby.“
+
+Akvárium se zaplní biologicky dříve než vizuálně.
+
+
+------------------------------------------------
+10. ÚDRŽBA A PROVOZNÍ REŽIM
+------------------------------------------------
+
+Pravidelně:
+- výměna 20–30 % vody týdně,
+- kontrola filtru (ne sterilizace),
+- odkalování dle potřeby.
+
+Méně je více:
+Příliš časté zásahy destabilizují systém.
+
+
+------------------------------------------------
+11. TYPICKÉ CHYBY ZAČÁTEČNÍKŮ
+------------------------------------------------
+
+- malé akvárium,
+- přerybnění,
+- slabá filtrace,
+- špatná kombinace druhů,
+- snaha řešit problémy chemií.
+
+Většina problémů má:
+konstrukční, ne léčebnou příčinu.
+
+
+------------------------------------------------
+12. SHRNUTÍ PRO AQUANTIS
+------------------------------------------------
+
+Při návrhu studenovodního akvária:
+- objem > technologie,
+- filtrace > dekorace,
+- stabilita > hustota ryb.
+
+Aquantis by měl:
+- vést uživatele ke správnému návrhu,
+- předcházet chybám už ve fázi plánování.
+
+
+------------------------------------------------
+13. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-COLDWATER-16 – V1
+Určeno pro: Aquantis Knowledge Base
+Interní použití

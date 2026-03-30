@@ -1,0 +1,227 @@
+Aquantis_KB27_PROVOZNÍ_PROTOKOLY_SOP_RAS_V1
+================================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument definuje standardizované provozní postupy (SOP – Standard Operating Procedures)
+pro recirkulační akvakulturní systémy (RAS).
+
+Cílem SOP je:
+- zajistit stabilní a opakovatelný provoz,
+- minimalizovat provozní chyby a rizika,
+- usnadnit školení personálu,
+- umožnit rychlou diagnostiku a reakci při problémech,
+- vytvořit základ pro audit, certifikace a welfare standardy.
+
+Dokument vychází z:
+- FAO aquaculture management guidelines,
+- RAS best practices (EU/USA),
+- univerzitních extension materiálů,
+- provozních manuálů komerčních RAS farem,
+- zkušeností z praxe.
+
+Všechny postupy jsou obecné a musí být přizpůsobeny konkrétnímu systému.
+
+
+------------------------------------------------
+1. STRUKTURA SOP V RAS
+------------------------------------------------
+
+Každý SOP by měl obsahovat:
+1. Název postupu
+2. Účel
+3. Odpovědnou osobu
+4. Frekvenci provádění
+5. Krokový postup
+6. Kontrolní body
+7. Záznamy a dokumentaci
+8. Kritéria pro eskalaci problému
+
+Tento dokument definuje referenční SOP pro klíčové oblasti RAS.
+
+
+------------------------------------------------
+2. SOP – DENNÍ PROVOZ
+------------------------------------------------
+
+2.1 Kontrola systému (denně)
+
+Frekvence: 1–2× denně
+
+Postup:
+- vizuální kontrola ryb (chování, rozptyl, dýchání),
+- kontrola hladiny vody v tancích,
+- kontrola chodu čerpadel, aerace, filtrů,
+- kontrola alarmů a senzorů.
+
+Kontrolní body:
+- ryby reagují normálně na krmení,
+- žádné úniky vody,
+- žádné neobvyklé zvuky z pump.
+
+Záznam:
+- denní provozní log.
+
+
+2.2 Denní měření vody
+
+Minimální parametry:
+- teplota
+- O₂
+- pH
+- NH₄/TAN
+- NO₂
+
+Postup:
+- měření provádět vždy ve stejnou dobu,
+- zaznamenat hodnoty do provozního deníku,
+- porovnat s historickými daty.
+
+Eskalace:
+- překročení limitů → okamžitá reakce dle krizového SOP.
+
+
+------------------------------------------------
+3. SOP – KRMENÍ
+------------------------------------------------
+
+3.1 Denní krmný protokol
+
+Postup:
+- krmit dle krmné křivky pro danou fázi ryb,
+- rozdělit dávku do více menších porcí,
+- sledovat reakci ryb během krmení.
+
+Kontrolní body:
+- zbytky krmiva po 10–15 minutách,
+- agresivita nebo apatie ryb.
+
+Záznam:
+- denní krmná dávka (kg),
+- typ krmiva.
+
+Eskalace:
+- snížený příjem krmiva → kontrola vody.
+
+
+------------------------------------------------
+4. SOP – FILTRACE A ÚDRŽBA
+------------------------------------------------
+
+4.1 Mechanická filtrace
+
+Frekvence:
+- denně / týdně dle zatížení
+
+Postup:
+- odstranění kalu,
+- kontrola sít, bubnů, pásů,
+- nikdy nečistit biologický filtr chlorovanou vodou.
+
+4.2 Biofiltr
+
+Frekvence:
+- průběžná kontrola
+
+Postup:
+- kontrola průtoku a aerace,
+- sledování NO₂ a TAN jako indikátor funkce.
+
+Zásady:
+- žádné chemické zásahy bez nutnosti,
+- stabilita je důležitější než „čistota“.
+
+
+------------------------------------------------
+5. SOP – REAKCE NA ODCHYLKY
+------------------------------------------------
+
+5.1 Zvýšený NO₂
+
+Postup:
+- okamžitě snížit krmení,
+- zvýšit aeraci,
+- ověřit alkalitu,
+- částečná výměna vody.
+
+5.2 Nízký O₂
+
+Postup:
+- okamžitě aktivovat záložní aeraci,
+- snížit hustotu nebo krmení,
+- kontrola čerpadel a diffuserů.
+
+5.3 Náhlá mortalita
+
+Postup:
+- oddělit postižené tanky,
+- změřit všechny parametry vody,
+- odebrat vzorky,
+- kontaktovat odborníka.
+
+
+------------------------------------------------
+6. SOP – HYGIENA A BIOBEZPEČNOST
+------------------------------------------------
+
+Zásady:
+- oddělené nářadí pro jednotlivé sekce,
+- dezinfekce rukou a obuvi,
+- karanténa nových ryb.
+
+Postup při vstupu:
+- kontrola hygienických bodů,
+- záznam návštěv.
+
+Cíl:
+- prevence zavlečení patogenů.
+
+
+------------------------------------------------
+7. SOP – ŠKOLENÍ PERSONÁLU
+------------------------------------------------
+
+Minimální požadavky:
+- znalost základních parametrů vody,
+- schopnost rozpoznat stres ryb,
+- znalost havarijních postupů.
+
+Frekvence školení:
+- vstupní školení,
+- opakovací školení 1× ročně,
+- školení po haváriích.
+
+
+------------------------------------------------
+8. SOP – DOKUMENTACE A TRACEABILITY
+------------------------------------------------
+
+Povinné záznamy:
+- denní provozní log,
+- krmné dávky,
+- údržba zařízení,
+- mortalita,
+- zásahy a havárie.
+
+Cíl:
+- zpětná dohledatelnost,
+- analýza trendů,
+- podklad pro rozhodování.
+
+
+------------------------------------------------
+9. SOP – KRIZOVÉ SCÉNÁŘE (ODKAZ)
+------------------------------------------------
+
+Detailní krizové protokoly jsou popsány v:
+- KB10 – Havarijní scénáře a krizové protokoly v RAS
+
+Tento dokument slouží jako běžná provozní nadstavba.
+
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB27 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)

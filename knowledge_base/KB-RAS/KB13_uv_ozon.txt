@@ -1,0 +1,165 @@
+AQUANTIS_KB13_UV_OZON_BEZPECNE_POUZIVANI_V1
+================================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument shrnuje zásady bezpečného a efektivního používání UV sterilizace a ozonizace 
+v recirkulačních akvakulturních systémech (RAS). Obsah čerpá z FAO materiálů, 
+Auburn University (Boyd), US EPA doporučení, výrobních manuálů (AquaUltraviolet, Wedeco), 
+a obecně uznávané průmyslové praxe. Text je kompletně nově formulovaný.
+
+------------------------------------------------
+1. ROLE UV A OZONU V RAS
+------------------------------------------------
+
+UV a ozon plní zcela odlišné, ale doplňující funkce:
+
+**UV sterilizace**
+- inaktivace bakterií, virů a parazitů,
+- snížení celkové mikrobiální zátěže v systému,
+- stabilizace RAS v období vysokého stresu (růst ryb, vyšší krmná dávka).
+
+**Ozonizace**
+- oxidace organického zatížení (TOC),
+- zlepšení čirosti vody a UV transmittance,
+- snížení biologické zátěže na biofiltr,
+- redukce barviv, fenolických látek, detritu.
+
+Poznámka: ozon NENÍ dezinfekce v systému; nesmí se dostat do tanku s rybami.
+
+------------------------------------------------
+2. UV STERILIZACE – FUNKČNÍ PRINCIP A LIMITY
+------------------------------------------------
+
+**Mechanismus účinku**
+- UV-C (254 nm) denaturuje DNA/RNA mikroorganismů → zabrání rozmnožování.
+- Účinnost se měří v mJ/cm² (dávka = intenzita × čas).
+
+**Doporučené intenzity**
+- Bakteriální kontrola: 30–45 mJ/cm²
+- Viry a odolné patogeny: 60–180 mJ/cm²
+- Koi/okrasné systémy s vyšší zátěží: 90–120 mJ/cm²
+
+**Kritické faktory:**
+- UV transmittance vody (UVT ≥ 80 %; ideál 90 %+)
+- Čistota křemenné trubice
+- Průtok (moc rychlý → nízká dávka; moc pomalý → přehřátí lampy)
+- Správné umístění: ZA mechanickou filtrací a ZA degazační kolonou
+
+**Životnost lampy**
+- 8 000–12 000 hodin (většina ztrácí 20–40 % výkonu po 1 roce)
+- doporučuje se roční výměna nezávisle na stavu
+
+------------------------------------------------
+3. OZON – FUNKCE, RIZIKA, LIMITY
+------------------------------------------------
+
+**Role ozonu**
+- silné oxidační činidlo (O₃),
+- rozkládá organiku, snižuje COD/BOD,
+- zlepšuje průchod UV světla,
+- snižuje mikrobiální zátěž v systému nepřímo.
+
+**Optimální dávkování**
+- 0.05–0.1 mg O₃ / l ve frakci RAS (v degazační koloně)
+- ORP 320–380 mV (nad 420 mV začíná riziko pro biofiltr)
+- Nikdy nedávkovat ozon přímo do tanku.
+
+**POZOR – KLÍČOVÁ RIZIKA**
+- O₃ likviduje nitrifikační bakterie → kolaps biofiltru
+- O₃ poškozuje žábry → akutní mortalita
+- Udržovat absolutně nulový únik ozonu do nádrží s rybami
+
+**Bezpečnostní opatření**
+- instalace destrukční jednotky (O₃ off-gas destructor),
+- degazační věž nadimenzovaná na průtok,
+- ORP s alarmem (akustický + vypnutí ozonu),
+- senzor O₃ ve vzduchu u operátora.
+
+------------------------------------------------
+4. UV + OZON = SYNERGIE
+------------------------------------------------
+
+Použití ozonu zlepšuje UV efektivitu, protože:
+- zvyšuje UV transmittance (méně organiky ve vodě),
+- snižuje počet částic stínících UV lampu.
+
+Doporučené pořadí technologie:
+Mechanická filtrace → frakcionátor/ozon → degazační kolona → UV → biofiltr → tanky
+
+------------------------------------------------
+5. INSTALAČNÍ DOPORUČENÍ
+------------------------------------------------
+
+**UV**
+- montáž horizontálně nebo vertikálně dle výrobce,
+- průtok nepřekročit hodnoty uvedené v tabulce pro požadovanou dávku,
+- zajistit obtok (bypass) pro servis,
+- umístit průtokoměr před UV.
+
+**Ozon**
+- vždy do okruhu MIMO hlavní tok do tanků,
+- ideálně do protein skimmeru nebo kontaktoru,
+- zajistit 3–5 sekund kontaktu s vodou před destruktorem,
+- umístit ORP sondu DO proudu z kontaktoru (ne do tanku).
+
+------------------------------------------------
+6. MONITORING + KONTROLA BEZPEČNOSTI
+------------------------------------------------
+
+**Pro UV:**
+- UVT měřit týdně,
+- čistit křemennou trubici 1× za 1–2 týdny,
+- kontrolovat teplotu lampy,
+- měnit lampu každých 8–12 měsíců.
+
+**Pro ozon:**
+- ORP 300–380 mV (cílové),
+- alarm ORP 400 mV,
+- měřit ozon ve vzduchu (OSHA limit: 0.1 ppm),
+- testovat destrukční jednotku,
+- kontrolovat pěnění a čirost vody.
+
+------------------------------------------------
+7. HAVARIJNÍ SCÉNÁŘE A OKAMŽITÉ PROTOKOLY
+------------------------------------------------
+
+1) **Únik ozonu do tanku**
+- okamžitě vypnout ozon,
+- zvýšit aeraci,
+- provést výměnu vody 20–40 %,
+- monitorovat O₂ a chování ryb,
+- zkontrolovat těsnění a venturi.
+
+2) **Kolaps biofiltru po přezónování**
+- snížit krmení na 50–0 %,
+- zvýšit aeraci biofiltru,
+- doplnit alkalitu,
+- sledovat NO₂, NH₄ každé 2–4 h.
+
+3) **Nízká účinnost UV**
+- zkontrolovat UVT,
+- vyčistit křemennou trubici,
+- snížit průtok,
+- zkontrolovat, zda lampa neexpirovala.
+
+------------------------------------------------
+8. VÝCHODISKA (PARAFRÁZOVANÁ)
+------------------------------------------------
+
+Tento dokument je syntézou otevřených zdrojů:
+- FAO Aquaculture Manuals (UV/O₃ v RAS),
+- US EPA – Ozone Applications Guidelines,
+- Boyd (Auburn University) – Water Quality,
+- výrobní standardy AquaUV, Wedeco, Mazzei,
+- obecné průmyslové best practices v intenzivní akvakultuře.
+
+Veškerý text je nově vytvořený pro Aquantis Knowledge Base.
+
+
+------------------------------------------------
+9. VERZE
+------------------------------------------------
+Verze: KB13 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)

@@ -1,0 +1,219 @@
+KB-REPRO-05 – UMĚLÝ VÝTĚR (HORMONÁLNÍ VS. PŘIROZENÝ) – V1
+=====================================================
+
+-----------------------------------------------------
+METADATA
+-----------------------------------------------------
+KB oblast: Reprodukce ryb
+Typ dokumentu: Technický / metodický
+Použití v Aquantis: Reprodukční diagnostika, plánování výtěru, rozhodovací podpora
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+-----------------------------------------------------
+1. ÚČEL DOKUMENTU
+-----------------------------------------------------
+
+Tento dokument popisuje principy, výhody, rizika a rozhodovací kritéria
+mezi přirozeným a umělým (indukovaným) výtěrem ryb.
+
+Cílem není poskytovat veterinární či farmakologické instrukce,
+ale:
+- vysvětlit biologické mechanismy,
+- popsat provozní logiku jednotlivých metod,
+- pomoci rozhodnout, KDY a PROČ zvolit daný přístup,
+- upozornit na limity, rizika a časté chyby.
+
+
+-----------------------------------------------------
+2. DEFINICE ZÁKLADNÍCH POJMŮ
+-----------------------------------------------------
+
+Přirozený výtěr:
+- Ryby se vytírají bez hormonální stimulace,
+- výtěr je spuštěn kombinací přirozených faktorů
+  (teplota, fotoperioda, substrát, proudění, sociální interakce).
+
+Umělý (indukovaný) výtěr:
+- Reprodukční proces je aktivně spuštěn člověkem,
+- obvykle pomocí hormonální stimulace nebo manipulace s prostředím,
+- cílem je synchronizace, kontrola termínu a vyšší výtěžnost.
+
+
+-----------------------------------------------------
+3. BIOLOGICKÝ ZÁKLAD INDUKCE VÝTĚRU
+-----------------------------------------------------
+
+Reprodukce ryb je řízena osou:
+Hypotalamus → Hypofýza → Gonády (HPG osa).
+
+Zjednodušeně:
+- Hypotalamus uvolňuje GnRH,
+- Hypofýza reaguje sekrecí gonadotropinů,
+- Gonády dozrávají a dochází k ovulaci / spermiaci.
+
+U mnoha druhů v umělých podmínkách:
+- chybí správné environmentální signály,
+- HPG osa není aktivována dostatečně silně,
+- dochází k zastavení v pozdní fázi zrání jiker.
+
+Indukce výtěru se snaží tento blok obejít.
+
+
+-----------------------------------------------------
+4. PŘIROZENÝ VÝTĚR – CHARAKTERISTIKA
+-----------------------------------------------------
+
+Typické znaky:
+- minimální zásah do fyziologie ryb,
+- nižší stres,
+- nižší provozní náročnost,
+- vyšší variabilita výsledků.
+
+Používá se zejména u:
+- kaprovitých ryb v rybnících,
+- KOI a okrasných ryb,
+- některých druhů v extenzivních nebo polointenzivních systémech.
+
+Hlavní limity:
+- silná závislost na počasí a sezóně,
+- obtížná synchronizace,
+- horší plánovatelnost produkce,
+- vyšší ztráty při neúspěšném výtěru.
+
+
+-----------------------------------------------------
+5. UMĚLÝ (INDUKOVANÝ) VÝTĚR – CHARAKTERISTIKA
+-----------------------------------------------------
+
+Základní cíl:
+- řízeně spustit ovulaci a spermiaci
+  v přesně definovaném čase.
+
+Výhody:
+- vysoká kontrola nad termínem výtěru,
+- synchronizace samic i samců,
+- vyšší výtěžnost jiker,
+- možnost celoroční produkce.
+
+Nevýhody:
+- vyšší stres pro generační ryby,
+- nutnost odborných znalostí,
+- vyšší biologická i etická odpovědnost,
+- riziko chyb při manipulaci.
+
+
+-----------------------------------------------------
+6. HORMONÁLNÍ INDUKCE – OBECNÉ PRINCIPY
+-----------------------------------------------------
+
+Hormonální indukce se používá tehdy, když:
+- ryby dosáhly plné gonadální zralosti,
+- ale přirozené spouštěče nejsou dostatečné.
+
+Používané strategie (obecně):
+- stimulace GnRH osy,
+- překonání dopaminové inhibice,
+- podpora finální ovulace.
+
+Důležité:
+Tento dokument NEUVÁDÍ:
+- konkrétní látky,
+- dávkování,
+- aplikační schémata.
+
+Tyto kroky spadají výhradně do kompetence
+veterináře nebo certifikovaného odborníka.
+
+
+-----------------------------------------------------
+7. MECHANICKÁ A ENVIRONMENTÁLNÍ INDUKCE
+-----------------------------------------------------
+
+Alternativou k hormonům je kombinace:
+- změny teploty,
+- manipulace s průtokem,
+- simulace deště / proudění,
+- změna fotoperiody,
+- oddělení a následné spojení pohlaví.
+
+Používá se zejména u:
+- lososovitých,
+- některých dravých ryb,
+- okrasných ryb (KOI, zlaté rybky).
+
+Úspěšnost závisí na:
+- kvalitě generačních ryb,
+- přesnosti načasování,
+- stabilitě ostatních parametrů.
+
+
+-----------------------------------------------------
+8. SROVNÁNÍ: PŘIROZENÝ VS. UMĚLÝ VÝTĚR
+-----------------------------------------------------
+
+Přirozený výtěr:
++ nižší stres
++ nižší náklady
+- horší kontrola
+- nižší opakovatelnost
+
+Umělý výtěr:
++ vysoká kontrola
++ plánovatelnost
++ vyšší výtěžnost
+- vyšší nároky na odbornost
+- vyšší biologická odpovědnost
+
+
+-----------------------------------------------------
+9. ČASTÉ CHYBY V PRAXI
+-----------------------------------------------------
+
+- Indukce ryb, které nejsou plně zralé.
+- Podcenění kondice generačních ryb.
+- Nedostatečná stabilita vody po indukci.
+- Příliš časté opakování výtěrů u jedinců.
+- Ignorování regenerace generačních ryb.
+
+
+-----------------------------------------------------
+10. ETICKÉ A PROVOZNÍ ASPEKTY
+-----------------------------------------------------
+
+Indukovaný výtěr:
+- není „zkratka“ k produkci,
+- vyžaduje respekt k biologickým limitům ryb,
+- má být používán cíleně, ne rutinně.
+
+Dlouhodobě udržitelný chov:
+- kombinuje přirozené a řízené postupy,
+- sleduje welfare generačních ryb,
+- pracuje s rezervou, nikoli na hraně.
+
+
+-----------------------------------------------------
+11. ZDROJE A ODBORNÁ VÝCHODISKA (PARAFRÁZOVANÁ)
+-----------------------------------------------------
+
+Tento dokument vychází z odborné syntézy:
+- FAO Fisheries Technical Papers – induced breeding of fish,
+- Boyd, Tucker – warmwater fish reproduction principles,
+- WorldFish hatchery manuals,
+- univerzitních extension materiálů (Auburn, University of Florida),
+- otevřeně dostupných článků z Aquaculture Journal a JWAS.
+
+Veškerý text je:
+- nově formulovaný,
+- neobsahuje přímé citace,
+- slouží jako znalostní rámec, nikoli návod k aplikaci léčiv.
+
+
+-----------------------------------------------------
+12. VERZE DOKUMENTU
+-----------------------------------------------------
+KB-REPRO-05 – Umělý výtěr (hormonální vs. přirozený)
+Verze: V1
+Určeno pro: Aquantis Knowledge Base (interní použití)

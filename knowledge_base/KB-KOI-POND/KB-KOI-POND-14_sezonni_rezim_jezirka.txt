@@ -1,0 +1,217 @@
+KB-KOI-POND-14 – SEZÓNNÍ REŽIM HOBBY JEZÍRKA (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Okrasná jezírka / Hobby chov
+Typ dokumentu: Seasonal Management Guide
+Použití v Aquantis: Diagnostika, prevence chyb, sezónní doporučení
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument popisuje správný sezónní management hobby jezírka
+se zaměřením na:
+
+- KOI jezírka,
+- smíšená okrasná jezírka (KOI + zlaté rybky, karasi, líni, jeseteři),
+- prevenci nejčastějších sezónních chyb hobby chovatelů.
+
+Cílem je:
+- minimalizovat stres ryb,
+- stabilizovat kvalitu vody,
+- předejít haváriím typickým pro jednotlivá roční období,
+- sladit biologické procesy jezírka s ročním cyklem.
+
+
+------------------------------------------------
+2. OBECNÝ SEZÓNNÍ CYKLUS JEZÍRKA
+------------------------------------------------
+
+Jezírko je silně ovlivněno:
+
+- teplotou vody,
+- délkou dne,
+- intenzitou slunečního záření,
+- biologickou aktivitou (ryby, bakterie, řasy, plankton).
+
+Zásadní je pochopit, že:
+- stejné zásahy nejsou vhodné v různých ročních obdobích,
+- mnoho problémů vzniká z aplikace „letního“ přístupu v zimě nebo na jaře.
+
+
+------------------------------------------------
+3. JARO – OBDOBÍ NESTABILITY
+------------------------------------------------
+
+Charakteristika:
+- prudké teplotní výkyvy (den/noc),
+- pomalé „nastartování“ biofiltru,
+- nízká bakteriální aktivita,
+- oslabená imunita ryb po zimě.
+
+Typická rizika:
+- zvýšený amoniak (NH₃/NH₄⁺),
+- nitritové špičky,
+- bakteriální infekce,
+- parazitární problémy (jaro = peak).
+
+Doporučení:
+- krmit velmi opatrně (lehce stravitelná krmiva),
+- sledovat NH₃, NO₂, pH,
+- nečistit biofiltr agresivně,
+- neprovádět velké zásahy najednou,
+- postupně zvyšovat biologickou zátěž.
+
+Častá chyba:
+- příliš brzké intenzivní krmení.
+
+
+------------------------------------------------
+4. LÉTO – OBDOBÍ MAXIMÁLNÍ ZÁTĚŽE
+------------------------------------------------
+
+Charakteristika:
+- vysoká biologická aktivita,
+- vysoká spotřeba kyslíku,
+- maximální produkce odpadu,
+- rychlý růst ryb.
+
+Typická rizika:
+- noční hypoxie,
+- přehřátí vody,
+- kolaps kyslíku při bouřkách,
+- masivní růst řas,
+- pěnění a organické přetížení.
+
+Doporučení:
+- silná aerace (zejména v noci),
+- kontrola teploty vody,
+- rozumná hustota ryb,
+- pravidelný odlov kalu,
+- nepřekrmovat „pro růst“.
+
+Častá chyba:
+- podcenění kyslíku v noci,
+- přidávání ryb v létě.
+
+
+------------------------------------------------
+5. PODZIM – PŘÍPRAVA NA ZIMU
+------------------------------------------------
+
+Charakteristika:
+- klesající teplota vody,
+- zpomalování metabolismu ryb,
+- změna bakteriální aktivity,
+- hromadění organiky.
+
+Typická rizika:
+- překrmování při klesající teplotě,
+- zanesení jezírka listím,
+- rozklad organiky během zimy.
+
+Doporučení:
+- přechod na podzimní krmiva,
+- postupné snižování dávky krmiva,
+- odstranění listí a sedimentu,
+- stabilizace pH a alkalinity,
+- kontrola filtrace před zimou.
+
+Častá chyba:
+- „dojídání zásob krmiva“ bez ohledu na teplotu.
+
+
+------------------------------------------------
+6. ZIMA – OBDOBÍ MINIMÁLNÍ AKTIVITY
+------------------------------------------------
+
+Charakteristika:
+- velmi nízký metabolismus ryb,
+- minimální biologická filtrace,
+- riziko nedostatku kyslíku pod ledem.
+
+Typická rizika:
+- zimní hypoxie,
+- hromadění CO₂ a NH₃ pod ledem,
+- úhyny při dlouhém zamrznutí.
+
+Doporučení:
+- nezakrývat celé jezírko ledem,
+- zajistit výměnu plynů (vzduchovač, otvor v ledu),
+- nekrmit při teplotě < 6–8 °C,
+- neprovádět zásahy do dna.
+
+Častá chyba:
+- krmení ryb v zimě,
+- rozbíjení ledu násilím.
+
+
+------------------------------------------------
+7. SEZÓNNÍ TABULKA RIZIK
+------------------------------------------------
+
+Jaro:
+- NH₃, NO₂, paraziti, bakteriální infekce
+
+Léto:
+- hypoxie, přehřátí, řasy, organická zátěž
+
+Podzim:
+- překrmování, organický rozklad
+
+Zima:
+- nedostatek kyslíku, plyny pod ledem
+
+
+------------------------------------------------
+8. SEZÓNNÍ STRATEGIE PRO SMÍŠENÁ JEZÍRKA
+------------------------------------------------
+
+Smíšená jezírka (KOI + jiné druhy):
+
+- mají vyšší organickou zátěž,
+- různé teplotní preference,
+- vyšší riziko parazitů.
+
+Doporučení:
+- řídit se nejcitlivějším druhem,
+- nepřizpůsobovat režim „nejodolnější rybě“,
+- nepřekrmovat kvůli pomalejším druhům.
+
+
+------------------------------------------------
+9. SHRNUTÍ KLÍČOVÝCH PRINCIPŮ
+------------------------------------------------
+
+- Každé roční období vyžaduje jiný přístup.
+- Nejvíce chyb vzniká v přechodných obdobích (jaro/podzim).
+- Stabilita je vždy důležitější než rychlý růst.
+- V hobby jezírkách je prevence zásadnější než řešení problémů.
+
+
+------------------------------------------------
+10. POZNÁMKY K ZDROJŮM
+------------------------------------------------
+
+Dokument vychází z:
+- KOI Organisation International (KOI seasonal management),
+- univerzitních extension materiálů (pond management),
+- FAO pond aquaculture manuals,
+- dlouhodobé praxe hobby chovů v EU, USA a Japonsku.
+
+Text je syntézou odborných principů,
+formulovaný nově a právně bezpečně.
+
+
+------------------------------------------------
+11. VERZE DOKUMENTU
+------------------------------------------------
+KB-KOI-POND-14 – V1
+Určeno pro: Aquantis Knowledge Base

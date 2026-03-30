@@ -1,0 +1,224 @@
+KB-AQUA-TROPICAL-16 – Diagnostika problémů v tropických akváriích (V1)
+====================================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – tropická akvária
+Typ dokumentu: Diagnostický manuál
+Použití v Aquantis: Diagnostika, troubleshooting, doporučení zásahů
+Vhodné pro RAG: Ano
+Verze: V1
+Datum: 2025-02
+
+Zdroje (syntéza, parafráze):
+- FAO ornamental fish guidelines
+- Boyd, Water Quality Management
+- University extension materials (UF/IFAS, Texas A&M)
+- Practical aquaristics best practices (EU/US)
+- Open-access články z Aquaculture & Aquarium Sciences
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument slouží jako systematický diagnostický rámec pro řešení
+problémů v tropických akváriích.
+
+Cílem je:
+- rychle identifikovat pravděpodobnou příčinu problému,
+- odlišit environmentální, biologické a provozní chyby,
+- navrhnout bezpečné a realistické kroky bez předepisování léčiv.
+
+Formát je optimalizován pro RAG systém Aquantis:
+Symptom → Pravděpodobná příčina → Ověření → Bezpečný zásah.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ DIAGNOSTICKÝ POSTUP
+------------------------------------------------
+Před jakýmkoli zásahem vždy:
+1. Změřit základní parametry:
+   - teplota
+   - pH
+   - NH₃ / NH₄⁺
+   - NO₂⁻
+   - NO₃⁻
+2. Zhodnotit:
+   - stáří akvária
+   - poslední změny (ryby, krmení, údržba)
+   - chování ryb
+3. Odlišit:
+   - akutní problém (hodiny–dny)
+   - chronický problém (týdny)
+
+
+------------------------------------------------
+3. RYBY U HLADINY / LAPÁNÍ PO DECHU
+------------------------------------------------
+Symptom:
+- ryby se shlukují u hladiny
+- rychlé dýchání
+- apatie
+
+Pravděpodobné příčiny:
+- nízký rozpuštěný kyslík
+- vysoká teplota
+- zvýšený NH₃ / NO₂
+- přetížená filtrace
+
+Ověření:
+- kontrola teploty
+- test NH₃ / NO₂
+- vizuální kontrola filtru
+
+Bezpečný zásah:
+- zvýšit cirkulaci a provzdušnění
+- snížit krmení
+- částečná výměna vody
+- odstranit organické zbytky
+
+
+------------------------------------------------
+4. NÁHLÉ ÚHYNY BEZ VAROVÁNÍ
+------------------------------------------------
+Symptom:
+- ryby nalezeny mrtvé
+- bez dlouhodobých příznaků
+
+Pravděpodobné příčiny:
+- akutní toxický šok (NH₃, NO₂)
+- prudká změna teploty
+- kontaminace (čisticí prostředky, spreje)
+- výpadek filtrace nebo vzduchování
+
+Ověření:
+- rychlé testy vody
+- zjištění výpadků techniky
+- kontrola okolních zásahů v místnosti
+
+Bezpečný zásah:
+- okamžitá výměna části vody
+- obnovení filtrace a aerace
+- odstranění zdroje kontaminace
+
+
+------------------------------------------------
+5. ZTRÁTA BARVY, APATIE, STRES
+------------------------------------------------
+Symptom:
+- vybledlé barvy
+- schovávání se
+- snížená aktivita
+
+Pravděpodobné příčiny:
+- chronický stres
+- nevhodná kompatibilita druhů
+- špatná kvalita vody
+- nedostatečné úkryty
+
+Ověření:
+- kontrola NO₃⁻
+- zhodnocení obsádky
+- pozorování interakcí
+
+Bezpečný zásah:
+- úprava dekorací
+- snížení hustoty ryb
+- stabilizace prostředí
+
+
+------------------------------------------------
+6. ZÁKAL VODY (MLÉČNÝ / ZELENÝ)
+------------------------------------------------
+Symptom:
+- mléčný zákal
+- zelená voda
+
+Pravděpodobné příčiny:
+- bakteriální bloom (nové akvárium)
+- přemnožení řas
+- nadbytek živin
+
+Ověření:
+- stáří nádrže
+- hladina NO₃⁻ a PO₄³⁻
+- intenzita světla
+
+Bezpečný zásah:
+- omezení krmení
+- zkrácení fotoperiody
+- částečné výměny vody
+- trpělivost (u nových nádrží)
+
+
+------------------------------------------------
+7. POŠKOZENÉ PLOUTVE / OKUSOVÁNÍ
+------------------------------------------------
+Symptom:
+- roztřepené ploutve
+- viditelné rány
+
+Pravděpodobné příčiny:
+- agresivita mezi rybami
+- stres z přeplnění
+- nevhodná druhová kombinace
+
+Ověření:
+- pozorování chování
+- kontrola hustoty ryb
+
+Bezpečný zásah:
+- oddělení agresora
+- úprava obsádky
+- zvýšení struktury prostředí
+
+
+------------------------------------------------
+8. ŘASY JAKO DIAGNOSTICKÝ SIGNÁL
+------------------------------------------------
+Typy a význam:
+- zelené řasy → přebytek světla + živin
+- hnědé řasy → nové akvárium, slabé světlo
+- sinice → špatná cirkulace, organická zátěž
+
+Bezpečný přístup:
+- neřešit řasy izolovaně
+- vždy hledat příčinu v rovnováze systému
+
+
+------------------------------------------------
+9. ČASTÉ DIAGNOSTICKÉ CHYBY HOBBY CHOVATELŮ
+------------------------------------------------
+- okamžité použití chemie bez měření
+- časté a velké zásahy
+- překrmování
+- ignorování kompatibility druhů
+- řešení symptomů místo příčiny
+
+
+------------------------------------------------
+10. KDY VYHLEDAT ODBORNÍKA
+------------------------------------------------
+- opakované úhyny
+- dlouhodobě zvýšené NH₃ / NO₂
+- selhání biologické filtrace
+- nejasné kožní nebo neurologické příznaky
+
+Aquantis v těchto případech slouží jako
+diagnostický nástroj, nikoli náhrada odborníka.
+
+
+------------------------------------------------
+11. ZÁVĚR
+------------------------------------------------
+Většina problémů v tropických akváriích má:
+- environmentální původ,
+- je řešitelná úpravou systému,
+- nevzniká přes noc.
+
+Správná diagnostika je založena na:
+měření → pozorování → trpělivosti.
+
+------------------------------------------------
+KONEC DOKUMENTU
+------------------------------------------------

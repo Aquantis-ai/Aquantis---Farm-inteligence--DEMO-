@@ -1,0 +1,234 @@
+KB-POND-13 – ZIMOVÁNÍ RYBNÍKŮ A ZIMNÍ MORTALITA (V1)
+=================================================
+
+ÚČEL DOKUMENTU
+-------------------------------------------------
+Tento dokument popisuje zásady správného zimování rybníků,
+hlavní příčiny zimní mortality ryb a praktické postupy,
+jak rizika minimalizovat.
+
+Dokument slouží jako odborný základ pro rozhodování v období
+po výlovu, během zimy a při jarním rozjezdu produkce.
+
+Zdroje poznatků:
+- FAO pond aquaculture manuals
+- tradiční středoevropská rybníkářská praxe
+- univerzitní extension materiály (střední Evropa, sever USA)
+- obecně uznávané rybníkářské best practices
+
+
+-------------------------------------------------
+1. VÝZNAM SPRÁVNÉHO ZIMOVÁNÍ
+-------------------------------------------------
+
+Zimování je kritické období, které zásadně ovlivňuje:
+- přežití obsádky,
+- kondici ryb na jaře,
+- následný růst a FCR,
+- zdravotní stav během následující sezóny.
+
+Většina zimních úhynů není způsobena chladem,
+ale kombinací:
+- hypoxie,
+- toxických plynů,
+- vyčerpání energetických rezerv,
+- špatné kondice ryb před zimou.
+
+
+-------------------------------------------------
+2. FYZIOLOGIE RYB V ZIMNÍM OBDOBÍ
+-------------------------------------------------
+
+Při poklesu teploty:
+- výrazně klesá metabolismus,
+- ryby přestávají přijímat potravu (obvykle < 6–8 °C),
+- spotřeba kyslíku se snižuje, ale neklesá na nulu.
+
+Rizika:
+- dlouhodobý energetický deficit,
+- oslabení imunity,
+- zvýšená citlivost k patogenům na jaře.
+
+Poznámka:
+Ryby vstupující do zimy v dobré kondici
+(přiměřený tuk, zdravé žábry, nízký stres)
+mají výrazně vyšší šanci přežití.
+
+
+-------------------------------------------------
+3. HLAVNÍ PŘÍČINY ZIMNÍ MORTALITY
+-------------------------------------------------
+
+3.1 Hypoxie pod ledem
+- sněhem zakrytý led blokuje fotosyntézu
+- omezená výměna plynů
+- postupný pokles O₂
+
+3.2 Akumulace toxických plynů
+- CO₂
+- H₂S
+- CH₄
+
+Vznikají rozkladem organické hmoty v sedimentu.
+
+3.3 Vysoká organická zátěž
+- nadměrné sedimenty
+- zbytky krmiva
+- nerozložená biomasa
+
+3.4 Špatná kondice ryb
+- podvýživa na podzim
+- přerybnění
+- stres z pozdního výlovu
+
+3.5 Náhlé zimní extrémy
+- rychlé zamrznutí
+- dlouhodobé mrazy
+- silná sněhová pokrývka
+
+
+-------------------------------------------------
+4. PŘÍPRAVA RYBNÍKA NA ZIMU
+-------------------------------------------------
+
+4.1 Výlov a redukce obsádky
+- odstranění tržních ryb
+- snížení hustoty zimující obsádky
+- ponechání pouze nutného počtu ryb
+
+4.2 Úprava sedimentu
+- odstranění přebytečného bahna
+- minimalizace organické zátěže
+- ideálně letnění v předchozí sezóně
+
+4.3 Úprava vodní hladiny
+- mírné snížení hladiny (pokud to podmínky dovolí)
+- zvýšení objemu nad sedimentem
+
+4.4 Kondice ryb před zimou
+- poslední krmení při vhodné teplotě
+- nepřekrmovat
+- vyhnout se stresovým manipulacím
+
+
+-------------------------------------------------
+5. ZIMNÍ REŽIM RYBNÍKA
+-------------------------------------------------
+
+5.1 Ledová pokrývka
+- stabilní led není problém sám o sobě
+- problémem je kombinace ledu + sněhu
+
+5.2 Prosvětlování ledu
+- odhrnování sněhu
+- zlepšení fotosyntézy
+- tradiční, velmi účinné opatření
+
+5.3 Výměna plynů
+- udržování otvorů v ledu (pokud bezpečné)
+- pozor na náhlé promíchání vody
+
+5.4 Monitoring
+- vizuální kontrola ryb
+- zápach (H₂S)
+- bublání plynů
+- úhyny u břehů
+
+
+-------------------------------------------------
+6. AERACE V ZIMNÍM OBDOBÍ
+-------------------------------------------------
+
+Aerace může pomoci, ale je riziková.
+
+Zásady:
+- používat pouze nízkointenzivní aeraci
+- nikdy nemíchat hluboké vrstvy prudce
+- cílem je výměna plynů, ne cirkulace celého objemu
+
+Riziko:
+- uvolnění toxických plynů ze sedimentu
+- náhlý kolaps obsádky
+
+
+-------------------------------------------------
+7. DRUHOVÉ ROZDÍLY V CITLIVOSTI
+-------------------------------------------------
+
+Vyšší citlivost k zimní hypoxii:
+- kapr při vysoké hustotě
+- lín
+- tolstolobik
+
+Relativně vyšší tolerance:
+- karas
+- některé dravé ryby (při nízké hustotě)
+
+Dravé ryby:
+- nízká hustota = nízké riziko
+- vysoká kondice klíčová
+
+
+-------------------------------------------------
+8. TYPOVÉ SCÉNÁŘE ZIMNÍCH PROBLÉMŮ
+-------------------------------------------------
+
+Scénář 1: Silná sněhová pokrývka
+- rychlý pokles O₂
+- řešení: odhrnutí sněhu
+
+Scénář 2: Zápach po zkažených vejcích
+- H₂S ze sedimentu
+- riziko masové mortality
+
+Scénář 3: Náhlé oblevy
+- přísun organiky
+- kolísání plynů
+- zvýšený stres ryb
+
+
+-------------------------------------------------
+9. OPATŘENÍ PRO SNÍŽENÍ ZIMNÍ MORTALITY
+-------------------------------------------------
+
+1. Nízká zimní obsádka
+2. Čistý rybník bez nadměrného bahna
+3. Ryby v dobré kondici
+4. Prosvětlování ledu
+5. Opatrná aerace pouze v nutných případech
+6. Pravidelný dohled
+
+
+-------------------------------------------------
+10. JARNÍ OBDOBÍ – PŘECHOD ZIMY
+-------------------------------------------------
+
+Rizikové období:
+- uvolnění plynů
+- nízká imunita ryb
+- rychlé změny teplot
+
+Doporučení:
+- pomalý rozjezd krmení
+- sledování zdravotního stavu
+- postupné zvyšování zátěže
+
+
+-------------------------------------------------
+11. SHRNUTÍ PRO AQUANTIS (DIAGNOSTICKÁ LOGIKA)
+-------------------------------------------------
+
+Zimní úhyny jsou nejčastěji důsledkem:
+- kombinace hypoxie + organické zátěže
+- špatné kondice ryb před zimou
+- dlouhého sněhového zakrytí ledu
+
+Klíčová je PREVENCE, ne zásah v krizi.
+
+
+-------------------------------------------------
+12. VERZE DOKUMENTU
+-------------------------------------------------
+Verze: KB-POND-13 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)

@@ -1,0 +1,208 @@
+Aquantis_KB-POND-04_PRODUKČNÍ_CYKLUS_RYBNÍKA_V1
+================================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument popisuje produkční cyklus rybníka během celého roku
+(jaro – léto – podzim – zima) z hlediska:
+- biologických procesů,
+- chování ryb,
+- kvality vody,
+- řízení produkce,
+- rizikových období.
+
+Slouží jako referenční znalostní dokument pro Aquantis
+v oblasti tradičního rybníkářství a extenzivní/polointenzivní akvakultury.
+
+
+------------------------------------------------
+1. ZÁKLADNÍ CHARAKTER PRODUKČNÍHO CYKLU
+------------------------------------------------
+
+Rybník je silně sezónní systém řízený:
+- teplotou vody,
+- slunečním zářením,
+- biologickou aktivitou planktonu,
+- metabolismem ryb.
+
+Produkční cyklus lze rozdělit do čtyř hlavních fází:
+1. Jarní start produkce
+2. Letní produkční vrchol
+3. Podzimní stabilizace a výlov
+4. Zimní klidové období
+
+Každá fáze má specifické:
+- rizikové faktory,
+- požadavky na řízení,
+- biologické limity.
+
+
+------------------------------------------------
+2. JARO – START PRODUKCE
+------------------------------------------------
+
+Období: březen – květen (dle nadmořské výšky)
+
+### 2.1 Biologické procesy
+- Zvyšující se teplota vody (5–15 °C)
+- Aktivace metabolismu ryb
+- Rozvoj fytoplanktonu (jarní květ)
+- Zvýšená nitrifikace a mineralizace sedimentu
+
+### 2.2 Chování ryb
+- Obnovení příjmu potravy
+- Zvýšená pohybová aktivita
+- Vysoká citlivost na náhlé změny kvality vody
+
+### 2.3 Řízení rybníka
+- Postupné nasazování krmení
+- Kontrola pH a ranního O₂
+- Opatrné hnojení (pokud se používá)
+- Kontrola zdravotního stavu ryb
+
+### 2.4 Rizika
+- Kolísání teplot (stres)
+- Přechodná hypoxie při ranních hodinách
+- Rozvoj jarních infekcí (plísně, aeromonády)
+
+
+------------------------------------------------
+3. LÉTO – PRODUKČNÍ VRCHOL
+------------------------------------------------
+
+Období: červen – srpen
+
+### 3.1 Biologické procesy
+- Maximální fotosyntetická aktivita
+- Vysoká produkce planktonu
+- Intenzivní růst ryb
+- Vysoké organické zatížení
+
+### 3.2 Kvalita vody
+- Denní cyklus pH (ráno nízké, odpoledne vysoké)
+- Riziko noční a ranní hypoxie
+- Akumulace organické hmoty v sedimentu
+
+### 3.3 Řízení produkce
+- Optimalizace krmné dávky
+- Kontrola hustoty obsádky
+- Monitoring ranního kyslíku
+- Regulace vodní vegetace
+
+### 3.4 Rizika
+- Letní hypoxie
+- Přehřátí vody
+- Sinicové květy
+- Náhlé úhyny při bouřkách a bezvětří
+
+
+------------------------------------------------
+4. PODZIM – STABILIZACE A VÝLOV
+------------------------------------------------
+
+Období: září – listopad
+
+### 4.1 Biologické procesy
+- Pokles teploty vody
+- Zpomalení metabolismu ryb
+- Ústup planktonu
+- Zlepšení kyslíkových poměrů
+
+### 4.2 Chování ryb
+- Intenzivní příjem potravy při vhodné teplotě
+- Akumulace energetických zásob
+- Snížená aktivita s klesající teplotou
+
+### 4.3 Řízení rybníka
+- Optimalizace výkrmu před výlovem
+- Postupné snižování krmení
+- Příprava na výlov
+- Kontrola zdravotního stavu před manipulací
+
+### 4.4 Rizika
+- Stres při manipulaci
+- Mechanické poškození ryb
+- Sekundární infekce po výlovu
+
+
+------------------------------------------------
+5. ZIMA – KLIDOVÉ OBDOBÍ
+------------------------------------------------
+
+Období: prosinec – únor
+
+### 5.1 Biologické procesy
+- Velmi nízký metabolismus ryb
+- Minimální spotřeba kyslíku
+- Omezená biologická aktivita
+
+### 5.2 Specifika zimování
+- Ledová pokrývka
+- Omezená výměna plynů
+- Riziko zimního dušení ryb
+
+### 5.3 Řízení rybníka
+- Udržování průduchů v ledu (pokud nutné)
+- Kontrola sněhové pokrývky na ledu
+- Minimální zásahy
+
+### 5.4 Rizika
+- Zimní hypoxie
+- Akumulace CO₂ a H₂S
+- Úhyny při dlouhodobém zakrytí ledu sněhem
+
+
+------------------------------------------------
+6. PŘEHLED RIZIK PODLE ROČNÍHO OBDOBÍ
+------------------------------------------------
+
+Jaro:
+- teplotní šoky
+- plísňová onemocnění
+
+Léto:
+- hypoxie
+- sinice
+- tepelný stres
+
+Podzim:
+- stres z manipulace
+- poranění
+
+Zima:
+- nedostatek kyslíku
+- plynová toxicita
+
+
+------------------------------------------------
+7. MANAGEMENTOVÉ ZÁSADY PRO CELÝ CYKLUS
+------------------------------------------------
+
+- Řídit rybník jako sezónní systém
+- Přizpůsobovat krmení teplotě vody
+- Pravidelně sledovat ranní kyslík
+- Respektovat biologická omezení ryb
+- Plánovat zásahy podle roční fáze, ne kalendáře
+
+
+------------------------------------------------
+8. VÝCHODISKA Z ODBORNÝCH ZDROJŮ (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+Dokument vychází z konsolidovaných poznatků:
+- FAO – pond aquaculture manuals
+- WorldFish – seasonal pond management
+- Boyd, C.E. – Water Quality in Ponds
+- Tradiční středoevropská rybníkářská praxe
+- Univerzitní extension materiály (pond management)
+
+Text je formulován nově, bez přímého přebírání
+chráněných pasáží.
+
+
+------------------------------------------------
+9. VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB-POND-04 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base – Rybníkářství

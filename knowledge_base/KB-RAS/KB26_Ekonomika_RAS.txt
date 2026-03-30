@@ -1,0 +1,255 @@
+Aquantis_KB26_EKONOMIKA_RAS_V1
+=============================
+
+ÚČEL DOKUMENTU
+--------------
+KB26 je praktický, “v1” ekonomický rámec pro RAS (recirkulační akvakulturu), určený pro:
+- rychlé odhady CAPEX/OPEX,
+- základní jednotkové náklady (€/kg, €/m³, €/kWh),
+- jednoduchý model marže a bodu zvratu (break-even),
+- citlivostní scénáře (energie, krmivo, mortalita, růst, prodejní cena).
+
+Tento dokument je navržen tak, aby:
+- byl použitelný bez složitého účetnictví,
+- byl auditovatelný (jasné vzorce, předpoklady),
+- nevyžadoval proprietární data ani placené zdroje.
+
+Poznámka k právu/citacím:
+- Obsah je “best practice” syntéza a ekonomická metodika běžná v oboru (FAO/extension materiály, průmyslová praxe).
+- Neobsahuje převzaté pasáže 1:1 z žádného zdroje.
+
+----------------------------------------------------------------
+1) DEFINICE JEDNOTEK A CO V RAS EKONOMICE SLEDOVAT
+----------------------------------------------------------------
+
+Hlavní “output” metriky:
+A) Náklad na 1 kg produkce (€/kg live weight) – nejdůležitější.
+B) Celkový roční cashflow (€/rok).
+C) EBITDA (jednoduše: tržby – provozní náklady bez odpisů/úroků).
+D) Bod zvratu (break-even) v kg/rok nebo €/rok.
+
+Klíčové “drivers” (nejcitlivější proměnné):
+- prodejní cena (€/kg),
+- FCR (kg krmiva / kg přírůstku),
+- cena krmiva (€/kg),
+- mortalita (%),
+- energie (kWh/kg nebo kWh/m³) a cena energie (€/kWh),
+- průměrná doba cyklu a obrat (turnover),
+- personální náklady a servis.
+
+----------------------------------------------------------------
+2) RAS PRODUKČNÍ MODEL (JEDNODUCHÁ KOSTRA)
+----------------------------------------------------------------
+
+Definice:
+- P = roční produkce (kg/rok)
+- S = prodejní cena (€/kg)
+- Revenue = P * S
+
+Základní procesní parametry (pro odhady):
+- Biomasa v systému (kg) = hustota (kg/m³) * objem tanků (m³)
+- Roční obrat (turns/rok) ≈ 365 / délka cyklu (dny)
+- P ≈ průměrná biomasa “sklizená” za rok (kg/rok) – u kontinuálního harvestu je to agregát.
+
+Praktický “rychlý” odhad P:
+- Pokud víš “harvest per week”: P ≈ 52 * harvest_week (kg)
+- Pokud víš “harvest per day”: P ≈ 365 * harvest_day (kg)
+
+----------------------------------------------------------------
+3) OPEX (PROVOZNÍ NÁKLADY) – STRUKTURA A VZORCE
+----------------------------------------------------------------
+
+OPEX se v RAS často dělí na:
+(1) Krmivo
+(2) Energie
+(3) Personál
+(4) Ostatní: voda, kyslík, chemie pro pH/alkalitu, servis, náhradní díly, analýzy, veterinární služby, logistika, obaly.
+
+------------------------------------------------
+3.1 Krmivo (většinou největší položka)
+------------------------------------------------
+
+Definice:
+- FCR = kg krmiva / kg přírůstku
+- FeedPrice = €/kg krmiva
+- FeedCost_total = P * FCR * FeedPrice
+
+Poznámky:
+- U přesnějšího modelu rozlišuj “přírůstek” vs “prodejní biomasa” (mortalita, trimming).
+- Pro v1 stačí: FeedCost_total ≈ P * FCR * FeedPrice.
+
+Typické řády (orientačně; závisí na druhu a kvalitě managementu):
+- FeedPrice: často 1.2–2.5 €/kg (dle druhu, proteinů, trhu)
+- FCR: 0.9–1.6 (dle druhu, teploty, kvality krmiva, stresu)
+
+------------------------------------------------
+3.2 Energie
+------------------------------------------------
+
+Jednoduchý model:
+- Energy_kWh_per_kg = specifická spotřeba (kWh/kg produkce)
+- EnergyPrice = €/kWh
+- EnergyCost_total = P * Energy_kWh_per_kg * EnergyPrice
+
+Alternativně (pokud máš jen roční kWh):
+- EnergyCost_total = total_kWh_year * EnergyPrice
+
+Poznámky:
+- Největší odběry: pumpy, dmychadla, oxygenace/kompresory, ohřev/chlazení, UV/ozon, osvětlení.
+- U teplotně řízených systémů tvoří ohřev/chlazení zásadní položku.
+
+------------------------------------------------
+3.3 Personál
+------------------------------------------------
+
+Definice:
+- StaffCost_total = počet_FTE * roční_mzda_FTE
+
+Pro v1:
+- 1 FTE = 1 člověk na plný úvazek.
+- U malých provozů může být personál “skrytý” (majitel).
+
+------------------------------------------------
+3.4 Ostatní OPEX (souhrnný koš)
+------------------------------------------------
+
+Doporučení pro v1:
+- OtherOPEX_total = P * OtherOPEX_per_kg
+
+Kde OtherOPEX_per_kg zahrnuje např.:
+- kyslík (pokud používáš),
+- voda a vypouštění,
+- pH/alkalita doplňky,
+- laboratorní testy,
+- údržba, náhradní díly,
+- veterinární konzultace,
+- balení, logistika.
+
+Pokud nemáš data:
+- jako hrubý start dej OtherOPEX_per_kg = 0.3–1.2 €/kg (dle intenzity a servisního modelu),
+a pak postupně zpřesňuj z reálných faktur.
+
+----------------------------------------------------------------
+4) CAPEX (INVESTICE) – JEDNODUCHÉ KATEGORIE
+----------------------------------------------------------------
+
+CAPEX typicky zahrnuje:
+A) Stavební část (budova, izolace, podlahy, drenáže)
+B) Procesní technologie (tanky, biofiltr, mechanika, pumpy, aerace, degazace, oxygenace)
+C) Elektrika, PLC/SCADA, senzory, zálohy (UPS, generátor)
+D) Inženýring, projekt, uvedení do provozu
+E) Rezerva (contingency)
+
+Pro v1 doporučuji CAPEX rozdělit:
+- CAPEX_total = CAPEX_building + CAPEX_process + CAPEX_control + CAPEX_misc
+
+A vždy přidat:
+- CAPEX_contingency = 10–20 % (podle nejistoty)
+
+----------------------------------------------------------------
+5) ZÁKLADNÍ FINANČNÍ METRIKY (V1)
+----------------------------------------------------------------
+
+Tržby:
+- Revenue = P * S
+
+Provozní náklady:
+- OPEX_total = FeedCost_total + EnergyCost_total + StaffCost_total + OtherOPEX_total
+
+Hrubá marže:
+- GrossMargin = Revenue – (FeedCost_total + EnergyCost_total + OtherOPEX_total)
+Pozn.: Personál můžeš pro “hrubou marži” vynechat, ale pro realitu ho přidej do EBITDA.
+
+EBITDA (zjednodušeně):
+- EBITDA = Revenue – OPEX_total
+
+Jednotkový náklad:
+- Cost_per_kg = OPEX_total / P
+
+Ziskovost na kg:
+- Profit_per_kg = S – Cost_per_kg
+
+Bod zvratu (kg/rok):
+- BreakEven_kg = FixedCosts / (S – VariableCost_per_kg)
+
+Kde:
+- FixedCosts (fixní) = např. personál + část energie + servisní paušály
+- VariableCost_per_kg (variabilní) = krmivo + část energie + spotřební materiál
+
+V1 zjednodušení:
+- Pokud nevíš, rozděl OPEX na:
+  - Fixní: StaffCost_total + 0.3*EnergyCost_total + fixní servis
+  - Variabilní: Feed + 0.7*Energy + OtherOPEX
+
+----------------------------------------------------------------
+6) CITLIVOSTNÍ ANALÝZA (SENZITIVITA) – CO MĚNIT
+----------------------------------------------------------------
+
+Pro v1 stačí 5 scénářů:
+(1) Energie +30 % (€/kWh)
+(2) Krmivo +20 % (€/kg)
+(3) FCR zhoršení o +0.2
+(4) Mortalita +5 procentních bodů
+(5) Prodejní cena -10 %
+
+Jak počítat mortalitu v ekonomice (v1):
+- Mortalita snižuje P (prodejní kg) a zároveň často zhorší FCR (stres, horší růst).
+Jednoduchý model:
+- P_effective = P * (1 – mort)
+- FeedCost_total ≈ P_effective * FCR_adj * FeedPrice
+Kde FCR_adj = FCR + penalizace (např. +0.05 až +0.2 podle stresu).
+
+----------------------------------------------------------------
+7) MINI “TEMPLATE” – VLOŽ SI ČÍSLA A SPOČÍTEJ
+----------------------------------------------------------------
+
+Vlož vstupy:
+- P = _______ kg/rok
+- S = _______ €/kg
+- FCR = _______
+- FeedPrice = _______ €/kg
+- Energy_kWh_per_kg = _______ kWh/kg
+- EnergyPrice = _______ €/kWh
+- StaffCost_total = _______ €/rok
+- OtherOPEX_per_kg = _______ €/kg
+
+Spočítej:
+- Revenue = P*S
+- FeedCost_total = P*FCR*FeedPrice
+- EnergyCost_total = P*Energy_kWh_per_kg*EnergyPrice
+- OtherOPEX_total = P*OtherOPEX_per_kg
+- OPEX_total = FeedCost_total + EnergyCost_total + StaffCost_total + OtherOPEX_total
+- Cost_per_kg = OPEX_total / P
+- Profit_per_kg = S - Cost_per_kg
+- EBITDA = Revenue - OPEX_total
+
+----------------------------------------------------------------
+8) CO DOPLNIT VE V2 (AŽ BUDEŠ MÍT DATA)
+----------------------------------------------------------------
+
+A) Rozdělení na sekce: nursery / pre-grow / growout (jiné FCR, jiné energie)
+B) Růstové křivky a feed curves (krmné dávky podle velikosti)
+C) Zátěž TAN → dimenzování biofiltru → CAPEX link (engineering-cost)
+D) Přesnější energetický model: pumpy, dmychadla, topení, chlazení jako komponenty
+E) Zohlednění odpisů (amortizace), úroků, leasingů
+F) Cashflow na 5–10 let (scénáře, investiční fáze, ramp-up)
+G) “Cost of downtime” – výpadky, mortalita, stres a ztráta růstu
+
+----------------------------------------------------------------
+9) PRAKTICKÉ POZNÁMKY PRO APLIKACI AQUANTIS
+----------------------------------------------------------------
+
+Jak Aquantis použije KB26:
+- při dotazu “vyplatí se RAS?” → nabídne rámec, seznam vstupů a rychlý výpočet.
+- při diagnostice “proč mám vysoké náklady?” → rozloží OPEX a navrhne, kde hledat úspory.
+- při plánování investic → upozorní na CAPEX contingency a skryté položky.
+
+Bezpečnost a přesnost:
+- Aquantis musí vždy uvádět, že jde o odhady a že reálné číslo závisí na lokalitě, druhu, managementu, cenách energií a krmiv.
+
+----------------------------------------------------------------
+10) VERZE DOKUMENTU
+----------------------------------------------------------------
+Verze: KB26 – V1
+Poslední aktualizace: 2025-12
+Určeno pro: Aquantis Knowledge Base (interní použití)

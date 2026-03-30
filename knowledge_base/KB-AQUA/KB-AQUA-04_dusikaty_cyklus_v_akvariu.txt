@@ -1,0 +1,222 @@
+KB-AQUA-04 – DUSÍKATÝ CYKLUS V AKVÁRIU (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – biologické procesy
+Typ dokumentu: Základní proces / Diagnostika
+Použití v Aquantis: Vysvětlování problémů, diagnostika úhynů, start akvária
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument popisuje dusíkatý cyklus v akváriu – klíčový biologický proces,
+který určuje stabilitu prostředí, zdraví ryb a dlouhodobou udržitelnost akvária.
+
+Dusíkatý cyklus je nejčastějším zdrojem:
+- úhynů ryb u začátečníků,
+- chronického stresu ryb,
+- kolapsu biologické filtrace,
+- problémů označovaných jako „nevysvětlitelné úhyny“.
+
+Porozumění tomuto cyklu je základní znalost pro každého akvaristu.
+
+
+------------------------------------------------
+2. ZDROJE DUSÍKU V AKVÁRIU
+------------------------------------------------
+
+Dusík se do akvária dostává především ve formě organické hmoty:
+
+Hlavní zdroje:
+- exkrementy ryb (močovina, amoniak),
+- zbytky krmiva,
+- odumřelé části rostlin,
+- uhynulé organismy,
+- rozklad biofilmu a detritu.
+
+Tyto látky jsou mikrobiálně rozkládány a vstupují do dusíkatého cyklu.
+
+
+------------------------------------------------
+3. AMONIAK (NH₃ / NH₄⁺) – PRVNÍ STUPEŇ
+------------------------------------------------
+
+Rozklad organické hmoty produkuje amoniak:
+
+- NH₃ (neionizovaný amoniak) – vysoce toxický
+- NH₄⁺ (amonný ion) – výrazně méně toxický
+
+Poměr mezi NH₃ a NH₄⁺ závisí na:
+- pH (vyšší pH = více NH₃),
+- teplotě (vyšší teplota = více NH₃).
+
+Nebezpečnost:
+- NH₃ poškozuje žábry a nervový systém,
+- i velmi nízké koncentrace mohou způsobit úhyn.
+
+Obecná doporučení:
+- NH₃: ideálně 0 mg/l
+- Celkový amoniak (TAN): < 0.2 mg/l
+
+
+------------------------------------------------
+4. NITRIFIKACE – BIOLOGICKÁ OBRANA AKVÁRIA
+------------------------------------------------
+
+Nitrifikace je dvoustupňový aerobní proces, při kterém specializované bakterie
+přeměňují toxické formy dusíku na méně toxické.
+
+1. krok – oxidace amoniaku:
+NH₃ / NH₄⁺ → NO₂⁻ (dusitan)
+Bakterie: Nitrosomonas, Nitrosospira
+
+2. krok – oxidace dusitanu:
+NO₂⁻ → NO₃⁻ (dusičnan)
+Bakterie: Nitrobacter, Nitrospira
+
+Tyto bakterie:
+- žijí přisedle (na filtračních médiích, skle, substrátu),
+- netvoří volně plovoucí kolonie,
+- rostou pomalu (dny až týdny).
+
+
+------------------------------------------------
+5. DUSITANY (NO₂⁻) – SKRYTÉ RIZIKO
+------------------------------------------------
+
+Dusitan je akutně toxický, často nebezpečnější než dusičnan.
+
+Účinek:
+- blokuje transport kyslíku v krvi ryb (methemoglobinémie),
+- ryby se dusí i při dostatku O₂.
+
+Doporučené hodnoty:
+- ideálně 0 mg/l
+- rizikové: > 0.2 mg/l
+- kritické: > 0.5 mg/l
+
+NO₂⁻ je typickým problémem:
+- v nově založených akváriích,
+- po čištění filtru,
+- při přerybnění nebo překrmování.
+
+
+------------------------------------------------
+6. DUSIČNANY (NO₃⁻) – KONEČNÝ PRODUKT
+------------------------------------------------
+
+Dusičnany jsou relativně málo toxické, ale při dlouhodobě vysokých hodnotách způsobují:
+
+- stres ryb,
+- sníženou imunitu,
+- problémy s růstem,
+- podporu řas.
+
+Obecné orientační limity:
+- společenské akvárium: < 50 mg/l
+- citlivé druhy: < 20–30 mg/l
+- rostlinná akvária snesou vyšší hodnoty (do určité míry).
+
+NO₃⁻ se odstraňuje:
+- výměnou vody,
+- rostlinami,
+- denitrifikací (omezeně).
+
+
+------------------------------------------------
+7. ZABÍHÁNÍ AKVÁRIA (CYCLING)
+------------------------------------------------
+
+Zabíhání akvária je proces vytvoření funkční nitrifikační bakteriální populace.
+
+Typický průběh:
+1. nárůst NH₃ / NH₄⁺
+2. následný nárůst NO₂⁻
+3. stabilizace a vznik NO₃⁻
+
+Doba:
+- 3–6 týdnů (bez urychlení),
+- kratší při použití funkční filtrace z jiného akvária.
+
+Běžné chyby:
+- přidání ryb příliš brzy,
+- výměna nebo mytí filtru horkou/chlorovanou vodou,
+- úplné vyčištění filtru.
+
+
+------------------------------------------------
+8. VLIV FILTRACE NA DUSÍKATÝ CYKLUS
+------------------------------------------------
+
+Biologická filtrace je hlavním místem nitrifikace.
+
+Klíčové faktory:
+- dostatek povrchu (porézní média),
+- stabilní průtok,
+- dostatek kyslíku,
+- stabilní pH (6.5–8.0).
+
+Nitrifikace selhává při:
+- nízkém O₂,
+- nízké alkalitě,
+- prudkých změnách pH,
+- použití léčiv nebo dezinfekcí.
+
+
+------------------------------------------------
+9. DIAGNOSTIKA PROBLÉMŮ
+------------------------------------------------
+
+Symptom → Pravděpodobná příčina:
+
+- Ryby lapají po dechu → NO₂⁻ / NH₃
+- Náhlé úhyny → kolaps nitrifikace
+- Zákal vody → bakteriální boom
+- Vysoké NO₃⁻ → nedostatečné výměny vody
+
+Základní reakce:
+- okamžitá výměna části vody,
+- omezení krmení,
+- kontrola filtru,
+- testování NH₃, NO₂⁻, NO₃⁻.
+
+
+------------------------------------------------
+10. VZTAH K DALŠÍM OBLASTEM AQUANTIS
+------------------------------------------------
+
+Dusíkatý cyklus propojuje:
+- filtraci (KB-AQUA-03),
+- kvalitu vody (KB-AQUA-02),
+- krmení a obsádku,
+- chování ryb a welfare.
+
+Je to biologický základ všech akvarijních systémů
+od malých nádrží až po RAS systémy.
+
+
+------------------------------------------------
+11. ODBORNÁ VÝCHODISKA (PARAFRÁZOVÁNO)
+------------------------------------------------
+
+Dokument vychází z konsolidovaných poznatků:
+- univerzitní akvarijní biologie a ekologie,
+- FAO a extension materiálů (dusík ve vodě),
+- RAS a pond aquaculture principů,
+- dlouhodobé akvaristické praxe.
+
+Text je zcela nově formulovaný a právně bezpečný.
+
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-04 – V1  
+Určeno pro: Aquantis Knowledge Base (interní použití)

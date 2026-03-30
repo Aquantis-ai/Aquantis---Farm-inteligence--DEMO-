@@ -1,0 +1,200 @@
+KB-KOI-07 – WELFARE KOI (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: KOI – welfare a management
+Typ dokumentu: Welfare & Management Guideline
+Použití v Aquantis: Diagnostika, prevence stresu, návrh jezírka, hodnocení rizik
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. DEFINICE WELFARE KOI
+------------------------------------------------
+
+Welfare KOI představuje souhrn podmínek, které umožňují rybám:
+- dlouhodobé přežití bez chronického stresu,
+- normální chování,
+- dobrý zdravotní stav,
+- optimální růst a vybarvení,
+- plné využití genetického potenciálu.
+
+U KOI má welfare mimořádný význam, protože:
+- jde o dlouhověké ryby (20–40 let),
+- jsou vystaveny vysoké manipulaci (show, prodej),
+- mají vysokou individuální hodnotu (finanční i chovatelskou).
+
+
+------------------------------------------------
+2. HLAVNÍ STRESORY U KOI
+------------------------------------------------
+
+### 2.1 Fyzikální stresory
+- kolísání teploty (>2–3 °C / den),
+- nízký rozpuštěný kyslík (<5 mg/l),
+- vysoká koncentrace CO₂,
+- nevhodné proudění (stagnace nebo extrémní turbulence).
+
+### 2.2 Chemické stresory
+- zvýšený TAN / NH₃,
+- NO₂ > 0.2 mg/l,
+- vysoké organické zatížení (DOC),
+- kolísání pH (>0.3–0.4 / den).
+
+### 2.3 Biologické stresory
+- paraziti (Costia, Trichodina, Gyrodactylus),
+- bakteriální tlak (Aeromonas, Pseudomonas),
+- přerybnění.
+
+### 2.4 Managementové stresory
+- časté odchyty a manipulace,
+- transport,
+- špatná karanténa,
+- nevhodné krmení (překrmování, nízká kvalita krmiva).
+
+
+------------------------------------------------
+3. OPTIMÁLNÍ HUSTOTA OBSÁDKY
+------------------------------------------------
+
+Doporučené orientační hodnoty:
+
+- Hobby jezírka:
+  max. 20–30 kg ryb / 10 m³ vody
+
+- Show / high-end KOI:
+  ideálně 10–20 kg / 10 m³
+
+- Karanténní systémy:
+  krátkodobě max. 30 kg / 10 m³ (při silné filtraci)
+
+Přerybnění vede k:
+- zvýšenému stresu,
+- rychlejšímu šíření patogenů,
+- zhoršení kvality vody,
+- potlačení imunitního systému.
+
+
+------------------------------------------------
+4. CHOVÁNÍ KOI JAKO INDIKÁTOR WELFARE
+------------------------------------------------
+
+### 4.1 Normální chování
+- aktivní plavání,
+- pravidelné přijímání potravy,
+- reagují na chovatele,
+- žádné izolované jedince.
+
+### 4.2 Varovné signály
+- shlukování u hladiny,
+- apatie nebo izolace jedinců,
+- tření o dno/stěny,
+- zrychlené dýchání,
+- nepravidelný pohyb.
+
+Chování je často **první indikátor problému**, dříve než se změní měřené parametry.
+
+
+------------------------------------------------
+5. MANIPULACE S KOI
+------------------------------------------------
+
+### 5.1 Zásady bezpečné manipulace
+- vždy používat jemné sítě (KOI nets),
+- minimalizovat čas mimo vodu (<30–60 s),
+- mokré ruce nebo rukavice,
+- nepřetěžovat rybu při zvedání.
+
+### 5.2 Sedace (obecné zásady)
+- pouze v nezbytných případech,
+- vždy s odpovídajícím odborným dohledem,
+- po sedaci zajistit vysoký O₂ a klid.
+
+Častá nebo špatně provedená manipulace = dlouhodobé welfare riziko.
+
+
+------------------------------------------------
+6. TRANSPORT KOI
+------------------------------------------------
+
+Hlavní rizika:
+- hypoxie,
+- CO₂,
+- mechanické poškození,
+- teplotní šok.
+
+Zásady:
+- krátké transporty preferovat,
+- dostatečný O₂,
+- stabilní teplota,
+- klid po transportu (min. 24–48 h).
+
+Transport je jeden z **největších stresových faktorů** v životě KOI.
+
+
+------------------------------------------------
+7. KARANTÉNA JAKO ZÁKLAD WELFARE
+------------------------------------------------
+
+Karanténa by měla:
+- trvat min. 3–6 týdnů,
+- mít samostatnou filtraci,
+- umožnit pozorování chování,
+- umožnit postupnou adaptaci.
+
+Bez karantény:
+- dramaticky roste riziko zavlečení parazitů,
+- narušuje se stabilita celého jezírka.
+
+
+------------------------------------------------
+8. DLOUHODOBÉ FAKTORY OVLIVŇUJÍCÍ WELFARE
+------------------------------------------------
+
+- stabilní kvalita vody (důležitější než „dokonalé“ hodnoty),
+- kvalitní krmivo,
+- sezónní přizpůsobení managementu,
+- nízká četnost zásahů,
+- dobrá biofiltrace.
+
+Welfare KOI je výsledkem **dlouhodobé rovnováhy**, nikoli jednorázových zásahů.
+
+
+------------------------------------------------
+9. RYCHLÝ WELFARE CHECKLIST
+------------------------------------------------
+
+Pokud odpovíš ANO na všechny otázky, welfare je pravděpodobně dobrý:
+
+- Ryby aktivně přijímají potravu?
+- Nejsou viditelné kožní léze?
+- Chování je jednotné, bez izolovaných jedinců?
+- Parametry vody jsou stabilní?
+- Nebyla v poslední době nadměrná manipulace?
+
+Pokud je více odpovědí NE → zvýšené riziko welfare problému.
+
+
+------------------------------------------------
+10. ZDROJE A ODBORNÝ KONTEXT
+------------------------------------------------
+
+Dokument vychází z odborné syntézy:
+- KOI Organisation International (KOI welfare & handling),
+- japonské chovatelské standardy (Niigata),
+- univerzitní extension materiály (ornamental ponds),
+- dlouhodobých best practices v KOI hobby i show chovu.
+
+Veškerý text je nově formulovaný, bez přímého přebírání chráněných textů.
+
+
+------------------------------------------------
+11. VERZE DOKUMENTU
+------------------------------------------------
+KB-KOI-07 – Welfare KOI (V1)
+Určeno pro: Aquantis Knowledge Base
+Interní použití – RAG ready

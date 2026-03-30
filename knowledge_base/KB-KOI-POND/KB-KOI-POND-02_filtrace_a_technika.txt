@@ -1,0 +1,204 @@
+KB-KOI-POND-02 – FILTRACE A TECHNIKA PRO HOBBY OKRASNÁ JEZÍRKA (V1)
+=================================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Okrasná jezírka / Hobby chovy
+Typ dokumentu: Technický přehled
+Použití v Aquantis: Diagnostika, návrh systému, prevence problémů
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL FILTRACE V OKRASNÉM JEZÍRKU
+------------------------------------------------
+
+Filtrace v hobby jezírkách plní čtyři základní funkce:
+
+1. Odstranění mechanických nečistot (kal, zbytky krmiva, listí).
+2. Biologický rozklad dusíkatých látek (NH₄⁺ → NO₂⁻ → NO₃⁻).
+3. Stabilizace kvality vody a prevence zákalu.
+4. Podpora zdraví ryb a omezení stresu.
+
+Na rozdíl od RAS:
+- jezírka nejsou uzavřené systémy,
+- pracují se sezónními výkyvy,
+- filtrace je kombinací techniky + přirozených procesů.
+
+
+------------------------------------------------
+2. MECHANICKÁ FILTRACE
+------------------------------------------------
+
+Cíl:
+Odstranit pevné částice dříve, než se rozloží na amoniak.
+
+Typy mechanické filtrace:
+
+1. Kartáče
+   - Zachytí hrubé nečistoty.
+   - Vhodné jako první stupeň filtrace.
+   - Nutná pravidelná manuální údržba.
+
+2. Japonské rohože (Jap Mat)
+   - Kombinace mechanické a biologické filtrace.
+   - Velká povrchová plocha.
+   - Vhodné pro KOI i hobby jezírka.
+
+3. Sítové filtry (sieve, drum – hobby verze)
+   - Efektivní odstranění jemných částic.
+   - Dražší, ale výrazně snižují zátěž biofiltru.
+   - Ideální pro větší jezírka nebo vyšší obsádku.
+
+Doporučení:
+Mechanická filtrace musí být vždy před biologickou.
+
+
+------------------------------------------------
+3. BIOLOGICKÁ FILTRACE
+------------------------------------------------
+
+Biologická filtrace zajišťuje nitrifikaci:
+
+NH₄⁺ → NO₂⁻ → NO₃⁻
+
+Používaná média:
+
+1. Bioballs, K1, K3
+   - Vysoká plocha pro nitrifikační bakterie.
+   - Často používané v pohyblivých filtrech.
+
+2. Lávová drť / keramika
+   - Velká plocha, ale riziko zanášení.
+   - Nutná opatrná údržba.
+
+3. Japonské rohože
+   - Stabilní, odolné, vhodné pro začátečníky.
+
+Zásady:
+- Biofiltr musí být neustále okysličen.
+- Nesmí se čistit chlorovanou vodou.
+- Kolaps biofiltru je častou příčinou problémů v jezírkách.
+
+
+------------------------------------------------
+4. ČERPADLA A PRŮTOK
+------------------------------------------------
+
+Funkce čerpadla:
+- Zajištění cirkulace vody skrze filtr.
+- Distribuce kyslíku a teploty.
+
+Základní pravidla:
+- Minimální průtok: 0,5–1,0 objemu jezírka za hodinu.
+- U KOI jezírek často 1,0–1,5× objemu / hod.
+
+Typy čerpadel:
+- Ponorná čerpadla – jednoduchá instalace, nižší účinnost.
+- Suchá čerpadla – vyšší účinnost, vhodná pro větší systémy.
+
+Pozor:
+- Ucpané čerpadlo = snížení filtrace + riziko hypoxie.
+
+
+------------------------------------------------
+5. OKYSLIČENÍ A AERACE
+------------------------------------------------
+
+Dostatek kyslíku je klíčový pro:
+- ryby,
+- nitrifikační bakterie,
+- rozklad organiky.
+
+Používané technologie:
+- Vzduchovací kompresory + kameny.
+- Vodopády, kaskády.
+- Venturi systémy.
+
+Doporučení:
+- Aerace běží nepřetržitě v létě.
+- V zimě zajistit otvor v ledu (difuzor ve střední hloubce).
+
+
+------------------------------------------------
+6. UV LAMPY
+------------------------------------------------
+
+Účel UV:
+- Redukce jednobuněčných řas (zelená voda).
+- Snížení mikrobiální zátěže.
+
+Zásady použití:
+- UV nenahrazuje filtraci.
+- Voda musí být mechanicky čistá před UV.
+- Pravidelná výměna UV zářiče (cca 1× ročně).
+
+Poznámka:
+UV nepůsobí na řasy usazené na stěnách (biofilm).
+
+
+------------------------------------------------
+7. SEZÓNNÍ PROVOZ TECHNIKY
+------------------------------------------------
+
+Jaro:
+- Postupné spuštění filtrace.
+- Biofiltr se „zabíhá“.
+
+Léto:
+- Maximální zátěž systému.
+- Důraz na aeraci a mechanické čištění.
+
+Podzim:
+- Omezení krmení.
+- Odstranění listí.
+- Příprava na zimu.
+
+Zima:
+- Omezený nebo vypnutý filtr (podle koncepce).
+- Zachování výměny plynů.
+
+
+------------------------------------------------
+8. TYPICKÉ CHYBY V HOBBY JEZÍRKÁCH
+------------------------------------------------
+
+- Poddimenzovaná filtrace.
+- Přerybnění.
+- Nepravidelná údržba mechanické části.
+- Přílišná závislost na UV lampě.
+- Čištění biofiltru chlorovanou vodou.
+
+
+------------------------------------------------
+9. DIAGNOSTICKÉ SIGNÁLY PRO AQUANTIS
+------------------------------------------------
+
+Pokud uživatel hlásí:
+- zelenou vodu → pravděpodobně nedostatečná mechanická filtrace nebo UV,
+- zápach → hromadění organiky,
+- ryby u hladiny → nízký O₂ nebo kolaps biofiltru,
+- kolísání NH₄/NO₂ → přetížený nebo nestabilní biofiltr.
+
+
+------------------------------------------------
+10. ZDROJOVÁ VÝCHODISKA (PARAFRÁZOVANÁ)
+------------------------------------------------
+
+- Koi Organisation International – hobby filtration guides.
+- Univerzitní extension materiály (pond filtration).
+- FAO pond management principles.
+- Praktické best practices z evropských KOI chovů.
+
+Veškerý text je odborná syntéza, ne kopie konkrétních publikací.
+
+
+------------------------------------------------
+11. VERZE DOKUMENTU
+------------------------------------------------
+KB-KOI-POND-02 – V1
+Určeno pro: Aquantis Knowledge Base
+Stav: aktivní

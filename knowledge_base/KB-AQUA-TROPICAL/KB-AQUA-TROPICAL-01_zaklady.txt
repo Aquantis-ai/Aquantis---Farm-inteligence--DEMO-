@@ -1,0 +1,152 @@
+KB-AQUA-TROPICAL-01 – Základy tropické akvaristiky (V1)
+======================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – Tropické akvárium
+Typ dokumentu: Základní koncept
+Použití v Aquantis: Diagnostika, návrh akvária, prevence chyb
+Vhodné pro RAG: Ano
+Verze: V1
+Datum: 2025-02
+
+------------------------------------------------
+1. CO JE TROPICKÉ AKVÁRIUM
+------------------------------------------------
+
+Tropické akvárium je uzavřený vodní ekosystém napodobující
+podmínky tropických a subtropických sladkovodních biotopů.
+
+Typické znaky:
+- teplota vody 22–30 °C
+- vysoká biologická aktivita
+- rychlý metabolismus ryb i mikroorganismů
+- citlivost na výkyvy kvality vody
+
+Tropické akvárium není „teplá verze studenovodního akvária“ –
+funguje podle jiných biologických zákonitostí.
+
+------------------------------------------------
+2. HLAVNÍ TROPICKÉ BIOTOPY
+------------------------------------------------
+
+Většina tropických ryb pochází z těchto typů prostředí:
+
+1) Blackwater (černé vody)
+   - nízké pH (4.5–6.5)
+   - nízká mineralizace
+   - vysoký obsah huminových látek
+   - Amazonie, Orinoko, jihovýchodní Asie
+
+2) Clearwater (čisté vody)
+   - pH 6.5–7.5
+   - střední mineralizace
+   - vyšší průhlednost
+   - mnoho teter, cichlid, sumců
+
+3) Whitewater (bílé vody)
+   - vyšší mineralizace
+   - kolísání parametrů
+   - vysoká produkce planktonu
+
+Chyba chovatelů:
+Míchání druhů z různých biotopů do jedné nádrže.
+
+------------------------------------------------
+3. TEPLOTA A METABOLISMUS
+------------------------------------------------
+
+Teplota řídí:
+- rychlost trávení
+- spotřebu kyslíku
+- citlivost na toxiny
+- průběh nemocí
+
+Základní pravidla:
+- vyšší teplota ≠ lepší růst
+- nad 28 °C prudce roste biologická zátěž
+- vyšší teplota zkracuje život ryb
+
+Typická chyba:
+„Zvýším teplotu, ryby budou aktivnější.“
+
+------------------------------------------------
+4. BIOLOGICKÁ ZÁTĚŽ
+------------------------------------------------
+
+Tropické ryby produkují:
+- více amoniaku
+- více organického odpadu
+- více CO₂
+
+Důsledky:
+- rychlé přetížení filtrace
+- kolaps nitrifikace
+- rozvoj nemocí
+
+Zlaté pravidlo:
+Tropické akvárium musí být biologicky dimenzováno,
+ne jen objemově.
+
+------------------------------------------------
+5. CHOVÁNÍ RYB JAKO DIAGNOSTICKÝ NÁSTROJ
+------------------------------------------------
+
+Chování ryb je nejrychlejší indikátor problémů.
+
+Varovné signály:
+- zrychlené dýchání
+- shlukování u hladiny
+- ztráta barvy
+- izolace jedince
+- agresivita mimo obvyklé vzorce
+
+Aquantis musí chování vnímat jako vstupní diagnostický parametr.
+
+------------------------------------------------
+6. ROZDÍL HOBBY VS. BIOLOGICKÝ PŘÍSTUP
+------------------------------------------------
+
+Hobby přístup:
+- „ryby vypadají dobře“
+- řešení až po problému
+
+Biologický přístup:
+- prevence
+- stabilita parametrů
+- respekt biotopu
+
+Tento dokument staví Aquantis na biologickém přístupu.
+
+------------------------------------------------
+7. NEJČASTĚJŠÍ CHYBY ZAČÁTEČNÍKŮ
+------------------------------------------------
+
+1) Přerybnění
+2) Rychlé změny vody
+3) Míchání nekompatibilních druhů
+4) Překrmování
+5) Podcenění karantény
+6) Kopírování „internetových receptů“
+
+------------------------------------------------
+8. ZDROJE A ODBORNÉ VÝCHODISKO
+------------------------------------------------
+
+Dokument vychází z:
+- FAO – Small-scale aquaculture manuals
+- Boyd, Tucker – Water Quality
+- University extension materials (UF, Texas A&M)
+- Practical Fishkeeping research summaries
+- Ichthyological ecology studies (Amazon basin)
+
+Text je syntetizovaný, parafrázovaný a právně bezpečný.
+
+------------------------------------------------
+9. VERZE DOKUMENTU
+------------------------------------------------
+
+KB-AQUA-TROPICAL-01
+Verze: V1
+Určeno pro: Aquantis Knowledge Base

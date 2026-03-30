@@ -1,0 +1,175 @@
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Rybníkářství – druhové profily
+Typ dokumentu: Species Profile
+Použití v Aquantis: Diagnostika, návrh obsádky, krmení, produkční plánování
+Vhodné pro RAG: Ano
+Verze: V1
+
+
+------------------------------------------------
+1. ÚVOD A VÝZNAM DRUHŮ
+------------------------------------------------
+
+Indické kaprovité ryby tvoří základ tradiční i moderní rybníkářské
+polykultury v jižní Asii a jsou jednou z nejdůležitějších skupin
+sladkovodních ryb na světě podle produkce (FAO).
+
+Hlavní zástupci:
+- Rohu – Labeo rohita
+- Catla – Catla catla
+- Mrigal – Cirrhinus mrigala
+
+Tyto druhy jsou chovány společně díky rozdílnému využití
+potravních nik (sloupcová, povrchová a bentická zóna).
+
+
+------------------------------------------------
+2. BIOLOGICKÁ CHARAKTERISTIKA JEDNOTLIVÝCH DRUHŮ
+------------------------------------------------
+
+Rohu (Labeo rohita):
+- Zóna: střední vodní sloupec
+- Potrava: plankton, detrit, rostlinná složka
+- Růst: středně rychlý
+- Význam: stabilní produkční druh
+
+Catla (Catla catla):
+- Zóna: povrch
+- Potrava: zooplankton, fytoplankton
+- Růst: velmi rychlý
+- Význam: hlavní produkční motor rybníka
+
+Mrigal (Cirrhinus mrigala):
+- Zóna: dno
+- Potrava: detrit, bentos
+- Růst: střední
+- Význam: využití organického sedimentu
+
+
+------------------------------------------------
+3. TEPLOTNÍ A FYZIKÁLNÍ PARAMETRY
+------------------------------------------------
+
+Teplota:
+- Optimální: 22–32 °C
+- Minimální tolerance: ~15 °C
+- Pod 15 °C výrazné zpomalení růstu
+
+Rozpuštěný kyslík (O₂):
+- Optimální: >5 mg/l
+- Kritické minimum: 3 mg/l
+- Citlivost na ranní hypoxii při vysoké obsádce
+
+pH:
+- Optimální: 7.0–8.5
+- Tolerance: 6.5–9.0
+
+Průhlednost vody:
+- Ideální: 25–40 cm (Secchi disk)
+- Nízká průhlednost = riziko noční hypoxie
+
+
+------------------------------------------------
+4. DUSÍKATÉ LÁTKY A ORGANICKÁ ZÁTĚŽ
+------------------------------------------------
+
+Amoniak (TAN):
+- Doporučeno: <0.5 mg/l
+- NH₃ toxická frakce: <0.02 mg/l
+
+Nitrit (NO₂⁻):
+- Bezpečné: <0.2 mg/l
+- Zvýšená citlivost při nízkém Cl⁻
+
+Dusičnany (NO₃⁻):
+- Tolerované až 100–150 mg/l
+- Dlouhodobě vysoké hodnoty → stres, snížení růstu
+
+
+------------------------------------------------
+5. OBSÁDKA A POLYKULTURNÍ MODELY
+------------------------------------------------
+
+Typická druhová skladba:
+- Catla: 30–40 %
+- Rohu: 30–40 %
+- Mrigal: 20–30 %
+
+Celková obsádka:
+- Extenzivní: 1 000–2 000 ks/ha
+- Polointenzivní: 3 000–6 000 ks/ha
+- Intenzivní (krmení): až 8 000 ks/ha
+
+Poměr biomasy je klíčový pro stabilní využití
+všech trofických úrovní rybníka.
+
+
+------------------------------------------------
+6. KRMENÍ A PRODUKČNÍ STRATEGIE
+------------------------------------------------
+
+Extenzivní chov:
+- Spoléhá na plankton a přirozenou produkci
+- Hnojení rybníka (organické / minerální)
+
+Polointenzivní chov:
+- Doplňkové krmení (obiloviny, pelety)
+- FCR obvykle 1.8–2.5
+
+Krmení:
+- Denní dávka: 1–3 % biomasy
+- Rozdělení krmiva do více míst
+
+
+------------------------------------------------
+7. ZDRAVOTNÍ RIZIKA A PREVENCE
+------------------------------------------------
+
+Typické problémy:
+- Ranní hypoxie
+- Parazitární onemocnění (Trichodina, Dactylogyrus)
+- Bakteriální infekce při přetížení
+
+Prevence:
+- Kontrola planktonu
+- Pravidelné měření O₂ (zejména ráno)
+- Udržování optimální obsádky
+
+
+------------------------------------------------
+8. PRODUKCE A VÝNOSY
+------------------------------------------------
+
+Typické výnosy:
+- Extenzivní: 1–2 t/ha/rok
+- Polointenzivní: 3–6 t/ha/rok
+- Intenzivní: až 8–10 t/ha/rok
+
+Délka cyklu:
+- 8–12 měsíců podle teploty a krmení
+
+
+------------------------------------------------
+9. VHODNOST PRO AQUANTIS
+------------------------------------------------
+
+Tento druhový profil je vhodný pro:
+- návrh obsádky rybníků,
+- diagnostiku problémů s kyslíkem a planktonem,
+- doporučení krmné strategie,
+- globální nasazení Aquantis mimo Evropu.
+
+Dokument je založen na konsolidovaných poznatcích FAO,
+WorldFish a univerzitních extension materiálů.
+Formulace jsou nově vytvořené a právně bezpečné.
+
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+KB-POND-SP08 – Indické kaprovité ryby (Rohu, Catla, Mrigal)
+Verze: V1
+Poslední aktualizace: 2025-02
+Určeno pro: Aquantis Knowledge Base (interní použití)

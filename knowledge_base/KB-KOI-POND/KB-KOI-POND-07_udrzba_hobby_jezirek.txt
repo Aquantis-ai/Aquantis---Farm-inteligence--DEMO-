@@ -1,0 +1,190 @@
+KB-KOI-POND-07 – Údržba hobby jezírek (roční plán)
+=================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Okrasná jezírka & hobby chovy
+Typ dokumentu: Provozní a údržbový manuál
+Použití v Aquantis: Diagnostika, preventivní doporučení, plánování údržby
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument slouží jako praktický roční plán údržby
+okrasných jezírek (KOI + hobby ryby), zaměřený na:
+
+- stabilitu kvality vody,
+- prevenci havárií,
+- minimalizaci stresu ryb,
+- dlouhodobou funkčnost filtrace,
+- zachování estetické kvality jezírka.
+
+Dokument je určen především pro:
+- hobby chovatele,
+- menší KOI jezírka,
+- zahradní okrasná jezírka bez profesionální obsluhy.
+
+------------------------------------------------
+2. ZÁKLADNÍ PRINCIPY ÚDRŽBY
+------------------------------------------------
+
+Úspěšné jezírko není bezúdržbové, ale:
+
+- údržba musí být pravidelná,
+- zásahy musí být mírné a předvídatelné,
+- hlavním cílem je prevence, ne řešení havárií.
+
+Klíčové pilíře:
+- stabilní filtrace,
+- kontrola organického zatížení,
+- řízení sezónních změn,
+- minimální stres ryb.
+
+------------------------------------------------
+3. JARNÍ ÚDRŽBA (BŘEZEN–KVĚTEN)
+------------------------------------------------
+
+### Hlavní cíle:
+- restart biologické filtrace,
+- odstranění zimních zbytků,
+- příprava na růstovou sezónu.
+
+### Doporučené kroky:
+- jemné odstranění sedimentu ze dna (bez kompletního vypuštění),
+- kontrola filtrace (čerpadla, hadice, UV),
+- spuštění filtrace při teplotě vody > 8–10 °C,
+- postupné zapnutí UV lampy,
+- měření: pH, NH₄⁺/NH₃, NO₂, O₂.
+
+### Krmení:
+- velmi omezené,
+- lehce stravitelné krmivo,
+- pouze při aktivním příjmu ryb.
+
+Rizika:
+- jarní NO₂ spike,
+- kolaps biofiltru při příliš rychlém zatížení.
+
+------------------------------------------------
+4. LETNÍ ÚDRŽBA (ČERVEN–SRPEN)
+------------------------------------------------
+
+### Hlavní cíle:
+- zvládnutí vysokého organického zatížení,
+- prevence hypoxie,
+- kontrola řas a zákalů.
+
+### Doporučené kroky:
+- pravidelné čištění mechanické filtrace (1× týdně),
+- kontrola průtoku a aerace,
+- zastínění části hladiny (rostliny, plachty),
+- kontrola teploty a nočního O₂.
+
+### Monitoring:
+- O₂ (zejména ráno),
+- teplota,
+- průhlednost vody,
+- chování ryb (lapání po dechu = varování).
+
+Rizika:
+- ranní hypoxie,
+- přehřátí vody,
+- bakteriální infekce při stresu.
+
+------------------------------------------------
+5. PODZIMNÍ ÚDRŽBA (ZÁŘÍ–LISTOPAD)
+------------------------------------------------
+
+### Hlavní cíle:
+- snížení organické zátěže,
+- příprava na zimu,
+- minimalizace listí a detritu.
+
+### Doporučené kroky:
+- instalace sítí proti listí,
+- omezení krmení při < 12 °C,
+- častější odstranění sedimentu,
+- kontrola stavu ryb před zimou.
+
+### Filtrace:
+- postupné snížení výkonu,
+- rozhodnutí: zimní provoz vs. zazimování.
+
+Rizika:
+- nahromadění organiky → zimní kyslíkový deficit,
+- oslabené ryby vstupující do zimy.
+
+------------------------------------------------
+6. ZIMNÍ ÚDRŽBA (PROSINEC–ÚNOR)
+------------------------------------------------
+
+### Hlavní cíle:
+- udržení výměny plynů,
+- zabránění úplnému zamrznutí,
+- minimální rušení ryb.
+
+### Doporučené kroky:
+- udržení otvoru v ledu (vzduchování, plovák),
+- žádné rozbíjení ledu,
+- nekontrolovat ryby mechanicky,
+- nekrmit (většina druhů).
+
+### Filtrace:
+- buď vypnutá a zazimovaná,
+- nebo provozovaná ve sníženém režimu (při > 4 °C).
+
+Rizika:
+- zimní hypoxie,
+- hromadění toxických plynů (H₂S, CO₂).
+
+------------------------------------------------
+7. ROČNÍ KONTROLNÍ SEZNAM
+------------------------------------------------
+
+Minimálně 1× ročně:
+- kontrola těsnosti jezírka,
+- kontrola elektroinstalace,
+- výměna UV lampy (obvykle 1× ročně),
+- kontrola hadic a spojů,
+- revize kapacity filtrace vs. obsádka.
+
+------------------------------------------------
+8. ČASTÉ CHYBY HOBBY CHOVATELŮ
+------------------------------------------------
+
+- příliš intenzivní čištění biofiltru,
+- nárazové velké výměny vody,
+- překrmování,
+- ignorování ranního O₂,
+- snaha o „křišťálovou vodu za každou cenu“.
+
+------------------------------------------------
+9. VAZBA NA OSTATNÍ KB
+------------------------------------------------
+
+Souvisí zejména s:
+- KB-KOI-POND-04 – Zimování hobby jezírek,
+- KB-KOI-POND-05 – Řasy, zákaly a estetika vody,
+- KB-KOI-POND-06 – Havárie hobby jezírek,
+- KB-KOI-06 – Sezónní management KOI jezírek.
+
+------------------------------------------------
+10. ZÁVĚR
+------------------------------------------------
+
+Dobře udržované hobby jezírko:
+
+- vyžaduje pravidelnou, ale klidnou péči,
+- reaguje špatně na nárazové zásahy,
+- odměňuje stabilitou, zdravými rybami a estetikou.
+
+Prevence je vždy jednodušší než řešení havárie.
+
+------------------------------------------------
+KONEC DOKUMENTU
+------------------------------------------------

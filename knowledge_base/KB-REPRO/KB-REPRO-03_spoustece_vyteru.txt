@@ -1,0 +1,211 @@
+KB-REPRO-03 – SPOUŠTĚČE VÝTĚRU (TEPLOTA, FOTOPERIODA, HYDRAULIKA) – V1
+==================================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Reprodukce ryb
+Typ dokumentu: Knowledge Base – Reprodukční řízení
+Použití v Aquantis: Diagnostika reprodukční připravenosti, návrh výtěru
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument popisuje hlavní **environmentální a fyziologické spouštěče výtěru ryb**.
+Zaměřuje se na prakticky využitelné signály, které:
+
+- iniciují hormonální osu HPG (hypotalamus–hypofýza–gonády),
+- synchronizují dozrávání gamet,
+- spouštějí samotný akt tření.
+
+Dokument je určen pro:
+- RAS systémy,
+- rybníky,
+- líhně,
+- okrasné chovy (KOI),
+- polointenzivní i extenzivní chovy.
+
+
+------------------------------------------------
+2. FYZIOLOGICKÝ ZÁKLAD SPOUŠTĚNÍ VÝTĚRU
+------------------------------------------------
+
+Spuštění výtěru je výsledkem aktivace hormonální osy:
+
+Hypotalamus → GnRH  
+Hypofýza → gonadotropiny (FSH, LH)  
+Gonády → estrogeny, androgeny, progesteronové deriváty
+
+Environmentální faktory působí jako **externí signály**, které:
+- informují rybu o vhodném období,
+- synchronizují populaci,
+- minimalizují riziko selhání výtěru.
+
+
+------------------------------------------------
+3. TEPLOTA JAKO HLAVNÍ SPOUŠTĚČ
+------------------------------------------------
+
+### 3.1 Role teploty
+
+Teplota:
+- určuje rychlost zrání jiker a mlíčí,
+- ovlivňuje enzymatickou aktivitu,
+- působí jako sezónní signál.
+
+U většiny druhů **nestačí absolutní teplota**, ale:
+- **její změna v čase**.
+
+### 3.2 Typické teplotní signály
+
+- Pozvolné jarní oteplení → kaprovité ryby
+- Náhlý skok o 2–4 °C → dravé ryby
+- Stabilní vysoká teplota → tropické druhy
+
+Příklad:
+- Kapr: 16 → 18–20 °C
+- Candát: 10 → 12–14 °C
+- Tilapie: stabilně > 26 °C
+
+### 3.3 Rizika teplotního řízení
+
+- Příliš rychlá změna → stres, resorpce jiker
+- Příliš vysoká teplota → snížení kvality gamet
+- Kolísání → asynchronní výtěr
+
+
+------------------------------------------------
+4. FOTOPERIODA (DÉLKA SVĚTLA)
+------------------------------------------------
+
+### 4.1 Biologická role fotoperiody
+
+Fotoperioda:
+- řídí cirkadiánní rytmy,
+- ovlivňuje sekreci melatoninu,
+- působí jako dlouhodobý sezónní signál.
+
+U mnoha druhů je **nezbytná pro zahájení hormonální kaskády**.
+
+### 4.2 Typické fotoperiodické vzory
+
+- Prodloužení dne → jarní tření (kapr, candát)
+- Stabilní dlouhý den → tropické druhy
+- Zkracování dne → inhibice výtěru
+
+### 4.3 Řízení fotoperiody v RAS
+
+- simulace přírodního cyklu (např. 10 → 14 h světla),
+- pozvolné změny (týdny, ne dny),
+- vyvarovat se náhlých změn režimu osvětlení.
+
+
+------------------------------------------------
+5. HYDRAULIKA A PROUDĚNÍ
+------------------------------------------------
+
+### 5.1 Význam proudění
+
+Proudění:
+- simuluje přírodní prostředí (řeky, přítoky),
+- zvyšuje aktivitu ryb,
+- funguje jako bezprostřední spouštěč tření.
+
+### 5.2 Typické hydraulické signály
+
+- Zvýšení průtoku
+- Směrové proudění
+- Čerstvá voda (chemický i mechanický signál)
+
+Příklad:
+- Candát: zvýšení průtoku + mírný pokles teploty
+- Lososovité: silné proudění + vysoký O₂
+
+### 5.3 Rizika
+
+- Příliš silné proudění → mechanický stres
+- Turbulence → poškození jiker
+- Nevhodná hydraulika → neúspěšné uložení jiker
+
+
+------------------------------------------------
+6. KVALITA VODY JAKO MODULÁTOR
+------------------------------------------------
+
+Spouštěče výtěru fungují pouze při:
+- nízkém NO₂,
+- nízkém TAN,
+- vysokém O₂,
+- stabilním pH.
+
+Subletální stres:
+- může zcela blokovat hormonální odpověď,
+- vede k resorpci jiker,
+- snižuje fertilitu mlíčí.
+
+
+------------------------------------------------
+7. SOCIÁLNÍ A BEHAVIORÁLNÍ FAKTORY
+------------------------------------------------
+
+- Přítomnost opačného pohlaví
+- Vizuální a chemická komunikace
+- Hierarchie v hejnu
+
+Izolace:
+- často potlačuje výtěr,
+- u některých druhů nutná krátká separace → následná stimulace.
+
+
+------------------------------------------------
+8. UMĚLÉ VS. PŘIROZENÉ SPOUŠTĚNÍ
+------------------------------------------------
+
+Přirozené:
+- kombinace teploty, světla, hydrauliky
+- nižší stres
+- lepší kvalita potomstva
+
+Umělé:
+- řízené prostředí
+- vyšší kontrola
+- vyšší nároky na management
+
+Aquantis vždy upřednostňuje **environmentální řízení** před invazivními zásahy.
+
+
+------------------------------------------------
+9. TYPICKÉ CHYBY PŘI SPOUŠTĚNÍ VÝTĚRU
+------------------------------------------------
+
+- Snaha vyvolat výtěr pouze teplotou
+- Ignorování fotoperiody
+- Příliš rychlé změny
+- Nedostatečná kvalita vody
+- Nesynchronizované pohlaví
+
+
+------------------------------------------------
+10. PRAKTICKÝ SHRNUTÍ PRO AQUANTIS
+------------------------------------------------
+
+Spuštění výtěru vyžaduje:
+- dlouhodobou přípravu,
+- kombinaci více signálů,
+- stabilní prostředí.
+
+Žádný jednotlivý faktor obvykle nestačí.
+Úspěšný výtěr je výsledkem **souhry teploty, světla, hydrauliky a kvality vody**.
+
+
+------------------------------------------------
+11. VERZE DOKUMENTU
+------------------------------------------------
+KB-REPRO-03 – V1  
+Určeno pro: Aquantis Knowledge Base  
+Stav: Produkční dokument

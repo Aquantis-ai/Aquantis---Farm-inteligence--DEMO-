@@ -1,0 +1,184 @@
+Aquantis_KB-KOI-06_SEZÓNNÍ_MANAGEMENT_KOI_JEZÍREK_V1
+===================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: KOI – management a provoz
+Typ dokumentu: Odborný metodický dokument
+Použití v Aquantis: Diagnostika, sezónní doporučení, prevence
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument popisuje sezónní řízení KOI jezírek během roku.
+Zaměřuje se na:
+- změny fyziologie KOI v závislosti na teplotě,
+- sezónní rizika kvality vody,
+- úpravu krmení, filtrace a technologií,
+- prevenci nemocí a stresu.
+
+Cílem je udržet:
+- dlouhodobé zdraví KOI,
+- stabilní biologickou filtraci,
+- minimální stres během přechodových období.
+
+------------------------------------------------
+2. ZÁKLADNÍ SEZÓNNÍ PRINCIPY
+------------------------------------------------
+
+KOI jsou ektotermní ryby – jejich metabolismus je přímo řízen teplotou vody.
+Nejrizikovější nejsou extrémy, ale:
+- rychlé změny teploty,
+- jarní a podzimní přechody,
+- nesoulad mezi krmením, biofiltrací a imunitou.
+
+Klíčové faktory:
+- teplota vody,
+- stabilita pH a O₂,
+- organické zatížení,
+- funkčnost filtrace.
+
+------------------------------------------------
+3. JARNÍ OBDOBÍ (≈ 8–15 °C)
+------------------------------------------------
+
+Charakteristika:
+- nízká imunita KOI,
+- biofiltr se teprve aktivuje,
+- vysoké riziko bakteriálních infekcí.
+
+Hlavní rizika:
+- Aeromonas / Pseudomonas,
+- hromadění NH₄⁺ a NO₂,
+- stres z kolísání teplot (den/noc).
+
+Management:
+- velmi opatrný návrat ke krmení,
+- začít nízkoproteinovým, lehce stravitelným krmivem,
+- sledovat TAN a NO₂ denně,
+- zvýšit aeraci biofiltru,
+- nečistit biofiltr agresivně.
+
+Doporučení:
+- krmit až při stabilní teplotě > 10 °C,
+- malé dávky, max. 1× denně,
+- sledovat chování (apatie, ležení u dna).
+
+------------------------------------------------
+4. LETNÍ OBDOBÍ (≈ 18–26+ °C)
+------------------------------------------------
+
+Charakteristika:
+- maximální metabolismus,
+- nejvyšší příjem krmiva,
+- vysoké organické zatížení.
+
+Hlavní rizika:
+- pokles O₂ v noci,
+- přehřátí vody,
+- pěnění a zvýšené DOC,
+- stres z přerybnění.
+
+Management:
+- intenzivní aerace (zejména v noci),
+- pravidelné odstraňování kalu,
+- kontrola pěnění (protein skimmer),
+- možnost stínění jezírka.
+
+Krmení:
+- kvalitní krmivo s vyváženým proteinem,
+- rozdělit dávku do více menších porcí,
+- sledovat FCR nepřímo (růst vs. znečištění).
+
+------------------------------------------------
+5. PODZIMNÍ OBDOBÍ (≈ 15–10 °C)
+------------------------------------------------
+
+Charakteristika:
+- zpomalování metabolismu,
+- příprava KOI na zimu,
+- biofiltr stále aktivní, ale slábne.
+
+Hlavní rizika:
+- nadměrné zásoby organiky,
+- listí a detrit,
+- náhlé ochlazení vody.
+
+Management:
+- postupné snižování krmné dávky,
+- přechod na snadno stravitelné krmivo,
+- důkladné čištění mechanické filtrace,
+- odstranění listí a sedimentu.
+
+Doporučení:
+- nekrmit pod 8–10 °C,
+- stabilizovat kvalitu vody před zimou,
+- připravit zimní aeraci nebo ohřev.
+
+------------------------------------------------
+6. ZIMNÍ OBDOBÍ (< 8 °C)
+------------------------------------------------
+
+Charakteristika:
+- minimální metabolismus,
+- KOI v klidovém režimu,
+- biofiltrace výrazně zpomalena.
+
+Hlavní rizika:
+- hypoxie pod ledem,
+- hromadění toxických plynů (CO₂, H₂S),
+- náhlé výkyvy při oblevě.
+
+Management:
+- zajistit otvor v ledu (aerátor, vzduchování),
+- nekalit dno,
+- nekrmit,
+- minimalizovat zásahy do systému.
+
+Poznámka:
+V temperovaných systémech lze KOI udržovat aktivní,
+ale vyžaduje to stabilní ohřev a plnou filtraci.
+
+------------------------------------------------
+7. SEZÓNNÍ TABULKA RYCHLÉ ORIENTACE
+------------------------------------------------
+
+Teplota vody | Krmení | Biofiltr | Riziko
+-------------|--------|----------|--------
+< 8 °C       | Ne     | Nízké    | Hypoxie
+8–10 °C      | Minimální | Nízké | Jarní/podzimní stres
+10–15 °C     | Opatrné | Střední | Infekce
+18–26 °C     | Aktivní | Vysoké  | O₂, organika
+
+------------------------------------------------
+8. PREVENCE A DLOUHODOBÁ STABILITA
+------------------------------------------------
+
+- vyhýbat se rychlým teplotním změnám,
+- krmit vždy podle teploty, ne podle chuti ryb,
+- udržovat dostatečný objem filtrace,
+- plánovat údržbu podle sezóny, ne náhodně,
+- sledovat chování KOI jako první indikátor problému.
+
+------------------------------------------------
+9. ODBORNÉ ZDROJE (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+- Koi Organisation International – Seasonal Pond Management
+- University Extension Pond Manuals (USA, EU)
+- Nishikigoi Health & Management Guides
+- Obecné best practices KOI chovatelů a show farm
+
+Text je odborně konsolidovaný, nově formulovaný
+a neobsahuje žádný copyrightovaný obsah převzatý 1:1.
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+KB-KOI-06 – V1
+Určeno pro: Aquantis Knowledge Base
+Interní použití

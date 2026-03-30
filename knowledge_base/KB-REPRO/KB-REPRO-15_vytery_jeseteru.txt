@@ -1,0 +1,227 @@
+Aquantis_KB-REPRO-15_VYTĚRY_JESETERŮ_V1
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Reprodukce ryb
+Typ dokumentu: Reprodukční protokoly – specializované druhy
+Použití v Aquantis: Reprodukční plánování, diagnostika neúspěšného tření
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚVOD – SPECIFIKA REPRODUKCE JESETERŮ
+------------------------------------------------
+
+Jeseteři (Acipenseridae) patří mezi evolučně starobylé druhy ryb s velmi
+specifickým reprodukčním cyklem. Přirozený výtěr je v moderních podmínkách
+prakticky nemožný bez řízených zásahů.
+
+Hlavní charakteristiky:
+- dlouhá pohlavní dospělost (samci 5–10 let, samice 7–20 let dle druhu),
+- víceleté intervaly mezi výtěry samic,
+- vysoká citlivost na stres,
+- nutnost hormonální stimulace,
+- velké jikry s vysokým obsahem lipidů,
+- extrémní citlivost jiker na kvalitu vody.
+
+Jeseteří reprodukce je technologicky i biologicky jedna z nejnáročnějších
+disciplín akvakultury.
+
+
+------------------------------------------------
+2. HLAVNÍ CHOVANÉ DRUHY JESETERŮ
+------------------------------------------------
+
+Nejčastěji reprodukované druhy v Evropě a Asii:
+- Jeseter sibiřský (Acipenser baerii)
+- Jeseter ruský (Acipenser gueldenstaedtii)
+- Jeseter malý (Acipenser ruthenus)
+- Vyza velká (Huso huso)
+- Hybridy (např. bester – Huso × Acipenser)
+
+Poznámka:
+Hybridy se často používají kvůli lepší růstové dynamice,
+ale jejich reprodukce může být geneticky problematická.
+
+
+------------------------------------------------
+3. POHLAVNÍ DOSPĚLOST A SELEKCE RODIČŮ
+------------------------------------------------
+
+Kritéria pro zařazení do generačního chovu:
+- dobrá tělesná kondice,
+- absence deformací,
+- stabilní růst v předchozích letech,
+- žádné chronické zdravotní problémy,
+- u samic potvrzený vývoj jiker (ultrazvuk, biopsie).
+
+Selekce samic:
+- pravidelné ultrazvukové vyšetření,
+- kontrola stadia oogeneze,
+- vyřazení přezrálých nebo regredujících jiker.
+
+Selekce samců:
+- kvalita spermatu (objem, koncentrace, motilita),
+- nízký obsah moči ve spermatu,
+- dobrá reakce na hormonální stimulaci.
+
+
+------------------------------------------------
+4. SPUŠTĚNÍ REPRODUKCE – HORMONÁLNÍ STIMULACE
+------------------------------------------------
+
+Přirozené tření jeseterů v zajetí prakticky neprobíhá.
+Používá se řízená hormonální indukce.
+
+Používané metody:
+- extrakty hypofýzy (rybí nebo syntetické),
+- GnRH analogy (např. LHRH-a) v kombinaci s blokátory dopaminu.
+
+Základní princip:
+- aplikace primární (přípravné) dávky,
+- následná ovulační dávka po stanoveném intervalu,
+- přesné načasování je klíčové (hodiny rozhodují).
+
+Rizika:
+- předčasná nebo opožděná ovulace,
+- resorpce jiker,
+- zvýšená mortalita při špatném dávkování.
+
+
+------------------------------------------------
+5. ODBĚR JIKER A SPERMATU
+------------------------------------------------
+
+Odběr jiker:
+- provádí se manuálním vytlačením,
+- často po mírné anestezii,
+- jikry musí být zcela ovulované,
+- přítomnost krve nebo hlenu je nežádoucí.
+
+Odběr spermatu:
+- suchá metoda (bez kontaktu s vodou),
+- nutná ochrana před aktivací,
+- krátká životnost → rychlé použití nebo konzervace.
+
+Poznámka:
+Jeseteří jikry jsou extrémně citlivé na mechanické poškození.
+
+
+------------------------------------------------
+6. OPLOZENÍ A OLEPENÍ JIKER
+------------------------------------------------
+
+Jeseteří jikry jsou silně lepivé.
+
+Postup:
+1. Smíchání jiker se spermatem (nasucho),
+2. Aktivace vodou,
+3. Odlepení (odstranění lepivosti).
+
+Metody odlepení:
+- jílové suspenze,
+- mléčné roztoky,
+- taninové nebo enzymatické postupy.
+
+Cíl:
+- zabránit shlukování jiker,
+- zajistit rovnoměrné proudění vody kolem každé jikry.
+
+
+------------------------------------------------
+7. INKUBACE JIKER
+------------------------------------------------
+
+Inkubace probíhá v:
+- Weissových lahvích,
+- vertikálních inkubátorech,
+- speciálních jeseteřích inkubačních systémech.
+
+Optimální podmínky:
+- teplota: 12–18 °C (dle druhu),
+- rozpuštěný kyslík: > 7 mg/l,
+- nízký obsah organiky,
+- velmi jemné proudění.
+
+Rizika inkubace:
+- plísňové infekce (Saprolegnia),
+- hypoxie,
+- mechanické poškození,
+- kolísání teploty.
+
+
+------------------------------------------------
+8. LÍHNUTÍ A PÉČE O EMBRYA
+------------------------------------------------
+
+Po vylíhnutí:
+- larvy mají velký žloutkový váček,
+- jsou málo pohyblivé,
+- extrémně citlivé na světlo a vibrace.
+
+Důležité zásady:
+- minimální manipulace,
+- tlumené světlo,
+- stabilní teplota,
+- vysoká kvalita vody.
+
+Rozplavání nastává zpravidla za několik dní
+v závislosti na teplotě a druhu.
+
+
+------------------------------------------------
+9. KRITICKÉ BODY A ČASTÉ CHYBY
+------------------------------------------------
+
+Nejčastější příčiny neúspěchu:
+- špatné načasování hormonální stimulace,
+- stres rodičů,
+- nekvalitní spermie,
+- nedostatečné odlepení jiker,
+- nízký kyslík během inkubace,
+- zanedbání biosecurity.
+
+Jeseteři mají velmi nízkou toleranci k chybám.
+
+
+------------------------------------------------
+10. BIOSECURITY A LEGISLATIVA
+------------------------------------------------
+
+Reprodukce jeseterů je často:
+- přísně regulovaná (CITES),
+- vázaná na povolení,
+- pod dohledem státních orgánů.
+
+Důležité zásady:
+- evidence původu rodičů,
+- zákaz křížení chráněných druhů,
+- kontrola úniku jiker nebo plůdku do přírody.
+
+
+------------------------------------------------
+11. ZDROJE A ODBORNÁ VÝCHODISKA
+------------------------------------------------
+
+Tento dokument vychází ze syntézy a odborné parafráze:
+- FAO – Sturgeon aquaculture manuals
+- Williot et al. – Biology and conservation of sturgeons
+- European Aquaculture Society – sturgeon proceedings
+- IRFA / EAS jeseteří workshopy
+- Otevřené články z Aquaculture Journal a JWAS
+- Praktické zkušenosti evropských jeseteřích líhní
+
+Veškerý text je nově formulovaný a neobsahuje
+žádné převzaté pasáže 1:1.
+
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+KB-REPRO-15 – V1
+Určeno pro: Aquantis Knowledge Base
+Stav: Produkční dokument

@@ -1,0 +1,234 @@
+Aquantis_KB-POND-SP01_KAPROVITÉ_RYBY_V1
+================================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument je specializovaný druhový modul Aquantis Knowledge Base
+zaměřený na kaprovité ryby chované v rybníkářství a tradiční akvakultuře.
+
+Slouží jako:
+- odborný referenční základ pro diagnostiku, řízení chovu a rozhodování,
+- podpůrný dokument pro AI Aquantis při práci s rybníky,
+- zdroj druhově specifických limitů, rizik a best practices.
+
+Dokument vychází ze syntézy:
+- FAO Fisheries & Aquaculture Technical Papers,
+- tradičních středoevropských rybníkářských postupů,
+- univerzitních extension materiálů (CZ, DE, PL, AT),
+- WorldFish a regionálních pond aquaculture guides,
+- obecně uznávané praxe rybníkářství v Evropě a Asii.
+
+Neobsahuje žádný copyrightovaný text převzatý 1:1.
+
+
+------------------------------------------------
+1. PŘEHLED KAPROVITÝCH DRUHŮ V RYBNÍKÁŘSTVÍ
+------------------------------------------------
+
+Hlavní chované druhy:
+- Kapr obecný – Cyprinus carpio
+- Kapr koi – Cyprinus rubrofuscus "koi"
+- Amur bílý – Ctenopharyngodon idella
+- Tolstolobik bílý – Hypophthalmichthys molitrix
+- Tolstolobik pestrý – Hypophthalmichthys nobilis
+- Lín obecný – Tinca tinca
+- Lín zlatý – Tinca tinca (ornamentální forma)
+- Karas stříbřitý / zlatý – Carassius spp.
+
+Typické využití:
+- produkční rybníkářství (potravinové ryby),
+- doplňkové druhy pro biologickou regulaci,
+- okrasné chovy (koi, zlaté formy),
+- extenzivní a polointenzivní systémy.
+
+
+------------------------------------------------
+2. EKOLOGICKÁ CHARAKTERISTIKA
+------------------------------------------------
+
+Společné znaky:
+- vysoká tolerance ke kolísání podmínek,
+- schopnost přežít krátkodobou hypoxii,
+- dobrá adaptace na planktonní i bentickou potravu,
+- vhodné pro rybníky s přirozenou produkcí.
+
+Rozdíly mezi druhy:
+- Kapr: všežravec, silně ovlivňuje sediment
+- Amur: býložravec, reguluje makrofyta
+- Tolstolobik: filtrátor fytoplanktonu / zooplanktonu
+- Lín: bentický druh, citlivější na kyslík
+- Karas: extrémně tolerantní, nízké nároky
+
+
+------------------------------------------------
+3. OPTIMÁLNÍ FYZIKÁLNĚ-CHEMICKÉ PARAMETRY
+------------------------------------------------
+
+Teplota:
+- Kapr, amur, tolstolobik: 18–26 °C (růstové optimum)
+- Lín: 16–24 °C
+- Karas: 10–28 °C
+
+Rozpuštěný kyslík (O₂):
+- optimální: > 5 mg/l
+- stres: 3–4 mg/l
+- kritické: < 2 mg/l (riziko úhynů)
+
+pH:
+- optimální: 6.5–8.5
+- tolerované: 6.0–9.0
+- pH > 9.0 zvyšuje stres a toxicitu NH₃
+
+Amoniak (TAN):
+- ideálně < 0.5 mg/l
+- chronický stres: > 1.0 mg/l
+- akutní riziko při vysokém pH a teplotě
+
+Nitrit (NO₂⁻):
+- ideálně < 0.2 mg/l
+- riziko methemoglobinémie: > 0.5 mg/l
+
+Dusičnany (NO₃⁻):
+- většinou dobře tolerované do 150–200 mg/l
+
+
+------------------------------------------------
+4. PRODUKČNÍ BIOLOGIE A RŮST
+------------------------------------------------
+
+Kapr:
+- rychlý růst při dostatku přirozené potravy,
+- silná závislost na teplotě,
+- vysoká schopnost ukládat tuk.
+
+Amur:
+- růst závislý na dostupnosti rostlinné biomasy,
+- omezuje zarůstání rybníků.
+
+Tolstolobik:
+- růst závislý na planktonu,
+- efektivní biologický filtr vody.
+
+Lín:
+- pomalejší růst,
+- vyšší citlivost na hypoxii a bahnění.
+
+
+------------------------------------------------
+5. KRMENÍ A VÝŽIVA
+------------------------------------------------
+
+Typy krmení:
+- přirozená produkce rybníka (plankton, bentos),
+- obiloviny (pšenice, ječmen, kukuřice),
+- extrudované krmné směsi (polointenzivní chov).
+
+Zásady:
+- nepřekrmovat (riziko eutrofizace),
+- sledovat FCR v návaznosti na kvalitu vody,
+- krmit při teplotách > 12 °C.
+
+Specifika:
+- kapr dobře využívá sacharidy,
+- amur vyžaduje vysoký podíl vlákniny,
+- tolstolobik se běžně nepřikrmuje.
+
+
+------------------------------------------------
+6. OBSÁDKA A DRUHOVÁ KOMBINACE
+------------------------------------------------
+
+Typická kombinace:
+- Kapr: 50–70 %
+- Amur: 5–10 %
+- Tolstolobik: 10–20 %
+- Vedlejší ryby (lín, karas): dle cíle chovu
+
+Cíle kombinace:
+- lepší využití potravních nik,
+- stabilizace planktonu,
+- omezení zarůstání,
+- vyšší celková produkce.
+
+
+------------------------------------------------
+7. ZDRAVOTNÍ RIZIKA
+------------------------------------------------
+
+Nejčastější problémy:
+- jarní stres po zimě,
+- letní hypoxie,
+- bakteriální infekce (Aeromonas),
+- parazité (Dactylogyrus, Gyrodactylus).
+
+Prevence:
+- správná obsádka,
+- dobrý kyslíkový režim,
+- pravidelné výlovy a selekce,
+- letnění rybníků.
+
+
+------------------------------------------------
+8. SEZÓNNÍ SPECIFIKA
+------------------------------------------------
+
+Jaro:
+- nízký O₂ po zimě,
+- zvýšené riziko nemocí.
+
+Léto:
+- noční hypoxie,
+- riziko květu sinic.
+
+Podzim:
+- maximální růst,
+- příprava na výlov.
+
+Zima:
+- omezený metabolismus,
+- riziko zimní mortality při nedostatku O₂.
+
+
+------------------------------------------------
+9. EKONOMICKÝ VÝZNAM
+------------------------------------------------
+
+Výhody:
+- nízké technologické náklady,
+- vysoká ekologická stabilita,
+- vhodné pro extenzivní systémy.
+
+Nevýhody:
+- silná sezónnost,
+- závislost na klimatu,
+- nižší produkce na jednotku plochy než RAS.
+
+
+------------------------------------------------
+10. SOUVISLOST S DALŠÍMI KB
+------------------------------------------------
+
+Tento dokument úzce souvisí s:
+- KB-POND-03 – Kvalita vody v rybnících
+- KB-POND-05 – Krmení v rybnících
+- KB-POND-06 – Obsádka rybníků
+- KB-POND-08 – Zdraví ryb v rybnících
+- KB-POND-14 – Ekonomika rybníků
+
+
+------------------------------------------------
+11. VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB-POND-SP01 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Rybníkářství – druhové profily
+Typ dokumentu: Species Profile
+Použití v Aquantis: Diagnostika, návrh obsádky, krmení
+Vhodné pro RAG: Ano
+Verze: V1
+

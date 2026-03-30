@@ -1,0 +1,317 @@
+Aquantis_KB08_CHOVY_SPECIFICKÝCH_DRUHŮ_V_RAS_V1
+================================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument popisuje technologické profily vybraných druhů ryb
+v recirkulačních akvakulturních systémech (RAS). Neslouží jako
+“dogmatická pravda”, ale jako orientační rámec pro návrh systému
+a provozní strategii.
+
+Dokument:
+- navazuje na KB01 (kvalita vody),
+- navazuje na KB02 (druhové parametry),
+- odkazuje na KB05 (hydraulika, průtoky a okysličení).
+
+
+DŮLEŽITÉ UPOZORNĚNÍ
+------------------------------------------------
+1) Uvedené hodnoty (hustoty, průtoky, rychlosti proudění) jsou
+   ORIENTAČNÍ STARTOVACÍ ROZSAHY pro běžné intenzivní chovy.
+
+2) Skutečná optimální nastavení závisejí na:
+   - konkrétní genetice (linie),
+   - velikosti ryb,
+   - kvalitě krmiva a FCR,
+   - typu a účinnosti mechanické filtrace,
+   - konstrukci tanků a biofiltru,
+   - zkušenosti obsluhy.
+
+3) Vždy je nutné:
+   - začít konzervativně,
+   - sledovat O₂, TAN, NO₂, chování ryb,
+   - upravovat parametry postupně a s rozmyslem.
+
+4) V případě rozporu mezi tímto KB a reálnou zkušeností farmy
+   má přednost:
+   - bezpečnost ryb,
+   - naměřená data,
+   - lokální zkušenost.
+
+
+JAK ČÍST TECHNOLOGICKÝ PROFIL
+------------------------------------------------
+Každý profil uvádí:
+- Typický systém: co je pro daný druh běžné.
+- Hustota obsádky: doporučený pracovní rozsah (kg/m³).
+- Teplota a kvalita vody: odkazuje na KB01 a KB02.
+- Průtoky a proudění:
+  - obměna objemu tanku (násobek objemu tanku za hodinu),
+  - orientační rychlost proudění ve fish tanku (cm/s).
+- Specifické poznámky: typické slabiny, citlivosti a časté chyby.
+
+
+1. PSTRUH DUHOVÝ A SIVEN AMERICKÝ
+------------------------------------------------
+Druhy:
+- Pstruh duhový (Oncorhynchus mykiss)
+- Siven americký (Salvelinus fontinalis)
+
+Typický systém:
+- Vysoce okysličené RAS s tlakovou aerací nebo oxygenerací.
+- Dobrá mechanická filtrace + účinné odstraňování CO₂.
+
+Hustota obsádky (kg/m³):
+- konzervativní: 20–40 kg/m³
+- intenzivní (zkušené provozy): 40–80 kg/m³
+
+Teplota a kvalita vody:
+- Pstruh duhový: 10–16 °C
+- Siven americký: 10–14 °C
+- O₂ ideálně 7–10 mg/l, NIKDY neklesnout < 6 mg/l.
+- NO₂ udržovat co nejblíže 0; alarm > 0.2 mg/l.
+
+Průtoky a proudění:
+- Obměna objemu tanku: cca 0.8–1.5 objemu/hod (intenzivní systémy).
+- Rychlost proudění v tanku (viz KB05):
+  - orientačně 20–60 cm/s (podle velikosti ryb),
+  - cílem je plynulý, směrový proud, umožňující rybám plavat “proti vodě”,
+    ale s možností odpočinkových zón.
+
+Specifické poznámky:
+- Vysoce citlivé na nízký O₂ a rychlé změny teploty.
+- NO₂ a NH₃ musí být hluboko pod alarm úrovněmi.
+- Dobrá volba pro “učebnicové” RAS, ale nízká tolerance chyb.
+
+
+2. CANDÁT OBECNÝ A OKOUN ŘÍČNÍ
+------------------------------------------------
+Druhy:
+- Candát obecný (Sander lucioperca)
+- Okoun říční (Perca fluviatilis)
+
+Typický systém:
+- RAS s relativně klidnou vodou v tanku,
+- často s tlumeným osvětlením,
+- dobrá kontrola kvality vody, ale NE tak “divoký” proud jako u lososa.
+
+Hustota obsádky (kg/m³):
+- konzervativní: 15–25 kg/m³
+- pokročilé systémy: 25–40 kg/m³ (s opatrností)
+
+Teplota a kvalita vody:
+- Doporučená teplota: 12–20 °C
+- O₂ ideálně 6–8 mg/l, neklesnout < 5 mg/l.
+- Vyšší citlivost na NO₂ – držet ideálně < 0.1 mg/l, alarm > 0.2 mg/l.
+
+Průtoky a proudění (upravené, konzervativnější hodnoty):
+- Obměna objemu tanku:
+  - orientačně 0.3–0.8 objemu/hod (většina produktivních fází),
+  - vyšší konce rozsahu pouze tam, kde je potřeba efektivně odtahovat pevné látky
+    a kde to ryby dobře tolerují.
+- Rychlost proudění v tanku:
+  - cca 5–20 cm/s,
+  - cílem je mít spíš “klidnější” vodu se směrovým proudem,
+    nikoliv silně proudící “řeku” jako u lososa.
+
+Specifické poznámky:
+- Candát i okoun preferují spíše klidnější prostředí, možnost “stát” ve vodě.
+- Příliš vysoké proudění → zvýšený stres, horší růst, konflikty mezi rybami.
+- U návrhu systému je vhodné začít na spodní hranici průtoků
+  a zvyšovat je podle naměřených hodnot TAN/NO₂ a chování ryb.
+
+
+3. KAPR OBECNÝ, AMUR BÍLÝ, TOLSTOLOBIK BÍLÝ
+------------------------------------------------
+Druhy:
+- Kapr obecný (Cyprinus carpio)
+- Amur bílý (Ctenopharyngodon idella)
+- Tolstolobik bílý (Hypophthalmichthys molitrix)
+
+Typický systém:
+- Polointenzivní RAS nebo “hybridní” systémy (část recirkulace, část výměny).
+- Často kombinace s rybníkovým hospodařením.
+
+Hustota obsádky (kg/m³):
+- konzervativní: 15–25 kg/m³
+- intenzivnější chovy: 25–40 kg/m³
+
+Teplota a kvalita vody:
+- Teplota: 20–28 °C (viz KB02).
+- O₂ minimálně 5 mg/l, ideálně 6–8 mg/l.
+- NO₂ nejlépe < 0.2 mg/l, NO₃ do 100–150 mg/l dlouhodobě.
+
+Průtoky a proudění:
+- Obměna objemu tanku:
+  - cca 0.3–0.7 objemu/hod (v závislosti na krmné dávce a designu):
+- Rychlost proudění v tanku:
+  - cca 2–10 cm/s,
+  - cílem je spíše “míchaná” než lineárně proudící voda.
+
+Specifické poznámky:
+- Tyto druhy snášejí širší rozsah podmínek, ale hůře reagují na náhlé změny.
+- Pozor na přetížení systému krmivem → rychle roste TAN a NO₂.
+
+
+4. KAPR KOI A OKRASNÁ JEZÍRKA V RAS/POLO-RAS
+------------------------------------------------
+Druhy:
+- Kapr koi (Cyprinus rubrofuscus “koi”)
+- Smíšené okrasné obsádky (zlatí karasi, jeseni apod.)
+
+Typický systém:
+- Dekorační okruhy s biofiltrem a mechanickou filtrací.
+- Často větší důraz na estetiku než na striktní produktivitu.
+
+Hustota obsádky (kg/m³):
+- doporučeno 5–20 kg/m³ (podle kvality filtrace a objemu)
+- vyšší hustoty nejsou žádoucí – zvyšují riziko nemocí.
+
+Teplota a kvalita vody:
+- 15–24 °C (podle plemene a sezóny).
+- O₂ ideálně > 6 mg/l.
+- Vysoká citlivost na chronický stres → preferovat “čistší” vodu a nízký NO₂.
+
+Průtoky a proudění:
+- Obměna objemu:
+  - cca 0.3–0.6 objemu/hod.
+- Proudění v nádrži:
+  - 2–8 cm/s, s klidnými zónami.
+
+Specifické poznámky:
+- Majitelé často nechtějí agresivní proudění.
+- Důležitá je dobrá vizualita (čistota vody) a stabilita parametrů.
+
+
+5. TILAPIE NILSKÁ
+------------------------------------------------
+Druh:
+- Tilapie nilská (Oreochromis niloticus)
+
+Typický systém:
+- Teplovodné RAS,
+- často integrované s dalšími produkčními systémy.
+
+Hustota obsádky (kg/m³):
+- konzervativní: 30–40 kg/m³
+- pokročilé systémy: 40–80 kg/m³
+
+Teplota a kvalita vody:
+- 24–30 °C
+- O₂ ideálně > 5 mg/l, neklesnout < 4 mg/l.
+- Dobrá tolerance NO₃, ale stále preferovat < 150 mg/l.
+
+Průtoky a proudění:
+- Obměna objemu:
+  - cca 0.5–1.0 objemu/hod.
+- Proudění v tanku:
+  - 10–30 cm/s,
+  - cílem je “živá” voda, která pomáhá odsunu pevných částic,
+    ale nevyčerpává ryby.
+
+Specifické poznámky:
+- Tilapie dobře snáší vyšší teploty i mírnější výkyvy,
+  nicméně vysoká hustota + nízký O₂ = rychlé problémy.
+
+
+6. SUMEC VELKÝ, SUMEČEK AFRICKÝ A PANGAS
+------------------------------------------------
+Druhy:
+- Sumec velký (Silurus glanis)
+- Sumeček africký (Clarias gariepinus)
+- Pangas (Pangasianodon hypophthalmus)
+
+Typický systém:
+- Teplovodné RAS s důrazem na odstraňování kalu,
+- často tzv. “dark systems” (tlumené světlo).
+
+Hustota obsádky (kg/m³):
+- konzervativní: 30–50 kg/m³
+- intenzivní systémy: 50–100 kg/m³ (Clarias, pangas) – pouze pro zkušené.
+
+Teplota a kvalita vody:
+- 24–30 °C
+- O₂ ideálně 5–7 mg/l, neklesnout < 4 mg/l.
+- NO₂ preferovat < 0.2 mg/l, s ohledem na vysokou hustotu obsádky.
+
+Průtoky a proudění:
+- Obměna objemu:
+  - cca 0.5–1.0 objemu/hod (vyšší konec pro velmi intenzivní systémy).
+- Proudění v tanku:
+  - 5–20 cm/s, s možností “stinných” a klidnějších zón.
+
+Specifické poznámky:
+- Tyto druhy často “sedí” u dna → důležitá je konstrukce dna a odkalování.
+- Při vysoké hustotě je nutná velice dobrá aerace a spolehlivý backup O₂.
+
+
+7. JESETERI (SIBIŘSKÝ, RUSKÝ, MALÝ, VYZA)
+------------------------------------------------
+Druhy:
+- Jeseter sibiřský (Acipenser baerii)
+- Jeseter ruský (Acipenser gueldenstaedtii)
+- Jeseter malý (Acipenser ruthenus)
+- Vyza velká (Huso huso)
+
+Typický systém:
+- Kruhové nebo oválné tanky s vířivým prouděním.
+- Silná aerace a odtah kalu ze středu.
+
+Hustota obsádky (kg/m³):
+- konzervativní: 20–40 kg/m³
+- intenzivní: 40–80 kg/m³ (podle druhu a velikosti)
+
+Teplota a kvalita vody:
+- Většinou 14–20 °C (podle druhu a cílového trhu).
+- O₂ ideálně > 7 mg/l.
+- Citlivost na chronické NO₂ a NO₃ zatížení – dodržovat limity z KB01/KB02.
+
+Průtoky a proudění:
+- Obměna objemu:
+  - cca 0.5–1.2 objemu/hod.
+- Proudění v tanku:
+  - cca 10–30 cm/s,
+  - cílem je vytvořit stálý kruhový proud, ve kterém jeseteři “levitují”
+    a nejsou nuceni do extrémního výkonu.
+
+Specifické poznámky:
+- Jeseteři velmi těží z rovnoměrného proudu bez “mrtvých” zón.
+- Pozor na ostré hrany a konstrukční prvky v tanku – jsou náchylní na mechanická poranění.
+
+
+8. OBECNÁ DOPORUČENÍ K NASTAVOVÁNÍ PRŮTOKŮ
+------------------------------------------------
+1. Začni vždy na spodní hranici doporučeného rozsahu průtoku
+   (obměny objemu) pro daný druh a kategorii.
+
+2. Sleduj:
+   - TAN (NH₄/NH₃),
+   - NO₂,
+   - O₂ ve fish tanku,
+   - chování ryb,
+   - míru usazování kalu.
+
+3. Pokud:
+   - TAN a NO₂ jsou stabilně nízké,
+   - O₂ je komfortně vysoko,
+   - v tanku nedochází k výraznému hromadění kalu,
+   → není důvod automaticky zvyšovat průtok.
+
+4. Pokud:
+   - TAN/NO₂ se blíží alarm hodnotám,
+   - v tanku se hromadí kal,
+   - ryby vykazují stres,
+   → zvyš průtok v malých krocích (např. +10–20 %) a sleduj dopad.
+
+5. Vždy kombinuj:
+   - hydrauliku (KB05),
+   - druhové parametry (KB02),
+   - tento KB08,
+   - vlastní zkušenost a data.
+
+------------------------------------------------
+9. VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB08 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)

@@ -1,0 +1,228 @@
+KB-POND-SP07 – SUMCOVITÉ RYBY V RYBNÍCÍCH (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Rybníkářství – druhové profily
+Typ dokumentu: Species Profile
+Použití v Aquantis: Diagnostika, návrh obsádky, krmení, řízení rizik
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚVOD A VÝZNAM SUMCOVITÝCH RYB V RYBNÍKÁŘSTVÍ
+------------------------------------------------
+
+Sumcovité ryby představují v rybníkářství specifickou skupinu s vysokým
+produkčním potenciálem, ale zároveň se zvýšenými nároky na řízení chovu.
+
+Používají se:
+- jako cílový tržní druh,
+- jako doplňkový druh k využití bentosu a zbytkové potravy,
+- v některých regionech i jako regulační predátor.
+
+Hlavní výhody:
+- vysoká růstová schopnost,
+- dobrá konverze krmiva,
+- tolerance k nižším koncentracím kyslíku (relativně).
+
+Hlavní rizika:
+- vysoká citlivost na kvalitu vody při intenzivním chovu,
+- kanibalismus,
+- sedimentové stresy,
+- letní hypoxie.
+
+
+------------------------------------------------
+2. HLAVNÍ CHOVANÉ DRUHY
+------------------------------------------------
+
+### Sumec velký (Silurus glanis)
+- Tradiční evropský druh
+- Vysoká tržní hodnota
+- Predátor s výrazným vlivem na obsádku
+
+### Sumeček africký (Clarias gariepinus)
+- Tropický druh
+- Vysoká tolerance k nízkému O₂
+- V rybnících použitelný pouze v teplých oblastech nebo sezónně
+
+### Pangasius (Pangasianodon hypophthalmus)
+- Omezené použití v rybnících
+- Vyžaduje velmi teplé klima
+- V Evropě spíše experimentální nebo krátkodobé systémy
+
+
+------------------------------------------------
+3. VHODNÉ PODMÍNKY RYBNÍKA
+------------------------------------------------
+
+Hloubka:
+- optimálně 1.5–3.0 m
+- hlubší partie jako úkryt v létě
+
+Sediment:
+- měkký, bahnitý až hlinitý
+- bez anaerobních kapes
+
+Proudění:
+- přirozené, bez silného proudění
+- výhodné mírné provzdušnění v létě
+
+Vegetace:
+- omezená
+- žádoucí spíše otevřená vodní plocha
+
+
+------------------------------------------------
+4. TEPLOTA A KYSLÍKOVÉ NÁROKY
+------------------------------------------------
+
+### Teplota
+- Optimum růstu: 22–28 °C
+- Aktivní příjem potravy: > 18 °C
+- Riziko stresu: < 15 °C
+- Kritická hranice: < 10 °C
+
+### Rozpuštěný kyslík (O₂)
+- Optimální: > 5 mg/l
+- Tolerovatelné minimum: 3 mg/l (krátkodobě)
+- Kritické: < 2 mg/l (riziko úhynů)
+
+Poznámka:
+I když jsou sumcovité ryby tolerantnější k hypoxii,
+dlouhodobě nízký O₂ výrazně snižuje růst a zvyšuje mortalitu.
+
+
+------------------------------------------------
+5. KVALITA VODY A CITLIVOST NA ZNEČIŠTĚNÍ
+------------------------------------------------
+
+pH:
+- optimální 6.8–7.8
+- toleranční rozsah 6.5–8.5
+
+Amoniak (TAN):
+- ideálně < 0.5 mg/l
+- stres > 1.0 mg/l
+
+Nitrit (NO₂):
+- ideálně < 0.2 mg/l
+- rizikové > 0.5 mg/l
+
+Dusičnany (NO₃):
+- tolerovatelné vyšší koncentrace
+- dlouhodobě < 150 mg/l
+
+
+------------------------------------------------
+6. ZPŮSOB OBSÁDKY A HUSTOTY
+------------------------------------------------
+
+### Extenzivní až polointenzivní chov:
+- 50–150 ks/ha (sumec velký)
+- kombinace s kaprem, amurem
+
+### Intenzivnější rybníky:
+- 200–400 ks/ha (juvenilní stadia)
+- vyžaduje krmení a monitoring O₂
+
+Zásady:
+- nízká počáteční hustota
+- důraz na rovnoměrnou velikost ryb
+- prevence kanibalismu
+
+
+------------------------------------------------
+7. KRMENÍ A POTRAVNÍ STRATEGIE
+------------------------------------------------
+
+### Přirozená potrava:
+- bentos
+- rybky
+- bezobratlí
+
+### Přikrmování:
+- rybí odpad
+- granule s vysokým obsahem proteinu (35–45 %)
+- krmení především v noci
+
+FCR:
+- přirozená potrava: obtížně měřitelná
+- granulované krmivo: 1.0–1.4
+
+
+------------------------------------------------
+8. CHOVNÍ RIZIKA A PROBLÉMY
+------------------------------------------------
+
+- letní hypoxie (zejména v noci)
+- kanibalismus
+- hromadění toxických plynů v sedimentu
+- stres při manipulaci
+- náchylnost ke kožním infekcím v teplé vodě
+
+
+------------------------------------------------
+9. ZDRAVOTNÍ ASPEKTY
+------------------------------------------------
+
+Časté problémy:
+- bakteriální infekce (Aeromonas, Pseudomonas)
+- kožní léze
+- plísňové infekce při poranění
+
+Prevence:
+- dobrá kvalita vody
+- omezení manipulace
+- stabilní obsádka
+- kontrola krmení
+
+
+------------------------------------------------
+10. ROLE V POLYKULTUŘE
+------------------------------------------------
+
+Sumcovité ryby mohou:
+- regulovat přemnožené ryby,
+- zvyšovat produkční efekt rybníka,
+- využívat zbytky potravy.
+
+Rizika:
+- predace tržních ryb,
+- narušení rovnováhy obsádky.
+
+Používat vždy cíleně a s jasným plánem.
+
+
+------------------------------------------------
+11. DIAGNOSTICKÉ SIGNÁLY PRO AQUANTIS
+------------------------------------------------
+
+- noční shlukování u hladiny → hypoxie
+- zpomalený růst → nízký O₂ nebo kvalita krmiva
+- poranění kůže → kanibalismus nebo manipulace
+- úhyny při teple → kombinace O₂ + NH₃ stresu
+
+
+------------------------------------------------
+12. ODBORNÉ ZDROJE (PARAFRÁZOVÁNO)
+------------------------------------------------
+
+- FAO Fisheries & Aquaculture Technical Papers
+- Boyd, Auburn University – Pond Water Quality
+- WorldFish – Pond Polyculture Manuals
+- Evropské rybníkářské best practices
+- Otevřené studie o Silurus glanis a Clarias spp.
+
+Text je syntetizovaný, parafrázovaný a právně bezpečný.
+
+
+------------------------------------------------
+13. VERZE DOKUMENTU
+------------------------------------------------
+KB-POND-SP07 – V1  
+Určeno pro: Aquantis Knowledge Base

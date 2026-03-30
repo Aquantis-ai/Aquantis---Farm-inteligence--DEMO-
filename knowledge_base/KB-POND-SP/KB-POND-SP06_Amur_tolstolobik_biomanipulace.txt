@@ -1,0 +1,207 @@
+KB-POND-SP06 – AMUR A TOLSTOLOBIK (BIOMANIPULACE RYBNÍKŮ)
+=====================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Rybníkářství – druhové profily
+Typ dokumentu: Species Profile
+Použití v Aquantis: Návrh obsádky, biomanipulace, kvalita vody
+Vhodné pro RAG: Ano
+Verze: V1
+Zaměření: Extenzivní a polointenzivní rybníky
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument popisuje roli amura bílého (Ctenopharyngodon idella)
+a tolstolobika (Hypophthalmichthys spp.) jako nástrojů biologické regulace
+produkce rybníků (biomanipulace).
+
+Dokument se zaměřuje na:
+- ekologickou funkci těchto druhů,
+- vliv na plankton, makrofyta a kvalitu vody,
+- správné dávkování obsádky,
+- rizika přetížení a chyby v použití.
+
+Obsah vychází z rybníkářské praxe střední Evropy, FAO manuálů,
+a univerzitních materiálů zaměřených na pond aquaculture.
+
+
+------------------------------------------------
+2. AMUR BÍLÝ (Ctenopharyngodon idella)
+------------------------------------------------
+
+Základní charakteristika:
+- Býložravý druh specializovaný na makrofyta
+- Velmi rychlý růst (až 1–2 kg/rok)
+- Silný vliv na strukturu rybníka
+
+Typická role:
+- Regulace nadměrné vegetace
+- Prevence zarůstání rybníků
+- Udržení otevřené vodní plochy
+
+Teplotní preference:
+- Optimální: 20–28 °C
+- Aktivní příjem potravy nad 15 °C
+
+Citlivost:
+- Nízká tolerance k nízkému O₂
+- Citlivý na zimní hypoxii
+
+
+------------------------------------------------
+3. TOLSTOLOBIK (Hypophthalmichthys molitrix, H. nobilis)
+------------------------------------------------
+
+Základní charakteristika:
+- Filtrátor planktonu
+- Nevyužívá pevné krmivo
+- Přímý vliv na fytoplankton
+
+Druhy:
+- Tolstolobik bílý – preferuje fytoplankton
+- Tolstolobik pestrý – částečně zooplankton
+
+Ekologická role:
+- Snížení hustoty planktonu
+- Omezení květu vody
+- Zvýšení průhlednosti vody
+
+Teplotní preference:
+- Optimální: 20–28 °C
+- Aktivní od jara do podzimu
+
+
+------------------------------------------------
+4. BIOMANIPULACE RYBNÍKA – PRINCIPY
+------------------------------------------------
+
+Biomanipulace = cílené využití druhů ryb ke změně struktury ekosystému.
+
+Amur:
+- Ovlivňuje makrofyta
+- Redukuje úkryty pro plankton
+- Zvyšuje resuspenzi sedimentu
+
+Tolstolobik:
+- Ovlivňuje plankton
+- Snižuje chlorofyl-a
+- Mění potravní řetězec
+
+Kombinace:
+- Amur + tolstolobik → silný zásah do ekosystému
+- Nutná opatrnost při dávkování
+
+
+------------------------------------------------
+5. DOPORUČENÁ OBSÁDKA (ORIENTAČNÍ)
+------------------------------------------------
+
+Amur:
+- 5–15 % hmotnosti celkové obsádky
+- Typicky 50–150 ks/ha podle velikosti ryb
+- Vyšší obsádka pouze při silném zarůstání
+
+Tolstolobik:
+- 10–30 % hmotnosti obsádky
+- 100–300 ks/ha
+- Vysoká obsádka = riziko potravní konkurence
+
+Poznámka:
+Hodnoty vždy upravovat podle:
+- úživnosti rybníka,
+- hloubky,
+- přítomnosti kapra a dalších druhů.
+
+
+------------------------------------------------
+6. VLIV NA KVALITU VODY
+------------------------------------------------
+
+Pozitivní efekty:
+- Omezení přemnožení planktonu
+- Snížení rizika noční hypoxie
+- Lepší průhlednost vody
+
+Negativní efekty při přehnané obsádce:
+- Resuspenze sedimentu
+- Zvýšení zákalu
+- Zhoršení podmínek pro bentos
+
+Klíčové riziko:
+- Příliš vysoká obsádka → destabilizace ekosystému
+
+
+------------------------------------------------
+7. KRMENÍ A RŮST
+------------------------------------------------
+
+Amur:
+- Konzumuje přirozenou vegetaci
+- Při nedostatku rostlin může poškozovat břehy
+- Umělé přikrmování obvykle není nutné
+
+Tolstolobik:
+- Nekrmí se
+- Růst závislý na produkci planktonu
+- Rychlý růst pouze v úživných rybnících
+
+
+------------------------------------------------
+8. RIZIKA A CHYBY V PRAXI
+------------------------------------------------
+
+Časté chyby:
+- Příliš vysoká obsádka amura → úplná likvidace vegetace
+- Nadbytek tolstolobika → hladovění a stagnace růstu
+- Kombinace s vysokou kapří obsádkou bez kontroly
+
+Důsledky:
+- Kolaps planktonní produkce
+- Nestabilní kyslíkový režim
+- Zhoršení welfare ostatních ryb
+
+
+------------------------------------------------
+9. SEZÓNNÍ ASPEKTY
+------------------------------------------------
+
+Jaro:
+- Nájezd planktonu
+- Rychlá aktivace tolstolobika
+
+Léto:
+- Nejvyšší účinnost biomanipulace
+- Riziko hypoxie při přehnojení
+
+Podzim:
+- Pokles aktivity
+- Hodnocení účinnosti zásahu
+
+Zima:
+- Vysoké riziko hypoxie
+- Amur citlivý na zimní nedostatek O₂
+
+
+------------------------------------------------
+10. VÝCHODISKA Z ODBORNÝCH ZDROJŮ (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+- FAO Pond Aquaculture Manuals – role herbivorů a filtrátorů
+- Boyd, Auburn University – vliv planktonu na O₂ režim
+- Středoevropská rybníkářská praxe (ČR, PL, HU)
+- WorldFish – biomanipulační přístupy v rybnících
+
+Text je syntézou obecných principů a neobsahuje žádný
+copyrightovaný text převzatý 1:1.
+
+
+------------------------------------------------
+11. VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB-POND-SP06 – V1
+Poslední aktualizace: 2025-02
+Určeno pro: Aquantis Knowledge Base (interní použití)

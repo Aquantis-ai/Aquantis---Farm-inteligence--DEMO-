@@ -1,0 +1,226 @@
+AQUANTIS_KB06_KRMENI_V_RAS_V1
+================================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument definuje odborné principy a výpočtové modely pro krmení ryb 
+v recirkulačních akvakulturních systémech (RAS). Obsah vychází z:
+- Boyd & Tucker (Auburn University),
+- Schram et al., Feed management in RAS,
+- FAO Aquaculture Feed Manuals,
+- JWAS & Aquaculture Journal open-access článků,
+- EU RAS best practices,
+- WorldFish feeding models.
+
+Text je originálně formulován a právně bezpečný.
+
+
+------------------------------------------------
+1. VÝZNAM SPRÁVNÉHO KRMENÍ V RAS
+------------------------------------------------
+Krmivo je největším zdrojem:
+- organického zatížení,
+- produkce TAN (amoniak),
+- spotřeby O₂,
+- stress load ryb.
+
+V RAS je krmení zároveň nejefektivnější pákou řízení:
+- nitrifikační kapacity,
+- růstových výsledků,
+- FCR,
+- udržitelnosti systému.
+
+Překrmování je nejčastější příčina:
+- kolapsu biofiltru,
+- zvýšeného NO₂,
+- hypoxie,
+- zhoršení welfare ryb.
+
+
+------------------------------------------------
+2. FEEDING CURVES (KRIVKY KRMENÍ)
+------------------------------------------------
+
+2.1. ZÁKLADNÍ MODELY KRMENÍ
+Denní dávka krmiva (DFR%) je funkcí:
+- hmotnosti ryby,
+- teploty,
+- metabolismu daného druhu.
+
+Obecný model:
+DFR (%) = a * e^(-b * W) * f(T)
+
+kde:
+- W = průměrná hmotnost ryb (g),
+- T = teplota vody,
+- f(T) = teplotní korekce (+10–20 % při vyšší T),
+- a, b = druhově specifické koeficienty.
+
+Typické hodnoty:
+- Pstruh / siven: 1.0–2.0 % denně (T = 10–14 °C)
+- Candát / okoun: 1.0–1.5 %
+- Kaprovité druhy: 1.5–3.0 %
+- Tilapie: 2–4 % (T = 26–30 °C)
+- Sumci: 2–3.5 % (T = 26–30 °C)
+- Jeseteři: 0.8–1.5 %
+
+
+------------------------------------------------
+3. VÝPOČET TAN LOAD (DUSÍKOVÉ ZATÍŽENÍ)
+------------------------------------------------
+
+3.1. ZÁKLADNÍ MODEL
+Krmivo → N (dusík) → TAN (NH₃+NH₄).
+
+Obecný vztah:
+TAN_load (g N / den) = Feed (kg) * Protein (%) * 0.16 * Excretion_rate
+
+Vysvětlení:
+- 0.16 = obsah dusíku v proteinu (16 %),
+- Excretion_rate = typicky 0.8–0.9 (80–90 % N je vyloučeno).
+
+Příklad:
+1 kg krmiva, 40 % protein:
+TAN ≈ 1 * 0.40 * 0.16 * 0.85 = **0.0544 kg N = 54.4 g TAN / den**
+
+
+3.2. KOREKCE PRO DRUHY
+- Pstruh, siven → vyšší exkrece N (0.85–0.90)  
+- Tilapie, kaprovité → nižší (0.75–0.82)  
+- Sumci, pangas → 0.80–0.85  
+- Jeseteři → 0.70–0.80  
+
+
+------------------------------------------------
+4. SPOTŘEBA KYSLÍKU (O₂ CONSUMPTION MODEL)
+------------------------------------------------
+
+4.1. OBECNÝ VZOREC
+O₂_total = O₂_fish + O₂_biofilter + O₂_feedload
+
+4.2. MODELOVÁ SPOTŘEBA RYB
+O₂_fish (g O₂/kg/h) = α * W^β * f(T)
+
+Typické koeficienty:
+- Pstruh: α = 300, β = -0.2  
+- Tilapie: α = 180, β = -0.15  
+- Sumci: α = 220, β = -0.18  
+
+4.3. SPOTŘEBA KYSLÍKU Z KRMENÍ
+Metabolický model:
+O₂_feedload = Feed(kg) * 1.2–1.5 g O₂/g krmiva
+
+4.4. SPOTŘEBA KYSLÍKU BIOFILTREM
+O₂_biofilter = 4.57 * TAN (g)
+
+(Podle stechiometrie nitrifikace.)
+
+Příklad:
+Pokud biofiltr zpracuje 50 g TAN za den:
+O₂_biofilter ≈ 229 g O₂/den.
+
+
+------------------------------------------------
+5. FCR – FUEL CONVERSION RATIO
+------------------------------------------------
+
+FCR = Feed Intake (kg) / Biomass Gain (kg)
+
+Optimální hodnoty:
+- Pstruh: 0.8–1.1
+- Tilapie: 1.2–1.6
+- Sumci: 1.0–1.4
+- Jeseteři: 1.0–1.5
+
+FCR se zhoršuje při:
+- nízkém O₂,
+- zvýšeném NO₂,
+- příliš vysoké teplotě,
+- stresu z manipulace,
+- nekvalitním krmivu,
+- překrmování.
+
+
+------------------------------------------------
+6. MODELY OMEZENÍ KRMENÍ PODLE STAVU SYSTÉMU
+------------------------------------------------
+
+6.1. LIMITACE PODLE NO₂
+Pokud NO₂ > 0.3 mg/l → snížit dávku o 20–30 %
+Pokud NO₂ > 1.0 mg/l → snížit o 50–70 %
+
+6.2. LIMITACE PODLE O₂
+Pokud O₂ < 6 mg/l → snížit o 10–20 %
+Pokud O₂ < 5 mg/l → snížit o 30–50 %
+
+6.3. LIMITACE PODLE NH₃
+Pokud NH₃ > 0.02 mg/l → snížit o 20 %
+
+6.4. LIMITACE PODLE BIOFILTRU
+Pokud nitrifikace < 70 % kapacity → snížit krmení o 30–40 %.
+
+
+------------------------------------------------
+7. ŘÍZENÉ KRME NÍ (AUTOMATY, SENSORY)
+------------------------------------------------
+
+7.1. AUTOMATICKÉ KRMÍCÍ SYSTÉMY
+Výhody:
+- konzistentní dávky,
+- rovnoměrné zatížení biofiltru,
+- nižší NO₂ peaky,
+- vyšší růst.
+
+7.2. SENSORY POUŽÍVANÉ V RAS
+- hydroakustické senzory (detekce pohybu ryb),
+- pH a O₂ senzory pro adaptivní feeding,
+- kamerové systémy pro AI feeding control,
+- vibrační hladinové snímače.
+
+7.3. FEEDBACK LOOP
+Pokud senzory detekují nízkou aktivitu → snížení dávky.
+Pokud agresivní příjem → mírné zvýšení (do 5–10 %).  
+
+
+------------------------------------------------
+8. BEST PRACTICES PRO KRMENÍ V RAS
+------------------------------------------------
+
+1. Krmit častěji, menší dávky → stabilní TAN load.
+2. Nikdy nepřekrmovat → biofiltr to nezvládne.
+3. Pravidelně kontrolovat krmivo na plísně.
+4. Krmit jen při stabilním O₂ a pH.
+5. Vypnout krmení:
+   - během léčby,
+   - při NO₂ krizi,
+   - při poruchách okysličení.
+
+
+------------------------------------------------
+9. RYCHLÉ VÝPOČTY PRO AQUANTIS (INTEGROVATELNÉ DO APP)
+------------------------------------------------
+
+9.1. Výpočet denní dávky krmiva
+Feed_kg = Biomass_kg * (DFR % / 100)
+
+9.2. Výpočet TAN load
+TAN_g = Feed_kg * Protein * 0.16 * Excr_rate * 1000
+
+9.3. Výpočet O₂ spotřeby
+O₂_total = O₂_fish + (4.57 * TAN_g) / 1000 + Feed_kg * 1.3 * 1000
+
+9.4. Doporučení redukce krmení podle stavu vody
+Aquantis rozhoduje na základě:
+- NO₂,
+- TAN,
+- O₂,
+- teploty,
+- stresových signálů.
+
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB06 – V1 (rozšířená)  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base

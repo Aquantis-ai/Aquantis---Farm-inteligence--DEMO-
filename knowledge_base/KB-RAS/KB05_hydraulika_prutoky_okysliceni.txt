@@ -1,0 +1,266 @@
+Aquantis_KB05_HYDRUALIKA_PRUTOKY_OKYSLICENI_V_RAS_V1
+====================================================
+
+ÚČEL DOKUMENTU
+----------------------------------------------------
+Tento dokument poskytuje technický základ pro model Aquantis,
+pokud jde o hydrauliku RAS systémů: průtoky, výměny vody,
+rychlost proudění ve fish tanku, okysličení, nasycení O₂ a 
+hydrodynamické charakteristiky. Dokument je syntézou otevřených 
+zdrojů (FAO, WorldFish, univerzitní extension programy, 
+Auburn University, IJRA, otevřené články z Aquaculture Journal),
+formulovaný nově a právně bezpečně.
+
+Není zde použit žádný copyrightovaný text 1:1.
+
+
+----------------------------------------------------
+1. FUNKCE HYDRAULIKY V RAS
+----------------------------------------------------
+Hydraulické parametry určují:
+- stabilitu kvality vody,
+- okysličení a schopnost systému odstraňovat CO₂,
+- výkon biofiltru (nitrifikace vyžaduje průtok a O₂),
+- míru stresu ryb způsobenou prouděním,
+- homogenitu vody v tanku (bez stagnujících zón),
+- odplavování tuhých částic směrem k výpusti.
+
+Cílem je vytvořit:
+- stabilní, dobře promíchané prostředí,
+- rovnoměrné rozložení O₂,
+- efektivní odstraňování metabolitů,
+- bezpečné proudění pro daný druh ryb.
+
+
+----------------------------------------------------
+2. ZÁKLADNÍ PRŮTOKOVÉ PARAMETRY V RAS
+----------------------------------------------------
+
+2.1 Průtok přes fish tank (turnover rate)
+- Doporučená výměna vody v tanku: **0.8–2.0× za hodinu**
+  podle druhu a hustoty obsádky.
+- Studenovodní druhy (pstruh, siven): 1.0–2.0×/h
+- Teplovodní druhy (tilapie, sumec): 0.8–1.5×/h
+- Dravé druhy (candát, okoun): 0.8–1.2×/h
+
+Vyšší průtoky přinášejí:
+- lepší odplavování tuhých částic,
+- stabilnější O₂,
+- rychlejší odezvu na problémy.
+
+Nižší průtoky přinášejí:
+- nižší stres u citlivých druhů,
+- energetickou úsporu.
+
+
+2.2 Průtok přes biofiltr
+- Doporučeno **1.5–2.5× objemu fish tanku / hodinu**.
+- U pohyblivých loží (MBBR) běžně 2–4×/h přes media chamber.
+- Nízký průtok → snížená nitrifikace, pokles O₂ uvnitř filtru.
+- Příliš vysoký průtok → mechanické zatížení biofiltru, ztráty médií.
+
+
+2.3 Průtok přes degasser / CO₂ stripping tower
+- 1.0–2.0× objemu tanku za hodinu.
+- U intenzivních chovů pstruha až 2.5× za hodinu.
+- CO₂ by měl být pod 15 mg/l (ideálně < 12 mg/l).
+
+
+----------------------------------------------------
+3. RYCHLOST PROUDĚNÍ VE FISH TANKU (cm/s)
+----------------------------------------------------
+
+Jednotka **cm/s** je správná, protože jde o lokální rychlost proudu,
+který ryba vnímá. m/s by byl příliš hrubý pro běžné RAS proudění.
+
+3.1 Optimální rychlosti proudění podle druhu
+------------------------------------------------
+- Pstruh duhový (Oncorhynchus mykiss): **20–35 cm/s**
+- Siven americký (Salvelinus fontinalis): **15–30 cm/s**
+- Losos obecný (Salmo salar): **25–40 cm/s (juveniles)**  
+  Pozn.: U větších lososů v mořských systémech vyšší proudy.
+- Candát obecný (Sander lucioperca): **5–15 cm/s**
+- Okoun říční (Perca fluviatilis): **5–12 cm/s**
+- Kapr obecný (Cyprinus carpio): **5–15 cm/s**
+- Amur bílý (Ctenopharyngodon idella): **5–12 cm/s**
+- Tolstolobik bílý: **5–12 cm/s**
+- Tilapie nilská: **10–20 cm/s**
+- Sumec velký (Silurus glanis): **5–15 cm/s**
+- Sumeček africký (Clarias gariepinus): **10–25 cm/s**
+- Pangas (Pangasianodon hypophthalmus): **10–20 cm/s**
+- Jeseter sibiřský (Acipenser baerii): **10–25 cm/s**
+- Jeseter ruský (Acipenser gueldenstaedtii): **10–20 cm/s**
+- Jeseter malý (Acipenser ruthenus): **8–18 cm/s**
+- Vyza velká (Huso huso): **15–30 cm/s**
+- Lín obecný (Tinca tinca): **3–10 cm/s**
+- Karas zlatý / KOI (Carassius auratus): **5–15 cm/s**
+- Mník jednovousý (Lota lota): **8–15 cm/s**
+
+Poznámka:
+- Dlouhodobé vystavení proudění > 40 cm/s může způsobovat stres,
+  deformity ploutví a zvýšenou spotřebu energie.
+
+
+3.2 Typické hodnoty proudění podle velikosti tanku
+----------------------------------------------------
+Malé tanky (1–5 m³):
+- běžně 5–15 cm/s
+- malé rozdíly v rychlostech → problém s turbulencí
+
+Střední tanky (5–20 m³):
+- optimální 8–20 cm/s
+- dobré podmínky pro většinu druhů
+
+Velké tanky (20–200+ m³):
+- 10–30 cm/s
+- snadnější vytvoření stabilního cirkulačního proudu
+- menší riziko stagnace
+
+Poznámka:
+Proudění by mělo vést k tzv. **“self-cleaning velocity”** – takové síle proudu,
+aby se kal posouval směrem ke dnu a do středové výpusti.
+
+
+3.3 Model výpočtu potřebného průtoku (Q) pro dosažení cílové rychlosti (V)
+----------------------------------------------------
+Používá se aproximace:
+
+**Q = V · A**
+
+kde  
+V = požadovaná rychlost proudění (m/s),  
+A = efektivní průtočná plocha tanku (m²).
+
+Převod cm/s na m/s:
+- 10 cm/s = 0.10 m/s  
+- 20 cm/s = 0.20 m/s
+
+Příklad výpočtu:
+Tank má efektivní průřezovou plochu 0.5 m².
+Cílová rychlost = 15 cm/s = 0.15 m/s.
+
+Q = 0.15 × 0.5 = **0.075 m³/s = 270 m³/h**
+
+Tento průtok je nutný pro dosažení 15 cm/s.
+
+Poznámka:
+Skutečné proudění je ovlivněno:
+- tvarem tanku,
+- vstupními tryskami,
+- turbulencí,
+- umístěním výpusti.
+
+
+----------------------------------------------------
+4. OKYSLIČENÍ (O₂) V RAS
+----------------------------------------------------
+
+4.1 Cílové hodnoty
+----------------------------------------------------
+Studenovodní druhy (pstruh, siven):
+- ideálně 7–10 mg/l
+- nikdy pod 6 mg/l
+
+Teplovodní druhy (tilapie, sumci):
+- ideálně 5–7 mg/l
+- nikdy pod 4 mg/l
+
+Jeseteři:
+- 6–9 mg/l, velmi citliví na poklesy
+
+Poznámka:
+Nasycení kyslíkem (oxygen saturation):
+- cílově 85–105 %
+- nad 120 % → risk supersaturace a plynové embolie (gas bubble disease)
+
+
+4.2 Technologie okysličení
+----------------------------------------------------
+Používané metody:
+- oxygen cones (O₂ kužele) – vysoká účinnost
+- oxygen saturator towers
+- fine bubble diffusers
+- sidestream oxygenation
+- degassing + O₂ injection kombinace
+
+Faktory ovlivňující účinnost:
+- velikost bublin,
+- tlak,
+- teplota,
+- turbulence,
+- průtok.
+
+
+----------------------------------------------------
+5. STRIPOVÁNÍ CO₂
+----------------------------------------------------
+Cílové CO₂ hodnoty:
+- < 12–15 mg/l pro většinu druhů
+- u pstruha ideálně < 10 mg/l
+
+Metody:
+- degassing towers (packed columns),
+- forced air stripping,
+- venturi odplynění.
+
+
+----------------------------------------------------
+6. HLAVNÍ HYDRAULICKÉ PROBLÉMY A JEJICH DIAGNOSTIKA
+----------------------------------------------------
+
+6.1 Stagnace (dead zones)
+Příznaky:
+- sedimentace kalu,
+- nižší O₂ lokálně,
+- horší chování ryb.
+
+Řešení:
+- upravit pozici tryskek,
+- zvýšit průtok,
+- změnit úhel vstupu vody.
+
+
+6.2 Příliš vysoké proudění
+Příznaky:
+- poškození ploutví,
+- neustálé plavání proti proudu,
+- zvýšená spotřeba energie ryb.
+
+Řešení:
+- snížit průtok,
+- změnit geometrii vstupu.
+
+
+6.3 Nedostatečné okysličení
+Příznaky:
+- ryby u hladiny,
+- rychlé dýchání,
+- zhoršená nitrifikace.
+
+Řešení:
+- přidat oxygenaci,
+- zvýšit turbulence,
+- čistit difusery.
+
+
+----------------------------------------------------
+7. VÝCHODISKA Z ODBORNÝCH ZDROJŮ (PARAFRÁZOVANÉ)
+----------------------------------------------------
+Tento dokument vychází ze syntézy:
+
+- FAO RAS guidelines (open access),
+- Auburn University – Aquaculture Engineering,
+- WorldFish pond aquaculture hydraulics,
+- IJRA – hydrodynamic studies of RAS flow velocities,
+- University Extension (Idaho, Texas A&M, UF/IFAS),
+- ASC RAS Module – oxygenation & CO₂ management requirements.
+
+Všechny texty jsou **nově formulované**, žádný není převzatý 1:1.
+
+
+----------------------------------------------------
+8. VERZE DOKUMENTU
+----------------------------------------------------
+Verze: KB05 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)

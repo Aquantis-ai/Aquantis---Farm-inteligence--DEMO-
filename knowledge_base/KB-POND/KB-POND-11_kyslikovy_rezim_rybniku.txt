@@ -1,0 +1,214 @@
+KB-POND-11 – KYSLÍKOVÝ REŽIM RYBNÍKŮ (V1)
+======================================
+
+ÚČEL DOKUMENTU
+--------------
+Tento dokument popisuje dynamiku rozpuštěného kyslíku (O₂) v rybnících
+v průběhu dne, sezón a extrémních situací.
+
+Slouží jako:
+- odborný základ pro diagnostiku stresu a úhynů ryb,
+- praktický manuál pro prevenci kyslíkových krizí,
+- referenční materiál pro Aquantis Knowledge Base (rybníkářství).
+
+Dokument vychází z:
+- FAO pond aquaculture manuals,
+- WorldFish pond management guides,
+- Boyd (Auburn University) – pond oxygen dynamics,
+- české rybníkářské praxe (letnění, zimování),
+- obecně uznávaných limnologických principů.
+
+Text je syntetický, parafrázovaný a právně bezpečný.
+
+
+------------------------------------------------
+1. ZÁKLADY KYSLÍKOVÉHO REŽIMU V RYBNÍKU
+------------------------------------------------
+
+Rozpuštěný kyslík (DO – dissolved oxygen) je v rybníku:
+- produkován fotosyntézou,
+- spotřebováván dýcháním ryb, planktonu a mikroorganismů,
+- silně ovlivněn teplotou, větrem a hloubkou.
+
+Na rozdíl od RAS:
+- kyslík není kontinuálně řízen,
+- dochází k výrazným denním a sezónním výkyvům.
+
+
+------------------------------------------------
+2. DENNÍ CYKLUS KYSLÍKU (DEN / NOC)
+------------------------------------------------
+
+DEN (světlo):
+- fotosyntéza fytoplanktonu a makrofyt,
+- koncentrace O₂ stoupá,
+- maximum obvykle odpoledne (15–18 h),
+- při silném květu může dojít k přesycení (> 120 %).
+
+NOC (tma):
+- fotosyntéza se zastaví,
+- probíhá pouze respirace,
+- koncentrace O₂ klesá,
+- minimum obvykle krátce před svítáním (4–6 h).
+
+Tento noční pokles je:
+- hlavní příčinou ranních hypoxií,
+- kritický zejména v létě.
+
+
+------------------------------------------------
+3. SEZÓNNÍ ZMĚNY KYSLÍKU
+------------------------------------------------
+
+JARO:
+- chladná voda → vysoká rozpustnost O₂,
+- nízká biomasa planktonu,
+- obvykle stabilní kyslíkový režim.
+
+LÉTO:
+- vysoká teplota → nižší rozpustnost O₂,
+- vysoká produkce planktonu,
+- nejvyšší riziko kyslíkových krizí,
+- typické ranní hypoxie.
+
+PODZIM:
+- ochlazování vody → zlepšení O₂ režimu,
+- rozpad planktonu může krátkodobě zhoršit situaci,
+- promíchávání vodního sloupce.
+
+ZIMA:
+- při zamrznutí omezená výměna plynů,
+- spotřeba O₂ pod ledem,
+- riziko zimních úhynů při dlouhém zalednění.
+
+
+------------------------------------------------
+4. KRITICKÉ HODNOTY KYSLÍKU PRO RYBNÍKY
+------------------------------------------------
+
+Obecné orientační limity:
+- > 6 mg/l → optimální stav
+- 4–6 mg/l → mírný stres
+- 2–4 mg/l → silný stres
+- < 2 mg/l → riziko úhynů
+
+Citlivost se liší podle:
+- druhu ryby,
+- velikosti ryb,
+- teploty vody,
+- délky expozice.
+
+
+------------------------------------------------
+5. FAKTORY ZVYŠUJÍCÍ RIZIKO HYPOXIE
+------------------------------------------------
+
+Biologické:
+- vysoká obsádka ryb,
+- přehnojení rybníka,
+- masivní květ fytoplanktonu,
+- rozklad organické hmoty.
+
+Fyzikální:
+- vysoká teplota vody,
+- bezvětří (bez míchání),
+- malá hloubka rybníka,
+- dlouhé zatažené období.
+
+Provozní:
+- nadměrné krmení,
+- náhlé úhyny planktonu,
+- nevhodná manipulace s vodou.
+
+
+------------------------------------------------
+6. RANNÍ HYPOXIE – TYPICKÝ SCÉNÁŘ
+------------------------------------------------
+
+Typický průběh:
+1. Den s intenzivním květem → vysoká produkce O₂.
+2. Noc → vysoká respirace planktonu.
+3. Brzy ráno → kritický pokles O₂.
+4. Ryby se shromažďují u hladiny nebo přítoků.
+5. Při zásahu pozdě → hromadné úhyny.
+
+Ranní hypoxie je:
+- nejčastější kyslíkový problém v rybníkářství,
+- často podceňovaná,
+- obtížně predikovatelná bez monitoringu.
+
+
+------------------------------------------------
+7. PREVENCE KYSLÍKOVÝCH KRIZÍ
+------------------------------------------------
+
+Preventivní opatření:
+- udržovat přiměřenou obsádku,
+- nepřehnojovat rybník,
+- kontrolovat intenzitu květu,
+- přizpůsobit krmení teplotě a O₂.
+
+Technická opatření:
+- aerátory (lopatkové, fontánové),
+- provzdušňování kritických míst,
+- míchání vodního sloupce.
+
+Provozní opatření:
+- monitoring O₂ brzy ráno,
+- plán krizových zásahů,
+- připravenost techniky.
+
+
+------------------------------------------------
+8. ZIMNÍ KYSLÍKOVÝ REŽIM A ZIMNÍ ÚHYNY
+------------------------------------------------
+
+Rizikové faktory v zimě:
+- dlouhodobý ledový pokryv,
+- sníh na ledu (blokace světla),
+- vysoké organické zatížení dna.
+
+Preventivní opatření:
+- udržování otvorů v ledu,
+- mechanické provzdušňování,
+- snížení organické zátěže před zimou.
+
+Zimní úhyny:
+- obvykle pomalé,
+- často pozorovány až při jarním výlovu.
+
+
+------------------------------------------------
+9. DIAGNOSTIKA PRO AQUANTIS
+------------------------------------------------
+
+Typické příznaky kyslíkového stresu:
+- lapání po vzduchu u hladiny,
+- shromažďování u přítoků,
+- snížený příjem potravy,
+- náhlé úhyny bez viditelných nemocí.
+
+Diagnostické otázky:
+- Jaká byla teplota vody?
+- Byl přítomen květ planktonu?
+- Jaké jsou ranní hodnoty O₂?
+- Proběhlo bezvětří nebo zataženo?
+
+
+------------------------------------------------
+10. SHRNUTÍ PRO PRAXI
+------------------------------------------------
+
+- Kyslíkový režim v rybnících je dynamický a proměnlivý.
+- Nejvyšší riziko je v létě a brzy ráno.
+- Prevence je vždy levnější než řešení úhynů.
+- Monitorování a připravenost jsou klíčem k úspěchu.
+
+
+------------------------------------------------
+11. VERZE DOKUMENTU
+------------------------------------------------
+Název: KB-POND-11 – Kyslíkový režim rybníků  
+Verze: V1  
+Určeno pro: Aquantis Knowledge Base – Rybníkářství  
+Datum: 2025-02

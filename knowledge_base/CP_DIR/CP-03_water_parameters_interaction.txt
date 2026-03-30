@@ -1,0 +1,17 @@
+---
+doc_type: core_principle
+domain: universal
+allow_numbers: false
+priority: 100
+---
+
+## Princip: Parametry vody se navzájem ovlivňují
+
+Jednotlivé parametry vody nepůsobí izolovaně.
+Změna jednoho parametru může zesílit nebo zmírnit účinek jiného.
+
+Například vliv dusíkatých látek, kyslíku nebo oxidu uhličitého
+je úzce spojen s teplotou a pH vody.
+
+Hodnocení jednoho parametru bez znalosti ostatních může vést
+k nesprávným závěrům o skutečném stavu systému.

@@ -1,0 +1,19 @@
+---
+doc_type: core_principle
+domain: universal
+allow_numbers: false
+priority: 100
+---
+
+## Princip: Stabilita je důležitější než ideální hodnota
+
+U většiny ryb je dlouhodobě stabilní prostředí méně stresující než časté změny,
+i když se jednotlivé parametry pohybují mimo „učebnicové“ hodnoty.
+
+Rychlé změny kvality vody (např. pH, teploty nebo obsahu kyslíku) mohou způsobit
+výrazný stres i tehdy, pokud se výsledná hodnota nachází v obecně přijatelné
+oblasti.
+
+Jednorázové měření samo o sobě neposkytuje dostatek informací k posouzení rizika.
+Pro správné vyhodnocení je vždy důležitý vývoj hodnot v čase a kontext celého
+systému.

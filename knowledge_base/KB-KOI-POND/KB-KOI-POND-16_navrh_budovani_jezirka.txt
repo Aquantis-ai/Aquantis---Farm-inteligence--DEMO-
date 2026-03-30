@@ -1,0 +1,212 @@
+KB-KOI-POND-16 – Jak navrhnout a vybudovat vlastní okrasné jezírko (V1)
+=====================================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Okrasná jezírka / Hobby chovy
+Typ dokumentu: Praktický návod / Design guide
+Použití v Aquantis: Edukace, prevence chyb, návrh jezírek
+Vhodné pro RAG: Ano
+Verze: V1
+Cílový uživatel: Hobby chovatel, začátečník až středně pokročilý
+
+------------------------------------------------
+1. ÚČEL JEZÍRKA – NEJDŘÍV SI UJASNI PROČ
+------------------------------------------------
+
+Nejčastější chyba hobby chovatelů je, že začnou stavět jezírko
+bez jasné představy o jeho účelu.
+
+Rozlišujeme tři základní typy:
+
+1) Estetické jezírko (rostliny, minimum ryb)
+2) Hobby jezírko s rybami (zlaté rybky, líni, karasi)
+3) KOI jezírko (vysoké nároky, minimum kompromisů)
+
+POZNÁMKA:
+Nelze mít plnohodnotné KOI jezírko a současně „přírodní biotop“.
+Každý kompromis zvyšuje riziko problémů.
+
+------------------------------------------------
+2. VELIKOST JEZÍRKA – OBJEM JE ZÁKLAD
+------------------------------------------------
+
+Obecné minimum:
+- dekorativní jezírko: ≥ 3–5 m³
+- hobby jezírko s rybami: ≥ 8–10 m³
+- KOI jezírko: ≥ 15–20 m³ (doporučeno více)
+
+Proč je objem klíčový:
+- větší objem = stabilnější teplota
+- pomalejší změny pH
+- menší riziko ranní hypoxie
+- větší rezerva při chybách
+
+MALÉ JEZÍRKO = MALÁ CHYBA = VELKÝ PROBLÉM
+
+------------------------------------------------
+3. HLOUBKA JEZÍRKA
+------------------------------------------------
+
+Doporučené minimum:
+- hobby jezírko: ≥ 1,2 m
+- KOI jezírko: ≥ 1,5–1,8 m
+
+Přínosy větší hloubky:
+- stabilnější teplota v létě
+- bezpečnější zimování
+- nižší riziko přehřátí
+- úniková zóna pro ryby
+
+MÝTUS:
+„Mělké jezírko se lépe ohřeje“ → zároveň se ale přehřeje a kolabuje.
+
+------------------------------------------------
+4. TVAR JEZÍRKA A PROUDĚNÍ
+------------------------------------------------
+
+Zásady dobrého tvaru:
+- jednoduchý tvar (kruh, ovál)
+- minimum slepých zón
+- dno se sklonem k výpusti
+- žádné ostré kapsy
+
+Proč:
+- lepší proudění
+- snazší údržba
+- méně usazenin
+- lepší okysličení
+
+KOI jezírka:
+- proudění řízené
+- ryby musí „plavat“, ne stát
+
+------------------------------------------------
+5. FILTRACE – NEJDŮLEŽITĚJŠÍ TECHNOLOGIE
+------------------------------------------------
+
+Každé jezírko s rybami POTŘEBUJE filtraci.
+
+Základní typy:
+- mechanická (odstranění nečistot)
+- biologická (rozklad dusíku)
+
+Zásada:
+Filtr musí být dimenzovaný na:
+- maximální obsádku
+- letní teploty
+- nejvyšší krmení
+
+MÝTUS:
+„Filtr pro objem jezírka“  
+REALITA:
+Filtr pro PRODUKCI ODPADU.
+
+------------------------------------------------
+6. PUMPY A PRŮTOK
+------------------------------------------------
+
+Základní doporučení:
+- minimálně 0,3–0,5 objemu jezírka / hod
+- u KOI jezírek až 1× objem / hod
+
+Důležité:
+- pumpa musí běžet 24/7
+- záložní napájení je výhoda
+- tichý provoz = méně stresu ryb
+
+------------------------------------------------
+7. OKYSLIČENÍ
+------------------------------------------------
+
+Kyslík je limitující faktor přežití.
+
+Zdroje kyslíku:
+- vodopád / přepad
+- vzduchovací kameny
+- proudění vody
+- povrchová agitace
+
+Kritické období:
+- horké letní noci
+- dlouhé bezvětří
+- přerybnění
+
+------------------------------------------------
+8. SUBSTRÁT, ROSTLINY A DEKORACE
+------------------------------------------------
+
+U hobby jezírek:
+- omezené množství substrátu
+- kontrolované rostliny
+- snadná údržba
+
+U KOI jezírek:
+- ideálně bez substrátu
+- minimum dekorací
+- čisté dno
+
+POZOR:
+Substrát = past na organiku = riziko anaerobních zón.
+
+------------------------------------------------
+9. RYBY – KDY JE NASAZOVAT
+------------------------------------------------
+
+Zásady:
+- ne hned po napuštění
+- počkat na stabilizaci vody
+- postupně zvyšovat obsádku
+
+Ideální postup:
+1) voda + filtrace
+2) 2–4 týdny bez ryb
+3) první ryby (malý počet)
+4) postupné přidávání
+
+------------------------------------------------
+10. NEJČASTĚJŠÍ CHYBY ZAČÁTEČNÍKŮ
+------------------------------------------------
+
+- malé jezírko
+- příliš mnoho ryb
+- slabá filtrace
+- překrmování
+- ignorování kyslíku
+- míchání nekompatibilních druhů
+- „přírodní jezírko“ s KOI
+
+------------------------------------------------
+11. REALISTICKÉ OČEKÁVÁNÍ
+------------------------------------------------
+
+Okrasné jezírko není:
+- bezúdržbové
+- samoregulační
+- imunní vůči chybám
+
+Je to:
+- živý ekosystém
+- technické zařízení
+- dlouhodobá péče
+
+------------------------------------------------
+12. ZÁVĚR
+------------------------------------------------
+
+Dobré jezírko nevzniká:
+„levně, rychle a bez přemýšlení“.
+
+Dobré jezírko vzniká:
+- správným návrhem
+- dostatečným objemem
+- jednoduchostí
+- disciplínou v krmení a údržbě
+
+------------------------------------------------
+VERZE DOKUMENTU
+------------------------------------------------
+KB-KOI-POND-16 – V1
+Poslední aktualizace: 2025-02
+Určeno pro: Aquantis Knowledge Base

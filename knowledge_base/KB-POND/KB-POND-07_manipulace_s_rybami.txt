@@ -1,0 +1,213 @@
+Aquantis_KB-POND-07_MANIPULACE_S_RYBAMI_(V1)
+================================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument popisuje správné postupy manipulace s rybami v rybníkářství,
+včetně lovů, přelovů, výlovů a transportu.
+
+Cílem je:
+- minimalizovat stres a mortalitu ryb,
+- snížit mechanická poranění,
+- zachovat welfare ryb,
+- zabránit ztrátám produkce a zdravotním komplikacím.
+
+Dokument vychází z:
+- tradičních postupů středoevropského rybníkářství,
+- FAO Fisheries Manuals,
+- WorldFish praktických doporučení,
+- univerzitních extension materiálů (CZ, DE, AT),
+- obecně uznávaných best practices.
+
+
+------------------------------------------------
+1. ZÁKLADNÍ PRINCIPY MANIPULACE S RYBAMI
+------------------------------------------------
+
+Manipulace s rybami je vždy:
+- významným stresorem,
+- rizikem mechanického poškození,
+- momentem zvýšené náchylnosti k nemocem.
+
+Základní zásady:
+- manipulovat co nejkratší dobu,
+- pracovat při vhodné teplotě vody,
+- používat správné nástroje,
+- vyhnout se zbytečnému přelovování,
+- zajistit dostatek kyslíku.
+
+Platí zásada:
+„Čím kratší, klidnější a chladnější manipulace, tím menší ztráty.“
+
+
+------------------------------------------------
+2. LOV A PŘELOVY V PRŮBĚHU SEZÓNY
+------------------------------------------------
+
+Přelovy se provádějí:
+- za účelem třídění ryb,
+- regulace obsádky,
+- přesunu ryb mezi rybníky,
+- odstranění přebytečných nebo nežádoucích druhů.
+
+Zásady přelovů:
+- provádět ráno nebo navečer,
+- vyhnout se vysokým teplotám (>20–22 °C),
+- minimalizovat dobu držení ryb v síti,
+- neprovádět přelovy při nízkém O₂.
+
+Doporučení:
+- přelovy plánovat na chladnější dny,
+- nepřetěžovat sítě rybami,
+- ryby nenechávat ležet na suchu.
+
+
+------------------------------------------------
+3. HLAVNÍ VÝLOV RYBNÍKA
+------------------------------------------------
+
+Výlov je nejnáročnější forma manipulace a největší stresová událost.
+
+Rizikové faktory výlovu:
+- nízký rozpuštěný kyslík,
+- vysoká koncentrace ryb,
+- mechanické poškození,
+- dlouhá doba manipulace,
+- vysoká teplota vody.
+
+Zásady správného výlovu:
+- výlov provádět při teplotě vody ideálně <10–12 °C,
+- zajistit dostatek lidí a techniky,
+- mít připravený plán třídění a odvozu,
+- minimalizovat čekací doby ryb v kádi.
+
+
+------------------------------------------------
+4. TŘÍDĚNÍ RYB
+------------------------------------------------
+
+Třídění slouží k:
+- oddělení tržních a násadových ryb,
+- rozdělení podle velikosti,
+- odstranění poškozených nebo nemocných jedinců.
+
+Zásady:
+- třídění provádět rychle a systematicky,
+- používat hladké třídicí stoly,
+- zajistit stálý přísun vody,
+- vyhnout se ostrým hranám.
+
+Poznámka:
+Při třídění dochází k nejčastějším mechanickým poraněním (šupiny, ploutve).
+
+
+------------------------------------------------
+5. DOČASNÉ UCHOVÁNÍ RYB (KÁDĚ, SÁDKY)
+------------------------------------------------
+
+Dočasné uchovávání ryb je kritické období.
+
+Zásady:
+- dostatečná výměna vody,
+- intenzivní aerace,
+- nízká hustota ryb,
+- stínění proti slunci.
+
+Orientační maximální hustoty:
+- kapr: 80–120 kg/m³ (krátkodobě),
+- dravé ryby: nižší hustoty (40–60 kg/m³),
+- násady: výrazně nižší hustoty.
+
+Délka uchování by měla být co nejkratší.
+
+
+------------------------------------------------
+6. TRANSPORT RYB
+------------------------------------------------
+
+Transport patří k nejrizikovějším fázím manipulace.
+
+Rizikové faktory:
+- kolísání teploty,
+- nedostatek kyslíku,
+- vysoká hustota,
+- mechanické otřesy.
+
+Zásady bezpečného transportu:
+- transportovat při chladnějších teplotách,
+- zajistit dostatek O₂ (vzduch, kyslík),
+- stabilizovat teplotu,
+- zkrátit dobu přepravy.
+
+Při delších transporteche:
+- pravidelná kontrola ryb,
+- možnost výměny vody nebo doplnění kyslíku.
+
+
+------------------------------------------------
+7. STRES A JEHO PROJEVY
+------------------------------------------------
+
+Projevy stresu:
+- zrychlené dýchání,
+- ztráta rovnováhy,
+- apatie nebo panika,
+- zvýšená mortalita po manipulaci.
+
+Dlouhodobé důsledky:
+- oslabení imunity,
+- vyšší náchylnost k infekcím,
+- horší růst,
+- ztráty v produkci.
+
+Prevence stresu je klíčová součást profesionálního rybníkářství.
+
+
+------------------------------------------------
+8. HYGIENA A PREVENCE PŘENOSU NEMOCÍ
+------------------------------------------------
+
+Manipulace může přenášet patogeny mezi rybníky.
+
+Zásady:
+- dezinfekce sítí, kádí a nástrojů,
+- oddělení nářadí pro různé rybníky,
+- nepřesouvat ryby z podezřelých rybníků,
+- sledovat zdravotní stav ryb po manipulaci.
+
+Hygiena je zásadní součást prevence.
+
+
+------------------------------------------------
+9. ČASTÉ CHYBY V PRAXI
+------------------------------------------------
+
+- přelovy v horkých dnech,
+- dlouhé držení ryb v síti,
+- přeplněné kádě,
+- nedostatečná aerace,
+- hrubé zacházení s rybami.
+
+Tyto chyby vedou k:
+- zvýšené mortalitě,
+- horšímu welfare,
+- ekonomickým ztrátám.
+
+
+------------------------------------------------
+10. SHRNUTÍ PRO PRAXI
+------------------------------------------------
+
+- Manipulace = největší stres pro ryby.
+- Krátce, klidně, chladně.
+- Dostatek kyslíku je klíčový.
+- Plánování je důležitější než improvizace.
+- Správná manipulace = vyšší přežití a lepší produkce.
+
+
+------------------------------------------------
+11. VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB-POND-07 – V1  
+Poslední aktualizace: 2025-03  
+Určeno pro: Aquantis Knowledge Base – Rybníkářství

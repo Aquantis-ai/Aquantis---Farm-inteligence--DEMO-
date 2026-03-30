@@ -1,0 +1,229 @@
+Aquantis_KB-POND-03_KVALITA_VODY_V_RYBNÍCÍCH_V1
+================================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument popisuje specifika kvality vody v rybníkářství a tradiční
+akvakultuře. Zaměřuje se na biologicky řízený charakter rybníků, vliv
+planktonu, denní cykly pH a kyslíku, rizika ranní hypoxie a problematiku
+květu vody.
+
+Dokument je určen jako odborný základ pro Aquantis Knowledge Base
+v oblasti rybníkářství a doplňuje RAS dokumenty o přirozeně řízené
+ekosystémy.
+
+Obsah vychází z:
+- FAO pond aquaculture manuals,
+- Boyd – Water Quality in Ponds,
+- WorldFish training materials,
+- evropské rybníkářské praxe (CZ, DE, PL),
+- univerzitních extension materiálů (Auburn, UF/IFAS).
+
+------------------------------------------------
+1. CHARAKTER KVALITY VODY V RYBNÍKU
+------------------------------------------------
+
+Rybník je:
+- otevřený biologický ekosystém,
+- řízený primárně biologickými procesy,
+- silně ovlivněný počasím, světlem a sezónou.
+
+Na rozdíl od RAS:
+- voda není chemicky „stabilní“,
+- hodnoty kolísají během dne,
+- plankton hraje klíčovou roli v produkci kyslíku i stresu.
+
+Základní princip:
+RYBÍ OBSÁDKA + KRMENÍ → ŽIVINY → PLANKTON → KYSLÍK / pH / STRES
+
+------------------------------------------------
+2. ROZPUŠTĚNÝ KYSLÍK – DENNÍ CYKLUS
+------------------------------------------------
+
+Typický denní průběh O₂ v rybníku:
+
+- noc / brzké ráno: MINIMUM O₂
+- dopoledne: růst O₂
+- odpoledne: MAXIMUM O₂ (fotosyntéza)
+- večer: pokles O₂
+
+Typické hodnoty:
+- ráno: 2–5 mg/l (rizikové období)
+- odpoledne: 8–15 mg/l (přesycení možné)
+
+Ranní hypoxie:
+- nejčastější příčina úhynů v rybnících
+- vzniká kombinací:
+  - vysoké biomasy ryb,
+  - hustého planktonu,
+  - teplých nocí,
+  - bezvětří.
+
+Kritické hodnoty:
+- < 3 mg/l → silný stres
+- < 2 mg/l → akutní riziko úhynu
+
+------------------------------------------------
+3. pH – DENNÍ A SEZÓNNÍ KOLÍSÁNÍ
+------------------------------------------------
+
+pH v rybníku kolísá v závislosti na fotosyntéze:
+
+- ráno: nízké pH (CO₂ z respirace)
+- odpoledne: vysoké pH (spotřeba CO₂ planktonem)
+
+Typický rozsah:
+- ráno: pH 6.5–7.5
+- odpoledne: pH 8.5–9.5
+- extrémně: až pH > 10 při masivním květu
+
+Rizika vysokého pH:
+- zvýšení toxické frakce NH₃,
+- poškození žaber,
+- stres ryb.
+
+------------------------------------------------
+4. PLANKTON – KLÍČOVÝ REGULÁTOR
+------------------------------------------------
+
+Plankton má dvojí roli:
+- PRODUKCE kyslíku přes den,
+- SPOTŘEBA kyslíku v noci.
+
+Typy planktonu:
+- zelené řasy (žádoucí, stabilní)
+- sinice (cyanobakterie) – rizikové
+
+Pozitivní funkce:
+- stabilizace potravního řetězce,
+- zlepšení růstu ryb,
+- omezení průhlednosti → menší stres.
+
+Negativní efekty:
+- noční hypoxie,
+- toxiny sinic,
+- extrémní pH.
+
+------------------------------------------------
+5. KVĚT VODY
+------------------------------------------------
+
+Definice:
+Květ vody = masivní rozvoj fytoplanktonu.
+
+Příčiny:
+- vysoké živiny (N, P),
+- vysoké teploty,
+- nízký průtok,
+- intenzivní krmení.
+
+Indikátory:
+- zelená až modrozelená voda,
+- nízká průhlednost (< 30 cm),
+- kolísání O₂ a pH.
+
+Rizika:
+- ranní hypoxie,
+- toxiny (u sinic),
+- kolaps planktonu → náhlý pokles O₂.
+
+------------------------------------------------
+6. AMONIAK A DUSÍK V RYBNÍKU
+------------------------------------------------
+
+Amoniak:
+- produkován rybami a rozkladem organiky,
+- většinou rychle využíván planktonem.
+
+Riziko NH₃:
+- vysoké pH + vysoká teplota,
+- nízká výměna vody.
+
+Nitrit:
+- obvykle nižší problém než v RAS,
+- může se objevit při rozkladu sedimentu.
+
+Dusičnany:
+- většinou nízké,
+- spotřebovávány rostlinami.
+
+------------------------------------------------
+7. PRŮHLEDNOST A SECCHI DISK
+------------------------------------------------
+
+Měření průhlednosti:
+- Secchi disk = jednoduchý, účinný nástroj.
+
+Optimální průhlednost:
+- 30–60 cm (produkční rybníky)
+
+< 20 cm:
+- riziko květu,
+- vysoké noční dýchání planktonu.
+
+> 80 cm:
+- nízká produktivita,
+- málo přirozené potravy.
+
+------------------------------------------------
+8. TEPLOTA A STRATIFIKACE
+------------------------------------------------
+
+Mělké rybníky:
+- rychlé ohřívání,
+- vysoké denní výkyvy.
+
+Hlubší rybníky:
+- riziko stratifikace:
+  - teplá vrstva nahoře,
+  - studená, bezkyslíkatá dole.
+
+Riziko:
+- promíchání při bouřce → uvolnění toxických plynů (H₂S, NH₃).
+
+------------------------------------------------
+9. ZÁKLADNÍ MANAGEMENT KVALITY VODY
+------------------------------------------------
+
+1. Pravidelné ranní měření O₂.
+2. Kontrola průhlednosti (Secchi disk).
+3. Přizpůsobení krmení stavu vody.
+4. Omezování organického zatížení.
+5. Provzdušňování v rizikových obdobích.
+6. Prevence nadměrného květu.
+
+------------------------------------------------
+10. RYCHLÁ DIAGNOSTIKA PROBLÉMŮ
+------------------------------------------------
+
+Rybí lapání u hladiny ráno:
+- pravděpodobně hypoxie.
+
+Zelená neprůhledná voda + úhyny:
+- květ vody + noční kolaps O₂.
+
+Vysoké pH odpoledne:
+- silná fotosyntéza planktonu.
+
+Náhlý úhyn po bouřce:
+- destratifikace + uvolnění toxických plynů.
+
+------------------------------------------------
+11. VÝCHODISKA Z ODBORNÝCH ZDROJŮ
+------------------------------------------------
+
+- FAO Pond Aquaculture Manuals
+- Boyd, C.E. – Water Quality in Ponds
+- WorldFish training guides
+- Evropská rybníkářská praxe (CZ, DE, PL)
+- Auburn University Extension Materials
+
+Veškerý text je nově formulovaný a neobsahuje
+copyrightovaný obsah převzatý 1:1.
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB-POND-03 – V1
+Poslední aktualizace: 2025-02
+Určeno pro: Aquantis Knowledge Base – Rybníkářství

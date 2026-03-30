@@ -1,0 +1,249 @@
+KB-AQUA-16 – KOMPATIBILITA DRUHŮ V AKVÁRIU (V1)
+=============================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika
+Typ dokumentu: Základní znalost / Diagnostika / Prevence
+Použití v Aquantis: Návrh obsádky, diagnostika stresu, prevence úhynů
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument popisuje principy kompatibility akvarijních ryb a dalších organismů.
+Cílem je zabránit:
+
+- chronickému stresu,
+- agresi,
+- potravní konkurenci,
+- neviditelné mortalitě (ryby „mizí“),
+- dlouhodobému selhání akvária.
+
+Kompatibilita není jen otázka „mírumilovný vs. agresivní druh“,  
+ale souhrn biologických, behaviorálních a ekologických faktorů.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ PILÍŘE KOMPATIBILITY
+------------------------------------------------
+
+Kompatibilitu určuje kombinace těchto faktorů:
+
+1. Teplotní preference
+2. Chemismus vody (pH, GH, KH)
+3. Chování a teritorialita
+4. Potravní strategie
+5. Velikost a rychlost růstu
+6. Aktivní zóna v akváriu (dno – střed – hladina)
+7. Denní/noční aktivita
+8. Reprodukční chování
+
+
+------------------------------------------------
+3. KOMPATIBILITA PODLE TEPLOTY
+------------------------------------------------
+
+Teplotní překryv je absolutní minimum.
+
+Příklady nekompatibilit:
+- Studenovodní druhy (zlatá rybka) × tropické ryby
+- KOI / karas × tropické tetry
+- Chladnomilné sumce × diskusi
+
+Dlouhodobé držení ryb mimo jejich optimální teplotní rozsah:
+- zvyšuje stres,
+- snižuje imunitu,
+- zkracuje život,
+- zvyšuje náchylnost k nemocem.
+
+
+------------------------------------------------
+4. CHEMISMUS VODY A BIOGEOGRAFIE
+------------------------------------------------
+
+Druhy z různých biotopů často nejsou kompatibilní:
+
+Příklady:
+- Jižní Amerika (měkká, kyselá voda) × Afrika Rift Lakes (tvrdá, zásaditá)
+- Asijské druhy × africké cichlidy
+
+Typické konflikty:
+- pH kompromis → stres pro všechny
+- nevhodná tvrdost → špatná osmoregulace
+- potlačení přirozeného chování
+
+
+------------------------------------------------
+5. CHOVÁNÍ A TERITORIALITA
+------------------------------------------------
+
+Klíčové faktory:
+- velikost teritoria,
+- obrana hnízda,
+- hierarchie.
+
+Rizikové kombinace:
+- teritoriální druh × klidný hejnový druh
+- více samců teritoriálních druhů v malém akváriu
+- cichlidy × pomalé ryby s dlouhými ploutvemi
+
+Poznámka:
+„Mírumilovný“ druh může být extrémně agresivní v období tření.
+
+
+------------------------------------------------
+6. POTRAVNÍ STRATEGIE A KONKURENCE
+------------------------------------------------
+
+Kompatibilita musí zohlednit:
+- rychlost přijímání potravy,
+- typ potravy (povrchová, sloupcová, bentická),
+- denní/noční krmení.
+
+Typické problémy:
+- rychlé ryby vyhladoví pomalé
+- noční druhy hladoví v denním režimu
+- specializované druhy nedostanou vhodnou potravu
+
+
+------------------------------------------------
+7. VELIKOST A RYCHLOST RŮSTU
+------------------------------------------------
+
+Častá chyba:
+„Jsou malé, tak se vejdou.“
+
+Problémy:
+- predace po dorostení
+- dominance větší ryby
+- deformace růstu v přerybnění
+
+Pravidlo:
+Každá ryba musí být dlouhodobě kompatibilní,
+ne jen v juvenilním stádiu.
+
+
+------------------------------------------------
+8. PROSTOROVÁ KOMPATIBILITA (ZÓNY AKVÁRIA)
+------------------------------------------------
+
+Zóny:
+- hladina,
+- střední pásmo,
+- dno.
+
+Ideální obsádka:
+- využívá všechny zóny,
+- minimalizuje přímou konkurenci.
+
+Problémy vznikají, když:
+- více dominantních druhů sdílí stejnou zónu,
+- dnové ryby nemají úkryty,
+- aktivní druhy stresují klidné.
+
+
+------------------------------------------------
+9. DENNÍ A NOČNÍ AKTIVITA
+------------------------------------------------
+
+Noční druhy:
+- sumci,
+- některé loachy.
+
+Denní druhy:
+- většina teter, cichlid, živorodek.
+
+Rizika:
+- noční stresování spících ryb,
+- noční predace,
+- nepozorované konflikty.
+
+
+------------------------------------------------
+10. REPRODUKČNÍ CHOVÁNÍ
+------------------------------------------------
+
+Tření mění chování ryb:
+
+- agresivita stoupá,
+- vzniká obrana teritoria,
+- útoky i na běžně kompatibilní druhy.
+
+Typické konflikty:
+- cichlidy během tření
+- labyrintky
+- živorodky (neustálé množení → přetížení systému)
+
+
+------------------------------------------------
+11. TYPOVÉ KATEGORIE KOMPATIBILITY
+------------------------------------------------
+
+A) Bezpečně kompatibilní
+- podobné nároky
+- rozdílné zóny
+- podobná velikost
+
+B) Podmíněně kompatibilní
+- nutný prostor
+- úkryty
+- kontrola obsádky
+
+C) Rizikové
+- vysoká agresivita
+- predace
+- extrémní rozdíly nároků
+
+
+------------------------------------------------
+12. ČASTÉ CHYBY AKVARISTŮ
+------------------------------------------------
+
+- „V obchodě říkali, že se snesou“
+- míchání biotopů
+- ignorování dospělé velikosti
+- přerybnění
+- nedostatek úkrytů
+- spoléhání na krátkodobé fungování
+
+
+------------------------------------------------
+13. DIAGNOSTICKÉ SIGNÁLY NEKOMPATIBILITY
+------------------------------------------------
+
+- schovávání ryb
+- odmítání potravy
+- poškozené ploutve
+- změny barvy
+- zvýšená mortalita bez zjevné příčiny
+- „záhadné mizení ryb“
+
+
+------------------------------------------------
+14. ZDROJE A ODBORNÝ ZÁKLAD
+------------------------------------------------
+
+Dokument vychází z konsolidovaných poznatků z:
+
+- univerzitních akvaristických extension materiálů (USA, EU),
+- odborné akvaristické literatury,
+- behaviorálních studií ryb,
+- dlouhodobých chovatelských best practices,
+- zkušeností z veřejných akvárií a ZOO.
+
+Text je plně parafrázovaný a právně bezpečný.
+
+
+------------------------------------------------
+15. VERZE DOKUMENTU
+------------------------------------------------
+
+KB-AQUA-16 – Kompatibilita druhů v akváriu
+Verze: V1
+Určeno pro: Aquantis Knowledge Base (interní použití)

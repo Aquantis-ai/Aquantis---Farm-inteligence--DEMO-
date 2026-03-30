@@ -1,0 +1,231 @@
+KB-KOI-09 – DESIGN KOI JEZÍRKA (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: KOI jezírka
+Typ dokumentu: Technický / designový
+Použití v Aquantis: Návrh jezírka, diagnostika problémů, prevence stresu
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL A FILOZOFIE DESIGNU KOI JEZÍRKA
+------------------------------------------------
+
+Design KOI jezírka není pouze estetická záležitost.
+Primárním cílem je vytvořit:
+
+- stabilní a kontrolovatelné vodní prostředí,
+- nízký stres pro ryby,
+- efektivní odstranění organického odpadu,
+- snadnou údržbu a monitoring,
+- podmínky pro dlouhodobé zdraví a růst KOI.
+
+KOI jezírko je z technologického hlediska malý otevřený
+recirkulační systém (open RAS) s velmi vysokými nároky
+na kvalitu vody a hygienu.
+
+
+------------------------------------------------
+2. OBJEM JEZÍRKA
+------------------------------------------------
+
+Objem je nejdůležitější parametr návrhu.
+
+Obecná doporučení:
+- minimum pro KOI: 10–15 m³
+- ideální hobby jezírko: 20–40 m³
+- show / chovné jezírko: 40+ m³
+
+Zásady:
+- větší objem = vyšší stabilita
+- malé jezírko = rychlé výkyvy teploty, pH, O₂, NH₄
+- objem pod 8–10 m³ je pro KOI dlouhodobě rizikový
+
+Orientace:
+- cca 1 m³ vody na 1 dospělou KOI (60–70 cm)
+  při kvalitní filtraci
+- při menší filtraci → vyšší objem na rybu
+
+
+------------------------------------------------
+3. HLOUBKA JEZÍRKA
+------------------------------------------------
+
+Doporučená hloubka:
+- minimum: 1.2 m
+- ideál: 1.5–2.0 m
+- show jezírka: až 2.2 m
+
+Význam hloubky:
+- stabilnější teplota (léto/zima),
+- menší stres ryb,
+- lepší přezimování,
+- ochrana před predátory,
+- lepší optické vlastnosti pro hodnocení KOI.
+
+Nevhodné:
+- mělké jezírko (<1 m),
+- výrazné terasy a stupně (riziko úrazů, hromadění kalu).
+
+
+------------------------------------------------
+4. TVAR JEZÍRKA
+------------------------------------------------
+
+Doporučené tvary:
+- ovál,
+- kruh,
+- obdélník se zaoblenými rohy.
+
+Zásady:
+- žádné ostré rohy → hromadění kalu,
+- žádné kapsy bez proudění,
+- jednoduchá geometrie = lepší hydraulika.
+
+Nevhodné:
+- příliš členité tvary,
+- úzké průplavy,
+- slepé zóny.
+
+
+------------------------------------------------
+5. PROUDĚNÍ VODY V JEZÍRKU
+------------------------------------------------
+
+Cíle proudění:
+- transport pevných částic ke dnu,
+- zabránění stagnaci,
+- rovnoměrná distribuce kyslíku,
+- přirozené plavání KOI.
+
+Doporučené proudění:
+- kruhové (gyre flow),
+- vstupy po obvodu,
+- výtoky u dna.
+
+Orientace rychlosti:
+- cca 5–15 cm/s
+- dostatečné k pohybu částic,
+- ne stresující pro ryby.
+
+Proudění má být:
+- plynulé,
+- bez turbulence,
+- bez „tryskání“ přímo na ryby.
+
+
+------------------------------------------------
+6. DNÍ ODTOKY A KALOVÉ ZÓNY
+------------------------------------------------
+
+Dnové výpusti:
+- absolutně klíčové pro hygienu jezírka,
+- doporučeno 1 dnový odtok na 15–25 m² dna.
+
+Zásady:
+- mírný spád dna směrem k odtoku (1–2 %),
+- hladký povrch dna,
+- žádné překážky.
+
+Cíl:
+- odstranění fekálií a zbytků krmiva
+  dříve, než se rozloží.
+
+
+------------------------------------------------
+7. OKRAJE A PŘECHODY
+------------------------------------------------
+
+Okraje jezírka:
+- pevné,
+- bez ostrých hran,
+- s minimem rostlin (u KOI jezírek).
+
+Důvody:
+- KOI nejsou ryby pro zarostlá jezírka,
+- rostliny zvyšují organické zatížení,
+- komplikují proudění a údržbu.
+
+Pokud jsou rostliny:
+- oddělené zóny,
+- minimální kontakt s hlavním objemem vody.
+
+
+------------------------------------------------
+8. MATERIÁLY A POVRCHY
+------------------------------------------------
+
+Doporučené materiály:
+- beton + hydroizolace,
+- EPDM fólie (kvalitní, UV stabilní),
+- laminát (GRP).
+
+Zásady:
+- hladký povrch,
+- netoxický,
+- odolný proti UV,
+- snadno čistitelný.
+
+Nevhodné:
+- porézní povrchy,
+- ostré kameny,
+- nekontrolované přírodní materiály.
+
+
+------------------------------------------------
+9. DESIGN VS. ÚDRŽBA
+------------------------------------------------
+
+Dobře navržené jezírko:
+- vyžaduje méně zásahů,
+- má stabilnější parametry,
+- má nižší riziko nemocí.
+
+Špatný design:
+- zvyšuje frekvenci problémů,
+- maskuje příčiny (symptomy místo příčin),
+- vede k chronickému stresu KOI.
+
+Zlaté pravidlo:
+Design jezírka musí sloužit rybám,
+ne jen oku majitele.
+
+
+------------------------------------------------
+10. ČASTÉ DESIGNOVÉ CHYBY
+------------------------------------------------
+
+- příliš malé jezírko,
+- mělká voda,
+- složitý tvar,
+- nedostatečné proudění,
+- absence dnových odtoků,
+- kombinace KOI + hustá vegetace,
+- estetika na úkor funkce.
+
+
+------------------------------------------------
+11. VÝCHODISKA A ODBORNÉ ZDROJE (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+- KOI Organisation International – design guidelines
+- Nishikigoi breeders (JP) – show pond standards
+- University extension materials – pond hydraulics
+- RAS best practices aplikované na KOI jezírka
+- dlouhodobá praxe hobby a profesionálních chovatelů
+
+Veškerý text je syntézou a parafrází odborných poznatků,
+není převzat žádný zdroj 1:1.
+
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+KB-KOI-09 – Design KOI jezírka
+Verze: V1
+Určeno pro: Aquantis Knowledge Base (interní použití)

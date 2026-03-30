@@ -1,0 +1,209 @@
+Aquantis_KB04_MECHANICKÁ_FILTRACE_V_AKVAKULTUŘE_V1
+================================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument poskytuje technický základ pro Aquantis v oblasti mechanické filtrace.
+Obsahuje konsolidované odborné poznatky z:
+- FAO pond aquaculture manuals,
+- RAS best-practice guidelines (EU/USA),
+- Boyd (Auburn University) – sedimentace a odstranění kalu,
+- WorldFish manuals,
+- univerzitních extension materiálů (UF/IFAS, Texas A&M),
+- otevřeně dostupných studií o TSS (total suspended solids) a hydraulice filtrů.
+
+Text je kompletně přeformulovaný a právně bezpečný (žádné kopie 1:1).
+
+
+------------------------------------------------
+1. ROLE MECHANICKÉ FILTRACE
+------------------------------------------------
+
+Mechanická filtrace slouží k odstranění:
+- nerozpuštěných částic (TSS),
+- krmivových zbytků,
+- výkalů,
+- biofilmových vloček,
+- jemných kalů, které mohou zatěžovat biofiltr.
+
+Mechanická filtrace je klíčová pro:
+- stabilitu biofiltru (nižší organická zátěž = rychlejší nitrifikace),
+- prevenci kolapsů nitrifikace způsobených vysokým organickým zatížením,
+- zabránění hromadění kalu a anaerobních zón,
+- prevenci problémů s NO₂ a TAN,
+- zlepšení kvality vody (O₂, zákal),
+- omezení patogenů v prostředí.
+
+
+------------------------------------------------
+2. TYPY MECHANICKÉ FILTRACE
+------------------------------------------------
+
+A) SEDIMENTAČNÍ (GRAVITAČNÍ)
+- usazovací nádrže, vortex, swirl separatory
+- vhodné pro větší částice > 50–70 µm
+- nízké provozní náklady
+- vyžadují pravidelné vypouštění kalu
+
+B) MECHANICKÉ SÍŤOVÉ FILTRY
+- bubnové (drum filter) → nejčastější v RAS
+- diskové filtry
+- pásové filtry
+- typické velikosti ok 40–100 µm
+- vysoká účinnost, automatické proplachování
+
+C) TLÁKOVÉ FILTRY
+- pískové filtry
+- granular media filters
+- vhodné pro jemné částice
+- mohou způsobit tvorbu biofilmu → riziko kanálování
+
+D) FOAM FRACTIONATION / PROTEIN SKIMMING
+- odstranění organických mikročástic a rozpuštěných organických látek
+- zlepšuje průzračnost vody a snižuje organickou zátěž biofiltru
+
+E) HYDROCYKLONY
+- vhodné pro rychlé oddělení těžkých částic
+- používají se v kombinaci s další filtrací
+
+
+------------------------------------------------
+3. KLÍČOVÉ PARAMETRY MECHANICKÉ FILTRACE
+------------------------------------------------
+
+1) TSS (Total Suspended Solids)
+- cílová hodnota v RAS: < 15 mg/l (optimálně 5–10 mg/l)
+- vyšší TSS → snížení účinnosti biofiltru, zhoršení O₂
+
+2) Velikost částic (micron rating)
+- bubnové filtry: 40–100 µm
+- diskové filtry: 20–60 µm
+- pískové filtry: až 5 µm (efektivně 10–20 µm)
+
+3) Hydraulické zatížení
+- průtok musí být dimenzován tak, aby se odstranilo 100 % recirkulované vody 1–3× za hodinu (podle druhu ryb)
+
+4) Účinnost odstranění
+- cílem je odstranit ≥ 80–90 % částic nad 50 µm
+- u intenzivního RAS pro pstruhy často > 90 %
+
+5) Frekvence proplachu / backwash
+- bubnové filtry:
+  - automatické spuštění při zanesení síta (senzor hladiny)
+  - typicky každých 3–15 minut podle zátěže
+- pískové filtry:
+  - backwash 1–2× denně nebo podle tlaku
+
+6) Organická zátěž (cBOD)
+- příliš vysoká organická zátěž způsobuje:
+  - inhibici nitrifikace
+  - růst heterotrofních bakterií
+  - kolísání pH a O₂
+  - zanášení filtračních médií
+
+7) Odstraňování kalu
+- kal by měl být odváděn co nejrychleji (ideálně během minut)
+- dlouhodobé setrvání kalu → anaerobní zóny, H₂S, riziko kolapsu biofiltru
+
+
+------------------------------------------------
+4. DIMENZOVÁNÍ MECHANICKÉ FILTRACE
+------------------------------------------------
+
+A) Velikost bubnového filtru
+- určuje se podle:
+  - průtoku (m³/h)
+  - maximální krmné dávky (kg krmiva / den)
+  - velikosti ok (µm)
+- orientační hodnoty:
+  - 1 kg krmiva → vzniká cca 0.25–0.35 kg pevných látek
+  - filtrace musí zachytit > 80 % této hmoty
+
+B) Požadavky na proplach
+- spotřeba vody na proplach: 0.1–1 % z recirkulace
+- vyšší organická zátěž → častější proplach
+
+C) Návrh sedimentačních jednotek
+- doba zdržení: 3–10 minut
+- rychlost proudění: < 0.02–0.04 m/s
+- kuželové nádoby: optimalizují usazování těžkých frakcí
+
+
+------------------------------------------------
+5. NEJČASTĚJŠÍ PROBLÉMY A JEJICH PŘÍČINY
+------------------------------------------------
+
+1) Zvyšující se TSS
+- zanesené síto
+- příliš velká krmná dávka
+- porucha proplachu bubnového filtru
+- nízký průtok přes filtr
+
+2) Zvyšující se NO₂ a TAN
+- příliš vysoká organická zátěž biofiltru
+- nedostatečné odstranění kalů
+- heterotrofní dominance v biofiltru
+
+3) Ztráta účinnosti bubnového filtru
+- potrhané síto
+- biofilm na síťovině
+- nízký tlak proplachu
+
+4) Tvorba anaerobního kalu
+- nedostatečné vyprazdňování sedimentačních jednotek
+- špatná geometrie usazovací nádrže
+- nízký průtok
+
+5) Tvorba pěny na hladině
+- zvýšené organické látky
+- nedostatečný protein skimming
+
+
+------------------------------------------------
+6. BEST PRACTICES PRO MECHANICKOU FILTRACI
+------------------------------------------------
+
+1. odstranit pevné látky do 5–10 minut od jejich vzniku
+2. udržovat bubnový filtr v čistém stavu (pravidelná inspekce síta)
+3. sledovat spotřebu vody při proplachu (indikátor zanášení)
+4. kontrolovat funkci senzorů hladiny (častá závada)
+5. pravidelně odkalovat sedimentační jednotky
+6. nezvyšovat krmné dávky rychleji, než roste nitrifikační kapacita
+7. kombinovat mechanickou filtraci s protein skimmerem u teplovodních druhů
+8. udržovat turbulentní proudění před filtrem, aby částice neusedaly předčasně
+
+
+------------------------------------------------
+7. RYCHLÁ DIAGNOSTICKÁ TABULKA
+------------------------------------------------
+
+| Problém | Pravděpodobná příčina | Okamžitá opatření |
+|--------|------------------------|-------------------|
+| Vysoké TSS | Zanesený filtr, nízký průtok | Zkontrolovat síto, zvýšit proplach |
+| Zvyšující se NO₂ | Přetížení systému organikou | Snížit krmení, vyčistit filtry |
+| Pěna na hladině | Organické látky | Aktivovat protein skimmer |
+| Anaerobní kal | Pomalej odvod kalu | Zvýšit odkalování, zlepšit hydrodynamiku |
+| Kolaps biofiltru | Heterotrofní dominance | Snížit organiku, zvýšit O₂ |
+
+
+------------------------------------------------
+8. ODBORNÉ VÝCHODISKA (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+Formulováno na základě:
+- FAO pond engineering principles,
+- Boyd (Auburn University): sedimentace, TSS, hydraulické vztahy,
+- International Journal of Recirculating Aquaculture: účinnost bubnových filtrů,
+- WorldFish pond training guides,
+- univerzitních extension materiálů (Texas A&M, UF/IFAS),
+- EU RAS best practices.
+
+Dokument neobsahuje žádný převzatý text 1:1.
+
+
+------------------------------------------------
+9. VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB04 – V1  
+Datum: 2025-02  
+Určeno pro: Aquantis Knowledge Base  

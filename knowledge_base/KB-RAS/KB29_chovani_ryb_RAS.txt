@@ -1,0 +1,244 @@
+Aquantis_KB29_CHOVÁNÍ_RYB_V_RAS_A_JEHO_DIAGNOSTICKÝ_VÝZNAM_V1
+===========================================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------------------
+Tento dokument popisuje chování ryb v RAS systémech jako klíčový
+diagnostický nástroj pro včasné rozpoznání technických, provozních
+a zdravotních problémů.
+
+Dokument slouží jako:
+- podpůrný diagnostický rámec pro Aquantis,
+- propojení technických dat (O₂, pH, NO₂, průtok) s biologickou reakcí ryb,
+- základ pro welfare monitoring a rozhodovací logiku.
+
+Dokument je založen na:
+- FAO welfare guidelines,
+- Boyd (Auburn University) – water quality & fish stress,
+- ASC welfare framework,
+- WorldFish & univerzitní extension materiály,
+- dlouhodobé provozní praxi RAS systémů.
+
+Text je parafrázovaný, odborně konsolidovaný a právně bezpečný.
+
+
+------------------------------------------------------------
+1. PROČ JE CHOVÁNÍ RYB KRITICKÝ DIAGNOSTICKÝ INDIKÁTOR
+------------------------------------------------------------
+
+Ryby reagují na změny prostředí:
+- rychleji než senzory,
+- dříve než dojde k měřitelným výkyvům,
+- často ještě před kolapsem systému.
+
+Chování je:
+- integrovaný výstup všech stresorů (chemických, fyzikálních, biologických),
+- indikátor akutního i chronického stresu,
+- klíčový welfare parametr.
+
+Základní princip:
+„Technická data říkají CO se děje, chování ryb říká JAK VÁŽNÉ to je.“
+
+
+------------------------------------------------------------
+2. ZÁKLADNÍ KATEGORIE CHOVÁNÍ V RAS
+------------------------------------------------------------
+
+Chování ryb v RAS lze rozdělit do pěti hlavních kategorií:
+
+1. Plavecké chování
+2. Prostorové rozložení v nádrži
+3. Respirační projevy
+4. Krmné chování
+5. Sociální interakce a reaktivita
+
+Každá kategorie reaguje na jiné typy stresorů.
+
+
+------------------------------------------------------------
+3. PLAVECKÉ CHOVÁNÍ
+------------------------------------------------------------
+
+Normální stav:
+- plynulý, stabilní pohyb,
+- u pelagických druhů rovnoměrné kroužení,
+- u bentických druhů klidné zóny s občasným pohybem.
+
+Abnormální projevy:
+- nekoordinované plavání,
+- trhavé pohyby,
+- křečovité rotace,
+- ztráta orientace.
+
+Možné příčiny:
+- akutní hypoxie,
+- vysoké NO₂,
+- toxická frakce NH₃,
+- neurologické postižení,
+- prudké změny teploty nebo pH.
+
+Diagnostický význam:
+→ Vždy považovat za urgentní stav.
+
+
+------------------------------------------------------------
+4. PROSTOROVÉ ROZLOŽENÍ V NÁDRŽI
+------------------------------------------------------------
+
+Normální stav:
+- rovnoměrné rozložení ryb,
+- využívání celé vodní masy,
+- přirozené zónování dle druhu.
+
+Varovné signály:
+- shlukování u hladiny,
+- shlukování u přítoku,
+- držení se u dna bez aktivity,
+- vyhýbání se určitým zónám.
+
+Typické interpretace:
+- hladina → nízký O₂, vysoký CO₂
+- přítok → lepší kvalita vody
+- dno → hypoxie, toxiny, stres
+- „mrtvé zóny“ → špatná hydraulika
+
+Vazba na technologii:
+→ často souvisí s průtoky, aerací a mícháním.
+
+
+------------------------------------------------------------
+5. RESPIRAČNÍ PROJEVY
+------------------------------------------------------------
+
+Normální stav:
+- klidný rytmus operkulárního pohybu,
+- bez lapání po vzduchu.
+
+Abnormální projevy:
+- zrychlené dýchání,
+- lapání po vzduchu,
+- otevřená tlama,
+- pohyb žaber bez pohybu těla.
+
+Možné příčiny:
+- nízký rozpuštěný kyslík,
+- vysoký CO₂,
+- vysoký NO₂ (methemoglobinémie),
+- poškození žaber,
+- náhlý organický šok.
+
+Diagnostická priorita:
+→ vždy ověřit O₂, CO₂, NO₂ okamžitě.
+
+
+------------------------------------------------------------
+6. KRMNÉ CHOVÁNÍ
+------------------------------------------------------------
+
+Normální stav:
+- rychlá reakce na krmení,
+- homogenní příjem,
+- minimální zbytky krmiva.
+
+Varovné projevy:
+- zpožděná reakce,
+- selektivní příjem,
+- odmítání krmiva,
+- zvýšené zbytky.
+
+Možné příčiny:
+- chronický stres,
+- subletální toxiny,
+- začínající onemocnění,
+- nevhodná teplota,
+- dlouhodobě špatná kvalita vody.
+
+Poznámka:
+Pokles příjmu krmiva je často první dlouhodobý indikátor problému.
+
+
+------------------------------------------------------------
+7. SOCIÁLNÍ INTERAKCE A REAKTIVITA
+------------------------------------------------------------
+
+Normální stav:
+- stabilní hierarchie,
+- nízká agresivita,
+- přirozené rozestupy.
+
+Abnormální projevy:
+- zvýšená agresivita,
+- kanibalismus,
+- apatie,
+- přehnaná lekavost.
+
+Možné příčiny:
+- vysoká hustota obsádky,
+- nevhodné proudění,
+- nedostatek úkrytů,
+- chronický stres,
+- špatné světelné podmínky.
+
+Dlouhodobý dopad:
+→ zhoršení welfare, růstu a FCR.
+
+
+------------------------------------------------------------
+8. TYPICKÉ CHOVÁNÍ VS. PARAMETRY VODY (PŘEHLED)
+------------------------------------------------------------
+
+Shlukování u hladiny → O₂ ↓ / CO₂ ↑
+Rychlé dýchání → NO₂ ↑ / O₂ ↓
+Apatie → chronický stres / NO₃ ↑
+Nekoordinované pohyby → NH₃ ↑ / toxiny
+Nežraní → subletální stres / pH, teplota
+Agrese → hustota / proudění / světlo
+
+
+------------------------------------------------------------
+9. VYUŽITÍ CHOVÁNÍ V DIAGNOSTICE AQUANTIS
+------------------------------------------------------------
+
+Aquantis by měl:
+- vždy kombinovat senzorická data + popis chování,
+- hodnotit závažnost problému podle reakce ryb,
+- používat chování jako „early warning system“.
+
+Doporučená logika:
+1. Popis chování
+2. Kontrola kritických parametrů
+3. Identifikace pravděpodobné příčiny
+4. Návrh okamžitých opatření
+5. Návrh prevence
+
+
+------------------------------------------------------------
+10. LIMITY A VAROVÁNÍ
+------------------------------------------------------------
+
+- Chování je vždy interpretační → není samostatná diagnóza.
+- Reakce se liší podle druhu, velikosti a životní fáze.
+- Nutné sledovat trend, ne jednotlivý okamžik.
+- Vždy kombinovat s měřením vody.
+
+
+------------------------------------------------------------
+11. VÝCHODISKA Z ODBORNÝCH ZDROJŮ (PARAFRÁZOVANÉ)
+------------------------------------------------------------
+
+- FAO Aquaculture Welfare Guidelines
+- Boyd (Auburn University) – Fish stress & water quality
+- WorldFish training manuals
+- ASC welfare framework
+- Univerzitní extension materiály (Texas A&M, UF/IFAS)
+- RAS best practices EU/USA
+
+Veškerý text je nově formulovaný, syntetický a právně bezpečný.
+
+
+------------------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------------------
+Verze: KB29 – V1
+Poslední aktualizace: 2025-02
+Určeno pro: Aquantis Knowledge Base (interní použití)

@@ -1,0 +1,214 @@
+Aquantis_KB-AQUA-14_AKVARIJNÍ_SUBSTRÁTY_INERTNÍ_VS_AKTIVNÍ_V1
+===========================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika
+Typ dokumentu: Technický / edukační
+Použití v Aquantis: Diagnostika, návrh akvária, prevence problémů
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ROLE SUBSTRÁTU V AKVÁRIU
+------------------------------------------------
+
+Substrát není pouze estetický prvek, ale plní několik klíčových funkcí:
+
+- mechanická opora pro rostliny,
+- rezervoár živin (u aktivních substrátů),
+- biotop pro nitrifikační a heterotrofní bakterie,
+- vliv na chemii vody (pH, KH, GH),
+- prostředí pro bentické organismy (krevetky, pancéřníčci).
+
+Volba substrátu má přímý dopad na:
+- stabilitu akvária,
+- růst rostlin,
+- zdravotní stav ryb,
+- četnost problémů (řasy, zákaly, kolapsy).
+
+
+------------------------------------------------
+2. ZÁKLADNÍ ROZDĚLENÍ SUBSTRÁTŮ
+------------------------------------------------
+
+Akvarijní substráty lze rozdělit do dvou hlavních skupin:
+
+A) Inertní substráty  
+B) Aktivní substráty (soil, výživné substráty)
+
+Každý typ má své výhody, omezení a vhodné použití.
+
+
+------------------------------------------------
+3. INERTNÍ SUBSTRÁTY
+------------------------------------------------
+
+Definice:
+Substráty, které chemicky téměř nereagují s vodou a neuvolňují živiny.
+
+Typické materiály:
+- křemičitý písek,
+- říční štěrk,
+- bazalt,
+- láva (porézní, ale chemicky stabilní),
+- drcený kámen (pozor na vápenec).
+
+Vlastnosti:
+- stabilní pH, KH, GH,
+- minimální riziko chemických výkyvů,
+- dlouhá životnost (prakticky neomezená).
+
+Výhody:
+- vysoká stabilita systému,
+- vhodné pro začátečníky,
+- ideální pro rybí akvária bez náročných rostlin,
+- snadná údržba.
+
+Nevýhody:
+- neposkytují živiny rostlinám,
+- vyžadují hnojení do vodního sloupce nebo kořenové tablety,
+- menší biologická aktivita než aktivní substráty.
+
+Typické použití:
+- společenská akvária,
+- cichlidária,
+- nádrže s minimem rostlin,
+- akvária zaměřená na ryby (biotopy).
+
+
+------------------------------------------------
+4. AKTIVNÍ SUBSTRÁTY (SOIL)
+------------------------------------------------
+
+Definice:
+Substráty navržené pro aktivní práci s chemií vody a výživou rostlin.
+
+Typické složení:
+- vypalované jíly,
+- huminové látky,
+- organické složky,
+- minerální příměsi.
+
+Vlastnosti:
+- snižují pH a KH,
+- vážou amonium (NH₄⁺),
+- uvolňují živiny ke kořenům,
+- podporují růst rostlin.
+
+Výhody:
+- ideální pro rostlinná akvária,
+- podporují stabilní nitrifikaci,
+- umožňují chov citlivých druhů (krevetky, tetry).
+
+Nevýhody:
+- omezená životnost (cca 1,5–3 roky),
+- riziko amoniového šoku při špatném založení,
+- vyšší nároky na management vody,
+- vyšší pořizovací cena.
+
+Typické použití:
+- aquascaping,
+- rostlinná akvária,
+- krevetária,
+- měkkovodní biotopy.
+
+
+------------------------------------------------
+5. VLIV SUBSTRÁTU NA CHEMII VODY
+------------------------------------------------
+
+Substrát může významně ovlivňovat:
+
+pH:
+- inertní → stabilní,
+- aktivní → pokles pH (obvykle 5,5–6,8).
+
+KH a GH:
+- inertní → beze změny,
+- aktivní → postupné snižování KH.
+
+Dusíkatý cyklus:
+- aktivní substráty mohou vázat NH₄⁺ a tím snižovat akutní toxicitu,
+- při degradaci však mohou živiny uvolňovat zpět.
+
+Důležité:
+Nesoulad mezi substrátem a cílovými druhy ryb je častou příčinou dlouhodobých problémů.
+
+
+------------------------------------------------
+6. SUBSTRÁT A BIOLOGIE DNA
+------------------------------------------------
+
+Substrát je významným nosičem biofilmu:
+
+- povrch pro nitrifikační bakterie,
+- prostředí pro denitrifikaci v hlubších vrstvách,
+- útočiště pro mikrofaunu.
+
+Jemné substráty:
+- vyšší riziko anaerobních zón,
+- nutnost pravidelného odkalení.
+
+Hrubší substráty:
+- lepší proudění,
+- nižší riziko hnilobných procesů.
+
+
+------------------------------------------------
+7. CHYBY PŘI VOLBĚ A POUŽITÍ SUBSTRÁTU
+------------------------------------------------
+
+Nejčastější chyby:
+- použití aktivního substrátu bez znalosti jeho chování,
+- kombinace aktivního substrátu s tvrdou vodou,
+- příliš silná vrstva jemného písku,
+- nevhodný substrát pro pancéřníčky (ostré hrany),
+- výměna substrátu bez biologické přípravy.
+
+Důsledek:
+- nestabilní pH,
+- zákaly,
+- úhyny ryb,
+- kolaps biologické rovnováhy.
+
+
+------------------------------------------------
+8. PRAKTICKÁ DOPORUČENÍ
+------------------------------------------------
+
+Při výběru substrátu si vždy polož:
+- Jaké ryby chci chovat?
+- Chci pěstovat rostliny – jak náročné?
+- Jaká je vstupní voda?
+- Jaká je moje zkušenost?
+
+Obecné zásady:
+- jednoduché akvárium → inertní substrát,
+- rostlinné akvárium → aktivní substrát,
+- méně je často více (tloušťka vrstvy 4–7 cm).
+
+
+------------------------------------------------
+9. ZDROJE A ODBORNÁ VÝCHODISKA
+------------------------------------------------
+
+Dokument vychází ze syntézy:
+- univerzitních akvarijních a limnologických materiálů,
+- FAO a extension dokumentů o biologii substrátů,
+- odborných publikací o nitrifikaci v malých systémech,
+- dlouhodobých best practices akvaristiky.
+
+Text je formulován nově, bez přebírání chráněného obsahu.
+
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+
+KB-AQUA-14 – Akvarijní substráty (inertní vs. aktivní)
+Verze: V1
+Určeno pro: Aquantis Knowledge Base (interní použití)

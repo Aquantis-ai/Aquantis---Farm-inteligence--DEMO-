@@ -1,0 +1,222 @@
+KB-AQUA-08 – NEMOCI AKVARIJNÍCH RYB (PARAZITI, BAKTERIE, PREVENCE)
+===============================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika
+Typ dokumentu: Zdraví ryb / Diagnostika
+Použití v Aquantis: Diagnostika problémů, prevence, edukace
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument shrnuje nejčastější onemocnění akvarijních ryb
+se zaměřením na:
+
+- parazitární onemocnění,
+- bakteriální infekce,
+- plísňová onemocnění,
+- roli stresu a kvality vody,
+- prevenci a správnou diagnostiku.
+
+Dokument je určen jako **odborný diagnostický podklad**.
+Neobsahuje konkrétní dávkování léčiv ani veterinární preskripci.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ PRINCIPY ZDRAVÍ AKVARIJNÍCH RYB
+------------------------------------------------
+
+V akvaristice platí zásadní pravidlo:
+
+➡️ **Většina nemocí není primární, ale sekundární.**
+
+Nejčastější spouštěče:
+- zhoršená kvalita vody (NH₃, NO₂, kolísání pH),
+- chronický stres,
+- přerybnění,
+- nevhodná kompatibilita druhů,
+- náhlé změny teploty,
+- zavlečení patogenů bez karantény.
+
+Zdravá ryba v dobrých podmínkách má vysokou schopnost
+odolávat patogenům.
+
+
+------------------------------------------------
+3. PARAZITÁRNÍ ONEMOCNĚNÍ
+------------------------------------------------
+
+3.1 Ichthyophthirius multifiliis („krupička“)
+
+Typické příznaky:
+- bílé tečky na kůži a ploutvích,
+- tření o dekorace,
+- zrychlené dýchání,
+- apatie.
+
+Rizikové faktory:
+- náhlý pokles teploty,
+- nové ryby bez karantény,
+- stres.
+
+Poznámka:
+Parazit má životní cyklus – léčba musí zasáhnout volně
+plovoucí stádium, ne cysty na rybě.
+
+
+3.2 Trichodina, Costia (Ichthyobodo)
+
+Příznaky:
+- šedý/slizký povlak,
+- letargie,
+- zrychlené dýchání,
+- ryby stojí u hladiny nebo filtru.
+
+Často spojeno s:
+- vysokým organickým zatížením,
+- zanedbanou údržbou.
+
+
+3.3 Gyrodactylus / Dactylogyrus (žábroví a kožní červi)
+
+Příznaky:
+- zrychlené dýchání,
+- jednostranné dýchání,
+- podráždění kůže,
+- hubnutí.
+
+Typické pro:
+- živorodky,
+- cichlidy,
+- KOI a karasy.
+
+
+------------------------------------------------
+4. BAKTERIÁLNÍ ONEMOCNĚNÍ
+------------------------------------------------
+
+4.1 Aeromonas / Pseudomonas
+
+Příznaky:
+- zarudnutí kůže,
+- vředy,
+- rozpad ploutví,
+- apatie.
+
+Primární příčina:
+- dlouhodobý stres,
+- špatná kvalita vody.
+
+Poznámka:
+Bakterie jsou běžně přítomné – onemocnění propuká
+při oslabení imunity ryb.
+
+
+4.2 Columnaris (Flavobacterium columnare)
+
+Příznaky:
+- bělavé skvrny kolem tlamy,
+- „vatový“ vzhled,
+- rychlý průběh.
+
+Rizikové faktory:
+- vyšší teplota,
+- vysoké organické zatížení,
+- poranění ryb.
+
+
+------------------------------------------------
+5. PLÍSŇOVÁ ONEMOCNĚNÍ
+------------------------------------------------
+
+5.1 Saprolegnia
+
+Příznaky:
+- vatovité bílé až šedé povlaky,
+- často sekundární infekce na poranění.
+
+Typické spouštěče:
+- mechanické poškození,
+- špatná kvalita vody,
+- oslabení ryb.
+
+Plísně jsou téměř vždy **sekundární problém**.
+
+
+------------------------------------------------
+6. ROZHODOVACÍ DIAGNOSTICKÝ RÁMEC
+------------------------------------------------
+
+Symptom → Pravděpodobná příčina:
+
+- Bílé tečky → Ichthyophthirius
+- Tření o dekorace → paraziti / zhoršená voda
+- Rychlé dýchání → NO₂, nízký O₂, žábroví paraziti
+- Rozpad ploutví → bakteriální infekce + stres
+- Vatový povlak → plíseň (sekundární)
+
+Zlaté pravidlo:
+➡️ Nejprve vždy zkontroluj **vodu**, až potom nemoc.
+
+
+------------------------------------------------
+7. PREVENCE ONEMOCNĚNÍ
+------------------------------------------------
+
+1. Stabilní kvalita vody:
+   - NH₃ = 0
+   - NO₂ = 0
+   - stabilní pH
+2. Pravidelná údržba.
+3. Karanténa nových ryb (2–4 týdny).
+4. Nepřerybňovat akvárium.
+5. Kvalitní a přiměřené krmení.
+6. Vyhýbat se náhlým změnám teploty.
+7. Omezit stres (agrese, špatná kompatibilita).
+
+
+------------------------------------------------
+8. CO AQUANTIS NESMÍ DĚLAT
+------------------------------------------------
+
+Aquantis:
+- nepředepisuje léčiva,
+- neudává dávkování chemikálií,
+- nenahrazuje veterináře.
+
+Aquantis:
+✔ pomáhá s diagnostikou,
+✔ upozorňuje na rizika,
+✔ navrhuje bezpečná opatření,
+✔ doporučuje, kdy kontaktovat odborníka.
+
+
+------------------------------------------------
+9. ZDROJE A ODBORNÝ KONTEXT (PARAFRÁZOVÁNO)
+------------------------------------------------
+
+Tento dokument vychází ze syntézy poznatků z:
+
+- FAO Aquaculture health guidelines,
+- Noga, Fish Disease: Diagnosis and Treatment,
+- University extension materials (UF/IFAS, Auburn),
+- WorldFish health manuals,
+- International Journal of Aquatic Animal Health,
+- dlouhodobé akvaristické praxe.
+
+Text je zcela nově formulovaný a právně bezpečný.
+
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+
+KB-AQUA-08 – Nemoci akvarijních ryb  
+Verze: V1  
+Určeno pro: Aquantis Knowledge Base (interní použití)

@@ -1,0 +1,204 @@
+KB-AQUA-11 – ŘASY V AKVÁRIU (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika
+Typ dokumentu: Technický / diagnostický
+Použití v Aquantis: Diagnostika problémů, prevence, optimalizace provozu
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+Zdroje (syntéza, parafrázováno):
+- FAO / WorldFish – obecná produktivita vodních systémů
+- Barr Report, Tom Barr – CO₂, světlo, živiny
+- Diana Walstad – Ecology of the Planted Aquarium
+- University Extension Materials (Florida, Texas A&M)
+- Open-access články (Aquatic Botany, Hydrobiologia)
+- Odborná akvaristická praxe (high-tech i low-tech)
+
+------------------------------------------------
+1. ROLE ŘAS V AKVÁRIU
+------------------------------------------------
+
+Řasy nejsou samy o sobě „špatné“.
+Jsou přirozenou součástí každého vodního ekosystému a signalizují:
+
+- nerovnováhu živin,
+- světelné přetížení nebo deficit,
+- nestabilitu CO₂,
+- slabou biologickou filtraci.
+
+Cílem akvaristy není absolutní absence řas,
+ale **kontrola jejich růstu a dominance vyšších rostlin**.
+
+------------------------------------------------
+2. ZÁKLADNÍ MECHANISMUS VZNIKU ŘAS
+------------------------------------------------
+
+Řasy prosperují, když platí alespoň jedna z podmínek:
+
+- nadbytek světla vzhledem k živinám,
+- nestabilní nebo nízký CO₂,
+- přebytek dusíku (NO₃) nebo fosforu (PO₄),
+- slabá konkurence rostlin,
+- kolísání parametrů (pH, CO₂, teplota).
+
+Důležité:
+Řasy nejsou způsobeny jedním faktorem, ale **kombinací nerovnováh**.
+
+------------------------------------------------
+3. HLAVNÍ TYPY ŘAS – TYPOLOGIE
+------------------------------------------------
+
+------------------------------------------------
+3.1 ZELENÉ ŘASY (GREEN ALGAE)
+------------------------------------------------
+
+Typy:
+- Green Dust Algae (GDA)
+- Green Spot Algae (GSA)
+- Vláknité zelené řasy
+
+Typické příčiny:
+- vysoké světlo,
+- nízký nebo nestabilní CO₂,
+- nízký fosfor (u GSA).
+
+Řešení:
+- stabilizace CO₂,
+- úprava fotoperiody (6–8 h),
+- vyvážené hnojení N:P:K.
+
+------------------------------------------------
+3.2 HNĚDÉ ŘASY (DIATOMS)
+------------------------------------------------
+
+Typické pro:
+- nové nádrže,
+- nádrže s nízkým světlem.
+
+Příčiny:
+- silikáty,
+- slabá biologická filtrace,
+- nezaběhnutý dusíkový cyklus.
+
+Řešení:
+- čas (zaběhnutí nádrže),
+- zvýšení biologické aktivity,
+- mechanické odstranění.
+
+------------------------------------------------
+3.3 ČERNÁ ŠTĚTIČKOVÁ ŘASA (BBA)
+------------------------------------------------
+
+Jedna z nejproblematičtějších řas.
+
+Příčiny:
+- kolísání CO₂,
+- organické znečištění,
+- silný proud v kombinaci s nestabilní chemií.
+
+Řešení:
+- stabilní CO₂ po celou fotoperiodu,
+- snížení organické zátěže,
+- zlepšení údržby filtru.
+
+------------------------------------------------
+3.4 SINICE (CYANOBACTERIA)
+------------------------------------------------
+
+Technicky nejsou řasy, ale bakterie.
+
+Příznaky:
+- slizký povlak,
+- zápach,
+- rychlé šíření.
+
+Příčiny:
+- extrémní nerovnováha živin,
+- nízký průtok,
+- stagnující zóny.
+
+Řešení:
+- zvýšení cirkulace,
+- mechanické odstranění,
+- úprava N:P poměru,
+- krátkodobé zatemnění (blackout).
+
+------------------------------------------------
+4. VZTAH ŘAS – SVĚTLO – CO₂ – ŽIVINY
+------------------------------------------------
+
+Základní pravidlo:
+SVĚTLO určuje potenciál růstu,
+CO₂ a živiny rozhodují, kdo ten potenciál využije.
+
+Časté chyby:
+- příliš silné světlo bez CO₂,
+- hnojení bez rostlin,
+- nárazové změny režimu.
+
+------------------------------------------------
+5. PREVENCE ŘAS
+------------------------------------------------
+
+1. Stabilní fotoperioda (6–8 h).
+2. Konzistentní CO₂ (pokud se používá).
+3. Dostatek rychlerostoucích rostlin.
+4. Pravidelná údržba a výměny vody.
+5. Nepřekrmovat ryby.
+6. Čistit filtr bez narušení biofilmu.
+
+------------------------------------------------
+6. BIOLOGICKÁ KONTROLA ŘAS
+------------------------------------------------
+
+Pomocné organismy:
+- Otocinclus (hnědé, zelené řasy),
+- Ancistrus (omezeně),
+- Krevetky (Amano – vláknité řasy),
+- Šneci (Neritina – povlaky).
+
+Poznámka:
+Žádný organismus řasy „nevyřeší“, pouze **pomůže udržet rovnováhu**.
+
+------------------------------------------------
+7. DIAGNOSTICKÁ TABULKA (ZJEDNODUŠENÁ)
+------------------------------------------------
+
+Symptom → Pravděpodobná příčina
+
+- Zelené tečky → nízký PO₄
+- BBA → kolísající CO₂
+- Hnědý povlak → nová nádrž
+- Sinice → stagnace, nerovnováha N:P
+- Vláknité řasy → silné světlo + slabé rostliny
+
+------------------------------------------------
+8. CO NEDĚLAT
+------------------------------------------------
+
+- Nesnižovat světlo na minimum bez analýzy.
+- Nepoužívat chemické algicidy jako první volbu.
+- Neprovádět chaotické změny režimu.
+- Neignorovat roli biologické filtrace.
+
+------------------------------------------------
+9. ZÁVĚR
+------------------------------------------------
+
+Řasy jsou **indikátor**, nikoli nepřítel.
+Správně vedené akvárium s vyváženými procesy
+má řasy pod kontrolou bez drastických zásahů.
+
+Cílem Aquantis je:
+- identifikovat příčinu,
+- navrhnout systémové řešení,
+- obnovit dlouhodobou stabilitu.
+
+------------------------------------------------
+KONEC DOKUMENTU
+------------------------------------------------

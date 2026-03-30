@@ -1,0 +1,255 @@
+KB-KOI-02 – KVALITA VODY PRO KOI (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Okrasná jezírka a KOI
+Typ dokumentu: Technický / druhově specifický
+Použití v Aquantis: Diagnostika, doporučení, dlouhodobý management
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument definuje optimální a kritické parametry kvality vody
+pro chov okrasných kaprů KOI (Cyprinus rubrofuscus „koi“).
+
+Zaměřuje se na:
+- dlouhodobou stabilitu jezírka,
+- prevenci stresu a onemocnění,
+- podporu růstu a vybarvení,
+- minimalizaci chronického organického zatížení.
+
+Dokument je určen pro:
+- hobby chovatele,
+- show KOI systémy,
+- profesionální KOI farmy,
+- diagnostické použití v Aquantis.
+
+Poznatky vycházejí z:
+- KOI Organisation International (KOI Health Advisor program),
+- japonských KOI farm best practices,
+- univerzitních extension materiálů,
+- obecně uznávaných principů limnologie a biofiltrace.
+
+
+------------------------------------------------
+2. CHARAKTERISTIKA KOI JAKO DRUHU
+------------------------------------------------
+
+KOI jsou:
+- dlouhověké ryby (20–60 let),
+- extrémně citlivé na chronický stres,
+- tolerantní k teplotním výkyvům,
+- citlivé na dlouhodobě zvýšené dusíkaté látky.
+
+Zásadní rozdíl oproti produkčnímu kapru:
+- důraz na estetiku (kůže, barvy, kresba),
+- důraz na dlouhodobé zdraví (nikoli maximální růst),
+- nízká tolerance k organickému přetížení.
+
+
+------------------------------------------------
+3. ROZPUŠTĚNÝ KYSLÍK (O₂)
+------------------------------------------------
+
+Optimální rozsah:
+- 6–9 mg/l (ideál pro růst a metabolismus)
+- > 5 mg/l absolutní minimum
+
+Kritické stavy:
+- < 4 mg/l → akutní stres
+- < 3 mg/l → riziko úhynu
+
+Poznámky:
+- KOI mají vysokou spotřebu O₂ při krmení.
+- V létě dochází k nočnímu poklesu O₂ kvůli respirační aktivitě biofilmu.
+- V zimě je O₂ limitován ledem a rozkladem organiky.
+
+Doporučení:
+- trvalá aerace,
+- minimálně 1–2 záložní zdroje kyslíku.
+
+
+------------------------------------------------
+4. TEPLOTA A SEZÓNNÍ CYKLUS
+------------------------------------------------
+
+Optimální teploty:
+- Aktivní růst: 20–26 °C
+- Udržovací režim: 12–18 °C
+- Zimování: 4–8 °C
+
+Kritické zóny:
+- < 4 °C → metabolické zpomalení
+- 8–12 °C → tzv. „stress window“ (oslabená imunita)
+- > 28 °C → riziko hypoxie a bakteriálních infekcí
+
+Sezónní poznámky:
+- Jaro: vysoké riziko nemocí (oslabená imunita).
+- Léto: riziko hypoxie a amoniaku.
+- Podzim: stabilizace systému.
+- Zima: riziko hromadění organiky pod ledem.
+
+
+------------------------------------------------
+5. pH A ALKALITA (KH)
+------------------------------------------------
+
+Optimální pH:
+- 7.0–8.2 (ideál 7.4–7.8)
+
+Kritické:
+- pH < 6.5 → stres, poškození kůže
+- pH > 8.5 → zvýšená toxicita NH₃
+
+Alkalita (KH):
+- ideálně 100–200 mg/l CaCO₃
+- < 80 mg/l → nestabilní pH
+- > 250 mg/l → riziko vysokého pH
+
+Poznámky:
+- KOI špatně snáší rychlé pH výkyvy.
+- Biofiltrace spotřebovává alkalitu → nutná pravidelná kontrola.
+
+
+------------------------------------------------
+6. AMONIAK (NH₃ / NH₄⁺)
+------------------------------------------------
+
+Optimální:
+- NH₃ (toxická frakce): < 0.01 mg/l
+- TAN: < 0.3 mg/l
+
+Alarm:
+- TAN > 0.5 mg/l
+- NH₃ > 0.02 mg/l
+
+Specifika KOI:
+- vysoká citlivost k chronicky zvýšeným hodnotám,
+- poškození žaber a kůže,
+- snížení kvality barvy.
+
+Rizikové faktory:
+- přerybnění,
+- nadměrné krmení,
+- kolaps biofiltru,
+- vysoké pH a teplota.
+
+
+------------------------------------------------
+7. NITRIT (NO₂⁻)
+------------------------------------------------
+
+Optimální:
+- < 0.05 mg/l
+
+Alarm:
+- 0.1–0.3 mg/l → stres
+- > 0.5 mg/l → akutní riziko
+
+Poznámky:
+- KOI jsou citlivé na NO₂.
+- NO₂ blokuje transport kyslíku v krvi.
+- Nízký obsah chloridů zvyšuje toxicitu NO₂.
+
+
+------------------------------------------------
+8. DUSIČNANY (NO₃⁻)
+------------------------------------------------
+
+Doporučené hodnoty:
+- < 50 mg/l ideál
+- 50–100 mg/l dlouhodobě tolerovatelné
+- > 100 mg/l → chronický stres
+
+Dlouhodobé účinky:
+- snížení imunity,
+- horší kvalita kůže,
+- zvýšená náchylnost k infekcím.
+
+Řízení:
+- částečné výměny vody,
+- rostliny / mokřadní zóny,
+- denitrifikační prvky.
+
+
+------------------------------------------------
+9. ORGANICKÉ ZATÍŽENÍ (DOC, BOD)
+------------------------------------------------
+
+KOI produkují vysoké množství:
+- rozpuštěných organických látek,
+- slizu,
+- jemných částic.
+
+Důsledky:
+- pěnění vody,
+- bakteriální zákaly,
+- růst patogenů.
+
+Řešení:
+- mechanická filtrace (jemná),
+- biologická filtrace,
+- pěnové frakcionátory,
+- UV sterilizace (správně dimenzovaná).
+
+
+------------------------------------------------
+10. SEZÓNNÍ RIZIKA A DIAGNOSTIKA
+------------------------------------------------
+
+Jaro:
+- nízká imunita,
+- Aeromonas, Saprolegnia.
+
+Léto:
+- hypoxie,
+- NH₃ stres,
+- kožní infekce.
+
+Podzim:
+- stabilní období,
+- příprava na zimu.
+
+Zima:
+- hromadění organiky,
+- riziko anoxie pod ledem.
+
+
+------------------------------------------------
+11. ZÁKLADNÍ BEST PRACTICES PRO KOI
+------------------------------------------------
+
+1. Stabilita > extrémní čistota.
+2. Nízké organické zatížení.
+3. Pravidelný monitoring pH, O₂, TAN, NO₂, NO₃.
+4. Nepřekrmovat.
+5. Zajistit redundanci aerace.
+6. Pomalu reagovat na změny (žádné šoky).
+7. Vést dlouhodobé záznamy.
+
+
+------------------------------------------------
+12. ZDROJE A ODBORNÉ VÝCHODISKO
+------------------------------------------------
+
+Dokument je syntézou odborných poznatků z:
+- KOI Organisation International (Health Advisor program),
+- japonských KOI farm guidelines,
+- univerzitních extension materiálů (USA, EU),
+- obecné limnologie a biofiltrace.
+
+Text je formulován nově a neobsahuje žádné převzaté pasáže 1:1.
+
+
+------------------------------------------------
+13. VERZE DOKUMENTU
+------------------------------------------------
+KB-KOI-02 – V1  
+Určeno pro: Aquantis Knowledge Base (interní použití)

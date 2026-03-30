@@ -1,0 +1,214 @@
+KB-AQUA-13 – CO₂ V AKVÁRIU (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika
+Typ dokumentu: Technický / provozní
+Použití v Aquantis: Diagnostika, doporučení nastavení, prevence problémů
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ROLE CO₂ V AKVÁRIU
+------------------------------------------------
+
+Oxid uhličitý (CO₂) je klíčový prvek pro:
+- fotosyntézu akvarijních rostlin,
+- stabilní růst a vitalitu rostlin,
+- konkurenceschopnost rostlin vůči řasám.
+
+V rostlinných a aquascaping akváriích je CO₂
+často **limitujícím faktorem růstu**.
+
+Současně je CO₂:
+- potenciálním rizikem pro ryby,
+- silně provázán s pH a KH,
+- zdrojem častých chyb začátečníků.
+
+
+------------------------------------------------
+2. PŘIROZENÉ ZDROJE CO₂
+------------------------------------------------
+
+CO₂ se v akváriu přirozeně vytváří:
+- dýcháním ryb a bezobratlých,
+- bakteriálním rozkladem organické hmoty,
+- dýcháním rostlin v noci.
+
+Typická koncentrace bez dodávání:
+- 1–5 mg/l CO₂ (nízké osvětlení, málo rostlin)
+- 5–10 mg/l (hustší osádka, minimum rostlin)
+
+Pro náročnější rostliny je to nedostatečné.
+
+
+------------------------------------------------
+3. OPTIMÁLNÍ KONCENTRACE CO₂
+------------------------------------------------
+
+Obecná doporučení:
+- 15–30 mg/l CO₂ pro rostlinná akvária
+- < 10 mg/l pro nádrže bez rostlin
+- > 35 mg/l = zvýšené riziko pro ryby
+
+Citlivost ryb:
+- živorodky, cichlidy, labyrintky → citlivější
+- tetry, razbory → střední tolerance
+- krevetky → velmi citlivé na výkyvy
+
+Poznámka:
+Nebezpečné nejsou jen vysoké hodnoty,
+ale hlavně **rychlé změny koncentrace**.
+
+
+------------------------------------------------
+4. PLYNNÉ CO₂ SYSTÉMY
+------------------------------------------------
+
+Nejpřesnější a nejstabilnější metoda.
+
+Základní komponenty:
+- tlaková láhev CO₂,
+- redukční ventil,
+- jemný jehlový ventil,
+- elektromagnetický ventil,
+- počítadlo bublinek,
+- difuzor / reaktor,
+- drop checker (indikátor CO₂).
+
+Výhody:
+- stabilní dávkování,
+- vysoká účinnost,
+- vhodné pro náročné rostliny.
+
+Rizika:
+- předávkování při špatném nastavení,
+- noční hromadění CO₂ bez vypnutí,
+- selhání ventilu nebo difuzoru.
+
+
+------------------------------------------------
+5. TEKUTÉ „CO₂“ PŘÍPRAVKY
+------------------------------------------------
+
+Obvykle na bázi glutaraldehydu nebo jeho derivátů.
+
+Vlastnosti:
+- nejde o skutečné CO₂,
+- fungují jako zdroj uhlíku pro rostliny,
+- mají mírný algicidní efekt.
+
+Výhody:
+- jednoduché použití,
+- žádné tlakové systémy,
+- vhodné pro low-tech akvária.
+
+Rizika:
+- toxicita při předávkování,
+- nevhodné pro některé bezobratlé,
+- nenahrazují plnohodnotně plynné CO₂.
+
+
+------------------------------------------------
+6. VZTAH CO₂ – pH – KH
+------------------------------------------------
+
+CO₂ přímo ovlivňuje pH vody:
+- vyšší CO₂ → nižší pH,
+- nižší CO₂ → vyšší pH.
+
+KH (uhličitanová tvrdost):
+- určuje pufrační kapacitu vody,
+- nízké KH = rychlé pH výkyvy,
+- vysoké KH = vyšší stabilita, ale horší dostupnost CO₂.
+
+Praktické rozmezí:
+- KH 3–6 °dKH = ideální kompromis
+- KH < 2 °dKH = riziko kolapsu pH
+- KH > 8 °dKH = slabý efekt CO₂
+
+
+------------------------------------------------
+7. DENNÍ A NOČNÍ CYKLUS
+------------------------------------------------
+
+Ve dne:
+- rostliny CO₂ spotřebovávají,
+- pH mírně stoupá.
+
+V noci:
+- rostliny CO₂ produkují,
+- pH klesá.
+
+Doporučení:
+- vypínat plynné CO₂ v noci (elektroventil),
+- zajistit mírné noční proudění nebo aeraci,
+- sledovat ryby ráno (nejvyšší riziko).
+
+
+------------------------------------------------
+8. TYPICKÉ CHYBY S CO₂
+------------------------------------------------
+
+1. Příliš rychlé navyšování dávky.
+2. Snaha „vyhnat řasy“ přidáním CO₂.
+3. Ignorování KH a pH.
+4. Nevyvážený poměr:
+   světlo – CO₂ – živiny.
+5. Žádná kontrola (bez drop checkeru).
+6. Stejné dávky pro různá akvária.
+
+
+------------------------------------------------
+9. DIAGNOSTIKA PROBLÉMŮ
+------------------------------------------------
+
+Ryby lapají po dechu:
+→ pravděpodobné předávkování CO₂
+
+Kolísající pH:
+→ nízká KH, nestabilní dávkování
+
+Řasy i při CO₂:
+→ chybí živiny nebo je CO₂ nestabilní
+
+Zastavený růst rostlin:
+→ málo CO₂ nebo špatná distribuce
+
+
+------------------------------------------------
+10. DOPORUČENÉ BEST PRACTICES
+------------------------------------------------
+
+- Zvyšuj CO₂ postupně (dny, ne hodiny).
+- Sleduj ryby vždy před světlem.
+- Kombinuj CO₂ s adekvátním hnojením.
+- Udržuj stabilní proudění.
+- Používej indikátor CO₂.
+- U low-tech akvárií zvaž tekutý uhlík.
+
+
+------------------------------------------------
+11. ZDROJE A ODBORNÁ VÝCHODISKA
+------------------------------------------------
+
+Tento dokument vychází ze syntézy:
+- akvarijních univerzitních extension materiálů,
+- dlouhodobých aquascaping best practices,
+- publikací o vztahu CO₂–pH–KH,
+- zkušeností z profesionální akvaristiky.
+
+Text je parafrázovaný a vytvořený nově
+pro použití v Aquantis Knowledge Base.
+
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-13 – CO₂ v akváriu
+Verze: V1
+Určeno pro: Aquantis Knowledge Base

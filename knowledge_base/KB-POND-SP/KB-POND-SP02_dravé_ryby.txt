@@ -1,0 +1,211 @@
+KB-POND-SP02 – DRAVÉ RYBY V RYBNÍKÁŘSTVÍ (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Rybníkářství – druhové profily
+Typ dokumentu: Species Profile
+Použití v Aquantis: Diagnostika, návrh obsádky, krmení
+Vhodné pro RAG: Ano
+Verze: V1
+Datum: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument popisuje biologii, technologii chovu a produkční specifika
+dravých ryb v rybníkářství, se zaměřením na:
+
+- Candáta obecného (Sander lucioperca)
+- Štiku obecnou (Esox lucius)
+- Okouna říčního (Perca fluviatilis)
+
+Dokument je určen jako odborný podklad pro:
+- návrh druhové skladby rybníků,
+- řízení obsádky a predace,
+- diagnostiku problémů (růst, mortalita, chování),
+- optimalizaci krmení a potravní nabídky.
+
+Formulace jsou syntézou otevřených odborných zdrojů (FAO, evropské rybníkářské manuály,
+univerzitní materiály, dlouhodobá praxe ve střední a severní Evropě).
+
+
+------------------------------------------------
+2. SPOLEČNÉ CHARAKTERISTIKY DRAVÝCH RYB
+------------------------------------------------
+
+Dravé ryby v rybnících:
+- stojí na vrcholu potravní pyramidy,
+- regulují přemnožení drobných ryb,
+- zvyšují biologickou rovnováhu rybníka,
+- zvyšují produkční hodnotu rybníka.
+
+Společné znaky:
+- vysoké nároky na kvalitu vody,
+- citlivost na kyslíkový deficit,
+- závislost na dostupnosti krmné ryby,
+- náchylnost ke kanibalismu při nevhodné obsádce.
+
+
+------------------------------------------------
+3. CANDÁT OBECNÝ (Sander lucioperca)
+------------------------------------------------
+
+### 3.1 Biologické charakteristiky
+- Preferuje hlubší, klidné rybníky s čistší vodou
+- Aktivní převážně za šera a v noci
+- Vysoce citlivý na kyslíkový deficit
+- Velmi citlivý na zákal a organické znečištění
+
+### 3.2 Optimální podmínky
+- Teplota: 12–22 °C (optimálně 16–20 °C)
+- O₂: ideálně > 6 mg/l (kritické < 4 mg/l)
+- pH: 7.0–8.2
+- NO₂: < 0.1 mg/l (velmi citlivý)
+- Průhlednost vody: vysoká
+
+### 3.3 Obsádka a role v rybníku
+- Typická obsádka: 2–10 ks/ha (produkční rybníky)
+- V polointenzivních systémech: až 15 ks/ha
+- Slouží jako regulátor drobných ryb (plotice, ouklej)
+
+### 3.4 Krmení
+- Přirozená potrava: drobné ryby (cyprinidi)
+- Doporučený poměr krmná ryba : candát:
+  - 5–10 : 1 (biomasa)
+- Nedostatek potravy → kanibalismus, stagnace růstu
+
+### 3.5 Typické problémy
+- Letní hypoxie → náhlé úhyny
+- Kolaps při květu vody
+- Nízký růst při nedostatku potravy
+
+
+------------------------------------------------
+4. ŠTIKA OBECNÁ (Esox lucius)
+------------------------------------------------
+
+### 4.1 Biologické charakteristiky
+- Extrémně dravý druh
+- Velmi silný kanibalismus
+- Preferuje mělčí rybníky s vegetací
+- Tolerantnější k horší kvalitě vody než candát
+
+### 4.2 Optimální podmínky
+- Teplota: 10–20 °C
+- O₂: > 5 mg/l
+- pH: 6.8–8.0
+- NO₂: < 0.2 mg/l
+
+### 4.3 Obsádka a role
+- Nízká obsádka: 1–5 ks/ha
+- Používána hlavně k regulaci přemnožených ryb
+- Nevhodná pro vysokohustotní produkci
+
+### 4.4 Krmení
+- Výhradně živá potrava
+- Poměr krmná ryba : štika:
+  - 10–15 : 1 (biomasa)
+- Nutná prostorová struktura (úkryty)
+
+### 4.5 Typické problémy
+- Extrémní kanibalismus
+- Nerovnoměrný růst
+- Nízká výtěžnost při špatné regulaci obsádky
+
+
+------------------------------------------------
+5. OKOUN ŘÍČNÍ (Perca fluviatilis)
+------------------------------------------------
+
+### 5.1 Biologické charakteristiky
+- Menší dravec, částečně všežravý
+- Vhodný i do menších rybníků
+- Snáší širší rozpětí podmínek
+- Vysoký tržní potenciál v některých regionech
+
+### 5.2 Optimální podmínky
+- Teplota: 12–24 °C
+- O₂: > 5 mg/l
+- pH: 6.8–8.5
+- NO₂: < 0.2 mg/l
+
+### 5.3 Obsádka
+- Typicky 10–50 ks/ha
+- Lze kombinovat s kaprem a candátem
+- Regulátor planktonožravých ryb
+
+### 5.4 Krmení
+- Kombinace:
+  - zooplankton,
+  - bentos,
+  - drobné ryby
+- Poměr krmná ryba : okoun:
+  - 3–6 : 1
+
+### 5.5 Typické problémy
+- Zpomalení růstu při vysoké hustotě
+- Citlivost na dlouhodobou hypoxii
+
+
+------------------------------------------------
+6. INTERAKCE DRAVÝCH RYB S KAPROVÝMI RYBNÍKY
+------------------------------------------------
+
+- Dravé ryby:
+  - snižují přemnožení drobných ryb,
+  - zlepšují strukturu populace,
+  - mohou snížit konkurenci o plankton.
+
+Rizika:
+- Příliš vysoká predace → pokles produkce kapra
+- Špatný poměr obsádky → kolaps potravní sítě
+
+
+------------------------------------------------
+7. DIAGNOSTICKÉ SIGNÁLY PRO AQUANTIS
+------------------------------------------------
+
+Typické varovné signály:
+- Ryby u hladiny → hypoxie
+- Nerovnoměrná velikost → kanibalismus
+- Nízký růst → nedostatek potravy
+- Náhlé úhyny v létě → kyslíkový kolaps
+
+Aquantis by měl:
+- vyhodnotit kyslíkový režim,
+- zkontrolovat poměr dravec : krmná ryba,
+- posoudit průhlednost a organické zatížení.
+
+
+------------------------------------------------
+8. POZNÁMKA K REGIONÁLNÍ PRAXI
+------------------------------------------------
+
+- Střední Evropa: candát + kapr velmi častá kombinace
+- Severní Evropa: vyšší podíl okouna
+- Východní Evropa: silná role štiky
+- Asie a Amerika: dravé ryby v rybnících spíše doplňkové
+
+
+------------------------------------------------
+9. ZDROJOVÁ VÝCHODISKA (PARAFRÁZOVANÁ)
+------------------------------------------------
+
+- FAO Inland Fisheries Manuals
+- Evropské rybníkářské metodiky
+- Boyd, Tucker – pond ecology
+- Praktické rybníkářské příručky (CZ, DE, PL)
+- Dlouhodobá produkční praxe
+
+Text je nově formulovaný, bez přímých citací.
+
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+KB-POND-SP02 – Dravé ryby v rybníkářství  
+Verze: V1  
+Určeno pro: Aquantis Knowledge Base (interní použití)

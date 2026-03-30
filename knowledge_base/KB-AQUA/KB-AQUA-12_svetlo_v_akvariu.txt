@@ -1,0 +1,226 @@
+KB-AQUA-12 – SVĚTLO V AKVÁRIU (INTENZITA, SPEKTRUM, FOTOPERIODA)
+=============================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika
+Typ dokumentu: Technický / provozní
+Použití v Aquantis: Diagnostika problémů, návrh akvária, prevence řas
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+Zdroje (syntéza, parafrázováno):
+- University extension materials (UF/IFAS, Texas A&M – aquatic systems)
+- Tropica Aquarium Plants – lighting guidelines
+- Dennerle, ADA – plant & light interaction concepts
+- Boyd – environmental stressors (aplikováno na akvária)
+- Otevřené akvaristické studie (Photosynthetically Active Radiation – PAR)
+
+------------------------------------------------
+1. ROLE SVĚTLA V AKVÁRIU
+------------------------------------------------
+
+Světlo je jeden z klíčových regulačních faktorů v akváriu.
+Ovlivňuje:
+
+- fotosyntézu rostlin,
+- růst a typ řas,
+- chování ryb,
+- denní rytmus (cirkadiánní cyklus),
+- vnímání barev ryb,
+- stabilitu biologické rovnováhy.
+
+Nesprávné nastavení světla je jednou z nejčastějších příčin:
+- masivního růstu řas,
+- stresu ryb,
+- stagnace rostlin,
+- chronické nestability akvária.
+
+------------------------------------------------
+2. ZÁKLADNÍ PARAMETRY SVĚTLA
+------------------------------------------------
+
+Světlo v akváriu hodnotíme pomocí tří hlavních parametrů:
+
+1) Intenzita (kolik světla)
+2) Spektrum (jaké vlnové délky)
+3) Fotoperioda (jak dlouho svítíme)
+
+Tyto parametry musí být vždy posuzovány společně.
+Změna jednoho bez úpravy ostatních často vede k problémům.
+
+------------------------------------------------
+3. INTENZITA SVĚTLA
+------------------------------------------------
+
+### 3.1 Jednotky intenzity
+
+V akvaristice se používají zejména:
+- Lumeny (lm) – orientační, nevypovídají o využitelnosti pro rostliny
+- PAR (µmol/m²/s) – biologicky relevantní jednotka
+
+PAR vyjadřuje množství světla dostupného pro fotosyntézu.
+
+### 3.2 Orientační rozsahy PAR
+
+- Nízké osvětlení:
+  10–30 µmol/m²/s
+  → nenáročné rostliny, low-tech akvária
+
+- Střední osvětlení:
+  30–60 µmol/m²/s
+  → většina běžných rostlinných akvárií
+
+- Vysoké osvětlení:
+  60–100+ µmol/m²/s
+  → náročné rostliny, aquascaping
+  → vyžaduje CO₂ a precizní hnojení
+
+Poznámka:
+Příliš vysoké PAR bez odpovídajícího CO₂ a živin
+vede téměř vždy k řasám.
+
+------------------------------------------------
+4. SPEKTRUM SVĚTLA
+------------------------------------------------
+
+### 4.1 Co je spektrum
+
+Spektrum určuje, jaké vlnové délky světlo obsahuje.
+Pro akvárium jsou klíčové oblasti:
+
+- Modrá (450–480 nm)
+- Červená (620–670 nm)
+- Zelená (menší biologický význam, ale vliv na vizuální vjem)
+
+### 4.2 Optimální spektrum pro akvária
+
+- Plnospektrální LED (cca 6 000–7 000 K)
+  → nejuniverzálnější řešení
+  → dobrý kompromis pro ryby i rostliny
+
+- Teplejší světlo (< 5 500 K):
+  → podporuje řasy
+  → vizuálně „žluté“
+
+- Studené světlo (> 8 000 K):
+  → zvýrazňuje barvy ryb
+  → může zvyšovat stres u některých druhů
+
+Důležité:
+Rostliny nepotřebují „speciální růžové“ světlo,
+ale vyvážené spektrum a stabilní podmínky.
+
+------------------------------------------------
+5. FOTOPERIODA (DÉLKA SVÍCENÍ)
+------------------------------------------------
+
+### 5.1 Doporučené rozsahy
+
+- Standardní akvárium:
+  8–10 hodin denně
+
+- Nově založené akvárium:
+  6–8 hodin (postupné navyšování)
+
+- Vysoké osvětlení + CO₂:
+  max. 8–9 hodin
+
+Delší svícení:
+- nezvyšuje růst rostlin lineárně,
+- výrazně zvyšuje riziko řas.
+
+### 5.2 Konzistence
+
+Nejdůležitější není přesná délka,
+ale pravidelnost.
+
+Doporučení:
+- používat časovač,
+- svítit každý den ve stejný čas,
+- vyhnout se nepravidelnému zapínání.
+
+------------------------------------------------
+6. SVĚTLO A ŘASY – VZTAH A MYTY
+------------------------------------------------
+
+Časté mylné předpoklady:
+- „Řasy jsou jen z příliš silného světla“
+- „Stačí zkrátit svícení a řasy zmizí“
+
+Realita:
+Řasy vznikají při nerovnováze mezi:
+- světlem,
+- CO₂,
+- živinami,
+- biologickou stabilitou.
+
+Silné světlo pouze odhalí problém,
+který už v systému existuje.
+
+------------------------------------------------
+7. SVĚTLO A STRES RYB
+------------------------------------------------
+
+Nevhodné osvětlení může způsobit:
+
+- plachost,
+- zrychlené dýchání,
+- blednutí barev,
+- potlačení přirozeného chování.
+
+Rizikové faktory:
+- náhlé zapnutí silného světla,
+- žádné přechody den/noc,
+- extrémně studené spektrum.
+
+Doporučení:
+- postupný náběh světla (ramp-up),
+- případně slabé „noční“ osvětlení.
+
+------------------------------------------------
+8. PRAKTICKÁ DOPORUČENÍ PRO PRAXI
+------------------------------------------------
+
+1. Začni s nižší intenzitou a kratší fotoperiodou.
+2. Zvyšuj světlo pouze pokud:
+   - rostliny stagnují,
+   - nejsou přítomny řasy.
+3. Při zvýšení světla:
+   - současně řeš CO₂ a hnojení.
+4. Sleduj reakce:
+   - rostlin (perlení, růst),
+   - ryb (chování),
+   - řas (typ a tempo růstu).
+
+------------------------------------------------
+9. TYPICKÉ CHYBY V PRAXI
+------------------------------------------------
+
+- Příliš silné světlo v novém akváriu
+- Dlouhá fotoperioda (> 10–12 h)
+- Změna světla bez úpravy hnojení
+- Ignorování stresu ryb
+- Neustálé experimentování bez stabilizační fáze
+
+------------------------------------------------
+10. SHRNUTÍ PRO AQUANTIS
+------------------------------------------------
+
+Světlo je silný, ale nebezpečný nástroj.
+Správné nastavení:
+
+- podporuje rostliny,
+- stabilizuje systém,
+- snižuje výskyt řas,
+- zlepšuje welfare ryb.
+
+Nesprávné nastavení:
+- vede k chronickým problémům,
+- maskuje skutečné příčiny nestability,
+- zvyšuje stres a mortalitu.
+
+Aquantis musí světlo vždy hodnotit
+v kontextu celého systému, nikoli izolovaně.

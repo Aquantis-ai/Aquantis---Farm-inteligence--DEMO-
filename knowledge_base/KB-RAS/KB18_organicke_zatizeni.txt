@@ -1,0 +1,254 @@
+Aquantis_KB18_RIZENI_ORGANICKEHO_ZATIZENI_BOD_COD_A_PENENI_V1
+==============================================================
+
+ÚČEL DOKUMENTU
+--------------------------------------------------------------
+Tento dokument vysvětluje roli organického zatížení (BOD, COD, TOC),
+důsledky pro RAS systémy a správné používání foam fractionatorů.
+Shrnuje best practices z FAO, Boyd (Auburn University), WorldFish,
+IJRA (International Journal of Recirculating Aquaculture) a univerzitních
+extension dokumentů (UF/IFAS, NCSU, Texas A&M). Text je kompletně parafrázovaný.
+
+Organické látky v RAS se chovají jako „skrytý zabiják“:
+- zatěžují biofiltr (konkurence heterotrofů),
+- zhoršují nitrifikaci,
+- zvyšují spotřebu kyslíku,
+- podporují pěnění, zákal a mikrobiální nestabilitu,
+- způsobují pachy a produkci jemných částic (dissolved organics).
+
+Správné řízení organické zátěže je klíčové pro stabilitu RAS.
+
+
+--------------------------------------------------------------
+1. DEFINICE: BOD, COD, TOC A ROZPUŠTĚNÉ ORGANICKÉ LÁTKY
+--------------------------------------------------------------
+
+1.1 BOD (Biochemical Oxygen Demand)
+-----------------------------------
+- množství O₂, které spotřebují mikroorganismy při rozkladu organické hmoty.
+- vysoký BOD → nedostatek kyslíku → kolaps nitrifikace.
+
+Typické RAS hodnoty:
+- velmi dobré: < 5 mg/l
+- přijatelné: 5–15 mg/l
+- kritické: > 20 mg/l
+
+1.2 COD (Chemical Oxygen Demand)
+--------------------------------
+- celková chemická oxidovatelnost vody.
+- rychlejší měření než BOD, dobrý proxy parametr.
+
+Typické limity:
+- < 40–60 mg/l pro stabilní RAS
+- > 100 mg/l → silná organická zátěž, vysoké riziko pěnění
+
+1.3 TOC (Total Organic Carbon)
+------------------------------
+- nejpřesnější indikátor množství organické hmoty.
+- doporučené hodnoty: 2–10 mg/l
+- > 15 mg/l = vysoká organická frakce → nutná korekce.
+
+1.4 Dissolved Organic Matter (DOM)
+----------------------------------
+- látky < 20 μm, které nelze zachytit mechanickou filtrací.
+- způsobují hnědnutí vody, pěnění a zatížení biofiltru.
+
+
+--------------------------------------------------------------
+2. HLAVNÍ ZDROJE ORGANICKÉ ZÁTĚŽE V RAS
+--------------------------------------------------------------
+
+1) Překrmování (nejčastější příčina)
+2) Jemné frakce z krmiva (prach)
+3) Exkrementy ryb
+4) Rozpad biofilmu a organických agregátů
+5) Mrtvá biomasa, uhynulé ryby
+6) Rozpad mikrořas (u systémů s přirozeným světlem)
+7) Biofilter sloughing (odlupování vrstvy heterotrofů)
+
+Kritická poznámka:
+Organické zatížení typicky předchází problémům s NH₃/NH₄ a NO₂.
+Je to „časná varovná veličina“, která se vyplatí sledovat.
+
+
+--------------------------------------------------------------
+3. VZTAH MEZI ORGANICKOU ZÁTĚŽÍ A NITRIFIKACÍ
+--------------------------------------------------------------
+
+Heterotrofní bakterie:
+- jsou 10–100× rychlejší než nitrifikátoři,
+- při nadbytku organiky kolonizují biofiltr a omezují nitrifikaci.
+
+Důsledky:
+- zvýšení TAN → nestabilní nitrifikace
+- nahromadění NO₂
+- snížení DO → riziko hypoxie
+- kolísání pH, pokles alkalinity
+
+Pravidlo:
+**Čím vyšší organické zatížení → tím nižší nitrifikační kapacita.**
+
+Nitrifikace preferuje:
+- nízké organické látky,
+- vysoký kyslík (> 5–6 mg/l),
+- stabilní alkalitu.
+
+
+--------------------------------------------------------------
+4. DETEKCE PROBLÉMŮ – JAK POZNAT, ŽE JE ORGANICKÝCH LÁTEK PŘÍLIŠ
+--------------------------------------------------------------
+
+Vizuální indikátory:
+- rychle se tvořící pěna,
+- hnědá nebo žlutavá voda,
+- silný biofilm na stěnách,
+- jemné částice v průhledné vodě (TSS < 30 μm),
+- zápach připomínající bahno nebo anaerobní rozklad.
+
+Provozní indikátory:
+- zvýšený BOD/COD,
+- pokles DO v biofiltru,
+- kolísání pH,
+- nárůst NO₂ a TAN i při stejném krmení,
+- potřeba častějšího pročištění mechanických filtrů.
+
+
+--------------------------------------------------------------
+5. VÝPOČET ORGANICKÉHO ZATÍŽENÍ Z KRMMENÍ
+--------------------------------------------------------------
+
+Obecná rovnice:
+-------------------------------------------------
+Organická zátěž (g O₂ / den) = A × FCR × 1.2
+-------------------------------------------------
+kde:
+A = podané krmivo (kg/den)  
+FCR = konverze krmiva  
+1.2 = odhad O₂ spotřeby heterotrofů na g krmiva
+
+Přesnější model (Auburn University – parafrázováno):
+-------------------------------------------------
+TAN load (g N / den) = 0.03 × Feed (g/den)
+BOD load (g BOD / den) ≈ 0.6 × Feed (g/den)
+-------------------------------------------------
+
+Praktický vzorový výpočet:
+- farmář krmí 20 kg krmiva/den,
+- BOD load = 0.6 × 20 000 g = 12 000 g BOD/den
+= extrémní zátěž pro biofiltr → nutný foam fractionator.
+
+
+--------------------------------------------------------------
+6. FOAM FRACTIONATION – PRINCIPY A BEST PRACTICES
+--------------------------------------------------------------
+
+Foam fractionator (protein skimmer) odstraňuje:
+- proteiny,
+- lipidy,
+- polysacharidy,
+- huminové látky,
+- jemné organické frakce.
+
+Mechanismus:
+- jemné bubliny vážou organické látky,
+- pěna se sbírá do sběrné nádoby,
+- odtok odvádí koncentrované organiky mimo systém.
+
+Umístění:
+- vždy PŘED biofiltr, ideálně za mechanickou filtrací,
+- nebo jako samostatná paralelní linka.
+
+Optimální parametry:
+- vzduchový výkon: 0.5–1.5 l/min na 100 l vody
+- kontaktní komora: 40–120 sekund
+- výška pěny: stabilní, lehce vlhká
+- odtok: kontinuální (ne přerušovaný)
+
+Častá chyba:
+- příliš mokrá pěna → nízká účinnost
+- příliš suchá pěna → nedostatečné množství odstraňovaných DOM
+
+
+--------------------------------------------------------------
+7. KDY JE FOAM FRACTIONATOR NUTNÝ
+--------------------------------------------------------------
+
+- COD > 60 mg/l  
+- vysoké organické frakce v chovu sumců, tilapií, pangasů  
+- vysoké krmné dávky (>1 % biomass/day)  
+- nestabilní pH (ráno nízké, večer vysoké)  
+- hnědnutí vody  
+- problémy s NO₂ i při dostatečné filtraci  
+
+
+--------------------------------------------------------------
+8. REAL-CASE SCÉNÁŘE (parafrázováno z provozních zpráv)
+--------------------------------------------------------------
+
+Scénář 1 – Kolaps nitrifikace po překrmení
+------------------------------------------
+- Důvod: heterotrofové přerostli nitrifikátory v biofiltru.
+- Znaky: NO₂ = 0.7 mg/l, pěna, nízký O₂.
+- Řešení: snížit krmivo na 50 %, zvýšit aeraci, zapnout FF na max.
+
+Scénář 2 – Pěnění během teplé vlny
+----------------------------------
+- Důvod: rychlý rozklad organiky + vyšší metabolismus ryb.
+- Řešení: chladit vodu, aktivovat FF, snížit zatížení filtrů.
+
+Scénář 3 – Sumčí farmy s chronicky vysokým COD
+------------------------------------------------
+- příčina: vysoké krmné dávky, jemné krmivo,
+- řešení: FF s delší kontaktní komorou + tangenciální vstup.
+
+
+--------------------------------------------------------------
+9. DOPORUČENÉ HODNOTY PRO STABILITU RAS
+--------------------------------------------------------------
+
+| Parametr | Doporučení | Kritické hodnoty |
+|----------|------------|-------------------|
+| BOD | < 5–15 mg/l | > 20 mg/l |
+| COD | < 40–60 mg/l | > 100 mg/l |
+| TOC | < 10 mg/l | > 15 mg/l |
+| pH | 6.8–7.8 | < 6.5 / > 8.2 |
+| O₂ v biofiltru | > 5 mg/l | < 4 mg/l |
+
+Obecné pravidlo:
+-------------------------------------------------
+Čím měkčí voda (nízká alkalita), tím více organická zátěž destabilizuje pH.
+-------------------------------------------------
+
+
+--------------------------------------------------------------
+10. PREVENCE A DLOUHODOBÉ ŘÍZENÍ ORGANIKY
+--------------------------------------------------------------
+
+1. Optimalizace krmiva
+   - menší frakce prachu,
+   - správná velikost granulí,
+   - adekvátní FCR.
+
+2. Mechanická filtrace
+   - mikrosíto < 60 μm,
+   - pravidelné odkalování.
+
+3. Foam fractionation
+   - kontinuální provoz u teplovodních druhů,
+   - sezónní provoz u studenovodních druhů.
+
+4. Monitoring
+   - COD, TOC, BOD (pokud lze),
+   - vizuální pěnění.
+
+5. Zamezení anaerobních zón
+   - pravidelný odkal,
+   - průběžná kontrola biofiltru.
+
+
+--------------------------------------------------------------
+11. VERZE DOKUMENTU
+--------------------------------------------------------------
+Verze: KB18 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)

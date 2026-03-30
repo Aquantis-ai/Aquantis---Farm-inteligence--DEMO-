@@ -1,0 +1,214 @@
+KB-KOI-16 – EKONOMIKA KOI CHOVU (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: KOI jezírka / okrasná akvakultura
+Typ dokumentu: Ekonomika & provoz
+Použití v Aquantis: Ekonomické poradenství, plánování chovu, rozhodování hobby vs. komerční
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument popisuje ekonomické aspekty chovu KOI kaprů:
+- hobby chov,
+- poloprofesionální chov,
+- profesionální / show / breederský chov.
+
+Cílem je:
+- pomoci uživateli pochopit nákladovou strukturu,
+- vyhodnotit ekonomickou náročnost různých přístupů,
+- odlišit chov „pro radost“ od chovu s ekonomickým cílem.
+
+Dokument **není investiční doporučení**, ale odborný rámec pro rozhodování.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ MODELY KOI CHOVU
+------------------------------------------------
+
+2.1 Hobby chov
+- Primární cíl: estetika, radost, hobby
+- Ekonomika: záměrně ztrátová
+- Typický objem: 5–30 m³
+- Počet ryb: nízký (nízká hustota)
+
+2.2 Poloprofesionální chov
+- Kombinace hobby + selektivní prodej
+- Částečná návratnost nákladů
+- Vlastní odchovy, selekce
+
+2.3 Profesionální / breederský chov
+- Cíl: produkce kvalitních KOI (show / export)
+- Vysoké CAPEX i OPEX
+- Silná selekce (vysoké procento vyřazení)
+
+
+------------------------------------------------
+3. CAPEX – INVESTIČNÍ NÁKLADY
+------------------------------------------------
+
+Typické položky CAPEX:
+
+- Výstavba jezírka / nádrží
+- Filtrace (mechanická + biologická)
+- Čerpadla, UV, aerace
+- Záložní systémy (generátor, UPS)
+- Karanténní nádrže
+- Monitoring (teplota, O₂, pH)
+
+Orientační rozsahy (EU):
+- Hobby jezírko: 2 000 – 10 000 EUR
+- Poloprofesionální: 10 000 – 50 000 EUR
+- Profesionální chov: 50 000 – 300 000+ EUR
+
+Poznámka:
+Vysoce kvalitní filtrace a redundance výrazně snižují provozní rizika.
+
+
+------------------------------------------------
+4. OPEX – PROVOZNÍ NÁKLADY
+------------------------------------------------
+
+Hlavní složky OPEX:
+
+- Krmivo (kvalita má přímý vliv na růst a barvu)
+- Energie (čerpadla, UV, ohřev)
+- Voda (dopouštění, výměny)
+- Léčba / prevence
+- Spotřební materiál (testy, filtrační média)
+- Práce (u profesionálního chovu)
+
+Orientačně:
+- Krmivo: 30–50 % OPEX
+- Energie: 20–40 % OPEX
+- Ostatní: 10–30 %
+
+Hobby chov:
+- ekonomicky neoptimalizovaný
+
+Profesionální chov:
+- silný tlak na optimalizaci energie a FCR
+
+
+------------------------------------------------
+5. EKONOMIKA RYB (NÁKUP vs. VLASTNÍ ODCHOV)
+------------------------------------------------
+
+5.1 Nákup KOI
+- Nízké riziko, vysoká cena
+- Cena se odvíjí od:
+  - velikosti,
+  - kvality kresby,
+  - původu (Japonsko vs. EU),
+  - genetické linie
+
+Rozpětí:
+- Hobby KOI: desítky EUR
+- Show KOI: tisíce až desítky tisíc EUR
+
+5.2 Vlastní odchov
+- Nízké jednotkové náklady
+- Vysoká mortalita a selekce
+- Pouze malé % ryb dosáhne vysoké hodnoty
+
+Ekonomická realita:
+- >90 % odchovu je vyřazeno nebo nízké hodnoty
+
+
+------------------------------------------------
+6. SELEKCE A EKONOMICKÁ REALITA
+------------------------------------------------
+
+Selekce je klíčový ekonomický faktor:
+
+- Velmi vysoké ztráty během růstu
+- Náklady se koncentrují do malého počtu špičkových jedinců
+- Emoční zkreslení → častý důvod neekonomického rozhodování
+
+Profesionální chov:
+- tvrdá selekce = ekonomická nutnost
+
+
+------------------------------------------------
+7. RIZIKA A ZTRÁTY
+------------------------------------------------
+
+Hlavní ekonomická rizika:
+
+- Nemoci (bakteriální, virové – KHV)
+- Kolaps filtrace
+- Výpadky elektřiny
+- Stres → ztráta barvy / tvaru
+- Predace (jezírka)
+
+Ekonomický dopad:
+- U hobby chovu: emoční ztráta
+- U profesionálního chovu: výrazná finanční ztráta
+
+
+------------------------------------------------
+8. SHOW KOI A EKONOMICKÁ HODNOTA
+------------------------------------------------
+
+Show KOI:
+- extrémně vysoké nároky na kvalitu vody,
+- pomalý růst,
+- velmi vysoké náklady na péči.
+
+Úspěch na výstavě:
+- zvyšuje hodnotu ryby i chovu,
+- není ekonomicky garantovaný,
+- má marketingovou hodnotu.
+
+
+------------------------------------------------
+9. REALISTICKÉ EKONOMICKÉ ZÁVĚRY
+------------------------------------------------
+
+- Hobby chov KOI je téměř vždy ztrátový.
+- Ekonomická návratnost je možná pouze:
+  - při profesionálním přístupu,
+  - při vysoké selekci,
+  - s kvalitní genetikou,
+  - s velmi dobrým managementem vody.
+- Největší chybou je podcenění OPEX a rizik.
+
+
+------------------------------------------------
+10. DOPORUČENÍ PRO UŽIVATELE AQUANTIS
+------------------------------------------------
+
+Aquantis by měl uživateli pomoci:
+- pochopit reálné náklady,
+- odlišit hobby od komerčního cíle,
+- vyhnout se neekonomickým očekáváním,
+- optimalizovat kvalitu vody jako klíčový faktor hodnoty ryb.
+
+
+------------------------------------------------
+11. ZDROJOVÝ RÁMEC (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+Dokument vychází ze syntézy:
+- KOI farm praxe (EU, Japonsko),
+- odborných KOI manuálů,
+- univerzitních extension materiálů,
+- dlouhodobých provozních zkušeností chovatelů.
+
+Veškerý text je **nově formulovaný**, bez přímého přebírání chráněných zdrojů.
+
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+
+KB-KOI-16 – Ekonomika KOI chovu
+Verze: V1
+Určeno pro: Aquantis Knowledge Base

@@ -1,0 +1,216 @@
+Aquantis_KB01_KVALITA_VODY_V_AKVAKULTUŘE_V1
+================================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument slouží jako technický základ pro model Aquantis.
+Obsahuje konsolidované poznatky z:
+- FAO Technical Papers (rybníkářství, malé farmy, voda),
+- Auburn University – Water Quality Management in Pond Fish Culture (Boyd),
+- WorldFish pond aquaculture training materials,
+- univerzitních extension programů (Texas A&M, North Carolina State, University of Florida),
+- otevřeně dostupných článků z International Journal of Recirculating Aquaculture,
+- obecných best practices používaných v RAS systémech v EU a USA.
+
+Neobsahuje žádný copyrightovaný obsah 1:1. Jde o odborně konsolidované
+poznatky formulované zcela nově, tak aby byl dokument právně bezpečný
+a sloužil jako základní vědomostní kámen pro první verzi Aquantis Knowledge Base.
+
+
+------------------------------------------------
+1. OBECNÉ POŽADAVKY NA KVALITU VODY
+------------------------------------------------
+
+Kvalita vody je nejdůležitější faktor ovlivňující:
+- zdraví ryb,
+- růst,
+- konverzi krmiva (FCR),
+- funkci biofiltru,
+- celkovou stabilitu systému.
+
+Klíčové je udržovat parametry v takových rozmezích, aby nedocházelo k akutní nebo chronické toxicitě,
+ani k dlouhodobému stresu, který zvyšuje náchylnost k chorobám.
+
+
+------------------------------------------------
+2. ROZPUŠTĚNÝ KYSLÍK (O₂)
+------------------------------------------------
+
+Obecné doporučení:
+- ideálně 6–9 mg/l u studenovodních druhů (pstruh, siven),
+- min. 5 mg/l u teplovodních druhů (tilapie, sumec),
+- nenechat klesnout pod 4 mg/l u žádného druhu.
+
+Kritické stavy:
+- Náhlý pokles kyslíku způsobuje rychlé těžké stresy, zrychlené dýchání,
+  shlukování ryb u hladiny, apatii či úhyny.
+- Kyslík je limitujícím faktorem pro nitrifikaci – nízký O₂ vede k přetížení biofiltru.
+
+
+------------------------------------------------
+3. TEPLOTA
+------------------------------------------------
+
+Doporučené teplotní rozsahy (orientačně):
+- Pstruh duhový: 10–16 °C
+- Siven americký: 10–14 °C
+- Candát, okoun: 12–20 °C
+- Kapr, amur, tolstolobik: 20–28 °C
+- Tilapie: 24–30 °C
+- Sumci (afričtí, pange): 24–30 °C
+
+Teplota ovlivňuje:
+- rychlost metabolismu,
+- spotřebu kyslíku,
+- rychlost nitrifikace,
+- toxicitu amoniaku (čím vyšší teplota, tím více toxická NH₃ frakce).
+
+
+------------------------------------------------
+4. pH A ALKALITA (KH)
+------------------------------------------------
+
+Optimální pH:
+- 6.8–7.8 pro většinu druhů i pro stabilní nitrifikaci.
+
+Kritické je:
+- pH < 6.5 → inhibice nitrifikace, acidifikace
+- pH > 8.2 → zvýšení toxické frakce NH₃
+
+Alkalita (pufrační kapacita):
+- doporučeno min. 80–150 mg/l CaCO₃
+- při nízké alkalitě kolísá pH a dochází k výpadkům biofiltru
+
+Poznámka:
+Nitrifikace spotřebovává alkalitu → systém ji musí průběžně doplňovat (např. CaCO₃, NaHCO₃).
+
+
+------------------------------------------------
+5. AMONIAK (NH₃ + NH₄⁺)
+------------------------------------------------
+
+Celkový amoniak (TAN) je směs NH₃ (toxická) a NH₄⁺ (méně toxická).
+Podíl NH₃ roste při:
+- vyšším pH,
+- vyšší teplotě.
+
+Obecné limity:
+- NH₃ toxická frakce ideálně < 0.02 mg/l
+- TAN ideálně < 0.5 mg/l v RAS systémech
+- První signály problémů kolem 0.5–1.0 mg/l TAN
+
+
+------------------------------------------------
+6. NITRIT (NO₂⁻)
+------------------------------------------------
+
+Nitrit je akutně toxický a je častým problémem při:
+- nedostatečné nitrifikaci,
+- rozkladu biofiltru,
+- přetížení systému,
+- nízké alkalitě.
+
+Doporučené hodnoty:
+- ideálně < 0.1 mg/l
+- alarm > 0.3 mg/l
+- kritické > 1.0 mg/l
+
+Poznámky:
+- Toxicita NO₂ se zvyšuje při nižším chloridu (Cl⁻) ve vodě.
+- NO₂ blokuje transport kyslíku (methemoglobinémie).
+
+
+------------------------------------------------
+7. DUSIČNANY (NO₃⁻)
+------------------------------------------------
+
+Nitrifikace vytváří NO₃ – nejméně toxickou formu dusíku.
+Limity:
+- ideálně < 100 mg/l dlouhodobě
+- krátkodobě až 250 mg/l podle druhu ryb
+
+Příliš vysoké hodnoty způsobují:
+- stres,
+- snížený růst,
+- problémy s ploutvemi,
+- acidifikaci pH skrze dlouhodobou nitrifikaci.
+
+
+------------------------------------------------
+8. LIMITY PODLE EU VODNÍ DIREKTIVY (orientační)
+------------------------------------------------
+
+- Dusičnany (NO₃): < 50 mg/l (pitná voda)
+- Dusitany (NO₂): < 0.5 mg/l
+- Amoniak: < 0.5 mg/l
+- pH 6.5–9.0
+
+Poznámka:
+Tyto limity nejsou přímo určeny pro RAS systémy,
+ale slouží jako referenční standard environmentální kvality.
+
+
+------------------------------------------------
+9. ZÁKLADNÍ BEST PRACTICES PRO STABILITU SYSTÉMU
+------------------------------------------------
+
+1. Pravidelný monitoring: O₂, pH, NH₄, NH₃, NO₂, NO₃, teplota.
+2. Stabilní pH a alkalita → stabilní nitrifikace.
+3. Dobrá aerace biofiltru = vyšší nitrifikační kapacita.
+4. Nepřetěžovat systém krmivem.
+5. Udržovat čisté mechanické filtry, odstranit kal.
+6. Nepoužívat chemikálie, které by mohly zabít nitrifikační bakterie.
+7. Při jakémkoli výkyvu hodnot:
+   - snížit krmení,
+   - zvýšit aeraci,
+   - zkontrolovat průtok,
+   - provést částečnou výměnu vody.
+
+
+------------------------------------------------
+10. RYCHLÁ DIAGNOSTIKA PROBLÉMŮ
+------------------------------------------------
+
+1. Zvýšený NO₂:
+   - zkontrolovat pH, O₂, alkalitu
+   - zkontrolovat průtok biofiltrem
+   - snížit krmení
+   - provést částečnou výměnu vody
+
+2. Zvýšený TAN:
+   - prověřit zanesení mechanické filtrace
+   - nepřetěžovat biofiltr
+   - zvýšit aeraci
+
+3. Nestabilní pH:
+   - nízká alkalita → doplnit CaCO₃ / NaHCO₃
+   - kontrola nitrifikační aktivity
+
+4. Nízký O₂:
+   - okamžité zvýšení aerace
+   - kontrola funkce čerpadel, rotorů, diffuserů
+
+
+------------------------------------------------
+11. VÝCHODISKA Z ODBORNÝCH ZDROJŮ (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+Tento dokument je formulován na základě syntézy několika otevřených a veřejně dostupných zdrojů, zejména:
+
+- FAO Fisheries Technical Papers (FAO, různé roky) – obecné limity pro kvalitu vody, rybníkové hospodaření.
+- Boyd & Tucker (Auburn University) – “Water Quality” – principy nitrifikace, alkalita, limity.
+- WorldFish pond manuals – praktické návody k malým systémům.
+- International Journal of Recirculating Aquaculture – otevřeně přístupné studie o NO₂, TAN a nitrifikaci.
+- Univerzitní Extension Materials (Texas A&M, UF/IFAS) – limity, doporučení, obecná praxe.
+- Evropské standardy RAS a environmentální limity (EUMOFA, ASC RAS Module).
+
+Všechny formulace v tomto dokumentu jsou **nově vytvořené** a neobsahují text převzatý 1:1 z žádného zdroje.
+
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB01 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)
+

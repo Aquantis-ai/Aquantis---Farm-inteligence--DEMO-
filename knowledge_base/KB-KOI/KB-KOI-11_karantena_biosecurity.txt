@@ -1,0 +1,217 @@
+Aquantis_KB-KOI-11_KARANTÉNA_A_BIOSECURITY_PRO_KOI_V1
+====================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: KOI – zdraví, prevence, biosecurity
+Typ dokumentu: Technical / Management Guideline
+Použití v Aquantis: Diagnostika, prevence, onboarding nových ryb
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL A VÝZNAM KARANTÉNY U KOI
+------------------------------------------------
+
+Karanténa je **nejdůležitější preventivní nástroj** v chovu KOI.
+Jejím cílem je zabránit zavlečení:
+
+- infekčních onemocnění,
+- parazitů,
+- bakteriálních a virových patogenů (např. KHV),
+- rezistentních mikroorganismů,
+- stresových reakcí, které mohou spustit latentní onemocnění.
+
+V hobby i show chovech platí:
+➡️ **Jedna infikovaná ryba může ohrozit celé jezírko.**
+
+
+------------------------------------------------
+2. KDY KARANTÉNU VŽDY POUŽÍT
+------------------------------------------------
+
+Karanténa je **povinná** v těchto případech:
+
+- nákup nové KOI (jakéhokoliv původu),
+- návrat ryby ze show nebo výstavy,
+- přesun ryby mezi jezírky,
+- podezření na nemoc v hlavním jezírku,
+- rekonvalescence po léčbě,
+- oddělení slabších nebo poraněných jedinců.
+
+Poznámka:
+„Důvěryhodný chovatel“ ≠ nulové riziko.
+
+
+------------------------------------------------
+3. ZÁKLADNÍ PARAMETRY KARANTÉNNÍ NÁDRŽE
+------------------------------------------------
+
+Doporučené minimum:
+
+- Objem: 500–2000 l (podle velikosti ryb)
+- Materiál: plast / laminát / fólie (hladké stěny)
+- Samostatná filtrace (nikdy napojená na hlavní jezírko)
+- Silná aerace
+- Možnost ohřevu vody
+
+Voda:
+- ideálně stejný zdroj jako hlavní jezírko
+- stabilní parametry, žádné výkyvy
+
+
+------------------------------------------------
+4. FILTRACE A TECHNOLOGIE V KARANTÉNĚ
+------------------------------------------------
+
+Filtrace:
+- mechanická + biologická
+- biologická filtrace musí být zaběhnutá nebo podporovaná
+
+Nevhodné:
+- nestabilní filtry,
+- filtrace sdílená s hlavním systémem.
+
+Doporučení:
+- jednoduchý biofiltr (moving bed, japonská rohož),
+- možnost snadného čištění,
+- UV lampa jako doplněk (nikoli náhrada karantény).
+
+
+------------------------------------------------
+5. DÉLKA KARANTÉNY
+------------------------------------------------
+
+Minimální doba:
+- 21–28 dní při stabilních podmínkách
+
+Optimální:
+- 30–42 dní
+
+Speciální případy:
+- po show: min. 30 dní
+- při podezření na KHV: 6–8 týdnů + teplotní cyklus
+
+Poznámka:
+Latentní infekce se často projeví až po 2–4 týdnech.
+
+
+------------------------------------------------
+6. TEPLOTNÍ MANAGEMENT V KARANTÉNĚ
+------------------------------------------------
+
+Teplota je klíčový diagnostický nástroj.
+
+Doporučený postup:
+- udržovat 20–24 °C
+- stabilní teplota (bez skoků)
+- u podezření na KHV: řízený teplotní test (pod dohledem odborníka)
+
+Vyšší teplota:
+- zvyšuje metabolismus patogenů,
+- urychluje projevy onemocnění,
+- zkracuje diagnostickou dobu.
+
+
+------------------------------------------------
+7. MONITORING A POZOROVÁNÍ RYB
+------------------------------------------------
+
+Denně sledovat:
+- chování (aktivita, izolace),
+- dýchání (rychlost, poloha),
+- příjem krmiva,
+- vzhled kůže a ploutví,
+- výkaly.
+
+Varovné signály:
+- tření o stěny,
+- zrychlené dýchání,
+- stažené ploutve,
+- zákaly, vředy, povlaky,
+- apatie nebo agresivita.
+
+
+------------------------------------------------
+8. KRMIT V KARANTÉNĚ?
+------------------------------------------------
+
+Ano, ale opatrně:
+
+- lehce stravitelné krmivo,
+- malé dávky,
+- sledovat chuť k jídlu.
+
+Změny chuti k jídlu jsou **důležitým diagnostickým indikátorem**.
+
+
+------------------------------------------------
+9. BIOSECURITY – ZÁSADY ODDĚLENÍ
+------------------------------------------------
+
+Zásadní pravidla:
+
+- žádné sdílení sítěk, kbelíků, hadic,
+- oddělené náčiní označené „KARANTÉNA“,
+- dezinfekce rukou a pomůcek,
+- žádný přímý kontakt vody mezi systémy.
+
+Doporučení:
+- jednoduchý dezinfekční režim (např. Virkon, dle návodu),
+- sušení náčiní mezi použitím.
+
+
+------------------------------------------------
+10. KARANTÉNA VS. PREVENTIVNÍ LÉČBA
+------------------------------------------------
+
+Důležité stanovisko Aquantis:
+
+- Karanténa ≠ automatická léčba
+- Preventivní chemické zásahy bez diagnózy nejsou doporučeny
+- Léčba pouze při jasných příznacích nebo potvrzeném nálezu
+
+Cíl karantény:
+➡️ pozorování, stabilizace, včasná reakce
+
+
+------------------------------------------------
+11. UKONČENÍ KARANTÉNY A PŘESUN DO JEZÍRKA
+------------------------------------------------
+
+Rybu lze přesunout, pokud:
+
+- je bez klinických příznaků,
+- má stabilní chování a příjem potravy,
+- parametry vody jsou srovnatelné s hlavním jezírkem.
+
+Přesun provádět:
+- pomalou aklimatizací,
+- bez stresu,
+- ideálně mimo extrémní teplotní období.
+
+
+------------------------------------------------
+12. VÝCHODISKA Z ODBORNÝCH ZDROJŮ (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+Dokument vychází z konsolidovaných poznatků:
+
+- Koi Health Advisors (KHA) programy
+- Koi Organisation International (KOI)
+- University Extension Aquaculture Health Guidelines
+- praktické manuály evropských KOI chovatelů
+- obecné principy biosecurity v akvakultuře
+
+Text je formulován nově a neobsahuje žádné převzaté pasáže 1:1.
+
+
+------------------------------------------------
+13. VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB-KOI-11 – V1
+Určeno pro: Aquantis Knowledge Base
+Použití: Diagnostika, prevence, doporučení

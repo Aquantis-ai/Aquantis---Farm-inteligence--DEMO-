@@ -1,0 +1,245 @@
+Aquantis_KB07_RAS_SENZORY_A_MONITORING_V1
+================================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument slouží jako odborný základ pro funkce Aquantis, které se týkají měření,
+monitoringu, interpretace dat a automatizace v recirkulačních systémech (RAS).
+
+Opírá se o konsolidované poznatky z:
+- FAO guidelines pro monitorování kvality vody,
+- RAS best practices (EU/USA),
+- univerzitní extension programy (Auburn, Texas A&M, NCSU),
+- open-access studie z International Journal of Recirculating Aquaculture,
+- standardy ASC RAS Module pro environmentální parametry.
+
+Dokument obsahuje plně nově formulované odborné poznatky, bez přebírání textů 1:1.
+
+
+------------------------------------------------
+1. ROLE SENZORŮ V RAS
+------------------------------------------------
+
+Senzory tvoří základ stabilního provozu RAS. Správně nastavený monitoring:
+- předchází kolapsu biofiltru,
+- umožňuje včas reagovat na změny kvality vody,
+- podporuje efektivní krmení,
+- snižuje stres a úhyny ryb,
+- umožňuje vyhodnocovat dlouhodobé trendy (pH drift, nitrifikace, spotřeba O₂),
+- poskytuje data pro prediktivní modely (TAN load, O₂ consumption, růst).
+
+Moderní RAS systémy pracují s minimálně 6–10 parametry v reálném čase.
+
+
+------------------------------------------------
+2. HLAVNÍ MONITOROVANÉ PARAMETRY
+------------------------------------------------
+
+Níže uvedené parametry jsou považovány za minimální standard v profesionálních RAS systémech:
+
+1) Rozpuštěný kyslík (O₂)
+- ideálně měřit kontinuálně (optické senzory, stabilní)
+- alarm: < 5 mg/l (většina druhů), < 6 mg/l u lososovitých
+- vysoká frekvence měření (1–10 s interval)
+
+2) Teplota
+- klíčová pro metabolismus, růst a nitrifikaci
+- toleranční pásma podle druhu → viz KB02 „Druhové parametry“
+- přímá vazba na NH₃ toxicitu
+
+3) pH
+- optimální 6.8–7.8
+- vysoké pH → stoupá toxická NH₃ frakce
+- nízké pH → kolaps nitrifikace
+- doporučeno měřit každých 5–60 sekund (kontinuálně)
+
+4) Alkalita (KH)
+- většinou neměřena kontinuálně (manuální testy 1–2× týdně)
+- nízká alkalita → nestabilní pH a přetížení biofiltru
+
+5) Amoniak (TAN: NH₃ + NH₄⁺)
+- kontinuální senzory existují, ale jsou drahé
+- běžná praxe: manuální test nebo laboratorní měření 1–3× denně
+- kritické hodnoty: viz KB01
+
+6) Nitrit (NO₂⁻)
+- velmi kritický parametr
+- většinou manuální test (1–2× denně), některé farmy používají iontově selektivní elektrody
+- alarm: > 0.3 mg/l, kritické > 1.0 mg/l
+
+7) Dusičnany (NO₃⁻)
+- signál o dlouhodobém zatížení systému
+- běžně měřeno 1–2× týdně
+
+8) ORP (oxidačně-redukční potenciál)
+- vhodné do RAS s ozonizací
+- typické rozmezí: 300–380 mV
+
+9) Průtoky (l/min nebo m³/h)
+- kontinuální měření každého okruhu
+- nestabilní průtok je první indikátor problému s čerpadlem nebo ucpáním filtrace
+
+10) Hladina ve filtrech a nádržích
+- ultrazvukové nebo tlakové senzory
+- důležité pro prevenci vytečení, přetékání a nízké hladiny
+
+
+------------------------------------------------
+3. TYPY SENZORŮ A JEJICH PŘESNOST
+------------------------------------------------
+
+1) Optické senzory O₂
+- výhody: stabilní, nepotřebují kalibraci, dlouhá životnost
+- přesnost: ±0.1–0.2 mg/l
+
+2) Elektrochemické senzory O₂ (galvanické, polarografické)
+- vyžadují kalibraci
+- levnější
+- kratší životnost membrány
+
+3) pH elektrody
+- nutná pravidelná kalibrace (pufry 4.0 / 7.0)
+- citlivé na zanášení
+
+4) NO₂ a NH₄ senzory (iontově selektivní elektrody)
+- dražší, ale vhodné pro intenzivní provozy
+- vyžadují korekci podle teploty
+
+5) ORP sondy
+- nízká údržba
+- výborné pro kontrolu ozonizace
+
+6) Ultrazvukové senzory hladiny
+- vhodné pro mechanické filtry s měnící se hladinou
+
+7) Průtokoměry
+- elektromagnetické: přesné, spolehlivé
+- lopatkové: levné, ale méně přesné
+
+
+------------------------------------------------
+4. DOPORUČENÉ ČETNOSTI MĚŘENÍ
+------------------------------------------------
+
+Kontinuálně:
+- O₂
+- průtok
+- hladina
+- teplota
+- pH
+
+Min. 1–3× denně:
+- NO₂
+- TAN
+- alkalita (1–2× týdně)
+- NO₃ (1–2× týdně)
+
+Při problému:
+- měřit NO₂ / TAN každou 1–2 hodiny
+- kontinuální O₂ monitoring naprosto klíčový
+
+
+------------------------------------------------
+5. DATOVÉ TRENDY A INTERPRETACE
+------------------------------------------------
+
+Klíčové trendy, které Aquantis musí sledovat a vyhodnocovat:
+
+- Pomalý pokles pH → nedostatek alkalinity → riziko kolapsu biofiltru
+- Dlouhodobý růst NO₃ → přetížení systému, nedostatečná výměna vody
+- Špičky NO₂ po krmení → nedostatečná nitrifikace / přetížení biofiltru
+- Kolísání O₂ → problém v aeraci nebo přerybnění
+- Zvýšení teploty → vyšší NH₃ toxicita → riziko akutních otráv
+
+Softwarové výstupy RAS monitoringu (včetně Aquantis) musí umožnit:
+- vizualizaci trendů (24 h, 7 dní, 30 dní),
+- přiblížení (zoom),
+- filtraci podle parametrů,
+- export dat,
+- upozornění na odchylky (alerty),
+- prediktivní modelování (např. TAN load predikce).
+
+
+------------------------------------------------
+6. ALERTY A LIMITY PRO RAS MONITORING
+------------------------------------------------
+
+Příklad základních alertů:
+
+O₂:
+- varování < 6 mg/l
+- alarm < 5 mg/l
+- kritický stav < 4 mg/l
+
+pH:
+- varování < 6.7 nebo > 8.1
+- alarm < 6.5 nebo > 8.3
+
+NO₂:
+- varování > 0.3 mg/l
+- alarm > 1.0 mg/l
+
+TAN:
+- varování > 0.5 mg/l
+- alarm > 1.0 mg/l
+
+Teplota:
+- automaticky podle druhu → viz KB02
+
+Průtok:
+- alarm při poklesu > 20 %
+
+Návrh pro Aquantis:
+- zavést adaptivní alerty na základě historie a druhu ryby
+- umožnit uživatelům nastavit vlastní limity
+
+
+------------------------------------------------
+7. DOPORUČENÉ SENZORICKÉ SESTAVY PRO RŮZNÉ TYPY RAS
+------------------------------------------------
+
+1) Malé farmy (1–20 m³)
+- O₂ optický
+- teplota
+- pH
+- průtok
+- manuální NO₂ / TAN testování
+
+2) Střední RAS (20–200 m³)
+- všechny výše uvedené
+- hladinové senzory mechanických filtrů
+- ORP pro ozonizaci
+
+3) Velké RAS / komerční farmy (200–2000 m³+)
+- kompletní sada kontinuálních senzorů
+- iontově selektivní elektrody pro NO₂ a NH₄
+- automatizovaný sběr dat (SCADA / IoT)
+
+
+------------------------------------------------
+8. INTEGRACE SENZORŮ DO AQUANTIS
+------------------------------------------------
+
+Aquantis bude využívat data takto:
+
+1) Interpretace hodnot v reálném čase
+2) Výpočet trendů (lineární i exponenciálních)
+3) Predikce budoucího vývoje parametrů
+4) Automatická diagnostika anomálií
+5) Doporučení zásahů podle KB01–KB10
+6) Možnost exportu diagnostiky do PDF reportu
+7) Scénáře „what-if“ (např. zvýšení krmení → očekávané zatížení TAN)
+
+Aquantis musí vždy:
+- uvádět zdroj v podobě "na základě KB01/KB07",
+- držet se odborných limitů,
+- poskytovat bezpečná doporučení bez léčiv.
+
+
+------------------------------------------------
+9. VERZE DOKUMENTU
+------------------------------------------------
+
+Verze: KB07 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)

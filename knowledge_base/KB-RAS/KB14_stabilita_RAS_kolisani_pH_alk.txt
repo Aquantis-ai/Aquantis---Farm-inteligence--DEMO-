@@ -1,0 +1,193 @@
+Aquantis_KB14_STABILITA_RAS_PRI_KOLISANI_pH_A_ALKALINITY_V1
+============================================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------------------
+Cílem tohoto dokumentu je poskytnout ucelené odborné informace o řízení pH a alkalinity 
+v recirkulačních akvakulturních systémech (RAS). Dokument shrnuje obecné principy, 
+best practices a bezpečné provozní protokoly na základě otevřeně dostupných zdrojů 
+(FAO, Boyd – Water Quality, univerzitní extension materiály, EU RAS standardy). 
+Všechny formulace jsou zcela nově vytvořeny a právně bezpečné.
+
+------------------------------------------------------------
+1. VÝZNAM pH A ALKALINITY V RAS
+------------------------------------------------------------
+pH a alkalita (pufrační kapacita) jsou klíčové parametry stabilního prostředí, 
+ovlivňující zejména:
+
+- funkci nitrifikačního biofiltru (citlivost nitrifikace na pH),
+- rovnováhu mezi NH₃/NH₄⁺ (toxická forma roste s pH),
+- metabolické funkce ryb,
+- stabilitu celkového systému (náhlé výkyvy mohou způsobit kolaps biofiltru).
+
+NITRIFIKACE A pH  
+- Nitrosomonas → optimální pH cca 7.5–8.0  
+- Nitrobacter → optimální pH cca 7.2–7.6  
+- pod pH 6.5 nitrifikace dramaticky zpomaluje až se zastaví
+
+ALKALITA (KH)  
+- alkalita funguje jako chemický „tlumič“ výkyvů pH  
+- nitrifikace spotřebovává KH → v RAS je nutný pravidelný doplněk
+
+------------------------------------------------------------
+2. DOPORUČENÉ LIMITY PRO RAS
+------------------------------------------------------------
+
+**pH:**
+- optimální 6.8–7.8  
+- ideální stabilní rozmezí 7.0–7.4  
+- rizikové < 6.5 nebo > 8.2  
+
+**Alkalita (KH):**
+- minimálně 80 mg/l CaCO₃  
+- optimální 120–200 mg/l CaCO₃  
+- nízká alkalita → kolísání pH → nestabilní nitrifikace
+
+**Důležité vztahy:**
+- čím vyšší pH → tím vyšší toxická frakce NH₃  
+- čím nižší pH → tím méně výkonná nitrifikace  
+- čím nižší alkalita → tím větší riziko pH crash  
+
+------------------------------------------------------------
+3. HLAVNÍ PŘÍČINY KOLÍSÁNÍ pH A ALKALINITY
+------------------------------------------------------------
+1. **Nitrifikace spotřebovává alkalitu**  
+   - každý gram oxidovaného amoniaku spotřebuje ~7.1 g CaCO₃ ekvivalentu
+
+2. **Nadměrné krmení → vyšší TAN → vyšší nitrifikační spotřeba KH**
+
+3. **Nízká výměna vody v recirkulaci**  
+   - méně doplňovaného KH  
+   - hromadění NO₃ → dlouhodobá acidifikace
+
+4. **Náhlé změny v biofiltru**  
+   - kolaps, čištění, dezinfekce
+
+5. **Použití vody s nízkou alkalitou (měkká voda)**  
+   - typicky do 40 mg/l CaCO₃ → velmi nestabilní systém
+
+6. **Přidávání CO₂ do vody**  
+   - zvyšuje kyselost → snižuje pH
+
+------------------------------------------------------------
+4. PROJEVY NESTABILITY pH/KH V RAS
+------------------------------------------------------------
+
+**Typické příznaky:**
+- kolísání pH mezi ranním a večerním měřením > 0.3–0.4 bodu
+- zpomalení nitrifikace (zvyšující se NO₂)
+- zvýšení NH₃ frakce při pH > 8.0
+- horší růst ryb, apatie, ryby se drží u hladiny
+- vyšší mortalita u citlivých druhů (pstruh, siven, jeseteři)
+
+**Příznaky blížícího se pH crash:**
+- klesající alkalita < 60 mg/l CaCO₃  
+- ranní pH výrazně nižší než večerní  
+- NO₂ začíná růst i bez změny krmení  
+- biofiltr vykazuje nižší účinnost
+
+------------------------------------------------------------
+5. PREVENTIVNÍ OPATŘENÍ PRO STABILITU pH/KH
+------------------------------------------------------------
+
+1. **Pravidelné doplňování alkalinity**
+   - CaCO₃, NaHCO₃, dolomit
+   - dávkování podle TAN loadu a cílové KH
+
+2. **Denní monitoring pH a KH**
+   - ráno + večer
+   - automatické senzory výhodou (pH drift alarmy)
+
+3. **Stabilní krmné dávky**
+   - vyhnout se náhlému zvyšování krmení  
+   - skok ↑ krmení = skok ↑ TAN = skok ↑ spotřeby KH
+
+4. **Správně navržený biofiltr**
+   - stabilní aerace
+   - adekvátní plocha filtračního média
+   - podpora nitrifikace → menší výkyvy
+
+5. **Částečné výměny vody**
+   - doplňují KH  
+   - snižují NO₃ → snižují acidifikaci
+
+6. **Kontrola CO₂**
+   - nadměrné CO₂ snižuje pH  
+   - RAS musí mít odplynění (degassing)
+
+------------------------------------------------------------
+6. KRIZOVÉ SCÉNÁŘE A POSTUPY
+------------------------------------------------------------
+
+**A) pH klesá pod 6.5 (akutní acidifikace)**
+1. okamžitě změř KH  
+2. pokud KH < 60 – doplnit NaHCO₃ (opatrně, po dávkách)  
+3. snížit krmení o 30–50 %  
+4. zkontrolovat aeraci biofiltru  
+5. provést částečnou výměnu vody  
+
+**B) pH stoupá nad 8.2 (riziko NH₃ toxicity)**
+1. zkontrolovat TAN → spočítat NH₃ frakci  
+2. snížit krmení  
+3. zlepšit odplynění CO₂  
+4. provést výměnu vody
+
+**C) pH crash – náhlý pád pH během 1–3 hodin**
+1. okamžité měření O₂, NH₃, NO₂  
+2. doplnit KH (opatrně po dávkách 20–30 mg/l CaCO₃ ekvivalent)  
+3. zvýšit aeraci  
+4. snížit krmení  
+5. monitorovat pH každých 30–60 min  
+
+------------------------------------------------------------
+7. VÝPOČTY A MODELY
+------------------------------------------------------------
+
+**Spotřeba alkalinity nitrifikací:**
+- 1 mg TAN → ~7.1 mg CaCO₃ ekvivalent
+- příklad:  
+  TAN load = 200 g/den → spotřeba alkalinity ≈ 1420 g CaCO₃/den
+
+**Model kolísání pH při nízké KH:**
+- KH < 40 mg/l → kolísání pH až ±0.5 za den  
+- KH 60–80 mg/l → kolísání ±0.2–0.3  
+- KH 120–150 mg/l → stabilita ±0.05–0.1  
+
+**Jednoduchý stabilizační algoritmus (Aquantis RAS Logic v1):**
+- pokud KH < 80 → zvýšit KH  
+- pokud pH < 7.0 → doplnit KH + zkontrolovat NO₂  
+- pokud pH > 8.0 → snížit NH₃ (výměna vody, snížit krmení)
+
+------------------------------------------------------------
+8. DRUHOVÉ CITLIVOSTI NA pH
+------------------------------------------------------------
+**Vysoce citlivé druhy:**
+- pstruh duhový  
+- siven americký  
+- jeseteři  
+
+**Méně citlivé:**
+- kapr, amur, tolstolobik  
+- tilapie  
+- sumci  
+
+Citlivé druhy mají také nižší toleranci k výkyvům pH (±0.2–0.3),  
+zatímco teplovodní druhy tolerují ±0.4–0.5.
+
+------------------------------------------------------------
+9. VÝCHODISKA Z ODBORNÝCH ZDROJŮ (PARAFRÁZOVANÉ)
+------------------------------------------------------------
+- FAO Technical Papers – řízení pH a alkalinity, rybníkářské systémy  
+- Boyd (Auburn University) – Water Quality: vztah TAN–pH–KH  
+- IFAS / Texas A&M Extension – limity KH, stabilita biofiltru  
+- WorldFish Manuals – doplňování KH, stabilita prostředí  
+- RAS best practices (EU, USA) – provozní limity, pH monitoring  
+
+Všechny informace jsou parafrázované a právně bezpečné.
+
+------------------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------------------
+Verze: KB14 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)

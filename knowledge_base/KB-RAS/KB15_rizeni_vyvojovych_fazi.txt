@@ -1,0 +1,200 @@
+KB15 – RAS ŘÍZENÍ PRO RŮZNÉ VÝVOJOVÉ FÁZE RYB  
+================================================
+Verze: V1  
+Poslední aktualizace: 2025–02  
+Určeno pro: Aquantis Knowledge Base  
+
+ÚČEL DOKUMENTU  
+------------------------------------------------
+Cílem tohoto dokumentu je popsat specifické technologické, výživové a
+environmentální požadavky jednotlivých vývojových fází ryb chovaných v RAS.
+Larvy, fingerlings, pregrow a growout fáze mají rozdílnou citlivost na stres,
+nároky na kvalitu vody, intenzitu okysličení, proudění a způsob krmení.
+Dokument vychází z best practices uznávaných v EU i USA, RAS standardů,
+univerzitních materiálů, FAO guidelines a běžné farmové praxe.
+
+Tento dokument je 100% parafrázovaný a právně bezpečný.
+
+
+------------------------------------------------
+1. LARVY (0–30 dní po rozkrmení)
+------------------------------------------------
+
+**Obecná charakteristika**
+Larvy jsou extrémně citlivé na:
+- výkyvy teploty,
+- nízký O₂,
+- mechanické poškození,
+- přetížení biofiltru,
+- příliš silné proudění.
+
+**Kvalita vody (orientační limity)**
+- O₂: > 7 mg/l (ideálně 8–9 mg/l)
+- NH₃: < 0.01 mg/l
+- TAN: < 0.2 mg/l
+- NO₂: < 0.1 mg/l
+- NO₃: < 50 mg/l
+- pH: 6.8–7.6
+- Teplota: podle druhu, stabilita je důležitější než absolutní hodnota
+
+**Biofiltr**
+- Biologická kapacita je často nestabilní → nutné velmi čisté mechanické
+  předčištění a minimální zatížení TAN.
+- Doporučuje se "mírné" rozkrmování, aby se nezahltí nitrifikace.
+
+**Proudění**
+- 0.5–1.0 cm/s
+- Larvy nesmí být unášeny proudem, cílem je jemná cirkulace.
+
+**Krmení**
+- 8–12 dávek denně (automat)
+- živé krmivo (Artemie, rotifery) nebo mikropeletky dle druhu
+- udržovat jemné částice ve vodním sloupci
+
+**Typické problémy**
+- kolaps biofiltru → prudké zvýšení NH₄/NH₃
+- usazování krmiva → zhoršení kvality vody
+- mechanický stres → deformace a úhyny
+
+**Základní doporučení**
+- stabilita O₂ a teploty je absolutní priorita,
+- minimální mechanické turbulence,
+- velmi čistý systém ± časté backwash cykly.
+
+
+------------------------------------------------
+2. FINGERLINGS (30–120 dní)
+------------------------------------------------
+
+**Kvalita vody**
+- O₂: ≥ 6 mg/l
+- TAN: < 0.5 mg/l
+- NO₂: < 0.2 mg/l
+- NO₃: < 100 mg/l
+- pH: 6.8–7.8
+
+**Proudění**
+- 1–3 cm/s podle druhu
+- cílem je rozvoj svaloviny, ale ne přetížení
+
+**Biofiltr**
+- již stabilnější, ale stále citlivý na organickou zátěž
+- doporučuje se postupné zvyšování nálože krmiva
+
+**Krmení**
+- 4–8 dávek denně
+- přechod na plně granulovanou výživu
+- FCR: 0.9–1.2 (druh závislý)
+
+**Management**
+- pravidelné třídění podle velikosti,
+- častější výměny vody než u growoutu,
+- důraz na prevenci deformit.
+
+
+------------------------------------------------
+3. PRE-GROW (předvýkrm, 120–250 dní)
+------------------------------------------------
+
+**Kvalita vody**
+- O₂: ≥ 5.5 mg/l (studenovodní ≥ 6 mg/l)
+- TAN: < 0.7 mg/l
+- NO₂: < 0.3 mg/l
+- NO₃: < 150 mg/l
+- pH: 6.8–8.0
+
+**Proudění**
+- 3–6 cm/s podle druhu a kondice ryb
+- cílem je budování kondice před intenzivním výkrmem
+
+**Biofiltr**
+- již pracuje v téměř plné kapacitě,
+- zatížení roste → nutná optimalizace filtrace a kyslíkové bilance.
+
+**Krmení**
+- 3–5 dávek denně
+- FCR: 1.0–1.3
+- začíná se formovat stabilní mikrobiom v systému
+
+**Management**
+- stabilita O₂ a pH rozhoduje o růstu,
+- vyhýbat se výkyvům teploty,
+- minimalizovat stres při třídění.
+
+
+------------------------------------------------
+4. GROWOUT (výkrm do tržní velikosti)
+------------------------------------------------
+
+**Kvalita vody**
+- O₂: ≥ 5 mg/l (vysoká biomasa → ideálně 6 mg/l)
+- TAN: < 1.0 mg/l (většina druhů toleruje krátkodobě 1.5 mg/l)
+- NO₂: < 0.5 mg/l
+- NO₃: < 200 mg/l
+- pH: 6.8–8.2
+
+Poznámka: limity se liší podle druhu – viz KB02.
+
+**Proudění**
+- 5–12 cm/s pro většinu druhů výkrmu
+- sladkovodní predátoři (candát, okoun): 5–8 cm/s
+- lososovití: 10–20 cm/s (v RAS obvykle 12–15 cm/s)
+
+**Krmení**
+- 2–4 dávky denně
+- FCR: 1.0–1.4 podle druhu a vody
+- nároky na okysličení prudce rostou během krmení
+
+**Biofiltr**
+- musí zvládat vrcholovou nitrifikační zátěž
+- pravidelné testy TAN/NO₂ během výkrmného vrcholu
+
+**Management**
+- optimalizace hustoty obsádky
+- monitoring spotřeby krmiva = indikátor zdravotního stavu
+- řízení světla (fotoperioda) podle druhu
+
+**Typické problémy**
+- špičky TAN po krmení,
+- nedostatečný O₂ během krmení,
+- výpadky nitrifikace při kolísání pH/alkality.
+
+
+------------------------------------------------
+5. KLÍČOVÉ ROZDÍLY MEZI FÁZEMI
+------------------------------------------------
+
+Larvy:
+- extrémní citlivost, minimální proudění, vysoký O₂, vysoké riziko kolapsu biofiltru
+
+Fingerlings:
+- rychlý růst, vyšší metabolismus, stabilizace biofiltru
+
+Pre-grow:
+- přechod ke stabilnímu výkrmu, větší nároky na průtok, nároky na krmivo
+
+Growout:
+- maximální biologická zátěž systému, prioritou je okysličení a stabilita pH
+
+
+------------------------------------------------
+6. ODBORNÁ VÝCHODISKA (PARAFRÁZOVANÉ)
+------------------------------------------------
+Tento dokument vychází z obecně uznávaných principů akvakulturní praxe:  
+- FAO aquaculture manuals a Technical Papers  
+- RAS engineering guidelines (EU/USA)  
+- Boyd & Tucker (Auburn University) – Water Quality  
+- Norská a dánská RAS praxe u lososovitých  
+- WorldFish pond/Aquaculture training guidelines  
+- Univerzitní Extension dokumenty (UF/IFAS, Texas A&M, NCSU)  
+
+Všechny formulace jsou vytvořeny nově a neobsahují žádný text převzatý 1:1.
+
+
+------------------------------------------------
+7. VERZE
+------------------------------------------------
+Dokument: KB15 – V1  
+Typ: Technický profil vývojových fází  
+Určeno pro: Aquantis Knowledge Base  
+

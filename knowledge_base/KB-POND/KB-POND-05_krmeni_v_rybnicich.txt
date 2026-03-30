@@ -1,0 +1,235 @@
+KB-POND-05 – KRMENÍ V RYBNÍCÍCH (V1)
+=================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument popisuje strategie krmení ryb v rybníkářství
+v závislosti na intenzitě chovu, druhu ryb, produkčním cíli
+a ekologické rovnováze rybníka.
+
+Dokument vychází z:
+- FAO pond aquaculture manuals,
+- tradiční středoevropské rybníkářské praxe,
+- WorldFish training guides,
+- univerzitních extension materiálů (CZ, DE, AT),
+- dlouhodobě ověřených produkčních modelů.
+
+Slouží jako znalostní základ pro Aquantis – rybníkářský modul.
+
+
+------------------------------------------------
+1. ROLE KRMENÍ V RYBNÍCE
+------------------------------------------------
+
+Krmení v rybníce:
+- doplňuje přirozenou potravu (plankton, bentos),
+- urychluje růst ryb,
+- zvyšuje produkci na hektar,
+- ale zároveň zvyšuje zatížení vody živinami.
+
+Základní princip:
+➡ čím vyšší intenzita krmení, tím vyšší nároky na řízení kvality vody.
+
+
+------------------------------------------------
+2. EXTENZIVNÍ CHOV
+------------------------------------------------
+
+Charakteristika:
+- žádné nebo minimální přikrmování,
+- ryby využívají přirozenou potravu,
+- nízké náklady,
+- nízká produkce (obvykle 300–600 kg/ha).
+
+Typické druhy:
+- kapr,
+- amur,
+- tolstolobik,
+- lín.
+
+Výhody:
+- stabilní ekosystém,
+- nízké riziko kyslíkových krizí.
+
+Nevýhody:
+- pomalejší růst,
+- nižší výnos.
+
+
+------------------------------------------------
+3. POLINTENZIVNÍ CHOV
+------------------------------------------------
+
+Charakteristika:
+- kombinace přirozené potravy + přikrmování,
+- nejběžnější forma rybníkářství ve střední Evropě.
+
+Typická krmiva:
+- obiloviny (pšenice, ječmen, kukuřice),
+- extrudovaná krmiva (u dravců a specializovaných chovů).
+
+Produkce:
+- cca 800–1500 kg/ha (dle řízení).
+
+Rizika:
+- ranní hypoxie,
+- přehnojení,
+- kolísání pH.
+
+
+------------------------------------------------
+4. INTENZIVNÍ KRMENÍ V RYBNÍCE
+------------------------------------------------
+
+Používá se omezeně, často v:
+- menších produkčních rybnících,
+- předsádkových rybnících,
+- chovech dravých ryb.
+
+Charakteristika:
+- vysoké dávky krmiva,
+- nutná aerace,
+- častý monitoring O₂, pH, NH₄.
+
+Bez řízení:
+➡ vysoké riziko úhynů.
+
+
+------------------------------------------------
+5. DÁVKOVÁNÍ KRMIVA A ČASOVÁNÍ
+------------------------------------------------
+
+Obecná pravidla:
+- krmit při teplotách > 12 °C,
+- ideálně ráno a dopoledne,
+- nekrmit před bouřkami,
+- nekrmit při nízkém ranním O₂.
+
+Orientační dávky:
+- 1–3 % hmotnosti ryb / den (polointenzivně),
+- u dravců individuálně podle fáze růstu.
+
+Pozor:
+Překrmování = zhoršení kvality vody, vyšší mortalita.
+
+
+------------------------------------------------
+6. KRMENÍ DRAVÝCH RYB V RYBNÍCÍCH
+------------------------------------------------
+
+Tato kapitola se týká zejména:
+- candáta (Sander lucioperca),
+- okouna (Perca fluviatilis),
+- štiky (Esox lucius),
+- sumce (Silurus glanis).
+
+------------------------------------------------
+6.1 ZPŮSOBY VÝŽIVY DRAVÝCH RYB
+------------------------------------------------
+
+Existují tři základní přístupy:
+
+1) Přirozená predace:
+   - dravec se živí obsádkovou rybou,
+   - minimální náklady,
+   - obtížně kontrolovatelný růst.
+
+2) Kombinovaný model:
+   - přirozená potrava + doplňkové krmení,
+   - nejčastější praxe.
+
+3) Umělá krmiva:
+   - extrudovaná krmiva s vysokým obsahem proteinu,
+   - vyžaduje adaptaci ryb.
+
+
+------------------------------------------------
+6.2 POMĚR DRAVÁ : KRMNÁ RYBA
+------------------------------------------------
+
+Orientační biologické poměry (hmotnostní):
+
+- Candát:
+  1 : 6–10 (1 kg candáta = 6–10 kg krmné ryby)
+
+- Okoun:
+  1 : 5–8
+
+- Štika:
+  1 : 8–12
+
+- Sumec:
+  1 : 4–6
+
+Poznámka:
+Nižší poměr = riziko hladovění dravců.
+Vyšší poměr = přebytek krmné ryby, horší růst.
+
+
+------------------------------------------------
+6.3 VOLBA KRMNÉ RYBY
+------------------------------------------------
+
+Vhodné druhy:
+- plotice,
+- karas,
+- cejnek,
+- ouklej,
+- malé kaprovité ryby.
+
+Nevhodné:
+- příliš velké ryby,
+- ryby s tvrdými šupinami (pro menší dravce).
+
+Krmná ryba musí být:
+- zdravotně nezávadná,
+- bez parazitů,
+- správné velikosti.
+
+
+------------------------------------------------
+6.4 RIZIKA PŘI CHOVU DRAVCŮ
+------------------------------------------------
+
+- Nerovnoměrný růst (kanibalismus),
+- stres při nedostatku potravy,
+- zhoršení kvality vody při vysoké biomase krmné ryby,
+- obtížná kontrola produkce.
+
+Prevence:
+- pravidelný odlov,
+- kontrola velikostní struktury,
+- případná kombinace s umělým krmivem.
+
+
+------------------------------------------------
+6.5 INTERAKCE S KVALITOU VODY
+------------------------------------------------
+
+Vyšší podíl dravých ryb:
+- zvyšuje organické zatížení,
+- zvyšuje riziko noční hypoxie,
+- vyžaduje lepší monitoring O₂.
+
+Doporučení:
+- sledovat ranní kyslík,
+- sledovat chování ryb,
+- při poklesech O₂ omezit krmení.
+
+
+------------------------------------------------
+7. SHRNUTÍ PRO PRAXI
+------------------------------------------------
+
+- Krmení je nejsilnější nástroj řízení produkce.
+- U dravých ryb je klíčový správný poměr dravá : krmná ryba.
+- Překrmování je větší problém než mírný deficit.
+- Každý rybník má jinou nosnost – univerzální dávka neexistuje.
+
+------------------------------------------------
+8. VERZE DOKUMENTU
+------------------------------------------------
+
+Verze: KB-POND-05 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base – Rybníkářství

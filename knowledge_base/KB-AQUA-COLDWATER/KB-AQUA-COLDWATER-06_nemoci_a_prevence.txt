@@ -1,0 +1,186 @@
+KB-AQUA-COLDWATER-06 – NEMOCI A PREVENCE VE STUDENOVODNÍCH AKVÁRIÍCH (V1)
+=====================================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – studenovodní systémy
+Typ dokumentu: Technicko-diagnostický
+Použití v Aquantis: Diagnostika, prevence, edukace
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+------------------------------------------------
+1. SPECIFIKA NEMOCÍ VE STUDENOVODNÍCH AKVÁRIÍCH
+------------------------------------------------
+
+Studenovodní akvária (typicky 10–22 °C) mají odlišnou dynamiku nemocí než tropické systémy:
+
+- pomalejší metabolismus ryb,
+- pomalejší průběh infekcí,
+- delší inkubační doby patogenů,
+- časté chronické problémy místo akutních kolapsů.
+
+Typické druhy:
+- zlatá rybka (Carassius auratus),
+- dania (Danio spp.),
+- střevle, bitterling, studenovodní okrasné formy.
+
+Mnoho problémů není infekčních, ale **environmentálních**.
+
+------------------------------------------------
+2. HLAVNÍ SKUPINY ONEMOCNĚNÍ
+------------------------------------------------
+
+2.1 Environmentální a provozní problémy (nejčastější)
+- chronická otrava dusíkatými látkami (NH₃, NO₂),
+- hypoxie při vyšší teplotě v létě,
+- kolísání teploty (např. okno, radiátor),
+- přerybnění.
+
+Tyto stavy často imitují infekční onemocnění.
+
+------------------------------------------------
+2.2 Parazitární onemocnění
+------------------------------------------------
+
+Typické parazity:
+- Ichthyophthirius multifiliis (krupička),
+- Trichodina,
+- Chilodonella,
+- Costia (Ichthyobodo).
+
+Charakteristika:
+- pomalejší průběh než v tropických akváriích,
+- časté subklinické infekce,
+- zhoršení při stresu nebo zvýšení teploty.
+
+------------------------------------------------
+2.3 Bakteriální onemocnění
+------------------------------------------------
+
+Nejčastější rody:
+- Aeromonas,
+- Pseudomonas,
+- Flavobacterium.
+
+Typické projevy:
+- rozpad ploutví,
+- kožní ulcerace,
+- krváceniny,
+- popeye.
+
+Často sekundární – následek špatné vody.
+
+------------------------------------------------
+2.4 Plísňová onemocnění
+------------------------------------------------
+
+Typicky:
+- Saprolegnia spp.
+
+Projevy:
+- vatovité povlaky,
+- postižení poraněných míst,
+- výskyt po manipulaci nebo transportu.
+
+------------------------------------------------
+3. TYPICKÉ SYMPTOMY A JEJICH VÝZNAM
+------------------------------------------------
+
+- Apatie → chronický stres, dusíkaté látky
+- Lapání po vzduchu → hypoxie, vysoká teplota
+- Tření o předměty → paraziti, špatná voda
+- Slepené ploutve → bakteriální infekce nebo stres
+- Bílé tečky → krupička
+- Vaty → plíseň (často sekundární)
+
+------------------------------------------------
+4. PREVENCE – KLÍČOVÝ PILÍŘ STUDENOVODNÍ AKVARISTIKY
+------------------------------------------------
+
+4.1 Stabilní kvalita vody
+- NH₃ = 0 mg/l
+- NO₂ < 0.1 mg/l
+- NO₃ ideálně < 50 mg/l
+- stabilní pH bez výkyvů
+
+------------------------------------------------
+4.2 Správná teplota
+------------------------------------------------
+- dlouhodobě držet v optimu druhu,
+- vyhnout se rychlým změnám > 2 °C / den,
+- v létě aktivně chladit (větrání, odpar).
+
+------------------------------------------------
+4.3 Hustota ryb
+------------------------------------------------
+- zlaté rybky = velmi vysoká biologická zátěž,
+- méně ryb = méně nemocí,
+- větší objem vody je vždy výhoda.
+
+------------------------------------------------
+4.4 Karanténa
+------------------------------------------------
+- každá nová ryba min. 2–4 týdny,
+- samostatná filtrace,
+- pozorování bez preventivního léčení.
+
+------------------------------------------------
+5. ROLE STRESU
+------------------------------------------------
+
+Stres je hlavní spouštěč nemocí:
+- časté přesuny,
+- nevhodní spolubydlící,
+- silné proudění,
+- neustálé rušení.
+
+Studenovodní ryby jsou na stres citlivější, než se běžně předpokládá.
+
+------------------------------------------------
+6. KDY ŘEŠIT NEMOC A KDY ŘEŠIT VODU
+------------------------------------------------
+
+Pravidlo Aquantis:
+- Pokud je nemoc u více ryb → řeš nejdřív vodu.
+- Pokud je nemoc u jedné ryby → izolace + diagnostika.
+- Pokud se stav nelepší po stabilizaci vody → teprve pak léčba.
+
+------------------------------------------------
+7. ČASTÉ CHYBY HOBBY CHOVATELŮ
+------------------------------------------------
+
+- léčení bez měření vody,
+- kombinace více léčiv,
+- léčba celé nádrže místo karantény,
+- ignorování teplotního stresu,
+- přerybnění „protože jsou malé“.
+
+------------------------------------------------
+8. ZDROJOVÁ VÝCHODISKA (PARAFRÁZOVANÁ)
+------------------------------------------------
+
+Tento dokument vychází ze syntézy:
+- univerzitních extension materiálů (coldwater aquaria),
+- veterinárních přehledů okrasných ryb,
+- FAO a WorldFish obecných principů zdraví ryb,
+- dlouhodobých best practices akvaristiky.
+
+Neobsahuje žádný převzatý text 1:1.
+Slouží jako odborný referenční dokument pro Aquantis.
+
+------------------------------------------------
+9. POZNÁMKA K POUŽITÍ V AQUANTIS
+------------------------------------------------
+
+Dokument je určen:
+- k interpretaci symptomů,
+- k rozlišení infekční vs. environmentální příčiny,
+- jako prevenční rámec,
+nikoliv jako náhrada veterinární péče.
+
+------------------------------------------------
+KONEC DOKUMENTU
+------------------------------------------------

@@ -1,0 +1,203 @@
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Rybníkářství – druhové profily
+Typ dokumentu: Species Profile
+Použití v Aquantis: Diagnostika, návrh obsádky, management prostředí
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+================================================
+KB-POND-SP04 – JESETEŘI V RYBNÍCÍCH (V1)
+================================================
+
+
+------------------------------------------------
+1. ÚVOD A SPECIFIKA CHOVU
+------------------------------------------------
+
+Jeseteři (Acipenseridae) představují specifickou skupinu ryb vhodných pro
+rybniční chov pouze za určitých podmínek. Nejedná se o typické rybniční ryby
+jako kapr, ale o druhy náročné na:
+
+- kvalitu vody,
+- obsah rozpuštěného kyslíku,
+- stabilitu prostředí,
+- dostatek přirozené i umělé potravy.
+
+Jeseteři jsou dlouhověcí, pomalu rostoucí (u některých druhů) a citliví
+na stres, manipulaci a dlouhodobou hypoxii.
+
+
+------------------------------------------------
+2. HLAVNÍ DRUHY POUŽÍVANÉ V RYBNÍCÍCH
+------------------------------------------------
+
+Nejčastěji chované druhy v rybničních podmínkách:
+
+- Jeseter sibiřský (Acipenser baerii)
+- Jeseter ruský (Acipenser gueldenstaedtii)
+- Jeseter malý (Acipenser ruthenus – sterlet)
+- Hybridní formy (např. bester – Huso × Acipenser)
+
+Poznámka:
+Jeseter sibiřský je považován za nejvhodnější druh pro rybníky
+díky vyšší toleranci k teplotě a kolísání podmínek.
+
+
+------------------------------------------------
+3. POŽADAVKY NA KVALITU VODY
+------------------------------------------------
+
+Rozpuštěný kyslík (O₂):
+- optimálně > 6 mg/l
+- minimum krátkodobě: 5 mg/l
+- dlouhodobě < 5 mg/l → vysoké riziko úhynů
+
+Teplota:
+- optimální růst: 16–22 °C
+- toleranční rozsah: 4–26 °C
+- > 24 °C → zvýšený stres a spotřeba O₂
+
+pH:
+- optimální: 7.0–8.0
+- toleranční: 6.5–8.5
+
+Dusíkaté látky:
+- NH₃: < 0.02 mg/l
+- NO₂: < 0.1 mg/l (velmi citliví)
+- NO₃: < 100 mg/l dlouhodobě
+
+Jeseteři jsou výrazně citlivější na NO₂ než kapr nebo amur.
+
+
+------------------------------------------------
+4. CHARAKTER PROSTŘEDÍ A DNA RYBNÍKA
+------------------------------------------------
+
+Vhodný rybník:
+- hlubší (min. 1.5–2.5 m),
+- možnost chladnějších refugii,
+- dobrá cirkulace vody,
+- nízký obsah organického kalu.
+
+Nevhodné jsou:
+- mělké, silně eutrofní rybníky,
+- rybníky s častými letními hypoxiemi,
+- rybníky bez možnosti aerace.
+
+Jeseteři se zdržují převážně u dna a vyžadují:
+- pevné, nepříliš bahnité dno,
+- dostatek bentické potravy.
+
+
+------------------------------------------------
+5. OBSÁDKA A KOMBINACE S JINÝMI DRUHY
+------------------------------------------------
+
+Doporučená obsádka:
+- nízká hustota (extenzivní až polointenzivní chov),
+- typicky 50–200 ks/ha podle velikosti ryb.
+
+Kombinace:
+- vhodné: kapr (nízká hustota), amur
+- nevhodné: agresivní dravci, vysoká obsádka kapra
+
+Jeseteři nejsou konkurenceschopní při silném
+potravním tlaku kapra.
+
+
+------------------------------------------------
+6. POTRAVA A KRMENÍ
+------------------------------------------------
+
+Přirozená potrava:
+- bentické organismy (larvy hmyzu, červi, měkkýši),
+- zoobentos.
+
+Přikrmování:
+- speciální potápivé pelety pro jesetery,
+- vysoký obsah bílkovin (38–45 %),
+- krmení při teplotách > 12 °C.
+
+Nevhodné:
+- plovoucí krmiva,
+- krmiva určená výhradně pro kapra.
+
+Jeseteři přijímají potravu pomalu a klidně – vyžadují
+nízký rušivý tlak.
+
+
+------------------------------------------------
+7. SEZÓNNÍ RIZIKA
+------------------------------------------------
+
+Léto:
+- hypoxie v noci,
+- vysoké teploty,
+- riziko bakteriálních infekcí.
+
+Podzim:
+- stres při výlovech,
+- zranění při manipulaci.
+
+Zima:
+- nedostatek kyslíku pod ledem,
+- nutná kontrola O₂ při zamrzlých rybnících.
+
+
+------------------------------------------------
+8. ZDRAVOTNÍ RIZIKA
+------------------------------------------------
+
+Časté problémy:
+- bakteriální infekce (Aeromonas spp.),
+- plísňová onemocnění (Saprolegnia),
+- mechanická poranění.
+
+Prevence:
+- dobrá kvalita vody,
+- nízká hustota obsádky,
+- šetrná manipulace,
+- stabilní kyslíkový režim.
+
+
+------------------------------------------------
+9. DIAGNOSTICKÉ SIGNÁLY PRO AQUANTIS
+------------------------------------------------
+
+Varovné signály:
+- ryby ležící neaktivně u dna,
+- snížený příjem potravy,
+- zrychlené dýchání,
+- shlukování u přítoku.
+
+Okamžitá opatření:
+- kontrola O₂ a teploty,
+- zvýšení aerace,
+- omezení krmení,
+- zvážení částečné výměny vody.
+
+
+------------------------------------------------
+10. SHRNUTÍ PRO PRAXI
+------------------------------------------------
+
+Jeseteři v rybnících:
+- nejsou „klasická rybniční ryba“,
+- vyžadují vyšší management,
+- jsou vhodní spíše pro kvalitní rybníky
+  nebo polointenzivní systémy,
+- přinášejí vyšší ekonomický potenciál,
+  ale i vyšší riziko.
+
+Správně vedený chov jeseterů v rybnících
+vyžaduje disciplinovaný přístup ke kvalitě vody,
+obsádce a sezónnímu managementu.
+
+
+------------------------------------------------
+KONEC DOKUMENTU KB-POND-SP04
+------------------------------------------------

@@ -1,0 +1,200 @@
+KB-AQUA-TROPICAL-05 – KRMENÍ V TROPICKÉM AKVÁRIU (V1)
+===================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – tropická akvária
+Typ dokumentu: Technický / praktický
+Použití v Aquantis: Diagnostika, prevence problémů, edukace uživatelů
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+------------------------------------------------
+1. ÚLOHA KRMENÍ V TROPICKÉM AKVÁRIU
+------------------------------------------------
+
+Krmení v tropickém akváriu není pouze otázkou výživy ryb, ale zásadním
+faktorem ovlivňujícím:
+
+- biologickou zátěž systému,
+- stabilitu dusíkatého cyklu,
+- výskyt řas,
+- zdraví ryb a jejich imunitu,
+- chování (agrese, teritorialita, stres).
+
+V tropických akváriích je metabolismus ryb vyšší než ve studenovodních
+systémech, což zvyšuje citlivost na překrmování i na nekvalitní krmiva.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ TYPY KRMIV
+------------------------------------------------
+
+2.1 Suchá krmiva
+- vločky (flakes),
+- granule (floating / sinking),
+- mikrogranule pro malé druhy a potěr.
+
+Výhody:
+- stabilní složení,
+- snadné dávkování,
+- nízké riziko zavlečení patogenů.
+
+Rizika:
+- rychlá degradace ve vodě,
+- vysoký obsah fosforu u levných krmiv,
+- nevhodná velikost částic → zbytky na dně.
+
+2.2 Mražená krmiva
+- patentky,
+- artemie,
+- dafnie,
+- cyclops.
+
+Výhody:
+- vysoká chutnost,
+- vhodné pro kondici a růst.
+
+Rizika:
+- vyšší organická zátěž,
+- riziko kontaminace při špatném skladování,
+- nutnost rozmrazování a oplachu.
+
+2.3 Živá krmiva
+- artemie (nauplie),
+- dafnie,
+- grindal, mikry.
+
+Výhody:
+- přirozené chování ryb,
+- stimulace rozmnožování.
+
+Rizika:
+- zavlečení parazitů,
+- výrazná biologická zátěž,
+- nevhodné pro začátečníky bez karantény krmiva.
+
+
+------------------------------------------------
+3. KRMNÉ STRATEGIE PODLE EKOLOGICKÉ SKUPINY RYB
+------------------------------------------------
+
+3.1 Všežravé tropické ryby (tetry, živorodky)
+- malé dávky 1–2× denně,
+- kombinace suchého a mraženého krmiva,
+- občasné rostlinné složky.
+
+3.2 Masožravé ryby (cichlidy, dravé druhy)
+- vyšší obsah bílkovin,
+- méně časté krmení (1× denně nebo obden),
+- kontrola zbytků.
+
+3.3 Býložravé a detritivorní druhy
+- spirulina, rostlinná krmiva,
+- častější menší dávky,
+- nutnost prevence zácpy.
+
+3.4 Noční a dnové ryby (sumci, pancéřníčci)
+- krmení po zhasnutí světel,
+- potápivé tablety,
+- kontrola konkurence s denními druhy.
+
+
+------------------------------------------------
+4. FREKVENCE A DÁVKOVÁNÍ
+------------------------------------------------
+
+Obecné pravidlo:
+- ryby by měly spotřebovat krmivo do 1–3 minut.
+
+Doporučení:
+- raději častěji a méně,
+- u mladých ryb vyšší frekvence,
+- u dospělých ryb důraz na kvalitu, ne kvantitu.
+
+Typické chyby:
+- „ryby vypadají hladově“ → překrmování,
+- dávkování bez ohledu na teplotu vody,
+- ignorování rozdílů mezi druhy.
+
+
+------------------------------------------------
+5. VLIV KRMENÍ NA KVALITU VODY
+------------------------------------------------
+
+Každý gram krmiva:
+- zvyšuje produkci amoniaku (TAN),
+- zatěžuje biofiltr,
+- přispívá k růstu řas.
+
+Překrmování vede k:
+- zvýšení NO2 a NO3,
+- poklesu O₂ v noci,
+- zákalu vody,
+- zvýšenému riziku nemocí.
+
+Krmení musí být vždy sladěno s:
+- kapacitou filtrace,
+- velikostí akvária,
+- hustotou ryb.
+
+
+------------------------------------------------
+6. KRMENÍ A ZDRAVÍ RYB
+------------------------------------------------
+
+Nesprávné krmení zvyšuje riziko:
+- ztučnění jater,
+- poruch trávení,
+- snížení imunity,
+- bakteriálních infekcí.
+
+Preventivní zásady:
+- pestrost krmiva,
+- zařazení „hladového dne“ 1× týdně,
+- nepřekrmovat před výměnou vody.
+
+
+------------------------------------------------
+7. KRMENÍ A ŘASY
+------------------------------------------------
+
+Nadbytek krmiva:
+- zvyšuje fosfáty,
+- podporuje zelené a hnědé řasy,
+- destabilizuje rovnováhu mezi rostlinami a řasami.
+
+Krmení je jeden z nejčastějších spouštěčů
+řasových problémů v tropických akváriích.
+
+
+------------------------------------------------
+8. PRAKTICKÁ DOPORUČENÍ PRO HOBBY CHOVATELE
+------------------------------------------------
+
+- Sleduj ryby během krmení.
+- Odstraň nespotřebované zbytky.
+- Přizpůsob krmení teplotě vody.
+- Nepřikrmuj „pro radost“.
+- Pamatuj: méně je téměř vždy více.
+
+
+------------------------------------------------
+9. ZDROJE A ODBORNÉ PODKLADY (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+Obsah dokumentu vychází z odborné syntézy:
+- FAO – Small-scale aquaculture nutrition manuals,
+- Boyd, C.E. – Water Quality Management,
+- University Extension Programs (UF/IFAS, Texas A&M),
+- odborné akvaristické literatury a dlouhodobé praxe,
+- open-access studií o vlivu krmení na dusíkatý cyklus.
+
+Text je formulován nově a neobsahuje žádné
+převzaté pasáže 1:1 z chráněných zdrojů.
+
+------------------------------------------------
+KONEC DOKUMENTU
+------------------------------------------------

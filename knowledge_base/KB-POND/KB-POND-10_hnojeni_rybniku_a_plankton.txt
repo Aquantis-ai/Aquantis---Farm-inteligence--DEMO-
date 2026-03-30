@@ -1,0 +1,214 @@
+Aquantis_KB-POND-10_HNOJENÍ_RYBNÍKŮ_A_ŘÍZENÍ_PRODUKCE_PLANKTONU_V1
+================================================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument slouží jako odborný základ pro řízení produkce planktonu
+v rybnících pomocí hnojení a řízených zásahů do živinového režimu.
+
+Dokument je určen pro:
+- extenzivní a polointenzivní rybníkářství,
+- kaprové rybníky,
+- rybníky s kombinovanou obsádkou,
+- produkční rybníky s cílem maximalizace přirozené potravy.
+
+Obsah vychází ze syntézy:
+- FAO Fisheries & Aquaculture Technical Papers,
+- české rybníkářské praxe (Rybářství Třeboň, Mendelova univerzita),
+- WorldFish pond management guides,
+- univerzitních extension materiálů (Auburn, Mississippi State),
+- obecně uznávaných rybníkářských best practices.
+
+Dokument neobsahuje žádné chráněné texty 1:1.
+
+
+------------------------------------------------
+1. ROLE PLANKTONU V PRODUKČNÍM RYBNÍKU
+------------------------------------------------
+
+Plankton představuje klíčový zdroj přirozené potravy v rybnících.
+
+Základní funkce planktonu:
+- primární produkce (fytoplankton),
+- základ potravního řetězce (zooplankton),
+- stabilizace ekosystému rybníka,
+- nepřímý vliv na růst ryb a FCR.
+
+Dobře řízený plankton:
+- snižuje potřebu doplňkového krmení,
+- zvyšuje růst ryb,
+- zlepšuje ekonomiku chovu.
+
+Nesprávně řízený plankton:
+- způsobuje kyslíkové krize,
+- zvyšuje riziko toxických květů,
+- vede k nestabilitě pH.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ TYPY HNOJENÍ RYBNÍKŮ
+------------------------------------------------
+
+Hnojení rybníků se dělí na:
+
+2.1 Organické hnojení
+- hnůj (hovězí, drůbeží),
+- kejda,
+- fermentované organické materiály.
+
+Charakteristika:
+- pomalé uvolňování živin,
+- podporuje bakteriální a planktonní produkci,
+- vyšší riziko přetížení kyslíku.
+
+2.2 Minerální (anorganické) hnojení
+- dusíkatá hnojiva (N),
+- fosforečná hnojiva (P),
+- kombinovaná hnojiva (NPK).
+
+Charakteristika:
+- rychlá reakce planktonu,
+- lepší kontrola dávkování,
+- vyšší riziko přehnojení při chybách.
+
+2.3 Kombinované systémy
+- běžné v polointenzivních rybnících,
+- organická základna + minerální korekce.
+
+
+------------------------------------------------
+3. KLÍČOVÉ ŽIVINY PRO PLANKTON
+------------------------------------------------
+
+3.1 Dusík (N)
+- podporuje růst fytoplanktonu,
+- nedostatek → slabý rozvoj planktonu,
+- přebytek → riziko sinic.
+
+3.2 Fosfor (P)
+- limitující prvek ve většině rybníků,
+- velmi účinný i v malých dávkách,
+- hlavní spouštěč planktonního rozvoje.
+
+3.3 Optimální poměr N:P
+- doporučeno cca 5:1 až 10:1 (hmotnostně),
+- nevyvážený poměr zvyšuje riziko sinic.
+
+
+------------------------------------------------
+4. CÍLE HNOJENÍ A PRODUKČNÍ STRATEGIE
+------------------------------------------------
+
+Hnojení má vždy jasný cíl:
+
+- zvýšení přirozené potravy pro plůdek,
+- podpora zooplanktonu v raných fázích,
+- stabilizace potravní základny,
+- zvýšení nosné kapacity rybníka.
+
+Cíle se liší podle:
+- stáří ryb,
+- druhové skladby,
+- hloubky rybníka,
+- průhlednosti vody,
+- teplotního období.
+
+
+------------------------------------------------
+5. PRAKTICKÉ DÁVKOVÁNÍ A NAČASOVÁNÍ
+------------------------------------------------
+
+5.1 Načasování
+- hnojení zahajovat při oteplení vody nad 10–12 °C,
+- nejintenzivnější fáze: jaro a začátek léta,
+- v létě opatrnost kvůli kyslíkovým krizím.
+
+5.2 Orientační dávky (velmi závislé na lokalitě)
+- fosfor: nízké dávky, postupně,
+- dusík: rozdělit do více menších aplikací,
+- organická hnojiva: aplikovat preventivně, ne nárazově.
+
+5.3 Kontrola účinku
+- průhlednost vody (Secchi disk):
+  ideál cca 25–40 cm,
+- barva vody: zelená až světle zelená,
+- vyhýbat se tmavě zeleným nebo modrozeleným květům.
+
+
+------------------------------------------------
+6. RIZIKA HNOJENÍ A KRIZOVÉ SITUACE
+------------------------------------------------
+
+Hlavní rizika:
+- ranní hypoxie (zejména v létě),
+- přemnožení sinic,
+- kolísání pH (den/noc),
+- úhyny ryb po náhlém rozkladu planktonu.
+
+Typické varovné signály:
+- ryby u hladiny ráno,
+- silně zapáchající voda,
+- extrémní zakalení,
+- pěna na hladině.
+
+Reakce:
+- okamžité zastavení hnojení,
+- zvýšení přítoku čerstvé vody (pokud možné),
+- omezení krmení,
+- případné provzdušnění.
+
+
+------------------------------------------------
+7. ROZDÍLY PODLE DRUHOVÉ OBSÁDKY
+------------------------------------------------
+
+Kaprovité ryby:
+- dobře využívají plankton,
+- vysoký efekt hnojení.
+
+Dravé ryby:
+- nepřímý efekt (přes krmné ryby),
+- nutná stabilita potravní pyramidy.
+
+Smíšené obsádky:
+- vyžadují jemnější řízení,
+- hnojení nesmí destabilizovat rovnováhu.
+
+
+------------------------------------------------
+8. DLOUHODOBÉ ŘÍZENÍ PRODUKCE
+------------------------------------------------
+
+Zásady:
+- hnojit méně, ale častěji,
+- sledovat reakci ekosystému,
+- kombinovat s řízenou obsádkou,
+- přizpůsobovat se počasí.
+
+Cílem není maximální plankton,
+ale STABILNÍ plankton.
+
+
+------------------------------------------------
+9. SHRNUTÍ PRO AQUANTIS (DIAGNOSTICKÁ LOGIKA)
+------------------------------------------------
+
+Pokud:
+- slabý růst ryb + čistá voda → zvážit hnojení,
+- časté hypoxie → přehnojení,
+- kolísání pH → nestabilní plankton,
+- sinice → špatný poměr N:P.
+
+Aquantis má:
+- hodnotit stav rybníka,
+- navrhovat opatrné kroky,
+- varovat před riziky,
+- doporučovat monitoring místo zásahů.
+
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB-POND-10 – V1  
+Datum: 2025-02  
+Určeno pro: Aquantis Knowledge Base – Rybníkářství

@@ -1,0 +1,237 @@
+KB-AQUA-TROPICAL-07 – TEPLOTNÍ REŽIMY A METABOLISMUS (V1)
+======================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – Tropická akvaristika
+Typ dokumentu: Technický / biologický
+Použití v Aquantis: Diagnostika, řízení prostředí, welfare
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument popisuje vztah mezi:
+- teplotou vody,
+- metabolismem tropických ryb,
+- spotřebou kyslíku,
+- imunitní odpovědí,
+- růstem, chováním a stresem.
+
+Slouží jako odborný základ pro:
+- správné nastavení teploty v tropických akváriích,
+- prevenci nemocí způsobených teplotním stresem,
+- diagnostiku problémů vyplývajících z kolísání teploty,
+- optimalizaci růstu a welfare ryb.
+
+
+------------------------------------------------
+2. TEPLOTA JAKO KLÍČOVÝ REGULAČNÍ FAKTOR
+------------------------------------------------
+
+Tropické ryby jsou ektotermní organismy:
+- jejich tělesná teplota = teplota vody,
+- metabolismus je přímo řízen teplotou prostředí.
+
+Změna teploty o 1–2 °C může významně ovlivnit:
+- rychlost trávení,
+- spotřebu kyslíku,
+- rychlost nitrifikace v akváriu,
+- citlivost k patogenům.
+
+Obecné pravidlo:
+- ↑ teplota → ↑ metabolismus → ↑ O₂ spotřeba → ↑ produkce dusíku
+- ↓ teplota → ↓ metabolismus → ↓ imunita → ↑ riziko onemocnění
+
+
+------------------------------------------------
+3. METABOLICKÝ KOEFICIENT (Q10 EFEKT)
+------------------------------------------------
+
+Q10 efekt:
+- biologické procesy se při zvýšení teploty o 10 °C zrychlí přibližně 2–3×.
+
+Praktický dopad:
+- zvýšení teploty z 24 °C na 28 °C:
+  - výrazně zvyšuje spotřebu krmiva,
+  - zvyšuje produkci amoniaku (TAN),
+  - zvyšuje riziko hypoxie,
+  - snižuje bezpečnostní rezervy systému.
+
+Závěr:
+- vyšší teplota ≠ automaticky lepší růst,
+- optimální teplota = kompromis mezi růstem, stabilitou a welfare.
+
+
+------------------------------------------------
+4. OPTIMÁLNÍ TEPLOTNÍ ROZSAHY – SKUPINY RYB
+------------------------------------------------
+
+Obecné orientační rozsahy:
+
+- Tetry, drobné characidy: 24–27 °C
+- Živorodky (guppy, platy): 22–26 °C
+- Labyrintky (bettas, gourami): 25–28 °C
+- Skaláry, terčovci:
+  - skalára: 25–28 °C
+  - terčovec: 28–30 °C
+- Tropičtí sumci (Corydoras, Ancistrus): 23–27 °C
+- Tropické cichlidy:
+  - americké: 24–28 °C
+  - africké (Malawi, Tanganyika): 24–26 °C
+
+Poznámka:
+Dlouhodobý chov na horní hranici rozsahu zvyšuje:
+- metabolický stres,
+- citlivost na chyby údržby.
+
+
+------------------------------------------------
+5. TEPLOTA A KYSLÍK
+------------------------------------------------
+
+Se zvyšující se teplotou:
+- klesá rozpustnost kyslíku ve vodě,
+- roste spotřeba O₂ rybami i bakteriemi.
+
+Riziková kombinace:
+- vysoká teplota + vysoká obsádka + organická zátěž.
+
+Typické projevy hypoxie:
+- ryby u hladiny,
+- rychlé dýchání,
+- neklid,
+- noční úhyny.
+
+Prevence:
+- silná cirkulace,
+- pohyb hladiny,
+- vyvarovat se přehřívání v létě.
+
+
+------------------------------------------------
+6. TEPLOTA A IMUNITA
+------------------------------------------------
+
+Stabilní teplota:
+- podporuje funkční imunitní systém,
+- snižuje riziko parazitárních a bakteriálních infekcí.
+
+Kolísání teploty:
+- > 2 °C během krátké doby = silný stresor.
+
+Typické důsledky:
+- propuknutí krupičky (Ichthyophthirius),
+- bakteriální infekce,
+- plísně.
+
+Zvlášť citlivé jsou:
+- nově importované ryby,
+- ryby po transportu,
+- oslabené jedince.
+
+
+------------------------------------------------
+7. DENNÍ A SEZÓNNÍ KOLÍSÁNÍ
+------------------------------------------------
+
+Denní kolísání:
+- ideálně < 1 °C.
+
+Sezónní vlivy:
+- přehřívání akvária v létě,
+- podchlazení v zimě (noc, výpadek topení).
+
+Doporučení:
+- používat kvalitní topítka s termostatem,
+- u větších nádrží více topných bodů,
+- u citlivých chovů záložní ohřev nebo alarm.
+
+
+------------------------------------------------
+8. TEPLOTA A KRMENÍ
+------------------------------------------------
+
+Vyšší teplota:
+- ↑ chuť k jídlu,
+- ↑ FCR,
+- ↑ produkce odpadu.
+
+Nižší teplota:
+- ↓ trávení,
+- ↑ riziko hnití krmiva ve střevě,
+- ↑ riziko bakteriálních problémů.
+
+Zásada:
+- krmení vždy přizpůsobit aktuální teplotě,
+- při poklesu teploty snížit dávky.
+
+
+------------------------------------------------
+9. TEPLOTA A ROZMNOŽOVÁNÍ
+------------------------------------------------
+
+Teplota je často:
+- hlavní spouštěč tření,
+- nástroj řízení reprodukce.
+
+Příklady:
+- zvýšení teploty o 1–2 °C simuluje období dešťů,
+- stabilně vyšší teplota u terčovců podporuje výtěr.
+
+Riziko:
+- příliš vysoká teplota = sterilita, deformace jiker.
+
+
+------------------------------------------------
+10. TYPICKÉ CHYBY V PRAXI
+------------------------------------------------
+
+- Přehřívání nádrže „pro jistotu“
+- Kombinace druhů s rozdílnými teplotními nároky
+- Rychlé změny při výměnách vody
+- Ignorování nočního poklesu teploty
+- Nedostatečná cirkulace při vyšších teplotách
+
+
+------------------------------------------------
+11. SHRNUTÍ PRO AQUANTIS (DIAGNOSTICKÁ LOGIKA)
+------------------------------------------------
+
+Pokud:
+- ryby rychle dýchají,
+- objevují se nemoci bez zjevné příčiny,
+- dochází k nočním úhynům,
+
+→ vždy ověř:
+- aktuální teplotu,
+- stabilitu teploty,
+- vztah teploty k O₂ a zátěži systému.
+
+
+------------------------------------------------
+12. ODBORNÉ ZDROJE (PARAFRÁZOVÁNO)
+------------------------------------------------
+
+Tento dokument vychází z konsolidovaných poznatků:
+- FAO aquaculture manuals (environmental control),
+- Boyd, C.E. – Water Quality Management,
+- University extension materials (Florida, Auburn),
+- obecně uznávaných principů tropické akvaristiky,
+- praktických chovatelských zkušeností.
+
+Text je formulován nově a slouží jako odborný základ
+pro Aquantis Knowledge Base.
+
+
+------------------------------------------------
+13. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-TROPICAL-07
+Verze: V1
+Datum: 2025-02

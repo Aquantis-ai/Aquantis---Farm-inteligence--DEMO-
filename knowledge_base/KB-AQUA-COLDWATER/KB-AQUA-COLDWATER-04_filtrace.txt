@@ -1,0 +1,220 @@
+KB-AQUA-COLDWATER-04 – FILTRACE PRO STUDENOVODNÍ AKVÁRIA (V1)
+===========================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – studenovodní systémy
+Typ dokumentu: Technický / provozní
+Použití v Aquantis: Návrh filtrace, diagnostika problémů, prevence havárií
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument shrnuje zásady filtrace ve studenovodních akváriích
+(se zaměřením na zlaté rybky, dania, studenovodní kaprovité a smíšené
+hobby nádrže).
+
+Filtrace je u studenovodních ryb často podceňována, přestože:
+- biologická zátěž bývá velmi vysoká,
+- metabolismus je silně závislý na teplotě,
+- ryby produkují velké množství pevného odpadu,
+- chovatelé často filtraci poddimenzují.
+
+Cílem filtrace není „čistá voda na pohled“, ale:
+- stabilní dusíkatý cyklus,
+- nízký TAN a NO₂,
+- odstranění pevného organického odpadu,
+- stabilní kyslíkový režim.
+
+
+------------------------------------------------
+2. SPECIFIKA STUDENOVODNÍ FILTRACE
+------------------------------------------------
+Studenovodní akvária se liší od tropických v několika klíčových bodech:
+
+- Nižší teplota → pomalejší nitrifikace
+- Vyšší produkce exkrementů (zejména u zlatých rybek)
+- Vyšší spotřeba kyslíku při nízké teplotě
+- Časté překrmování
+- Dlouhodobý chov v relativně malých objemech
+
+Důsledek:
+➡️ Filtrace musí být robustnější než u tropických nádrží stejného objemu.
+
+
+------------------------------------------------
+3. TYPY FILTRACE VHODNÉ PRO STUDENOVODNÍ AKVÁRIA
+------------------------------------------------
+
+3.1 Mechanická filtrace
+------------------------
+Účel:
+- zachytit pevné částice (výkaly, zbytky krmiva, detrit),
+- zabránit jejich rozkladu v systému.
+
+Vhodné prvky:
+- hrubé molitany,
+- filtrační vata,
+- předfiltry na sání.
+
+Doporučení:
+- mechanická část musí být snadno čistitelná,
+- zanesená mechanika = rychlý nárůst TAN a NO₂.
+
+
+3.2 Biologická filtrace
+-----------------------
+Účel:
+- nitrifikace (NH₃/NH₄ → NO₂ → NO₃).
+
+Vhodná média:
+- keramické kroužky,
+- porézní bio-média,
+- bio-molitan s jemnou strukturou.
+
+Specifika studené vody:
+- nitrifikační bakterie pracují pomaleji,
+- je nutná větší biofiltrační plocha než u tropických nádrží.
+
+Obecné pravidlo:
+- raději „přefiltrovat“ než poddimenzovat.
+
+
+3.3 Chemická filtrace (volitelná)
+--------------------------------
+Použití:
+- krátkodobě při problémech (aktivní uhlí, zeolit),
+- po léčbě nebo havárii.
+
+Upozornění:
+- chemická filtrace NENAHRAZUJE biologickou,
+- dlouhodobé používání zeolitu může maskovat problém filtrace.
+
+
+------------------------------------------------
+4. VHODNÉ FILTRAČNÍ SYSTÉMY
+------------------------------------------------
+
+4.1 Vnitřní filtry
+------------------
+Vhodné:
+- pouze pro velmi malé nádrže,
+- karantény nebo dočasné systémy.
+
+Nevhodné:
+- pro zlaté rybky a větší ryby.
+
+
+4.2 Vnější (kanystrové) filtry
+------------------------------
+Nejčastější volba pro studenovodní akvária.
+
+Výhody:
+- vysoký objem filtračních médií,
+- stabilní průtok,
+- dobrá biologická kapacita.
+
+Doporučení:
+- volit filtr dimenzovaný na 1.5–2× větší objem nádrže.
+
+
+4.3 Přepadové / sump filtry
+---------------------------
+Ideální řešení pro větší studenovodní nádrže.
+
+Výhody:
+- maximální biologická kapacita,
+- vysoká stabilita,
+- možnost silné mechanické filtrace.
+
+
+------------------------------------------------
+5. DIMENZOVÁNÍ FILTRACE
+------------------------------------------------
+
+Základní pravidla:
+- průtok minimálně 5–10× objem nádrže / hodinu,
+- u zlatých rybek spíše horní hranice.
+
+Příklad:
+- nádrž 200 l → filtr 1000–2000 l/h,
+- objem biologických médií alespoň 10–15 % objemu nádrže.
+
+Pozor:
+- vysoký průtok ≠ vysoká biologická kapacita,
+- důležitý je objem a struktura bio-médií.
+
+
+------------------------------------------------
+6. PROUDĚNÍ A OKYSLIČENÍ
+------------------------------------------------
+Studenovodní ryby mají vysoké nároky na kyslík.
+
+Filtrace by měla:
+- vytvářet mírné, rovnoměrné proudění,
+- neprodukovat mrtvé zóny,
+- podporovat výměnu plynů na hladině.
+
+Doporučení:
+- výtok filtru směrovat k hladině,
+- u větších nádrží kombinovat s přídavnou aerací.
+
+
+------------------------------------------------
+7. ÚDRŽBA FILTRACE
+------------------------------------------------
+
+Mechanická část:
+- čistit 1× týdně (nebo dle znečištění),
+- vždy v odstáté akvarijní vodě.
+
+Biologická část:
+- čistit minimálně,
+- nikdy ne najednou celou,
+- zachovat bakterie.
+
+Typická chyba:
+- kompletní vyčištění filtru → kolaps nitrifikace.
+
+
+------------------------------------------------
+8. TYPOVÉ CHYBY U STUDENOVODNÍCH AKVÁRIÍ
+------------------------------------------------
+
+- poddimenzovaný filtr,
+- příliš malé akvárium pro ryby,
+- přetížení biofiltru krmením,
+- zanedbaná údržba mechaniky,
+- spoléhání se na „čistou vodu“ bez testování.
+
+
+------------------------------------------------
+9. VAZBA NA OSTATNÍ KB
+------------------------------------------------
+Souvisí s:
+- KB-AQUA-COLDWATER-02 – Zlaté rybky
+- KB-AQUA-COLDWATER-03 – Kvalita vody
+- KB-AQUA-06 – Údržba akvária
+- KB-AQUA-20 – Krizové scénáře
+
+
+------------------------------------------------
+10. ZDROJE A ODBORNÝ ZÁKLAD
+------------------------------------------------
+Dokument vychází z odborné syntézy:
+- univerzitních extension materiálů (coldwater aquaria),
+- dlouhodobé praxe chovu zlatých rybek,
+- principů nitrifikace obecně uznávaných v akvaristice,
+- publikací zaměřených na high-bioload akvária.
+
+Text je parafrázovaný, nově strukturovaný a právně bezpečný
+pro použití v Aquantis Knowledge Base.
+
+------------------------------------------------
+KONEC DOKUMENTU
+------------------------------------------------

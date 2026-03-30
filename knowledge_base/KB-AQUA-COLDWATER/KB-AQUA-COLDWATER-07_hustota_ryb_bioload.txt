@@ -1,0 +1,213 @@
+KB-AQUA-COLDWATER-07 – HUSTOTA RYB A BIOLOGICKÁ ZÁTĚŽ
+===================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – studenovodní systémy
+Typ dokumentu: Technický / provozní
+Použití v Aquantis: Diagnostika, návrh obsádky, prevence problémů
+Vhodné pro RAG: Ano
+Verze: V1
+Datum: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument slouží jako praktický návod pro:
+- stanovení bezpečné hustoty ryb ve studenovodních akváriích,
+- pochopení biologické zátěže (bioload),
+- prevenci chronických problémů způsobených přerybněním.
+
+Zaměřuje se především na:
+- zlaté rybky (Carassius auratus),
+- dania, studenovodní kaprovité,
+- chladnomilné druhy v domácích nádržích.
+
+
+------------------------------------------------
+2. CO JE BIOLOGICKÁ ZÁTĚŽ (BIOLOAD)
+------------------------------------------------
+
+Biologická zátěž = souhrn:
+- produkce dusíkatých odpadů (NH₃ / NH₄⁺),
+- spotřeby kyslíku,
+- produkce CO₂,
+- organického odpadu (výkaly, zbytky krmiva),
+- zatížení filtru a bakteriální kapacity.
+
+Bioload nezávisí pouze na:
+❌ počtu ryb  
+ale především na:
+✔ biomase,
+✔ velikosti ryb,
+✔ krmném režimu,
+✔ teplotě,
+✔ účinnosti filtrace.
+
+
+------------------------------------------------
+3. PROČ JE PŘERYBNĚNÍ VE STUDENÉ VODĚ ZVLÁŠŤ RIZIKOVÉ
+------------------------------------------------
+
+Studenovodní systémy mají:
+- pomalejší nitrifikaci,
+- nižší metabolickou flexibilitu bakterií,
+- často slabší filtraci (hobby nádrže).
+
+Zlaté rybky navíc:
+- produkují nadprůměrné množství odpadu,
+- intenzivně ryjí,
+- víří detrit a zatěžují vodu mechanicky i biologicky.
+
+Výsledek přerybnění:
+- chronicky zvýšený NO₂ / NO₃,
+- zákal vody,
+- růst řas,
+- časté nemoci bez „viditelné příčiny“.
+
+
+------------------------------------------------
+4. ZÁKLADNÍ PRAVIDLA HUSTOTY (ORIENTAČNÍ)
+------------------------------------------------
+
+!!! DŮLEŽITÉ !!!
+Nejde o absolutní limity, ale o bezpečné provozní rozsahy.
+
+------------------------------------------------
+4.1 Zlaté rybky (Carassius auratus)
+------------------------------------------------
+
+Dospělá velikost: 20–30 cm  
+Biomasa: velmi vysoká
+
+Doporučení:
+- MINIMUM: 40–50 litrů na 1 dospělou rybu
+- IDEÁL: 60–80 litrů / rybu
+- Fancy variety (kratší tělo): stále vysoký bioload
+
+❌ Častý mýtus: „Jedna zlatá rybka do 20 l“ → NEPRAVDA
+
+
+------------------------------------------------
+4.2 Dania, malé studenovodní ryby
+------------------------------------------------
+
+Velikost: 4–6 cm  
+Bioload: nízký až střední
+
+Doporučení:
+- 1 cm ryby / 1–1.5 l vody (pouze orientačně)
+- skupinový chov (min. 6–8 ks)
+- vždy silná filtrace
+
+
+------------------------------------------------
+4.3 Smíšená studenovodní obsádka
+------------------------------------------------
+
+Doporučení:
+- nikdy nemíchat zlaté rybky s drobnými rybami,
+- velký rozdíl v produkci odpadu a krmení,
+- vysoké riziko chronického stresu.
+
+
+------------------------------------------------
+5. PRAKTICKÉ MODELY VÝPOČTU BIOLOAD
+------------------------------------------------
+
+------------------------------------------------
+5.1 Model A – Biomasa
+------------------------------------------------
+
+Hrubý orientační model:
+
+Celková biomasa ryb (g) ≤ 1–2 g rybí hmoty / litr vody
+
+U zlatých rybek:
+- používej spíše spodní hranici (≈1 g/l)
+
+
+------------------------------------------------
+5.2 Model B – Krmení → TAN load
+------------------------------------------------
+
+Zjednodušené pravidlo:
+- cca 25–30 % dusíku z krmiva se objeví jako TAN
+
+Vyšší krmení = vyšší NH₃ zátěž
+→ filtr musí zvládnout denní špičky
+
+
+------------------------------------------------
+5.3 Model C – Filtrace jako limit
+------------------------------------------------
+
+Bezpečná hustota = to, co zvládne filtr + výměny vody
+
+Otázky:
+- Jak rychle roste NO₂ po krmení?
+- Jak rychle filtr „doběhne“ po výpadku?
+- Jak často musíš měnit vodu?
+
+
+------------------------------------------------
+6. VAROVNÉ SIGNÁLY PŘETÍŽENÍ
+------------------------------------------------
+
+Typické symptomy:
+- zakalená voda bez zjevné příčiny,
+- zápach,
+- zvýšené NO₂ i při „funkčním filtru“,
+- ryby letargické, ale bez jasné nemoci,
+- opakované bakteriální infekce.
+
+Tyto problémy jsou téměř vždy důsledkem:
+→ dlouhodobého přetížení systému.
+
+
+------------------------------------------------
+7. STRATEGIE SNÍŽENÍ BIOLOAD
+------------------------------------------------
+
+1) Snížení počtu ryb (nejúčinnější)
+2) Zvýšení objemu nádrže
+3) Výrazně silnější filtrace
+4) Snížení krmné dávky
+5) Častější výměny vody
+6) Lepší mechanická filtrace (detrit)
+
+
+------------------------------------------------
+8. TYPICKÉ CHYBY HOBBY CHOVATELŮ
+------------------------------------------------
+
+❌ Hodnocení podle „čistoty vody“
+❌ Ignorování budoucí velikosti ryb
+❌ Slabá filtrace u zlatých rybek
+❌ Překrmování „protože ryby chtějí jíst“
+❌ Míchání druhů s rozdílným bioloadem
+
+
+------------------------------------------------
+9. ZDROJE A ODBORNÝ KONTEXT
+------------------------------------------------
+
+Dokument je syntézou a odbornou parafrází poznatků z:
+- FAO aquaculture manuals (water quality & biomass),
+- University extension programs (goldfish & coldwater aquaria),
+- Koi Organisation International (bioload, stocking),
+- obecně uznávané akvaristické best practices.
+
+Neobsahuje žádný převzatý text 1:1.
+
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+
+KB-AQUA-COLDWATER-07 – V1  
+Použití: Aquantis Knowledge Base  
+Status: Produkční

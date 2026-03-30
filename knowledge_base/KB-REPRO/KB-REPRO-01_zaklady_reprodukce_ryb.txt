@@ -1,0 +1,168 @@
+KB-REPRO-01 – ZÁKLADY REPRODUKCE RYB V AKVAKULTUŘE (V1)
+====================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Reprodukce ryb
+Typ dokumentu: Základní teoretický a praktický rámec
+Použití v Aquantis: 
+- Diagnostika problémů s výtěrem
+- Návrh reprodukční strategie
+- Edukace (hobby → poloprofesionální → profesionální chovy)
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument slouží jako úvodní a sjednocující základ
+pro problematiku reprodukce ryb v akvakultuře.
+
+Cílem je:
+- vysvětlit biologické principy rozmnožování ryb,
+- sjednotit terminologii (ikernačka, mlíčák, fertilizace),
+- vytvořit rámec, na který navazují další KB-REPRO dokumenty,
+- oddělit přirozenou biologii od technologických zásahů.
+
+Dokument je záměrně obecný a platný napříč:
+- RAS systémy,
+- rybníky,
+- okrasná jezírka,
+- hobby i profesionální chovy.
+
+------------------------------------------------
+2. ZÁKLADNÍ BIOLOGIE ROZMNOŽOVÁNÍ RYB
+------------------------------------------------
+
+Ryby jsou převážně:
+- gonochoristé (oddělené pohlaví),
+- menší část druhů je hermafroditních (sekvenčně nebo simultánně).
+
+Základní pojmy:
+- Jikernačka: samice produkující jikry
+- Mlíčák: samec produkující mlíčí
+- Jikra: samičí pohlavní buňka
+- Mlíčí: sperma ryb
+- Oplození: spojení spermie a jikry
+
+Většina hospodářsky významných ryb:
+- má vnější oplození,
+- reprodukce probíhá ve vodním prostředí,
+- úspěšnost je silně závislá na okolních podmínkách.
+
+------------------------------------------------
+3. TYPY REPRODUKČNÍCH STRATEGIÍ RYB
+------------------------------------------------
+
+Z hlediska akvakultury rozlišujeme:
+
+1) Volně rozptylující jikry
+   - velké množství jiker
+   - minimální rodičovská péče
+   - typické pro kaprovité ryby
+
+2) Lepivé jikry
+   - jikry se přichycují k substrátu nebo vegetaci
+   - citlivé na kvalitu vody a proudění
+   - např. candát, okoun
+
+3) Hnízdní výtěr
+   - samec hlídá snůšku
+   - vyšší investice do menšího počtu jiker
+   - typické pro některé dravé druhy
+
+4) Inkubace v těle nebo tlamě
+   - specializované strategie
+   - např. některé cichlidy
+
+------------------------------------------------
+4. HORMONÁLNÍ A FYZIOLOGICKÉ ŘÍZENÍ REPRODUKCE
+------------------------------------------------
+
+Reprodukce ryb je řízena osou:
+Hypotalamus → Hypofýza → Gonády (HPG osa)
+
+Klíčové faktory:
+- GnRH (gonadotropin releasing hormone)
+- gonadotropiny (FSH, LH ekvivalenty)
+- pohlavní steroidy (estradiol, testosteron)
+
+Zásadní poznatek:
+Reprodukce NENÍ spínač.
+Je to proces, který vyžaduje:
+- dlouhodobou přípravu,
+- energetické rezervy,
+- stabilní prostředí.
+
+------------------------------------------------
+5. VLIV PROSTŘEDÍ NA SPUŠTĚNÍ VÝTĚRU
+------------------------------------------------
+
+Nejdůležitější environmentální spouštěče:
+
+- Teplota vody
+- Fotoperioda (délka dne)
+- Kvalita vody (O₂, NH₃, NO₂)
+- Hydraulické podmínky (proudění, kolísání hladiny)
+- Sociální faktory (hustota, pohlavní poměr)
+
+Poznámka:
+Mnoho problémů s reprodukcí není „hormonální problém“,
+ale důsledek:
+- chronického stresu,
+- špatné výživy,
+- nestabilních podmínek.
+
+------------------------------------------------
+6. ENERGETIKA A VÝŽIVA RODIČOVSKÝCH RYB
+------------------------------------------------
+
+Produkce jiker je energeticky velmi náročná.
+
+Základní zásady:
+- reprodukce konkuruje růstu,
+- nedostatečná výživa → nekvalitní jikry,
+- deficit lipidů → špatný vývoj embryí.
+
+Klíčové nutriční složky:
+- esenciální mastné kyseliny (DHA, EPA),
+- vitamín E,
+- vitamín C,
+- kvalitní bílkovina.
+
+------------------------------------------------
+7. ČASTÉ CHYBY V PRAXI
+------------------------------------------------
+
+- Snaha „vynutit“ výtěr bez přípravy rodičů
+- Ignorování dlouhodobého stresu
+- Přílišná manipulace s rybami
+- Nevhodná hustota obsádky
+- Špatná kvalita vody v klíčové fázi
+
+Typická chyba:
+„Ryby jsou dospělé, tak by se měly třít.“
+→ Biologická dospělost ≠ reprodukční připravenost
+
+------------------------------------------------
+9. PRÁVNÍ A ETICKÝ RÁMEC
+------------------------------------------------
+
+Tento dokument:
+- nepředepisuje použití hormonů,
+- neobsahuje dávkování léčiv,
+- slouží výhradně k edukaci a diagnostice.
+
+Jakékoli hormonální zásahy:
+- podléhají místní legislativě,
+- musí být prováděny odborníky.
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+KB-REPRO-01 – Základy reprodukce ryb v akvakultuře  
+Verze: V1  
+Status: Schváleno pro Aquantis Knowledge Base

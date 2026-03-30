@@ -1,0 +1,213 @@
+KB-AQUA-18 – SPECIFICKÉ SKUPINY AKVARIJNÍCH RYB (V1)
+==================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika
+Typ dokumentu: Knowledge Base – druhové skupiny
+Použití v Aquantis: Diagnostika, návrh osádky, welfare, prevence chyb
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument shrnuje biologické, behaviorální a provozní specifika
+hlavních skupin akvarijních ryb.
+
+Cílem je:
+- zabránit typickým chybám při kombinaci druhů,
+- vysvětlit rozdíly v nárocích na vodu, prostor a chování,
+- sloužit jako referenční základ pro diagnostiku problémů v akváriích.
+
+Dokument se neopírá o konkrétní značky či návody,
+ale o obecně uznávané akvaristické best practices.
+
+
+------------------------------------------------
+2. TETRY A MALÉ HEJNOVÉ RYBY
+------------------------------------------------
+
+Příklady:
+Neonka, tetra kardinálská, tetra černá, razbory, dania.
+
+Typické znaky:
+- hejnové chování (min. 6–10 ks),
+- nízká agresivita,
+- citlivost na výkyvy kvality vody.
+
+Doporučené podmínky:
+- stabilní teplota 22–26 °C,
+- pH 6.0–7.2 (dle druhu),
+- nízké NO₂, NH₃ = 0.
+
+Typické chyby:
+- chov jednotlivců → stres, vyblednutí,
+- přerybnění malého akvária,
+- kombinace s agresivními druhy.
+
+Diagnostický význam chování:
+- rozpad hejna = stres, nemoc, špatná voda,
+- držení u hladiny = kyslík / toxiny.
+
+
+------------------------------------------------
+3. CICHLIDY
+------------------------------------------------
+
+Rozdělení:
+- africké (Malawi, Tanganyika, Victoria),
+- jihoamerické (skaláry, terčovci, apistogrammy).
+
+Typické znaky:
+- teritoriální chování,
+- vysoká inteligence,
+- silná vazba na strukturu prostředí.
+
+Specifika:
+- vyžadují úkryty a jasně definované teritorium,
+- často agresivní při tření.
+
+Chyby:
+- kombinace nekompatibilních cichlid,
+- málo úkrytů,
+- nevhodné pH (např. Malawi vs. Amazonie).
+
+Poznámka:
+Cichlidy nejsou „zlé“ – agresivita je reakce na prostředí.
+
+
+------------------------------------------------
+4. ŽIVORODKY
+------------------------------------------------
+
+Příklady:
+Gupky, platy, mečovky, molly.
+
+Typické znaky:
+- vysoká reprodukční schopnost,
+- odolnost,
+- rychlá adaptace.
+
+Specifika:
+- preferují tvrdší vodu (vyšší GH, KH),
+- snášejí širší rozsah parametrů.
+
+Typické chyby:
+- nekontrolované přemnožení,
+- kombinace s velmi měkkovodními druhy,
+- podcenění biologické zátěže.
+
+Diagnostika:
+- deformace ploutví → stres, genetika,
+- úhyny mláďat → voda, predace.
+
+
+------------------------------------------------
+5. SUMCOVITÉ RYBY
+------------------------------------------------
+
+Příklady:
+Ancistrus, Corydoras, L-sumci.
+
+Role v akváriu:
+- zpracování zbytků,
+- rozrušování sedimentu,
+- biologická stabilizace.
+
+Specifika:
+- noční aktivita (některé druhy),
+- potřeba úkrytů,
+- citlivost na dusitany.
+
+Chyby:
+- nedostatek potravy (nejsou „čističi“),
+- ostrý substrát pro pancéřníčky,
+- kombinace s agresivními rybami.
+
+Důležité:
+Sumci nejsou náhradou údržby.
+
+
+------------------------------------------------
+6. LABYRINTKY
+------------------------------------------------
+
+Příklady:
+Betta, čichavci, guramy.
+
+Typické znaky:
+- dýchání atmosférického kyslíku,
+- citlivost na proudění,
+- často teritoriální samci.
+
+Specifika:
+- klidná voda,
+- krytá hladina (teplý vzduch),
+- vyšší teploty.
+
+Chyby:
+- silný filtr,
+- otevřené akvárium (studený vzduch),
+- kombinace samců.
+
+Diagnostika:
+- držení u hladiny ≠ vždy problém s O₂,
+- lepení ploutví = stres / infekce.
+
+
+------------------------------------------------
+7. STUDENOVODNÍ RYBY
+------------------------------------------------
+
+Příklady:
+Zlaté rybky, karasi, střevličky.
+
+Specifika:
+- nižší teploty (15–22 °C),
+- vysoká produkce odpadu,
+- dlouhověkost.
+
+Typické chyby:
+- chov v tropických teplotách,
+- malé objemy,
+- kombinace s tropickými druhy.
+
+Poznámka:
+Studenovodní ryby ≠ „jednodušší“ ryby.
+
+
+------------------------------------------------
+8. SPOLEČNÉ PRINCIPY PRO VŠECHNY SKUPINY
+------------------------------------------------
+
+- Stabilita je důležitější než „ideální čísla“.
+- Chování ryb je nejcitlivější indikátor problému.
+- Kompatibilita není jen o agresivitě, ale i o:
+  - teplotě,
+  - pH,
+  - krmení,
+  - rychlosti metabolismu.
+
+------------------------------------------------
+9. ZDROJE A ODBORNÝ KONTEXT
+------------------------------------------------
+
+Dokument vychází z obecně uznávaných principů:
+- akvaristické biologie,
+- univerzitních extension materiálů,
+- dlouhodobé praxe v hobby i profesionální akvaristice,
+- otevřených zdrojů (FAO – small-scale aquaculture principles aplikované na akvária).
+
+Text je autorsky formulovaný a právně bezpečný.
+
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-18 – V1
+Určeno pro: Aquantis Knowledge Base

@@ -1,0 +1,200 @@
+KB-KOI-13 – BAKTERIÁLNÍ INFEKCE KOI (V1)
+============================================================
+
+------------------------------------------------------------
+METADATA
+------------------------------------------------------------
+KB oblast: KOI – zdraví a welfare
+Typ dokumentu: Odborný referenční dokument
+Použití v Aquantis: Diagnostika, prevence, krizové řízení
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+------------------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------------------
+Tento dokument shrnuje nejčastější bakteriální infekce KOI kaprů,
+jejich patogenezi, rizikové faktory, typické symptomy, diagnostické
+postupy a zásady prevence.
+
+Dokument slouží jako:
+- diagnostická opora pro Aquantis,
+- preventivní návod pro chovatele KOI,
+- rámec pro rozhodnutí, kdy je nutný zásah odborníka.
+
+Neobsahuje žádné dávkování léčiv ani veterinární preskripci.
+
+
+------------------------------------------------------------
+2. OBECNÉ POZNÁMKY K BAKTERIÁLNÍM ONEMOCNĚNÍM KOI
+------------------------------------------------------------
+
+Bakteriální infekce KOI jsou:
+- většinou oportunní (využívají oslabení ryby),
+- silně závislé na kvalitě vody,
+- často sekundární k parazitům nebo mechanickému poškození.
+
+Klíčové spouštěče:
+- vysoké organické zatížení,
+- nestabilní pH,
+- zvýšený amoniak / dusitany,
+- stres (transport, manipulace, teplotní šok),
+- poranění kůže a ploutví.
+
+
+------------------------------------------------------------
+3. AEROMONAS spp.
+------------------------------------------------------------
+
+3.1 Charakteristika
+Aeromonas jsou gram-negativní bakterie běžně přítomné ve vodním prostředí.
+U KOI jsou nejčastější příčinou tzv. „ulcer disease“.
+
+3.2 Typické symptomy
+- otevřené kožní vředy (červené až nekrotické okraje),
+- krvácení v okolí šupin,
+- eroze ploutví,
+- apatie, ztráta chuti k přijímání potravy,
+- v pokročilých případech septikémie.
+
+3.3 Rizikové faktory
+- vysoké NO₂, NH₄,
+- znečištěné dno jezírka,
+- mechanická poranění,
+- parazitární infekce jako primární spouštěč.
+
+3.4 Diagnostická vodítka
+- lokální léze s červeným okrajem,
+- pomalý vývoj (dny až týdny),
+- časté u oslabených nebo starších jedinců.
+
+
+------------------------------------------------------------
+4. PSEUDOMONAS spp.
+------------------------------------------------------------
+
+4.1 Charakteristika
+Pseudomonas jsou vysoce adaptabilní bakterie, často rezistentní,
+vyskytující se především ve znečištěném prostředí.
+
+4.2 Typické symptomy
+- kožní léze podobné Aeromonas,
+- rychlejší progrese onemocnění,
+- zakalené oči,
+- rozpad ploutví,
+- vyšší mortalita při zanedbání.
+
+4.3 Rizikové faktory
+- dlouhodobě špatná kvalita vody,
+- vysoké BOD/COD,
+- stagnující zóny v jezírku,
+- špatná filtrace.
+
+4.4 Diagnostická vodítka
+- rychle se zhoršující stav,
+- více postižených ryb,
+- kombinace kožních a systémových příznaků.
+
+
+------------------------------------------------------------
+5. COLUMNARIS (Flavobacterium columnare)
+------------------------------------------------------------
+
+5.1 Charakteristika
+Columnaris je bakteriální onemocnění často zaměňované za plíseň.
+Preferuje vyšší teploty vody (nad 20 °C).
+
+5.2 Typické symptomy
+- bílé až šedé povlaky na kůži nebo tlamě,
+- „rozpad“ tkáně v okolí tlamy („cotton mouth“),
+- eroze žaber,
+- rychlý průběh onemocnění.
+
+5.3 Rizikové faktory
+- teplá voda,
+- vysoká hustota ryb,
+- stres po transportu,
+- nízký rozpuštěný kyslík.
+
+5.4 Diagnostická vodítka
+- velmi rychlý průběh (hodiny až dny),
+- typické léze kolem tlamy a žaber,
+- časté u mladších nebo nově importovaných KOI.
+
+
+------------------------------------------------------------
+6. ROZHODOVACÍ DIAGNOSTICKÝ RÁMEC (BEZ LÉČIV)
+------------------------------------------------------------
+
+Krok 1: Stav vody
+- O₂, pH, NH₄, NO₂, teplota
+- odchylky = primární rizikový faktor
+
+Krok 2: Typ léze
+- otevřené vředy → Aeromonas / Pseudomonas
+- bílé povlaky při teple → Columnaris
+
+Krok 3: Rychlost průběhu
+- pomalý → Aeromonas
+- rychlý → Pseudomonas / Columnaris
+
+Krok 4: Rozsah
+- jednotlivé ryby → lokální problém
+- více ryb → systémový problém
+
+Krok 5: Rozhodnutí
+- zlepšení prostředí vždy jako první krok
+- při progresi → kontaktovat veterináře
+
+
+------------------------------------------------------------
+7. PREVENCE BAKTERIÁLNÍCH INFEKCÍ
+------------------------------------------------------------
+
+Zásadní preventivní opatření:
+- stabilní biologická filtrace,
+- nízké organické zatížení,
+- pravidelné odkalení,
+- karanténa nových ryb,
+- minimalizace manipulace,
+- prevence poranění.
+
+Dlouhodobě:
+- nepřerybňovat jezírko,
+- zajistit dobré proudění,
+- udržovat stabilní teplotní režim.
+
+
+------------------------------------------------------------
+8. KDY KONTAKTOVAT ODBORNÍKA
+------------------------------------------------------------
+
+- rychlá progrese příznaků,
+- více ryb s otevřenými lézemi,
+- selhání environmentálních opatření,
+- podezření na systémovou infekci.
+
+Aquantis nikdy nenahrazuje veterinární péči,
+ale pomáhá rozhodnout, kdy je nezbytná.
+
+
+------------------------------------------------------------
+9. ODBORNÉ ZDROJE (PARAFRÁZOVÁNO)
+------------------------------------------------------------
+
+- Koi Health Advisors (KHA)
+- University Extension Aquatic Animal Health Manuals
+- FAO Aquatic Animal Health Guidelines
+- Open-access články o Aeromonas a Columnaris u kaprovitých ryb
+- Praktické KOI chovatelské standardy (EU, JP, USA)
+
+Veškerý text je nově formulovaný a slouží jako odborná syntéza.
+
+
+------------------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------------------
+KB-KOI-13 – V1
+Určeno pro: Aquantis Knowledge Base
+Stav: Produkční

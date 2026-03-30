@@ -1,0 +1,221 @@
+KB-REPRO-08 – Reprodukce v rybnících (přirozené tření) – V1
+==========================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Reprodukce ryb
+Typ dokumentu: Technický / provozní
+Použití v Aquantis: Rybníkářství, diagnostika reprodukčních problémů
+Vhodné pro RAG: Ano
+Verze: V1
+Datum: 2025-03
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument popisuje principy přirozené reprodukce ryb v rybnících
+a polointenzivních systémech.
+
+Zaměřuje se na:
+- biologické požadavky jednotlivých skupin ryb,
+- roli prostředí (teplota, substrát, plankton),
+- nejčastější příčiny selhání tření,
+- praktické rozdíly mezi druhy.
+
+Dokument je určen jako odborný základ pro:
+- tradiční rybníkářství,
+- polointenzivní chovy,
+- regionální modely (EU, Asie, Afrika).
+
+
+------------------------------------------------
+2. OBECNÉ PRINCIPY PŘIROZENÉHO TŘENÍ V RYBNÍCÍCH
+------------------------------------------------
+
+Přirozené tření je řízeno kombinací:
+- teploty vody,
+- fotoperiody,
+- hydrologických podnětů (zvýšení hladiny, čerstvá voda),
+- dostupnosti vhodného substrátu,
+- biologické kondice generačních ryb.
+
+Klíčovým faktorem úspěchu není samotné tření,
+ale **přežití jiker a larv v prvních 3–7 dnech**.
+
+
+------------------------------------------------
+3. KAPROVITÉ RYBY – PŘIROZENÉ TŘENÍ
+------------------------------------------------
+
+### 3.1 Kapr obecný (Cyprinus carpio)
+- Spouštěcí teplota: 18–22 °C
+- Substrát: měkká vegetace, zaplavené trávy
+- Charakteristika:
+  - vysoká produkce jiker,
+  - velmi citlivé jikry na predaci a kolísání hladiny
+- Kritické body:
+  - kolísání hladiny po tření,
+  - zákal a nízký kyslík v noci
+
+
+### 3.2 Amur bílý (Ctenopharyngodon idella)
+- Spouštěcí teplota: 20–26 °C
+- Specifika:
+  - v rybnících se přirozeně tře omezeně,
+  - vyžaduje proudění nebo simulaci povodně
+- V praxi:
+  - často nahrazováno umělým výtěrem
+
+
+### 3.3 Tolstolobik (Hypophthalmichthys spp.)
+- Spouštěcí teplota: 22–28 °C
+- Specifika:
+  - jikry pelagické,
+  - vyžadují proudění → v rybnících tření velmi omezené
+- Poznámka:
+  - přirozené tření v rybnících je výjimečné
+
+
+### 3.4 Lín obecný (Tinca tinca)
+- Spouštěcí teplota: 18–22 °C
+- Substrát: jemná vegetace, kořeny, detrit
+- Charakteristika:
+  - pozdější tření než kapr,
+  - roztažené tření v čase (několik týdnů)
+- Rizika:
+  - silná predace plůdku,
+  - špatná viditelnost → obtížné hodnocení úspěchu
+
+
+### 3.5 Karas (Carassius spp.)
+- Spouštěcí teplota: 16–22 °C
+- Substrát: měkké rostliny, mělčiny
+- Charakteristika:
+  - velmi tolerantní druh,
+  - schopnost reprodukce i v horších podmínkách
+- Rizika:
+  - přemnožení,
+  - silná konkurence ostatním druhům
+
+
+------------------------------------------------
+4. DRAVÉ RYBY – SPECIFIKA PŘIROZENÉ REPRODUKCE
+------------------------------------------------
+
+### 4.1 Candát obecný (Sander lucioperca)
+- Spouštěcí teplota: 12–16 °C
+- Substrát: pevné dno, kořeny, kameny
+- Specifika:
+  - samec hlídá hnízdo,
+  - velmi citlivý na rušení
+- Rizika:
+  - zákal,
+  - kolísání kyslíku,
+  - mechanické poškození jiker
+
+
+### 4.2 Štika obecná (Esox lucius)
+- Spouštěcí teplota: 6–10 °C
+- Substrát: zaplavené louky, trávy
+- Charakteristika:
+  - velmi časné tření,
+  - jikry extrémně náchylné k vyschnutí
+- Kritická chyba:
+  - pokles hladiny po tření
+
+
+### 4.3 Okoun říční (Perca fluviatilis)
+- Spouštěcí teplota: 8–12 °C
+- Substrát: větve, kořeny, vegetace
+- Specifika:
+  - jikry ve formě pásů,
+  - vysoká citlivost na kyslíkový deficit
+- Rizika:
+  - kolísání teploty,
+  - zákal
+
+
+### 4.4 Sumec velký (Silurus glanis)
+- Spouštěcí teplota: 18–22 °C
+- Substrát: dutiny, kořeny, hnízda v bahně
+- Charakteristika:
+  - rodičovská péče (samec),
+  - velmi citlivý na rušení
+- Rizika:
+  - nedostatek úkrytů,
+  - rušení při hospodářských zásazích
+
+
+------------------------------------------------
+5. ROLE PLANKTONU A POTRAVNÍ ZÁKLADNY
+------------------------------------------------
+
+Pro přežití plůdku je klíčová:
+- přítomnost zooplanktonu (vířníci, perloočky),
+- časová shoda mezi líhnutím a planktonovým maximem.
+
+Chyby:
+- příliš časné napuštění rybníka,
+- nízká produktivita planktonu,
+- přerybnění generačními rybami.
+
+
+------------------------------------------------
+6. PREDACE JIKER A LAREV
+------------------------------------------------
+
+Hlavní predátoři:
+- bezobratlí (larvy vážek, vodní brouci),
+- ryby (plevelné druhy),
+- obojživelníci.
+
+Prevence:
+- suchý rybník přes zimu,
+- včasné napuštění,
+- kontrola plevelných ryb.
+
+
+------------------------------------------------
+7. TYPICKÉ CHYBY V PRAXI
+------------------------------------------------
+
+- špatně zvolený termín tření,
+- nízká nebo kolísající teplota,
+- nevhodný nebo chybějící substrát,
+- pokles hladiny po tření,
+- nedostatek planktonu,
+- přílišná manipulace s rybníkem.
+
+
+------------------------------------------------
+8. POUŽITÍ DOKUMENTU
+------------------------------------------------
+
+Tento dokument je určen pro:
+- tradiční rybníkářství,
+- polointenzivní chovy,
+- regionální modely EU, Asie a mírného pásma,
+- diagnostiku selhání přirozené reprodukce.
+
+
+------------------------------------------------
+9. ZDROJE A ODBORNÝ ZÁKLAD
+------------------------------------------------
+
+Obsah dokumentu je syntézou a odbornou parafrází:
+- FAO Fisheries & Aquaculture Technical Papers,
+- Boyd, C.E. – Warmwater Fish Pond Management,
+- WorldFish pond aquaculture manuals,
+- evropských rybníkářských metodik (CZ, PL, DE),
+- otevřených vědeckých článků o reprodukci ryb.
+
+Text neobsahuje žádný převzatý obsah 1:1 a je právně bezpečný
+pro interní použití v systému Aquantis.
+
+
+------------------------------------------------
+10. VERZE
+------------------------------------------------
+KB-REPRO-08 – V1

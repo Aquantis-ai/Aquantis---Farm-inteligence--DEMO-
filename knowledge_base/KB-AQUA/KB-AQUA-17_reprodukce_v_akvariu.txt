@@ -1,0 +1,218 @@
+KB-AQUA-17 – REPRODUKCE V AKVÁRIU (V1)
+====================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika
+Typ dokumentu: Technicko-biologický přehled
+Použití v Aquantis: Diagnostika, edukace, reprodukční doporučení
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument shrnuje principy reprodukce akvarijních ryb
+v kontrolovaném prostředí akvária.
+
+Cílem je:
+- vysvětlit biologické typy rozmnožování,
+- popsat spouštěče tření,
+- identifikovat kritická místa selhání,
+- poskytnout rámec pro bezpečné a etické odchovy.
+
+Dokument je koncipován jako obecný základ.
+Detailní druhové postupy patří do navazujících specializovaných KB.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ TYPY REPRODUKCE AKVARIJNÍCH RYB
+------------------------------------------------
+
+2.1 Třecí ryby – rozptyl jiker
+- jikry volně rozptýlené ve vodním sloupci nebo na substrátu
+- žádná rodičovská péče
+- vysoká přirozená mortalita
+
+Příklady:
+- tetry
+- razbory
+- dánia
+
+2.2 Třecí ryby – substrátové tření
+- jikry kladené na pevný povrch (kámen, list, sklo)
+- často částečná nebo plná rodičovská péče
+
+Příklady:
+- skaláry
+- terčovci
+- cichlidy
+
+2.3 Hnízdníci (pěnová hnízda)
+- samci vytvářejí pěnové hnízdo
+- výrazná rodičovská péče samce
+
+Příklady:
+- bojovnice
+- čichavci
+
+2.4 Tlamovci
+- inkubace jiker v tlamě
+- velmi nízká početnost, vysoká úspěšnost
+
+Příklady:
+- africké cichlidy (Mbuna, Haplochromis)
+
+2.5 Živorodky
+- vnitřní oplození
+- rodí plně vyvinutý plůdek
+
+Příklady:
+- gupky
+- mečovky
+- molly
+
+
+------------------------------------------------
+3. SPOUŠTĚČE REPRODUKCE V AKVÁRIU
+------------------------------------------------
+
+3.1 Teplota
+- mírné zvýšení teploty (1–3 °C) simuluje období dešťů
+- příliš rychlé změny → stres, sterilita
+
+3.2 Kvalita vody
+- snížení vodivosti (měkká voda) často klíčové
+- stabilní pH bez výkyvů
+
+3.3 Výměny vody
+- větší výměna (20–50 %) může simulovat přítok čerstvé vody
+- častá chyba: studená nebo chemicky nestabilní voda
+
+3.4 Fotoperioda
+- prodloužení dne
+- stabilní světelný režim důležitější než intenzita
+
+3.5 Sociální struktura
+- správný poměr pohlaví
+- dominance samců může tření blokovat
+
+
+------------------------------------------------
+4. PŘÍPRAVA RODIČOVSKÝCH RYB
+------------------------------------------------
+
+- dobrá tělesná kondice
+- kvalitní, pestrá strava (živá / mražená)
+- absence chronického stresu
+- dostatečný věk a velikost
+
+Poznámka:
+Ryby v dobré kondici se třou spontánněji
+a produkují kvalitnější jikry.
+
+
+------------------------------------------------
+5. PROBLÉMY A SELHÁNÍ REPRODUKCE
+------------------------------------------------
+
+5.1 Požírání jiker
+- stres
+- nezkušené páry
+- nevhodné prostředí
+
+5.2 Neoplozené jikry
+- nekompatibilní pár
+- špatná kondice samce
+- nevhodná chemie vody
+
+5.3 Plísně jiker
+- nízký průtok
+- nedostatek kyslíku
+- organické znečištění
+
+5.4 Kolaps larvální fáze
+- nevhodné první krmení
+- nedostatek mikroorganismů
+- náhlé změny vody
+
+
+------------------------------------------------
+6. LARVÁLNÍ FÁZE A PRVNÍ KRMENÍ
+------------------------------------------------
+
+Kritické období: první 3–10 dní po rozplavání
+
+Zásady:
+- minimální manipulace
+- stabilní parametry vody
+- velmi jemné krmení
+
+Typická krmiva:
+- nálevníci
+- rotifery
+- čerstvě vylíhlá Artemia
+
+Poznámka:
+Nevhodné první krmení je nejčastější příčinou selhání odchovu.
+
+
+------------------------------------------------
+7. ETICKÉ A PRAKTICKÉ ASPEKTY
+------------------------------------------------
+
+- neodchovávat ryby bez plánu umístění
+- zabránit nekontrolovanému množení
+- respektovat welfare rodičů i plůdku
+
+Akvaristika není masová produkce,
+ale řízený biologický proces.
+
+
+------------------------------------------------
+8. TYPICKÉ CHYBY AKVARISTŮ
+------------------------------------------------
+
+- snaha „donutit“ ryby ke tření
+- nestabilní parametry vody
+- přerybněné odchovné nádrže
+- příliš časná manipulace s jikrami
+
+
+------------------------------------------------
+9. SHRNUTÍ PRO AQUANTIS
+------------------------------------------------
+
+Reprodukce v akváriu:
+- vyžaduje stabilitu, ne extrémy,
+- je silně druhově specifická,
+- selhání jsou běžná a přirozená.
+
+Aquantis by měl:
+- vysvětlovat pravděpodobnosti, ne sliby,
+- upozorňovat na kritické chyby,
+- podporovat etický a realistický přístup.
+
+
+------------------------------------------------
+10. ODBORNÉ ZDROJE (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+- FAO – Ornamental Fish Breeding Manuals
+- Axelrod, Innes – Exotic Tropical Fishes
+- Andrews, Exell – Breeding Aquarium Fishes
+- University extension materials (ornamental fish)
+- Dlouhodobá akvaristická praxe a best practices
+
+Text je syntézou obecně uznávaných principů,
+nikoliv přepisem chráněných publikací.
+
+
+------------------------------------------------
+11. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-17 – Reprodukce v akváriu
+Verze: V1
+Určeno pro: Aquantis Knowledge Base

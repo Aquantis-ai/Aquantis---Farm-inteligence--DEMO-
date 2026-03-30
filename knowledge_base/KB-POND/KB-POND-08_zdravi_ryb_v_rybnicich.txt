@@ -1,0 +1,200 @@
+Aquantis_KB-POND-08_ZDRAVÍ_RYB_V_RYBNÍCÍCH_V1
+================================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument shrnuje principy zdraví ryb v rybniční akvakultuře.
+Slouží jako diagnostický a preventivní rámec pro Aquantis při
+vyhodnocování zdravotního stavu ryb v rybnících, polointenzivních
+a extenzivních systémech.
+
+Dokument je založen na syntéze:
+- FAO pond aquaculture manuals,
+- WorldFish pond health guidelines,
+- evropské rybníkářské praxe (CZ, AT, DE),
+- univerzitních extension materiálů,
+- dlouhodobých provozních zkušeností z rybníkářství.
+
+Neobsahuje veterinární preskripci léčiv.
+
+
+------------------------------------------------
+1. SPECIFIKA ZDRAVÍ RYB V RYBNÍCÍCH
+------------------------------------------------
+
+Zdraví ryb v rybnících je primárně ovlivněno:
+- kvalitou vody a jejím denním a sezónním kolísáním,
+- obsádkou a druhovou skladbou,
+- výživou a dostupností přirozené potravy,
+- manipulací s rybami,
+- klimatickými podmínkami.
+
+Na rozdíl od RAS:
+- rybník je biologicky otevřený systém,
+- zdravotní problémy jsou často multifaktoriální,
+- prevence má zásadně větší význam než léčba.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ PRINCIPY PREVENCE
+------------------------------------------------
+
+Základní preventivní pilíře:
+1. Správná obsádka (hustota, druhová rovnováha).
+2. Stabilní kvalita vody (O₂, pH, průhlednost).
+3. Přiměřené krmení (nepřekrmovat).
+4. Minimalizace stresu při manipulaci.
+5. Sezónní přizpůsobení managementu.
+
+Platí pravidlo:
+„V rybníce většina nemocí začíná stresem, ne patogenem.“
+
+
+------------------------------------------------
+3. HLAVNÍ STRESOVÉ FAKTORY V RYBNÍCÍCH
+------------------------------------------------
+
+Nejčastější stresory:
+- ranní hypoxie (zejména v létě),
+- prudké změny teploty,
+- výkyvy pH při květech vody,
+- vysoká obsádka,
+- nedostatek přirozené potravy,
+- časté manipulace a přelovy.
+
+Dlouhodobý stres:
+- oslabuje imunitu ryb,
+- zvyšuje náchylnost k parazitům a bakteriím,
+- zpomaluje růst.
+
+
+------------------------------------------------
+4. NEJČASTĚJŠÍ NEMOCI RYB V RYBNÍCÍCH
+------------------------------------------------
+
+### 4.1 Parazitární onemocnění
+- kožní a žaberní paraziti (Trichodina, Dactylogyrus, Gyrodactylus),
+- Ichthyophthirius („krupička“).
+
+Typické projevy:
+- tření o dno,
+- zvýšené dýchání,
+- zakalená kůže,
+- apatie.
+
+---
+
+### 4.2 Bakteriální onemocnění
+- Aeromonas spp.,
+- Flavobacterium columnare,
+- Pseudomonas spp.
+
+Typické projevy:
+- kožní léze,
+- krváceniny,
+- rozpad ploutví,
+- zvýšená mortalita při stresu.
+
+---
+
+### 4.3 Plísňová onemocnění
+- Saprolegnia spp.
+
+Vznik:
+- po manipulaci,
+- po mechanickém poškození ryb,
+- při nízkých teplotách.
+
+---
+
+### 4.4 Metabolické a environmentální poruchy
+- hypoxie,
+- intoxikace amoniakem / nitritem,
+- acidóza / alkalóza,
+- letní nebo zimní úhyny.
+
+
+------------------------------------------------
+5. SEZÓNNÍ ZDRAVOTNÍ RIZIKA
+------------------------------------------------
+
+### JARO
+- stres po zimě,
+- nízká imunita,
+- rozvoj plísní,
+- parazitární infekce.
+
+### LÉTO
+- ranní hypoxie,
+- květ vody,
+- bakteriální infekce,
+- teplotní stres.
+
+### PODZIM
+- stres při výlovech,
+- mechanická poškození,
+- sekundární infekce.
+
+### ZIMA
+- zimní hypoxie,
+- hromadění metabolitů pod ledem,
+- plísňová onemocnění.
+
+
+------------------------------------------------
+6. DIAGNOSTICKÝ POSTUP V RYBNÍKU
+------------------------------------------------
+
+Základní kroky:
+1. Pozorování chování ryb (plavání, dýchání).
+2. Kontrola mortality (místní vs. plošná).
+3. Měření O₂, teploty, pH.
+4. Posouzení průhlednosti vody.
+5. Vyhodnocení posledních zásahů (krmení, manipulace).
+
+Důležité:
+- nikdy neřešit nemoc izolovaně bez znalosti kontextu rybníka.
+
+
+------------------------------------------------
+7. PREVENTIVNÍ OPATŘENÍ V PRAXI
+------------------------------------------------
+
+- Udržovat přiměřenou obsádku.
+- Nepřekrmovat – zejména v létě.
+- Omezit manipulace na minimum.
+- Provádět pravidelné kontroly ryb.
+- Přizpůsobovat management počasí.
+
+Dlouhodobá prevence je vždy účinnější než zásahy po propuknutí nemoci.
+
+
+------------------------------------------------
+8. KDY KONTAKTOVAT ODBORNÍKA
+------------------------------------------------
+
+Kontaktovat veterináře nebo specialistu pokud:
+- mortalita rychle narůstá,
+- objevují se výrazné léze,
+- dochází k opakovaným úhynům,
+- selhávají základní preventivní kroky.
+
+
+------------------------------------------------
+9. VÝCHODISKA Z ODBORNÝCH ZDROJŮ (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+- FAO Fisheries & Aquaculture Technical Papers.
+- WorldFish pond health manuals.
+- Evropské rybníkářské metodiky.
+- Univerzitní extension materiály (pond fish health).
+
+Text je plně parafrázovaný a určený pro interní Knowledge Base Aquantis.
+
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB-POND-08 – V1  
+Datum: 2025-02  
+Určeno pro: Aquantis Knowledge Base – Rybníkářství

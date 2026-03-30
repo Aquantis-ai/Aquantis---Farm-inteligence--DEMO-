@@ -1,0 +1,211 @@
+KB-REPRO-17 – GENETIKA, INBREEDING A LINIE (KOI & OKRASNÉ RYBY)
+=============================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Reprodukce ryb
+Typ dokumentu: Pokročilý genetický a šlechtitelský přehled
+Použití v Aquantis:
+- Reprodukční strategie
+- Prevence genetických problémů
+- Šlechtění KOI a okrasných ryb
+- Diagnostika dlouhodobých chovatelských chyb
+Vhodné pro RAG: Ano
+Verze: V1
+Určeno pro: KOI chovy, okrasné ryby, poloprofesionální a profesionální chovy
+
+------------------------------------------------
+1. ÚVOD – PROČ JE GENETIKA KLÍČOVÁ
+------------------------------------------------
+
+Genetika je u okrasných ryb (zejména KOI a zlatých rybek) jedním z nejdůležitějších,
+ale zároveň nejčastěji podceňovaných faktorů.
+
+Špatná genetická strategie vede k:
+- postupnému poklesu vitality,
+- deformacím,
+- vyšší nemocnosti,
+- slabému růstu,
+- ztrátě kvality barev a vzoru,
+- krátké životnosti.
+
+Na rozdíl od produkčních ryb je u okrasných ryb cílem:
+- estetická hodnota,
+- dlouhověkost,
+- stabilita linie,
+- předvídatelnost potomstva.
+
+------------------------------------------------
+2. ZÁKLADNÍ GENETICKÉ POJMY (STRUČNĚ A PRAKTICKY)
+------------------------------------------------
+
+Genotyp:
+- genetická informace jedince (to, co „nese v sobě“).
+
+Fenotyp:
+- to, co vidíme (barva, tvar těla, vzor, růst).
+
+Dominantní znak:
+- projeví se i při jednom výskytu genu.
+
+Recesivní znak:
+- projeví se pouze při zdvojení genu (často se „skrývá“).
+
+Genetická diverzita:
+- míra variability v populaci.
+- klíčový faktor dlouhodobého zdraví chovu.
+
+------------------------------------------------
+3. INBREEDING (PŘÍBUZENSKÁ PLEMENITBA)
+------------------------------------------------
+
+Inbreeding = křížení geneticky blízkých jedinců
+(rodiče × potomci, sourozenci, blízcí příbuzní).
+
+### 3.1 Krátkodobé efekty
+- sjednocení znaků,
+- zvýšení pravděpodobnosti „fixace“ barvy nebo vzoru,
+- rychlé dosažení vizuální uniformity.
+
+### 3.2 Dlouhodobé negativní dopady
+- snížení plodnosti,
+- vyšší mortalita jiker a larev,
+- deformace páteře, hlavy, ploutví,
+- slabý imunitní systém,
+- zkrácení životnosti.
+
+U KOI se negativní dopady často projeví až po 2–4 generacích.
+
+------------------------------------------------
+4. INBREEDING DEPRESSION – TICHÝ PROBLÉM CHOVŮ
+------------------------------------------------
+
+Inbreeding depression je postupný pokles biologické kvality populace.
+
+Typické příznaky:
+- nižší líhnivost jiker,
+- pomalý růst plůdku,
+- vyšší citlivost na stres a změny vody,
+- častější bakteriální a parazitární infekce,
+- zhoršená regenerace po manipulaci.
+
+Důležité:
+- nelze „opravit“ lepší vodou nebo krmením,
+- řešením je pouze genetická obnova.
+
+------------------------------------------------
+5. LINIE U KOI – CO TO SKUTEČNĚ ZNAMENÁ
+------------------------------------------------
+
+Linie = dlouhodobě udržovaná genetická větev se specifickými znaky.
+
+U KOI se linie často pojí s:
+- konkrétními chovateli (japonské linie),
+- typem těla,
+- kvalitou kůže (skin quality),
+- způsobem vývoje barvy (early vs. late bloomer).
+
+Linie nejsou „značky“, ale genetické nástroje.
+
+------------------------------------------------
+6. STRATEGIE PRÁCE S LINIEMI
+------------------------------------------------
+
+### 6.1 Uzavřená linie
+- vysoká uniformita,
+- vysoké riziko inbreedingu,
+- vhodná pouze krátkodobě.
+
+### 6.2 Polouzavřená linie
+- pravidelné, ale kontrolované přikřížení,
+- nejlepší kompromis pro malé chovy.
+
+### 6.3 Otevřená linie
+- vysoká genetická diverzita,
+- nižší předvídatelnost fenotypu,
+- vhodná pro obnovu vitality.
+
+------------------------------------------------
+7. OUTCROSSING (GENETICKÉ OŽIVENÍ)
+------------------------------------------------
+
+Outcrossing = křížení nepříbuzných linií.
+
+Přínosy:
+- zvýšení vitality,
+- lepší růst,
+- vyšší odolnost vůči nemocem,
+- snížení deformací.
+
+Rizika:
+- rozpad vzoru,
+- nestabilní barva,
+- vyšší rozptyl kvality potomstva.
+
+U KOI se outcrossing často používá jednou za několik generací.
+
+------------------------------------------------
+8. GENETIKA ZLATÝCH RYBEK
+------------------------------------------------
+
+Zlaté rybky jsou extrémním příkladem dlouhodobé selekce.
+
+Typické problémy:
+- silný inbreeding u fancy forem,
+- deformace plaveckého měchýře,
+- zkrácená délka života.
+
+Doporučení:
+- pravidelné přikřížení „divočejších“ forem,
+- důraz na zdraví před extrémním vzhledem.
+
+------------------------------------------------
+9. PRAKTICKÁ DOPORUČENÍ PRO CHOVATELE
+------------------------------------------------
+
+1. Nikdy nekřížit sourozence opakovaně po více generací.
+2. Vést jednoduchou evidenci rodičů.
+3. Pravidelně hodnotit:
+   - líhnivost,
+   - růst,
+   - deformace,
+   - mortalitu.
+4. Nevybírat rodiče pouze podle barvy.
+5. U KOI preferovat:
+   - kvalitu těla,
+   - strukturu kůže,
+   - celkovou vitalitu.
+
+------------------------------------------------
+10. ČASTÉ CHYBY V HOBBY CHOVECH
+------------------------------------------------
+
+- „Hezký pár = dobrý genetický pár“
+- Dlouhodobé množení z jedné skupiny ryb
+- Ignorování deformací u plůdku
+- Neochota vyřazovat slabé jedince
+- Snaha o rychlé výsledky bez genetické strategie
+
+------------------------------------------------
+11. ZDROJE A ODBORNÝ ZÁKLAD (PARAFRÁZOVÁNO)
+------------------------------------------------
+
+Tento dokument vychází z odborné syntézy poznatků z:
+
+- FAO – Genetics and breeding in aquaculture
+- WorldFish – selective breeding manuals
+- KOI Breeding Manuals (Niigata, JP – obecné principy)
+- University extension materials (ornamental fish genetics)
+- Open-access článků z Aquaculture Journal
+- Dlouhodobé chovatelské praxe v okrasné akvakultuře
+
+Text je kompletně nově formulovaný, bez přebírání
+autorsky chráněného obsahu.
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+KB-REPRO-17 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)

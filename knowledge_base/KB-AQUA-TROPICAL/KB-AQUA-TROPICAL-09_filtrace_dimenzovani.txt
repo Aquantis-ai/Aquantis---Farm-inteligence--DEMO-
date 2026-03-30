@@ -1,0 +1,234 @@
+KB-AQUA-TROPICAL-09 – FILTRACE V TROPICKÝCH AKVÁRIÍCH
+Dimenzování, přetížení a typické chyby (V1)
+====================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – tropická akvária
+Typ dokumentu: Technický / provozní
+Použití v Aquantis: Návrh systému, diagnostika, prevence kolapsů
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument vysvětluje roli filtrace v tropických akváriích,
+principy správného dimenzování a nejčastější chyby vedoucí
+k biologickému kolapsu nádrže.
+
+Zaměřuje se na:
+- vztah filtrace × biologická zátěž,
+- specifika tropických teplot,
+- stabilitu dusíkatého cyklu,
+- praktickou diagnostiku přetížení filtru.
+
+
+------------------------------------------------
+2. PROČ JE FILTRACE V TROPICKÉM AKVÁRIU KRITICKÁ
+------------------------------------------------
+
+Tropická akvária pracují při vyšších teplotách (24–30 °C),
+což vede k:
+
+- vyššímu metabolismu ryb,
+- rychlejší produkci NH₃/NH₄⁺,
+- nižší rozpustnosti kyslíku,
+- vyšší mikrobiální aktivitě.
+
+Filtrace zde není „komfortní doplněk“,
+ale **základní bezpečnostní prvek systému**.
+
+
+------------------------------------------------
+3. ZÁKLADNÍ SLOŽKY FILTRACE
+------------------------------------------------
+
+### 3.1 Mechanická filtrace
+Funkce:
+- odstranění pevných částic,
+- snížení organické zátěže před biofiltrem.
+
+Typické materiály:
+- molitan,
+- filtrační vata,
+- kartáče.
+
+Riziko:
+- zanesení → sekundární zdroj amoniaku.
+
+---
+
+### 3.2 Biologická filtrace
+Funkce:
+- nitrifikace (NH₃ → NO₂ → NO₃),
+- stabilizace dusíkatého cyklu.
+
+Materiály:
+- keramické médium,
+- sintered glass,
+- biomolitan.
+
+Limity:
+- závislá na O₂, pH a teplotě,
+- citlivá na výpadky proudu.
+
+---
+
+### 3.3 Chemická filtrace (doplňková)
+- aktivní uhlí,
+- zeolit,
+- pryskyřice.
+
+Použití:
+- krátkodobé,
+- cílené,
+- nikdy ne jako náhrada biofiltru.
+
+
+------------------------------------------------
+4. DIMENZOVÁNÍ FILTRACE
+------------------------------------------------
+
+### 4.1 Průtok
+Orientační doporučení:
+- 4–6× objem nádrže / hod (běžné tropické akvárium),
+- 6–10× objem / hod (vysoce zatížené nádrže, cichlidy).
+
+Pozor:
+- průtok ≠ filtrační kapacita,
+- příliš vysoký průtok snižuje účinnost biofiltru.
+
+---
+
+### 4.2 Objem biologického média
+Obecné zásady:
+- více biomédia = větší bezpečnostní rezerva,
+- dimenzovat na dospělé ryby, ne aktuální osádku.
+
+Typická chyba:
+- malé filtry s vysokým průtokem,
+- marketingové „výkonné“ filtry s minimem biomédia.
+
+
+------------------------------------------------
+5. TEPLOTA A FILTRACE
+------------------------------------------------
+
+Vyšší teplota:
+- zvyšuje nitrifikační rychlost,
+- ale zároveň zvyšuje produkci NH₃.
+
+Rizika při >28 °C:
+- rychlé přetížení biofiltru,
+- vyšší spotřeba O₂ bakteriemi,
+- kolaps při výpadku proudu.
+
+Prevence:
+- silná aerace filtru,
+- redundance (více filtračních okruhů),
+- nepřehřívat nádrž.
+
+
+------------------------------------------------
+6. PŘETÍŽENÍ FILTRACE – JAK HO POZNAT
+------------------------------------------------
+
+Včasné signály:
+- pomalý nárůst NO₂,
+- biofilm na hladině,
+- snížení aktivity ryb,
+- zápach z filtru.
+
+Pokročilé projevy:
+- lapání ryb po vzduchu,
+- kolísání pH,
+- náhlé nemoci,
+- úhyny bez varování.
+
+
+------------------------------------------------
+7. TYPICKÉ CHYBY V PRAXI
+------------------------------------------------
+
+1. Přerybnění bez úpravy filtrace.
+2. Překrmování bez kontroly zbytků.
+3. Kompletní vyčištění filtru „do čista“.
+4. Čištění biomédií v chlorované vodě.
+5. Podcenění výpadků proudu.
+6. Spoléhání na chemickou filtraci.
+7. Ignorování růstu ryb v čase.
+
+
+------------------------------------------------
+8. ÚDRŽBA FILTRACE
+------------------------------------------------
+
+Správné zásady:
+- mechanická část → čistit pravidelně,
+- biologická část → jen jemně, postupně,
+- nikdy nečistit celý filtr najednou.
+
+Doporučení:
+- čistit maximálně 1/3 biomédií,
+- používat vodu z akvária,
+- sledovat hodnoty po zásahu.
+
+
+------------------------------------------------
+9. KRIZOVÉ SCÉNÁŘE
+------------------------------------------------
+
+Výpadek filtru:
+- > 2–4 hod = riziko úhynu nitrifikátorů,
+- zápach = anaerobní procesy.
+
+Okamžitá opatření:
+- zvýšit aeraci nádrže,
+- obnovit průtok co nejdříve,
+- po restartu sledovat NO₂.
+
+
+------------------------------------------------
+10. DIAGNOSTICKÁ LOGIKA (AQUANTIS)
+------------------------------------------------
+
+Pokud:
+- NO₂ roste po krmení,
+- ryby dýchají rychle,
+- filtr zapáchá,
+- voda se zakaluje,
+
+→ pravděpodobná příčina:
+- přetížená nebo nestabilní filtrace.
+
+Aquantis by měl:
+- propojit data o krmení, teplotě a osádce,
+- upozornit na kapacitní limity filtru,
+- navrhnout postupné kroky stabilizace.
+
+
+------------------------------------------------
+11. ZDROJE A ODBORNÉ VÝCHODISKO
+------------------------------------------------
+
+Dokument vychází z parafrázované syntézy:
+- FAO aquaculture water quality manuals,
+- Boyd, C.E. – Water Quality Management,
+- University Extension Programs (UF/IFAS, Auburn),
+- dlouhodobé praxe v tropické akvaristice,
+- otevřených studií o nitrifikaci při vyšších teplotách.
+
+Veškerý text je autorsky přepracovaný
+a právně bezpečný.
+
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-TROPICAL-09 – V1
+Určeno pro: Aquantis Knowledge Base

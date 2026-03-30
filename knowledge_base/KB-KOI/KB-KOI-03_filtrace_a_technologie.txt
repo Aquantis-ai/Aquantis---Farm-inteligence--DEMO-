@@ -1,0 +1,232 @@
+KB-KOI-03 – FILTRACE A TECHNOLOGIE PRO KOI JEZÍRKA (V1)
+=====================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: KOI jezírka
+Typ dokumentu: Technologický manuál
+Použití v Aquantis: Diagnostika, návrh technologie, řešení problémů
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL FILTRACE V KOI JEZÍRKÁCH
+------------------------------------------------
+
+Filtrace v KOI jezírku má zásadně odlišné cíle než filtrace v přírodních jezírkách:
+
+- udržet **extrémně nízké organické zatížení**,
+- chránit **kvalitu kůže, barev a šupin KOI**,
+- zajistit **stabilní nitrifikaci** při vysokém krmném zatížení,
+- umožnit **dlouhodobý chov při vysoké biomase ryb**.
+
+KOI jezírko je technologický systém blízký RAS,
+nikoliv „přírodní jezírko“.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ STRUKTURA FILTRAČNÍHO ŘETĚZCE
+------------------------------------------------
+
+Optimální filtrace KOI jezírka se skládá z těchto kroků:
+
+1. Mechanická separace hrubých nečistot
+2. Jemná mechanická filtrace
+3. Biologická filtrace (nitrifikace)
+4. Volitelně: UV / ozon
+5. Návrat vody do jezírka (okysličení)
+
+Správné pořadí je klíčové – biologický filtr nikdy nesmí být zatěžován hrubými částicemi.
+
+
+------------------------------------------------
+3. MECHANICKÁ FILTRACE
+------------------------------------------------
+
+### 3.1 Spodní sání (bottom drain)
+Základní prvek každého kvalitního KOI jezírka.
+
+- odvádí sediment, výkaly a zbytky krmiva,
+- minimalizuje rozklad organiky v jezírku,
+- snižuje tvorbu toxických plynů v sedimentu.
+
+Doporučení:
+- 1 bottom drain na cca 15–25 m² dna
+- plynulé proudění směrem ke dnu
+
+
+### 3.2 Hrubá mechanická filtrace
+Používané technologie:
+- vortex komory,
+- síta (drum filter, sieve),
+- rotační bubnové filtry.
+
+Cíl:
+- odstranit částice > 50–100 µm
+- zabránit jejich rozkladu v systému
+
+
+------------------------------------------------
+4. JEMNÁ MECHANICKÁ FILTRACE
+------------------------------------------------
+
+Slouží k zachycení jemných suspendovaných částic:
+
+- biofilm,
+- jemné fekálie,
+- zbytky planktonu.
+
+Používané materiály:
+- japonská rohož (jap mat),
+- filtrační kartáče,
+- jemná síta,
+- pěnové bloky (s omezením).
+
+Poznámka:
+Pěnové filtry mají vysoké riziko zanášení a anaerobních zón,
+nejsou ideální pro vysoce zatížená KOI jezírka.
+
+
+------------------------------------------------
+5. BIOLOGICKÁ FILTRACE
+------------------------------------------------
+
+Biologická filtrace je srdcem KOI technologie.
+
+### 5.1 Funkce biofiltru
+- oxidace NH₃/NH₄⁺ → NO₂⁻ → NO₃⁻,
+- stabilizace dusíkového cyklu,
+- ochrana ryb před toxickými špičkami.
+
+### 5.2 Typy biofiltrů
+- moving bed (K1, K3, Hel-X),
+- shower filtry,
+- trickle filtry,
+- bead filtry (omezeně).
+
+Nejvhodnější:
+- moving bed + dostatečná aerace
+- shower filtr pro vysoké krmné dávky
+
+
+------------------------------------------------
+6. DIMENZOVÁNÍ FILTRACE
+------------------------------------------------
+
+Orientační pravidla pro KOI jezírka:
+
+- biologický filtr min. 10–20 % objemu jezírka
+- průtok celého jezírka 1× objem / hodinu
+- intenzivní chov: až 1.5× objemu / hodinu
+
+Příklad:
+Jezírko 20 m³:
+- průtok 20–30 m³/h
+- biofiltr min. 2–4 m³
+
+
+------------------------------------------------
+7. UV LAMPY
+------------------------------------------------
+
+Úloha UV:
+- redukce planktonu (zelená voda),
+- omezení bakteriální zátěže,
+- zlepšení čirosti vody.
+
+Doporučení:
+- cca 2–3 W UV / m³ vody
+- umístit ZA mechanickou filtraci
+- pravidelná výměna zářivek (cca 1× ročně)
+
+UV nenahrazuje filtraci – je pouze podpůrný prvek.
+
+
+------------------------------------------------
+8. OZON (POUZE POKROČILÉ SYSTÉMY)
+------------------------------------------------
+
+Ozon:
+- oxiduje rozpuštěnou organiku,
+- zvyšuje redox potenciál,
+- zlepšuje kvalitu vody.
+
+Rizika:
+- toxický pro ryby při špatném dávkování,
+- nutnost ORP kontroly,
+- nutnost degazace.
+
+Používat pouze:
+- s ORP sondou,
+- v odděleném okruhu,
+- s vysokou mírou kontroly.
+
+
+------------------------------------------------
+9. OKYSLIČENÍ A PROUDĚNÍ
+------------------------------------------------
+
+Filtrace musí být spojena s intenzivním okysličením:
+
+- aerace biofiltru,
+- kaskády,
+- sprchy,
+- venturi injektory.
+
+Cíl:
+- O₂ > 6 mg/l
+- rovnoměrné proudění bez mrtvých zón
+
+
+------------------------------------------------
+10. TYPICKÉ CHYBY V KOI FILTRACI
+------------------------------------------------
+
+- poddimenzovaná filtrace,
+- absence spodního sání,
+- přetížené pěnové filtry,
+- špatné pořadí filtračních stupňů,
+- nedostatečný průtok,
+- snaha o „přírodní jezírko“ při intenzivním chovu KOI.
+
+
+------------------------------------------------
+11. DIAGNOSTICKÉ SIGNÁLY PRO AQUANTIS
+------------------------------------------------
+
+Pokud Aquantis detekuje:
+- chronicky zvýšené NO₂,
+- kolísající pH,
+- zákal vody,
+- pěnění,
+- kožní problémy KOI,
+
+→ prioritně zkontrolovat:
+- dimenzi mechanické filtrace,
+- průtok,
+- stav biofiltru,
+- frekvenci čištění.
+
+
+------------------------------------------------
+12. ZDROJE A ODBORNÝ KONTEXT (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+- Koi Organisation International (KOI)
+- Japanese KOI pond best practices
+- RAS filtration principles (FAO, IJRA)
+- University extension materials (pond & ornamental systems)
+- Evropské KOI technologie (DE, NL, CZ)
+
+Dokument je odbornou syntézou, neobsahuje přímé citace.
+
+
+------------------------------------------------
+13. VERZE DOKUMENTU
+------------------------------------------------
+KB-KOI-03 – V1  
+Určeno pro: Aquantis Knowledge Base  
+Použití: interní, diagnostické, poradenské

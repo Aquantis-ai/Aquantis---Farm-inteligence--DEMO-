@@ -1,0 +1,203 @@
+KB-AQUA-10 – ROSTLINY V AKVÁRIU (V1)
+================================================
+
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika
+Typ dokumentu: Technický / biologický základ
+Použití v Aquantis: Diagnostika, návrh akvária, prevence problémů
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ROLE ROSTLIN V AKVÁRIU
+------------------------------------------------
+
+Akvarijní rostliny nejsou pouze estetickým prvkem, ale plní klíčové biologické funkce:
+
+- spotřeba dusíkatých látek (NH₄⁺, NO₃⁻),
+- stabilizace biologické rovnováhy,
+- produkce kyslíku během fotoperiody,
+- úkryt pro ryby a bezobratlé,
+- snížení stresu ryb,
+- konkurence vůči řasám.
+
+V dobře fungujícím rostlinném akváriu jsou rostliny aktivní součástí filtrační kapacity systému.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ SKUPINY AKVARIJNÍCH ROSTLIN
+------------------------------------------------
+
+2.1 Rychlerostoucí rostliny  
+- Hygrophila, Limnophila, Ceratophyllum, Elodea  
+- vysoká spotřeba dusíku  
+- ideální pro start akvária a potlačení řas
+
+2.2 Pomalu rostoucí rostliny  
+- Anubias, Microsorum, Bucephalandra  
+- nízké nároky  
+- náchylnější k obrůstání řasami
+
+2.3 Kobercové rostliny  
+- Hemianthus, Eleocharis, Monte Carlo  
+- vysoké nároky na světlo a CO₂
+
+2.4 Plovoucí rostliny  
+- Pistia, Salvinia, Lemna  
+- silná spotřeba živin  
+- riziko zastínění a snížení O₂ v noci
+
+
+------------------------------------------------
+3. ZÁKLADNÍ POŽADAVKY ROSTLIN
+------------------------------------------------
+
+3.1 Světlo  
+- intenzita (PAR) klíčový faktor růstu  
+- nízké světlo → pomalý růst, řasy  
+- vysoké světlo bez živin → kolaps
+
+3.2 CO₂  
+- limitující faktor v hustě osázených akváriích  
+- optimální koncentrace: 20–30 mg/l  
+- nestabilní CO₂ → kolísání pH, řasy
+
+3.3 Živiny  
+Makroživiny:
+- dusík (N)
+- fosfor (P)
+- draslík (K)
+
+Mikroživiny:
+- železo (Fe)
+- mangan (Mn)
+- stopové prvky (Zn, Cu, B)
+
+Nerovnováha živin je častější příčinou problémů než jejich absolutní nedostatek.
+
+
+------------------------------------------------
+4. SUBSTRÁT A KOŘENOVÁ ZÓNA
+------------------------------------------------
+
+Funkce substrátu:
+- mechanická opora,
+- zásobárna živin,
+- mikrobiální aktivita.
+
+Typy substrátů:
+- inertní (štěrk, písek),
+- aktivní (soil substráty),
+- vrstvené systémy (živná vrstva + krycí).
+
+Rostliny s dominantním kořenovým příjmem (Echinodorus, Cryptocoryne)
+vyžadují živiny primárně v substrátu.
+
+
+------------------------------------------------
+5. INTERAKCE ROSTLIN A DUSÍKATÉHO CYKLU
+------------------------------------------------
+
+Rostliny:
+- preferují amonný dusík (NH₄⁺),
+- konkurují nitrifikačním bakteriím,
+- snižují zatížení filtru.
+
+Při vysoké hustotě rostlin:
+- může dojít k nižší produkci NO₃⁻,
+- nitrifikace není jediným regulačním mechanismem dusíku.
+
+V rostlinných akváriích je dusíkatý cyklus často „rostlinami řízený“.
+
+
+------------------------------------------------
+6. ROSTLINY A ŘASY – KONKURENČNÍ VZTAH
+------------------------------------------------
+
+Řasy nejsou primárně způsobeny:
+- „špinavou vodou“,
+- přítomností ryb.
+
+Hlavní příčiny:
+- nestabilní CO₂,
+- nevyvážené světlo vs. živiny,
+- nízká biomasa rostlin.
+
+Silná, zdravá biomasa rostlin je nejlepší prevencí řas.
+
+
+------------------------------------------------
+7. TYPICKÉ PROBLÉMY A JEJICH PŘÍČINY
+------------------------------------------------
+
+7.1 Děravé listy  
+- deficit draslíku nebo mechanické poškození
+
+7.2 Žloutnutí listů  
+- nedostatek dusíku nebo železa
+
+7.3 Zastavení růstu  
+- nedostatek CO₂  
+- nízká dostupnost živin  
+- špatné světelné spektrum
+
+7.4 Řasy na listech  
+- pomalu rostoucí druhy  
+- přebytek světla  
+- nestabilní systém
+
+
+------------------------------------------------
+8. VZTAH ROSTLIN A RYB
+------------------------------------------------
+
+Rostliny:
+- zlepšují welfare ryb,
+- snižují agresivitu,
+- poskytují úkryt a teritorium.
+
+Nevhodné kombinace:
+- velké cichlidy vs. jemné rostliny,
+- ryby rozrývající substrát,
+- býložravé druhy (některé živorodky, zlaté rybky).
+
+
+------------------------------------------------
+9. START A ZABÍHÁNÍ ROSTLINNÉHO AKVÁRIA
+------------------------------------------------
+
+Doporučený postup:
+1. hustá výsadba od začátku,
+2. rychlerostoucí druhy jako základ,
+3. omezená fotoperioda (6–7 h),
+4. postupné zvyšování světla a CO₂,
+5. pravidelné výměny vody v prvních týdnech.
+
+Cílem je stabilizace systému dříve, než se projeví řasy.
+
+
+------------------------------------------------
+10. ODBORNÉ ZDROJE A VÝCHODISKA
+------------------------------------------------
+
+Tento dokument je odborná syntéza a parafráze poznatků z:
+
+- univerzitních akvaristických a biologických skript (plant physiology),
+- ADA Nature Aquarium konceptu (Amano),
+- IFAS / University extension materiálů,
+- praktických akvarijních best practices (low-tech i high-tech),
+- obecné rostlinné fyziologie a vodní ekologie.
+
+Text je vytvořen nově, bez přebírání chráněného obsahu 1:1,
+a je určen jako znalostní základ pro Aquantis Knowledge Base.
+
+
+------------------------------------------------
+11. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-10 – Rostliny v akváriu  
+Verze: V1  
+Určeno pro: Aquantis Knowledge Base (interní použití)

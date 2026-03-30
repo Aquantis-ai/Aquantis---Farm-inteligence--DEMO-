@@ -1,0 +1,19 @@
+---
+doc_type: core_principle
+domain: universal
+allow_numbers: false
+priority: 100
+---
+
+## Princip: Chování ryb má diagnostickou hodnotu, ale své limity
+
+Chování ryb je citlivým indikátorem změn v prostředí,
+ale samo o sobě je nespecifické.
+
+Stejné projevy chování mohou mít různé příčiny
+a bez doplnění měření nelze z chování vyvozovat
+konkrétní zásahy nebo opatření.
+
+Změny v chování slouží především jako signál,
+že je nutné ověřit stav systému a jeho parametry,
+nikoli jako podklad pro přímé rozhodnutí.

@@ -1,0 +1,208 @@
+KB-AQUA-COLDWATER-03 – KVALITA VODY VE STUDENOVODNÍCH AKVÁRIÍCH (V1)
+=================================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – studenovodní akvária
+Typ dokumentu: Technický / provozní
+Použití v Aquantis: Diagnostika, prevence, edukace hobby chovatelů
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument definuje klíčové principy kvality vody ve studenovodních
+akváriích, která jsou typická zejména pro:
+
+- zlaté rybky (Carassius auratus),
+- variety fancy goldfish,
+- dania, bílé parmičky, studenovodní živorodky,
+- chladnomilné bezobratlé.
+
+Dokument slouží jako základní odborný referenční rámec pro diagnostiku
+problémů, prevenci chyb a správné nastavení prostředí.
+
+------------------------------------------------
+2. SPECIFIKA STUDENOVODNÍCH AKVÁRIÍ
+------------------------------------------------
+Studenovodní akvária se liší od tropických zejména:
+
+- nižší provozní teplotou,
+- vyšší rozpustností kyslíku,
+- často vyšší produkcí odpadu (zlaté rybky),
+- pomalejší nitrifikací při nízkých teplotách,
+- vyšší tolerancí k pH, ale nižší tolerancí k dusíkatým látkám.
+
+Častou chybou je jejich zaměňování za „nenáročná“ akvária.
+
+------------------------------------------------
+3. TEPLOTA
+------------------------------------------------
+Doporučené rozmezí:
+- obecně: 16–22 °C
+- zlaté rybky: 18–22 °C
+- krátkodobě tolerováno: 10–24 °C
+- rizikové: > 24 °C dlouhodobě
+
+Dopady teploty:
+- vyšší teplota → vyšší metabolismus → vyšší produkce NH₄/NH₃
+- nižší teplota → pomalejší nitrifikace
+- náhlé změny → stres, imunodeprese
+
+------------------------------------------------
+4. ROZPUŠTĚNÝ KYSLÍK (O₂)
+------------------------------------------------
+Optimální hodnoty:
+- ideálně > 7 mg/l
+- minimum: 6 mg/l
+
+Poznámky:
+- studená voda váže více O₂, ale
+- vysoká obsádka zlatých rybek → rychlá spotřeba kyslíku
+- nedostatečné proudění → lokální hypoxie
+
+Typické projevy nízkého O₂:
+- ryby u hladiny,
+- letargie,
+- snížený příjem potravy.
+
+------------------------------------------------
+5. pH
+------------------------------------------------
+Optimální rozmezí:
+- 6.8–8.0
+
+Tolerance:
+- krátkodobě 6.5–8.5
+
+Rizika:
+- pH > 8.0 → vyšší toxicita NH₃
+- pH < 6.5 → stres, poškození žaber
+
+Zlaté rybky jsou tolerantní, ale stabilita pH je důležitější než absolutní hodnota.
+
+------------------------------------------------
+6. ALKALITA (KH)
+------------------------------------------------
+Doporučení:
+- KH: 80–150 mg/l CaCO₃
+
+Význam:
+- stabilizace pH,
+- podpora nitrifikace,
+- prevence náhlých pH výkyvů.
+
+Nízká KH:
+- kolísání pH,
+- časté problémy v zaběhnutých nádržích bez výměn vody.
+
+------------------------------------------------
+7. AMONIAK (NH₃ / NH₄⁺)
+------------------------------------------------
+Studenovodní akvária jsou velmi citlivá na amoniak kvůli:
+
+- vysoké produkci odpadu,
+- častému překrmování,
+- poddimenzované filtraci.
+
+Limity:
+- NH₃ (toxická frakce): < 0.02 mg/l
+- TAN (NH₃ + NH₄⁺): ideálně < 0.5 mg/l
+
+Varování:
+Zlaté rybky často přežívají zvýšené hodnoty,
+ale dochází k chronickému poškození žaber a zkrácení života.
+
+------------------------------------------------
+8. NITRIT (NO₂⁻)
+------------------------------------------------
+Doporučené hodnoty:
+- ideálně: 0 mg/l
+- varování: > 0.1 mg/l
+- kritické: > 0.3 mg/l
+
+Specifika:
+- studená voda → pomalejší přeměna NO₂ na NO₃
+- NO₂ blokuje transport kyslíku v krvi (methemoglobinémie)
+
+------------------------------------------------
+9. DUSIČNANY (NO₃⁻)
+------------------------------------------------
+Doporučení:
+- < 50 mg/l dlouhodobě
+- < 25 mg/l ideálně
+
+Dopady vysokých NO₃:
+- chronický stres,
+- snížená imunita,
+- vyšší náchylnost k parazitům.
+
+------------------------------------------------
+10. ORGANICKÉ ZATÍŽENÍ
+------------------------------------------------
+Studenovodní akvária jsou často přetížena:
+- kalem,
+- zbytky krmiva,
+- výkaly.
+
+Důsledky:
+- zhoršení kvality vody,
+- zvýšené BOD,
+- bakteriální zákaly,
+- zápach.
+
+Řešení:
+- silná mechanická filtrace,
+- pravidelné odkalení,
+- střídmé krmení.
+
+------------------------------------------------
+11. VÝMĚNY VODY
+------------------------------------------------
+Doporučení:
+- 25–40 % týdně (zlaté rybky)
+- častěji u vysoké obsádky
+
+Pozor:
+- teplotní šok,
+- chlor/chloramin,
+- rozdílné pH nové vody.
+
+------------------------------------------------
+12. TYPICKÉ CHYBY
+------------------------------------------------
+- malé akvárium pro zlaté rybky,
+- slabá filtrace,
+- překrmování,
+- nedostatečné výměny vody,
+- kombinace studenovodních a tropických druhů.
+
+------------------------------------------------
+13. RYCHLÁ DIAGNOSTIKA
+------------------------------------------------
+Symptom → Pravděpodobná příčina:
+- ryby u hladiny → nízký O₂ / vysoký NO₂
+- zakalená voda → organické přetížení
+- červené žábry → NH₃ / NO₂
+- apatie → kombinace stresorů
+
+------------------------------------------------
+14. ZDROJE A ODBORNÝ KONTEXT (PARAFRÁZOVÁNO)
+------------------------------------------------
+Dokument je syntézou poznatků z:
+- univerzitních extension materiálů (coldwater aquaria),
+- akvarijní veterinární literatury,
+- FAO obecných principů kvality vody,
+- dlouhodobé hobby a semi-profesionální praxe.
+
+Text neobsahuje žádný převzatý chráněný obsah 1:1.
+
+------------------------------------------------
+15. VERZE
+------------------------------------------------
+KB-AQUA-COLDWATER-03
+Verze: V1
+Určeno pro: Aquantis Knowledge Base

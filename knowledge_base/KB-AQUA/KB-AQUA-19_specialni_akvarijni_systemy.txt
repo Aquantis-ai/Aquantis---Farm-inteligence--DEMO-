@@ -1,0 +1,221 @@
+KB-AQUA-19 – SPECIÁLNÍ AKVARIJNÍ SYSTÉMY (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika
+Typ dokumentu: Technický / systémový
+Použití v Aquantis: Diagnostika, návrh systému, doporučení
+Vhodné pro RAG: Ano
+Verze: V1
+Datum: 2025-02
+
+------------------------------------------------
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument popisuje specifické typy akvarijních systémů, které se
+významně liší od běžného komunitního akvária z hlediska:
+
+- technologie,
+- biologické zátěže,
+- stability vody,
+- nároků na údržbu,
+- rizik a typických chyb.
+
+Cílem je umožnit Aquantis:
+- rozpoznat typ systému,
+- správně interpretovat symptomy,
+- přizpůsobit doporučení danému režimu.
+
+------------------------------------------------
+1. CO JE „SPECIÁLNÍ AKVARIJNÍ SYSTÉM“
+------------------------------------------------
+Za speciální systém považujeme akvárium, které:
+- má nestandardní biologickou zátěž,
+- pracuje s úzkými limity vody,
+- vyžaduje specifickou technologii,
+- nebo je navrženo pro konkrétní účel.
+
+Typicky:
+- vysoká hustota ryb,
+- absence substrátu,
+- extrémní chemie vody,
+- silná filtrace nebo naopak minimální zásahy.
+
+------------------------------------------------
+2. HOLÉ AKVÁRIUM (BARE BOTTOM)
+------------------------------------------------
+Popis:
+- Bez substrátu, často používané v chovech, karanténách a grow-out systémech.
+
+Výhody:
+- snadná kontrola odpadu,
+- rychlá reakce na problémy,
+- nižší riziko anaerobních zón.
+
+Nevýhody:
+- menší biologická stabilita,
+- vyšší stres u některých druhů,
+- závislost na filtraci.
+
+Typické použití:
+- diskusi,
+- cichlidy,
+- odchov,
+- karanténa.
+
+------------------------------------------------
+3. KARANTÉNNÍ AKVÁRIUM
+------------------------------------------------
+Účel:
+- izolace nových ryb,
+- sledování zdravotního stavu,
+- prevence zavlečení patogenů.
+
+Charakteristika:
+- jednoduchý systém,
+- holé dno,
+- minimální dekorace,
+- samostatné náčiní.
+
+Typické chyby:
+- příliš krátká karanténa (<14 dní),
+- sdílení hadic a sítěk,
+- přetěžování krmením.
+
+------------------------------------------------
+4. ODCHOVNÁ AKVÁRIA (LARVY, POTĚR)
+------------------------------------------------
+Specifika:
+- extrémně citlivé na NH₃ / NO₂,
+- vysoké nároky na kyslík,
+- jemná filtrace (molitan, airlift).
+
+Kritické body:
+- první krmení,
+- přechod na suché krmivo,
+- stabilita teploty.
+
+------------------------------------------------
+5. BIOTOPNÍ AKVÁRIA
+------------------------------------------------
+Cíl:
+- napodobit konkrétní přírodní prostředí.
+
+Příklady:
+- Amazonie (měkká, kyselá voda),
+- Malawi / Tanganyika (tvrdá, alkalická),
+- Asie (rašelinové vody).
+
+Rizika:
+- kombinace nekompatibilních druhů,
+- snaha „vylepšit“ přírodu chemicky,
+- nestabilní pH při nízké KH.
+
+------------------------------------------------
+6. MALAWI / TANGANYIKA SYSTEMS
+------------------------------------------------
+Specifika:
+- vysoké pH (7.8–9.0),
+- vysoká alkalita,
+- vysoká agresivita ryb.
+
+Technické požadavky:
+- silná filtrace,
+- vysoký průtok,
+- vysoká výměna vody.
+
+Typické chyby:
+- nízká alkalita,
+- poddimenzovaná filtrace,
+- špatná struktura úkrytů.
+
+------------------------------------------------
+7. DISCUS SYSTEMS
+------------------------------------------------
+Specifika:
+- vysoká teplota (28–30 °C),
+- nízké NO₃,
+- citlivost na kolísání.
+
+Typické řešení:
+- holé dno,
+- časté výměny vody,
+- silná biologická filtrace.
+
+------------------------------------------------
+8. AQUASCAPING (HIGH-TECH PLANTED)
+------------------------------------------------
+Charakteristika:
+- silné světlo,
+- CO₂ injekce,
+- aktivní substráty.
+
+Rizika:
+- nestabilita pH,
+- výkyvy CO₂,
+- masivní řasy při chybě rovnováhy.
+
+Nutná rovnováha:
+Světlo ↔ CO₂ ↔ živiny ↔ biomasa.
+
+------------------------------------------------
+9. LOW-TECH / WALSTAD SYSTEMS
+------------------------------------------------
+Princip:
+- minimum techniky,
+- silná role rostlin a substrátu.
+
+Výhody:
+- nízké provozní náklady,
+- biologická stabilita.
+
+Nevýhody:
+- pomalé reakce na problémy,
+- obtížná diagnostika,
+- omezený výběr ryb.
+
+------------------------------------------------
+10. MARINE / BRACKISH SYSTEMS (OKRAJOVĚ)
+------------------------------------------------
+Poznámka:
+Plně mořská akvaristika není cílem KB-AQUA,
+ale Aquantis musí rozpoznat:
+
+- brakické akvárium,
+- přechodové systémy,
+- chybné kombinace sladkovodních ryb.
+
+------------------------------------------------
+11. JAK AQUANTIS ROZLIŠUJE TYP SYSTÉMU
+------------------------------------------------
+Podle:
+- typu substrátu,
+- hustoty ryb,
+- filtrace,
+- frekvence výměn vody,
+- stability parametrů.
+
+To ovlivňuje:
+- diagnostiku,
+- tolerovatelné limity,
+- doporučené zásahy.
+
+------------------------------------------------
+12. ZDROJE A ODBORNÝ KONTEXT
+------------------------------------------------
+Obsah je syntézou poznatků z:
+- univerzitních extension programů,
+- odborné akvaristické literatury,
+- chovatelských best practices,
+- zkušeností z RAS a karanténních systémů.
+
+Text je formulován nově, bez přímého přebírání
+chráněných zdrojů.
+
+------------------------------------------------
+VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-19 – V1
+Pouze interní Knowledge Base Aquantis

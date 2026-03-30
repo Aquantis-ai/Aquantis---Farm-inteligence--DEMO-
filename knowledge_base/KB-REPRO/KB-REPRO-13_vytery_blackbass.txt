@@ -1,0 +1,205 @@
+KB-REPRO-13 – VÝTĚRY BLACKBASSE (Micropterus salmoides)
+====================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Reprodukce ryb
+Typ dokumentu: Reprodukční protokol – druhově specifický
+Použití v Aquantis: Reprodukce, diagnostika selhání tření, návrh podmínek
+Vhodné pro RAG: Ano
+Verze: V1
+Datum: 2025-02
+
+------------------------------------------------
+1. ÚVOD A BIOLOGICKÁ SPECIFIKA DRUHU
+------------------------------------------------
+
+Black bass (Micropterus salmoides) je teplomilná dravá ryba původem ze Severní Ameriky.
+Reprodukce je silně vázána na:
+
+- sezónní oteplení vody,
+- fotoperiodu,
+- dostupnost vhodného substrátu,
+- teritoriální chování samců.
+
+Na rozdíl od kaprovitých ryb:
+- nedochází k masovému výtěru,
+- tření je silně hierarchické,
+- samec aktivně pečuje o hnízdo i jikry.
+
+------------------------------------------------
+2. PŘIROZENÝ REPRODUKČNÍ CYKLUS
+------------------------------------------------
+
+Typ tření: 
+- přirozené, substrátové, hnízdové
+
+Období tření:
+- jaro až začátek léta
+
+Spouštěcí faktory:
+- teplota vody: 18–24 °C (optimum 20–22 °C)
+- stabilní fotoperioda (prodlužující se den)
+- klidné prostředí bez rušení
+
+Samec:
+- vytváří a brání hnízdo,
+- po tření hlídá jikry i larvy.
+
+------------------------------------------------
+3. VYTĚROVÉ CHOVY A PŘÍPRAVA RODIČŮ
+------------------------------------------------
+
+Velikost generačních ryb:
+- samci: > 300 g
+- samice: > 400–600 g
+
+Pohlavní poměr:
+- 1 samec : 1 samice
+- případně 1 : 2 v prostorných nádržích
+
+Kondice:
+- vysokoproteinová dieta (40–45 % protein)
+- dostatek živé nebo čerstvé potravy
+- minimalizace stresu před třením
+
+------------------------------------------------
+4. SUBSTRÁT A HNÍZDA
+------------------------------------------------
+
+Black bass vyžaduje možnost stavby hnízda.
+
+Vhodné substráty:
+- jemný štěrk,
+- písek,
+- kombinace písek + jemný štěrk,
+- umělé hnízdní misky (v RAS).
+
+Nevhodné:
+- bahno,
+- organický kal,
+- příliš jemný sediment.
+
+------------------------------------------------
+5. TŘENÍ A KLADEBNÍ PROCES
+------------------------------------------------
+
+Průběh:
+1. Samec připraví hnízdo.
+2. Samice je k němu přilákána.
+3. Dochází k postupnému kladení jiker.
+4. Samec jikry okamžitě oplodňuje.
+
+Po tření:
+- samice je vhodné oddělit,
+- samec zůstává s jikrami.
+
+------------------------------------------------
+6. INKUBACE JIKER
+------------------------------------------------
+
+Inkubace probíhá přirozeně v hnízdě.
+
+Parametry:
+- teplota: 20–22 °C
+- O₂: > 6 mg/l
+- jemné proudění, žádná turbulence
+
+Doba inkubace:
+- 3–5 dní (podle teploty)
+
+Samec:
+- ventiluje jikry,
+- odstraňuje mrtvé jikry,
+- brání hnízdo.
+
+------------------------------------------------
+7. PÉČE O LARVY
+------------------------------------------------
+
+Po vylíhnutí:
+- larvy zůstávají v blízkosti hnízda,
+- samec je shromažďuje do „mraku“.
+
+Rozplavání:
+- cca 5–7 dní po vylíhnutí
+
+Kritický bod:
+- oddělení larev od samce po rozplavání
+- zahájení externího krmení
+
+------------------------------------------------
+8. PRVNÍ KRMENÍ
+------------------------------------------------
+
+První potrava:
+- rotifery,
+- Artemia nauplie,
+- drobný zooplankton
+
+Postup:
+- vysoká frekvence krmení,
+- nízké dávky,
+- rychlý přechod na granulovaná mikrokrmiva
+
+------------------------------------------------
+9. UMĚLÝ VÝTĚR – MOŽNOSTI A OMEZENÍ
+------------------------------------------------
+
+Umělý hormonální výtěr:
+- používá se zřídka,
+- nižší úspěšnost než přirozený výtěr,
+- vyšší mortalita jiker.
+
+Preferovaná metoda:
+- řízený přirozený výtěr v kontrolovaných podmínkách.
+
+------------------------------------------------
+10. TYPICKÉ PROBLÉMY A SELHÁNÍ
+------------------------------------------------
+
+Časté chyby:
+- nedostatek vhodného substrátu,
+- rušení ryb během tření,
+- nízká teplota vody,
+- vysoké organické zatížení,
+- špatná kondice rodičů.
+
+Důsledky:
+- opuštění hnízda,
+- požírání jiker,
+- nízká líhnivost.
+
+------------------------------------------------
+11. VYUŽITÍ V PRAXI
+------------------------------------------------
+
+Vhodné systémy:
+- rybníky,
+- polointenzivní chovy,
+- experimentální RAS s hnízdními zónami.
+
+Cíle:
+- produkce plůdku,
+- sportovní rybářství,
+- extenzivní a polointenzivní chovy.
+
+------------------------------------------------
+12. ZDROJE (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+- FAO Fisheries Manuals – warmwater predatory fish
+- US Fish & Wildlife Service – Largemouth Bass Spawning Biology
+- Auburn University Extension – Warmwater Fish Reproduction
+- North American Journal of Fisheries Management
+- State Extension Services (Texas, Alabama, Florida)
+
+Text je parafrázovaný, syntetizovaný a právně bezpečný.
+Neobsahuje převzatý text 1:1 z žádného zdroje.
+
+------------------------------------------------
+13. VERZE DOKUMENTU
+------------------------------------------------
+KB-REPRO-13 – V1
+Určeno pro: Aquantis Knowledge Base

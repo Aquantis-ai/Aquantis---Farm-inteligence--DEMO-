@@ -1,0 +1,226 @@
+KB23 – AUTOMATIZACE RAS (PLC, SCADA, SENZOROVÁ REDUNDANCE)  
+===========================================================
+
+ÚČEL DOKUMENTU  
+------------------------------------------------------------
+Tento dokument shrnuje principy řízení a automatizace recirkulačních
+akvakulturních systémů (RAS), včetně:
+- struktury PLC/SCADA architektur,
+- redundance senzorů a kritických prvků,
+- návrhu alarmů a havarijních režimů,
+- doporučených standardů pro průmyslové prostředí,
+- „best practices“ z průmyslových RAS v EU, Norsku a USA.
+
+Cílem je poskytnout robustní základ, který může Aquantis využít při
+analýze dat, doporučování provozních postupů i při generování
+diagnostických reportů.
+
+Dokument NEOBSAHUJE žádné copyrightované texty 1:1. Jedná se o originální
+syntézu založenou na otevřených technických standardech, univerzitních
+materiálech, běžné průmyslové praxi a best practices.
+
+
+------------------------------------------------------------
+1. ROLE AUTOMATIZACE V RAS  
+------------------------------------------------------------
+
+Automatizace zajišťuje:
+- stabilní řízení životních podmínek ryb,
+- rychlou detekci odchylek,
+- minimalizaci lidských chyb,
+- vyšší bezpečnost v havarijních situacích,
+- úsporu energie a optimalizaci provozních nákladů.
+
+Moderní RAS systémy jsou typicky řízeny pomocí:
+1) PLC (Programmable Logic Controller)  
+2) SCADA systémů s vizualizací a záznamem dat  
+3) Cloudových analyti­ckých vrstev (historie dat, predikce, alarmy)  
+
+
+------------------------------------------------------------
+2. TYPOVÁ ARCHITEKTURA PLC/SCADA V RAS  
+------------------------------------------------------------
+
+Typické komponenty:
+- **PLC jednotka** (Siemens S7-1200/1500, Allen-Bradley, Wago, Beckhoff)
+- **I/O moduly** pro analogová a digitální data
+- **HMI panel** (dotykový displej)
+- **SCADA vizualizace** (WinCC, Ignition, AVEVA, iFIX)
+- **Senzorová síť** (4–20 mA, Modbus RTU/TCP, Profinet)
+- **Databáze** (SQL, TimescaleDB) nebo cloud (Azure, AWS IoT, Beijer Cloud)
+- **Havarijní ústředna** s nezávislou logikou alarmů
+
+Hierarchie řízení:
+1. **Fyzická vrstva:** čidla, akční členy, čerpadla, ventily  
+2. **Řídicí vrstva:** PLC  
+3. **Monitorovací vrstva:** SCADA + HMI  
+4. **Analytická vrstva:** Aquantis + cloudové predikční modely  
+
+
+------------------------------------------------------------
+3. KLÍČOVÉ SENZORY V RAS A JEJICH INTEGRACE  
+------------------------------------------------------------
+
+Hlavní parametry:
+- O₂ (optické sondy, galvanické sondy)
+- CO₂ (off-gas analýza nebo výpočet)
+- pH
+- Redox (ORP)
+- Teplota
+- NH₄/NH₃ (ion selektivní elektrody)
+- NO₂, NO₃ (online analyzátory, méně časté)
+- Tlakové senzory (hlídání pump)
+- Průtokoměry (ultrazvukové, magnetické)
+- Hlásiče hladiny (float, ultrazvuk, radar)
+- Turbidita / SS pevné látky
+
+Každý senzor musí být integrován:
+- přes **analogové I/O (4–20 mA)** nebo **digitální signál**,  
+- nebo přes **Modbus TCP/RTU** (nejběžnější v RAS),  
+- případně přes **Profinet** nebo **EtherCAT** (u pokročilých linek).
+
+**Doporučení pro Aquantis KB:**  
+Každý senzor by měl mít:
+- popsaný princip,
+- typické chyby,
+- kalibrační interval,
+- provozní limity,
+- reakce PLC při výpadku.  
+
+
+------------------------------------------------------------
+4. SENZOROVÁ REDUNDANCE (N+1, 2oo3, validace dat)  
+------------------------------------------------------------
+
+Kritické veličiny (O₂, průtok, hladina) vyžadují redundanci.
+
+Typy redundance:
+1. **N+1** – jeden záložní senzor  
+2. **2oo3 (two out of three)** – logika hlasování tří senzorů  
+3. **Dual-sensor cross-check** – dvě sondy, které porovnává PLC  
+
+Pro O₂ se běžně používají:
+- 2 senzory v hlavním tanku (jeden pro PLC, jeden pro alarm),
+- 1 senzor ve výstupní vodě z biofiltru,
+- 1 senzor v degazační koloně.
+
+PLC logika:
+- pokud senzor A ≠ senzor B více než X %, → alarm „sensor mismatch“
+- pokud oba senzory < limit → okamžitý havarijní režim  
+- pokud jeden senzor selže → automatické přepnutí na druhý  
+
+
+------------------------------------------------------------
+5. KRITICKÉ ALARMY A HAVARIJNÍ LOGIKA  
+------------------------------------------------------------
+
+Minimální sadu alarmů musí tvořit:
+
+**OKAMŽITÉ ALARMY (HIGH PRIORITY):**
+- nízký O₂,
+- výpadek hlavní pumpy,
+- výpadek proudu (UPS přebírá systém),
+- vysoký NO₂ (z online analyzátoru nebo z predikce),
+- nízká hladina vody,
+- zaplavení strojovny,
+- vysoký CO₂,
+- výpadek PLC komunikace.
+
+**STŘEDNÍ PRIORITA:**
+- vysoká teplota,
+- nízký průtok biofiltrem,
+- nízká alkalita (výpočet z pH trendu),
+- senzorová nekonzistence,
+- zanesení mechanické filtrace.
+
+**NÍZKÁ PRIORITA:**
+- potřeba údržby,
+- odchylky trendů.
+
+Havarijní automatické reakce:
+- automatické otevření bypassu O₂ injekce,
+- spuštění záložní pumpy (N+1 systém),
+- zvýšení aerace,
+- odlehčení systému snížením krmení,
+- aktivace zvukového a SMS alarmu,
+- automatická sekvence bezpečného odstavení.
+
+
+------------------------------------------------------------
+6. ZÁLOHOVÁNÍ ENERGIÍ (UPS, generátory, automatické přepínání)  
+------------------------------------------------------------
+
+Moderní RAS využívají:
+- **UPS** pro PLC, senzory, komunikaci a ventily (min. 30–90 minut)
+- **Diesel generátor** s automatickým startem < 15 s
+- **ATS přepínač** (Automatic Transfer Switch)
+- **N+1 čerpadla** (minimálně dvě pumpy paralelně)
+- **Alarm „pump fail to start“**
+
+Doporučení:
+- pravidelné testování generátoru pod zátěží,
+- měření startovací doby,
+- SCADA musí logovat každý start a přepnutí.
+
+
+------------------------------------------------------------
+7. SCADA – FUNKCE A BEST PRACTICES  
+------------------------------------------------------------
+
+Minimální funkce SCADA:
+- online vizualizace RAS (fish tanky, biofiltry, pumpy),
+- trendy O₂, pH, teploty, průtoků,
+- historická databáze 1–5 let,
+- grafické alarmy,
+- vzdálený přístup (VPN),
+- export dat do CSV/Excel/Aquantis.
+
+Doporučené prvky:
+- audit log (kdo co změnil),
+- role-based access (operátor, technik, manažer),
+- automatické reporty (snapshot každých 12/24 hodin),
+- predikce O₂ a NO₂ (Aquantis výpočetní moduly),
+- automatické generování PDF zpráv.
+
+
+------------------------------------------------------------
+8. TYPICKÉ CHYBY AUTOMATIZACE A JAK SE JIM VYHNOUT  
+------------------------------------------------------------
+
+1. **Senzor bez kalibrace** → falešné alarmy, falešný klid  
+2. **Chybějící redundance** → výpadek jednoho senzoru = riziko úhynu  
+3. **Nesprávné limity alarmů** → příliš pozdě nebo příliš často  
+4. **Špatně nastavený hysteresis** → pumpy „kmitají“ (start/stop)  
+5. **Nezdokumentované zásahy** → ztráta kontroly nad systémem  
+6. **Chybějící UPS na PLC** → úplná ztráta řízení při výpadku  
+7. **Poddimenzovaný datalogger** → krátká historie trendů  
+8. **Absence automatického záložního režimu**
+
+
+------------------------------------------------------------
+9. ROLE AQUANTIS V AUTOMATIZACI (PŘÍPRAVA PRO AI V2)  
+------------------------------------------------------------
+
+Aquantis může poskytovat:
+- predikce NO₂ na základě trendů,
+- včasné varování O₂ (trendová derivace),
+- validaci dat mezi více senzory,
+- diagnostiku kalibrací (drift senzoru),
+- doporučení nastavení alarmů podle druhu ryb,
+- simulaci havarijních situací,
+- generování odborných PDF reportů,
+- doporučení údržby senzorů.
+
+Do budoucna:
+- RAG integrace z knowledge base,
+- automatická interpretace SCADA logů,
+- propojení s digitálním dvojčetem RAS.
+
+
+------------------------------------------------------------
+10. VERZE DOKUMENTU  
+------------------------------------------------------------
+Název: KB23 – Automatizace RAS  
+Verze: V1  
+Aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base  

@@ -1,0 +1,173 @@
+KB-AQUA-COLDWATER-05 – KRMENÍ STUDENOVODNÍCH RYB (V1)
+==================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – studenovodní systémy
+Typ dokumentu: Technický / provozní
+Použití v Aquantis: Krmení, diagnostika problémů, welfare
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+------------------------------------------------
+1. ÚVOD – SPECIFIKA KRMENÍ STUDENOVODNÍCH RYB
+------------------------------------------------
+
+Studenovodní ryby (typicky zlaté rybky, karasi, dania, některé střevle a mírumilovné kaprovité)
+mají zásadně odlišné nutriční a metabolické nároky než tropické druhy.
+
+Klíčová specifika:
+- pomalejší metabolismus při nižších teplotách,
+- nižší potřeba energie na jednotku času,
+- vyšší citlivost na překrmování,
+- vyšší riziko zhoršení kvality vody při chybách v krmení.
+
+Krmení je u studenovodních akvárií jeden z hlavních faktorů:
+- zdravotních problémů,
+- zákalů vody,
+- chronicky zvýšeného NH₄ / NO₂.
+
+------------------------------------------------
+2. METABOLISMUS A VLIV TEPLOTY
+------------------------------------------------
+
+Metabolická aktivita studenovodních ryb silně závisí na teplotě vody.
+
+Obecné principy:
+- při poklesu teploty o 5 °C může klesnout metabolismus o 20–40 %,
+- při teplotách pod 15 °C se trávení výrazně zpomaluje,
+- ryby využívají krmivo méně efektivně → vyšší biologická zátěž.
+
+Důsledky:
+- stejné množství krmiva má při nižší teplotě vyšší dopad na kvalitu vody,
+- přebytečné krmivo se hromadí ve střevě → zácpa, swim bladder issues.
+
+------------------------------------------------
+3. ZÁKLADNÍ NUTRIČNÍ POŽADAVKY
+------------------------------------------------
+
+Studenovodní ryby jsou převážně:
+- omnivorní až herbivorní (zlaté rybky, karasi),
+- s nižší tolerancí k vysokému obsahu tuku.
+
+Doporučené složení krmiva:
+- bílkoviny: 25–35 %
+- tuky: 4–8 %
+- vláknina: ≥ 5 %
+- sacharidy: střední podíl (lépe stravitelné než tuky)
+
+Nevhodné je:
+- vysokoproteinové tropické krmivo,
+- krmivo s vysokým obsahem živočišného tuku,
+- krmiva určená pro dravé ryby.
+
+------------------------------------------------
+4. TYPY KRMIV
+------------------------------------------------
+
+Vhodné typy:
+- kvalitní vločky nebo pelety pro studenovodní ryby,
+- potápivé krmivo (snižuje polykání vzduchu),
+- rostlinné složky (spirulina, špenát, hrášek),
+- příležitostně mražené krmivo (dafnie, artemie).
+
+Nevhodné typy:
+- čistě masové krmivo,
+- hovězí srdce a podobné extrémy,
+- chléb, pečivo, lidská strava.
+
+------------------------------------------------
+5. FREKVENCE A DÁVKOVÁNÍ
+------------------------------------------------
+
+Obecné doporučení:
+- 1–2× denně při 18–22 °C,
+- 1× denně nebo obden při 15–18 °C,
+- při teplotách pod 12–14 °C výrazně omezit krmení.
+
+Zlaté pravidlo:
+- ryby by měly potravu zkonzumovat do 1–2 minut,
+- po krmení nesmí zůstávat zbytky na dně.
+
+------------------------------------------------
+6. SEZÓNNÍ A TEPLOTNÍ ÚPRAVY
+------------------------------------------------
+
+Při poklesu teploty:
+- snižuj množství krmiva,
+- preferuj lehce stravitelnou potravu,
+- zvyšuj intervaly mezi krmením.
+
+Při růstu teploty:
+- zvyšuj dávky postupně,
+- sleduj kvalitu vody (NH₄, NO₂).
+
+------------------------------------------------
+7. VLIV KRMENÍ NA KVALITU VODY
+------------------------------------------------
+
+Krmení je hlavním zdrojem:
+- amoniaku (NH₄/NH₃),
+- organického odpadu,
+- bakteriální zátěže filtru.
+
+Typické chyby:
+- překrmování „pro radost ryb“,
+- krmení při nízké teplotě,
+- špatná kombinace krmiva a filtrace.
+
+------------------------------------------------
+8. TYPICKÉ PROBLÉMY SPOJENÉ S KRMENÍM
+------------------------------------------------
+
+Zdravotní:
+- zácpa,
+- problémy s plynovým měchýřem,
+- tuková degenerace jater.
+
+Provozní:
+- zákal vody,
+- zápach,
+- chronicky zvýšené NO₂.
+
+------------------------------------------------
+9. DIAGNOSTICKÉ SIGNÁLY
+------------------------------------------------
+
+Pokud se objeví:
+- ryby polehávají na dně po krmení,
+- nafouklé břicho,
+- zhoršená kvalita vody bez změny filtrace,
+
+je velmi pravděpodobné:
+→ nadměrné nebo nevhodné krmení.
+
+------------------------------------------------
+10. BEST PRACTICES
+------------------------------------------------
+
+- Krm méně, ale kvalitně.
+- Přizpůsobuj dávky teplotě.
+- Preferuj potápivé a rostlinné složky.
+- Sleduj ryby po krmení.
+- Kvalita vody je vždy důležitější než „plné břicho ryb“.
+
+------------------------------------------------
+11. ZDROJE A ODBORNÁ VÝCHODISKA
+------------------------------------------------
+
+Dokument vychází z konsolidovaných a parafrázovaných poznatků:
+
+- University extension materials (coldwater fish care)
+- FAO ornamental & pond fish feeding guidelines
+- Koi & goldfish nutrition best practices
+- Akvaristická literatura a dlouhodobá provozní praxe
+
+Text je původní, odborně syntetizovaný a právně bezpečný.
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-COLDWATER-05 – V1

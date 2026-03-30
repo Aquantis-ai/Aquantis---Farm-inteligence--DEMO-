@@ -1,0 +1,187 @@
+KB-AQUA-TROPICAL-13 – Karanténa a import ryb (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – tropická akvária
+Typ dokumentu: Technický / provozní
+Použití v Aquantis: Diagnostika, prevence nemocí, importní protokoly
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument definuje správné postupy karantény a práce s nově
+importovanými tropickými rybami v akvaristice.
+
+Cílem je:
+- minimalizovat zavlečení parazitů a patogenů,
+- snížit stres ryb po transportu,
+- chránit stabilitu hlavního akvária,
+- snížit dlouhodobou mortalitu a chronické problémy.
+
+Karanténa je považována za **základní prvek biosecurity** v akvaristice,
+nikoli za volitelný doplněk.
+
+
+------------------------------------------------
+2. PROČ JE KARANTÉNA NEZBYTNÁ
+------------------------------------------------
+Většina tropických ryb prochází:
+- odchovem v hromadných systémech,
+- transportem přes více mezičlánků,
+- vysokým stresem, změnami vody a teploty.
+
+Běžně se přenáší:
+- ektoparaziti (Ichthyophthirius, Trichodina, Costia),
+- bakteriální infekce (Aeromonas, Pseudomonas),
+- plísně,
+- vnitřní paraziti.
+
+Bez karantény dochází často k:
+- pozdnímu propuknutí nemocí (2–6 týdnů),
+- masivnímu napadení celého akvária,
+- chronickému stresu ryb.
+
+
+------------------------------------------------
+3. ZÁKLADNÍ PARAMETRY KARANTÉNNÍ NÁDRŽE
+------------------------------------------------
+
+Doporučené vlastnosti:
+- objem: 20–80 l (podle velikosti a počtu ryb),
+- holé dno (bez substrátu),
+- jednoduchá biologická filtrace (houba),
+- samostatná topná spirála,
+- kryt (omezení stresu),
+- žádné rostliny (nebo jen umělé úkryty).
+
+Voda:
+- parametry co nejbližší cílovému akváriu,
+- stabilní teplota (±0.5 °C),
+- výborná aerace.
+
+Poznámka:
+Karanténa není „malé akvárium“, ale **izolační systém**.
+
+
+------------------------------------------------
+4. DÉLKA KARANTÉNY
+------------------------------------------------
+
+Minimální doporučení:
+- 14 dní → pouze základní pozorování (nedoporučeno),
+- 21–28 dní → standardní bezpečná karanténa,
+- 30–42 dní → ideální pro citlivé nebo drahé ryby.
+
+Během karantény:
+- ryby musí projít alespoň jedním kompletním cyklem krmení,
+- musí být stabilní, aktivní a bez symptomů.
+
+
+------------------------------------------------
+5. AKLIMATIZACE PO TRANSPORTU
+------------------------------------------------
+
+Správný postup:
+1. Vyrovnání teploty (15–30 min).
+2. Postupné míchání vody (kapková metoda u citlivých druhů).
+3. Minimální manipulace se sítkou.
+4. Zhasnuté světlo první hodiny.
+5. První krmení až po 12–24 hodinách.
+
+Typické chyby:
+- okamžité vypuštění ryb,
+- prudká změna pH,
+- krmení ihned po vypuštění.
+
+
+------------------------------------------------
+6. POZOROVACÍ PROTOKOL V KARANTÉNĚ
+------------------------------------------------
+
+Denně sledovat:
+- dýchání,
+- pozici v nádrži,
+- reakci na krmení,
+- barvu a sliz,
+- trus.
+
+Varovné signály:
+- zrychlené dýchání,
+- tření o předměty,
+- apatie,
+- odmítání potravy,
+- izolace jedince.
+
+
+------------------------------------------------
+7. PROFYLAKTICKÉ VS. REAKTIVNÍ POSTUPY
+------------------------------------------------
+
+Obecný princip:
+- preferovat **pozorování a stabilitu**,
+- neprovádět rutinní chemické zásahy bez důvodu.
+
+Profylaxe může zahrnovat:
+- zvýšenou hygienu,
+- stabilní teplotu,
+- kvalitní krmení,
+- nízkou hustotu.
+
+Chemické zásahy:
+- pouze při jasných příznacích,
+- nikdy preventivně „naslepo“,
+- vždy odděleně od hlavního akvária.
+
+
+------------------------------------------------
+8. PŘESUN DO HLAVNÍHO AKVÁRIA
+------------------------------------------------
+
+Přesun je vhodný, pokud:
+- ryby jsou aktivní,
+- bez viditelných symptomů,
+- stabilně přijímají potravu,
+- voda v karanténě je stabilní.
+
+Doporučení:
+- sladit teplotu a pH,
+- nepřenášet vodu z karantény,
+- po přesunu ryby dále sledovat 7–14 dní.
+
+
+------------------------------------------------
+9. ČASTÉ CHYBY HOBBY CHOVATELŮ
+------------------------------------------------
+
+- „Ryby vypadají zdravě, karanténa není potřeba.“
+- „Jen jedna ryba, nic se nestane.“
+- Společná síťka pro více nádrží.
+- Karanténa bez filtrace.
+- Příliš krátká karanténa.
+
+
+------------------------------------------------
+10. ZDROJE A ODBORNÝ ZÁKLAD
+------------------------------------------------
+
+Tento dokument vychází z odborně konsolidovaných poznatků:
+- univerzitní extension materiály (ornamental fish health),
+- FAO / WorldFish – biosecurity principles,
+- zkušenosti z profesionálních chovů okrasných ryb,
+- obecně uznávané best practices v akvaristice.
+
+Text je formulován nově, neobsahuje žádné převzaté pasáže
+a slouží jako technický podklad pro Aquantis Knowledge Base.
+
+
+------------------------------------------------
+11. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-TROPICAL-13 – Karanténa a import ryb  
+Verze: V1  
+Určeno pro: Aquantis Knowledge Base (interní použití)

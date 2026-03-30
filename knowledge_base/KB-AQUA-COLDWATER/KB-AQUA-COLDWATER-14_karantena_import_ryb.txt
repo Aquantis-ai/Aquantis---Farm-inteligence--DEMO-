@@ -1,0 +1,243 @@
+KB-AQUA-COLDWATER-14 – KARANTÉNA A IMPORT RYB (V1)
+=================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – studenovodní systémy
+Typ dokumentu: Biosecurity / provozní protokol
+Použití v Aquantis: Prevence nemocí, diagnostika, import ryb
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+Zdroje (syntéza, parafráze):
+- FAO – Biosecurity in aquaculture
+- University Extension (coldwater fish health)
+- OIE / WOAH – obecné principy biosecurity
+- Odborná akvaristická praxe (EU, UK)
+- Limnologické a veterinární přístupy k prevenci nemocí
+
+
+------------------------------------------------
+1. PROČ JE KARANTÉNA VE STUDENOVODNÍ AKVARISTICE KRITICKÁ
+------------------------------------------------
+
+Studenovodní ryby:
+- jsou často chovány v nižších teplotách,
+- mají pomalejší imunitní reakce,
+- mohou dlouhodobě přenášet patogeny bez klinických příznaků.
+
+Karanténa:
+✔ chrání existující chov,
+✔ snižuje riziko zavlečení nemocí,
+✔ umožňuje adaptaci ryb na nové podmínky.
+
+❌ Absence karantény je nejčastější příčina
+plošných problémů ve studenovodních akváriích.
+
+
+------------------------------------------------
+2. NEJČASTĚJŠÍ ZDROJE RIZIKA
+------------------------------------------------
+
+- nové ryby z obchodu nebo burzy,
+- ryby z venkovních jezírek,
+- ryby z importu (jiná voda, jiná mikroflóra),
+- společné sítě, hadice, kbelíky.
+
+Poznámka:
+I zdravě vypadající ryba může být nosičem
+parazitů nebo bakterií.
+
+
+------------------------------------------------
+3. PRINCIPY SPRÁVNÉ KARANTÉNY
+------------------------------------------------
+
+Základní pravidla:
+- oddělená nádrž (nikdy „jen přepážka“),
+- žádná sdílená technika,
+- minimální stres,
+- pozorování před jakýmkoli zásahem.
+
+Cíl karantény:
+NE léčit preventivně,
+ALE sledovat a stabilizovat.
+
+
+------------------------------------------------
+4. NÁVRH KARANTÉNNÍ NÁDRŽE
+------------------------------------------------
+
+Objem:
+- min. 40–80 l (podle velikosti ryb),
+- větší objem = stabilnější parametry.
+
+Vybavení:
+- jednoduchá biologická filtrace,
+- silná aerace,
+- holé dno (snadná kontrola odpadu),
+- úkryty (PVC, keramika).
+
+Teplota:
+- stejná nebo mírně vyšší než cílová nádrž
+(pokud to druh dovoluje).
+
+
+------------------------------------------------
+5. DÉLKA KARANTÉNY
+------------------------------------------------
+
+Doporučená délka:
+- minimum: 14 dní,
+- ideálně: 21–28 dní.
+
+Proč:
+- většina parazitů a bakterií
+projeví symptomy během tohoto období,
+- ryby se adaptují na nové krmení a vodu.
+
+
+------------------------------------------------
+6. ADAPTACE PO IMPORTU
+------------------------------------------------
+
+Kritické faktory:
+- teplotní šok,
+- rozdíl pH,
+- rozdíl mineralizace (GH/KH).
+
+Doporučení:
+- pomalé vyrovnání teploty,
+- postupná adaptace na vodu,
+- první dny omezené krmení.
+
+Častá chyba:
+Rychlé vypuštění ryb do nové nádrže.
+
+
+------------------------------------------------
+7. POZOROVACÍ PROTOKOL
+------------------------------------------------
+
+Denně sledovat:
+- chování (plavání, reakce),
+- příjem potravy,
+- dýchání,
+- povrch těla a ploutví,
+- výkaly.
+
+Varovné signály:
+- apatie,
+- tření o předměty,
+- slepené ploutve,
+- lapání po vzduchu.
+
+
+------------------------------------------------
+8. PREVENTIVNÍ ZÁSAHY – ANO / NE?
+------------------------------------------------
+
+Obecný princip:
+❌ nepoužívat léčiva bez diagnózy.
+
+Přípustné:
+- zvýšení aerace,
+- stabilizace kvality vody,
+- úprava krmení.
+
+Chemické zásahy:
+- pouze při jasném symptomu,
+- cíleně,
+- po zvážení rizik.
+
+Aquantis by měl vždy preferovat:
+diagnostiku → příčinu → režimové opatření.
+
+
+------------------------------------------------
+9. KARANTÉNA A BIOSECURITY V PRAXI
+------------------------------------------------
+
+Oddělit:
+- techniku,
+- ruce (mytí),
+- nástroje.
+
+Dezinfekce:
+- sítěk,
+- hadic,
+- pracovních ploch.
+
+Poznámka:
+Biosecurity není o sterilitě,
+ale o kontrole přenosu.
+
+
+------------------------------------------------
+10. UKONČENÍ KARANTÉNY
+------------------------------------------------
+
+Ryby lze přesunout, pokud:
+- nejsou přítomny symptomy,
+- přijímají potravu,
+- voda je stabilní,
+- chování je normální.
+
+Přesun:
+- postupná adaptace,
+- minimalizace stresu,
+- nikdy ne přelitím karanténní vody.
+
+
+------------------------------------------------
+11. ČASTÉ CHYBY CHOVATELŮ
+------------------------------------------------
+
+- vynechání karantény „jen u jedné ryby“,
+- preventivní chemické koupele,
+- příliš krátká karanténa,
+- stresující prostředí.
+
+Tyto chyby často vedou k:
+chronickým problémům celé nádrže.
+
+
+------------------------------------------------
+12. SOUVISLOSTI S DIAGNOSTIKOU
+------------------------------------------------
+
+Karanténa:
+- umožňuje rozlišit importní problém
+od systémového problému hlavní nádrže,
+- výrazně zjednodušuje diagnostiku.
+
+Bez karantény:
+- symptomy se mísí,
+- léčba je nejistá,
+- riziko opakovaných kolapsů roste.
+
+
+------------------------------------------------
+13. SHRNUTÍ PRO AQUANTIS
+------------------------------------------------
+
+Karanténa je:
+- základní nástroj prevence,
+- klíčový krok po importu ryb,
+- nejlevnější „léčba“ problémů.
+
+Aquantis by měl:
+- karanténu vždy doporučovat,
+- vysvětlovat její smysl,
+- vést uživatele k trpělivosti,
+ne k rychlým zásahům.
+
+
+------------------------------------------------
+14. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-COLDWATER-14 – V1
+Určeno pro: Aquantis Knowledge Base
+Interní použití

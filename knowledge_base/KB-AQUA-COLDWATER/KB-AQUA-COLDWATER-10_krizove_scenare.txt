@@ -1,0 +1,219 @@
+KB-AQUA-COLDWATER-10 – KRIZOVÉ SCÉNÁŘE VE STUDENOVODNÍCH AKVÁRIÍCH (V1)
+==================================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – studenovodní systémy
+Typ dokumentu: Crisis Management / Diagnostics
+Použití v Aquantis: Diagnostika, havarijní režim, edukace
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+------------------------------------------------
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument popisuje nejčastější krizové scénáře ve studenovodních akváriích
+(zlaté rybky, dania, studenovodní kaprovité a mírně chladnomilné druhy),
+jejich příčiny, varovné signály a správné reakce.
+
+Cílem je:
+- minimalizovat úhyny,
+- zabránit eskalaci problému,
+- identifikovat chyby chovu,
+- podpořit dlouhodobou stabilitu systému.
+
+------------------------------------------------
+1. CHARAKTERISTIKA STUDENOVODNÍCH KRIZÍ
+------------------------------------------------
+
+Studenovodní akvária mají specifická rizika:
+
+- nižší metabolismus → pomalejší reakce ryb,
+- vyšší rozpustnost kyslíku, ale:
+  → vyšší citlivost na organické zatížení,
+- časté přetěžování (mýtus „zlatá rybka je nenáročná“),
+- velké ryby v malém objemu.
+
+Krize bývají často:
+- chronické (dlouhodobě špatná voda),
+- maskované (ryby přežívají, ale strádají),
+- náhlé při teplotních výkyvech.
+
+------------------------------------------------
+2. KRIZOVÝ SCÉNÁŘ: AKUTNÍ NEDOSTATEK KYSLÍKU
+------------------------------------------------
+
+Symptomy:
+- ryby u hladiny,
+- lapání po vzduchu,
+- letargie,
+- zrychlené pohyby žaber.
+
+Typické příčiny:
+- přetížení akvária,
+- zanesený filtr,
+- rozklad organiky,
+- vysoká teplota v létě,
+- výpadek filtrace nebo vzduchování.
+
+Okamžitý postup:
+1. Zvýšit aeraci (vzduchování, pohyb hladiny).
+2. Okamžitá částečná výměna vody (20–40 %).
+3. Omezit nebo zastavit krmení.
+
+Dlouhodobé řešení:
+- snížit hustotu ryb,
+- zlepšit filtraci,
+- pravidelně čistit filtr (bez zabití biofilmu).
+
+------------------------------------------------
+3. KRIZOVÝ SCÉNÁŘ: OTRAVA DUSÍKEM (NH₃ / NO₂)
+------------------------------------------------
+
+Symptomy:
+- apatie,
+- zarudlé nebo tmavé žábry,
+- ztráta rovnováhy,
+- náhlé úhyny bez vnějších známek.
+
+Příčiny:
+- nezaběhnuté akvárium,
+- přerybnění,
+- překrmování,
+- kolaps biologické filtrace,
+- špatná údržba filtru.
+
+Akutní opatření:
+1. Okamžitá výměna vody (30–50 %).
+2. Zastavení krmení na 24–72 h.
+3. Zvýšení aerace.
+4. Test NH₃ / NO₂.
+
+Prevence:
+- respektovat biologickou kapacitu systému,
+- postupné zarybňování,
+- pravidelné testování.
+
+------------------------------------------------
+4. KRIZOVÝ SCÉNÁŘ: NÁHLÝ POKLES NEBO VÝKYV TEPLOTY
+------------------------------------------------
+
+Symptomy:
+- šok,
+- dezorientace,
+- polehávání na dně,
+- sekundární infekce.
+
+Příčiny:
+- umístění akvária u okna,
+- vypnutí topení v zimě (u přechodných druhů),
+- přehřátí v létě,
+- výměna vody s jinou teplotou.
+
+Okamžitý postup:
+- stabilizovat teplotu (pozvolna),
+- nikdy neměnit teplotu skokově,
+- zastavit stresující zásahy.
+
+Dlouhodobé řešení:
+- stabilní umístění akvária,
+- řízení teploty v místnosti,
+- pomalé výměny vody.
+
+------------------------------------------------
+5. KRIZOVÝ SCÉNÁŘ: BAKTERIÁLNÍ ROZPAD KVALITY VODY
+------------------------------------------------
+
+Symptomy:
+- zakalení vody,
+- zápach,
+- ryby bez viditelných parazitů hynou,
+- zhoršení během hodin až dnů.
+
+Příčiny:
+- masivní rozklad organiky,
+- mrtvá ryba ponechaná v nádrži,
+- přerybnění,
+- kolaps biofiltru.
+
+Postup:
+1. Okamžité odstranění zdroje znečištění.
+2. Výměna vody 30–50 %.
+3. Zvýšení aerace.
+4. Dočasné omezení světla.
+
+------------------------------------------------
+6. KRIZOVÝ SCÉNÁŘ: PARAZITÁRNÍ NEBO INFEKČNÍ VÝBUCH
+------------------------------------------------
+
+Symptomy:
+- tření o dekorace,
+- slepené ploutve,
+- bílé nebo šedé povlaky,
+- zrychlené dýchání.
+
+Příčiny:
+- stres,
+- špatná kvalita vody,
+- nová ryba bez karantény,
+- přelidnění.
+
+Zásady řešení:
+- nejprve zlepšit vodu,
+- izolace nemocných jedinců,
+- nikdy neléčit bez diagnostiky,
+- prevence > léčba.
+
+------------------------------------------------
+7. KRIZOVÝ SCÉNÁŘ: DLOUHODOBÉ STRÁDÁNÍ (CHRONICKÁ KRIZE)
+------------------------------------------------
+
+Typické projevy:
+- pomalý růst,
+- deformace,
+- zkrácená délka života,
+- časté drobné infekce.
+
+Příčiny:
+- malé objemy,
+- špatná filtrace,
+- dlouhodobé přerybnění,
+- ignorování bioloadu.
+
+Řešení:
+- redesign akvária,
+- snížení obsádky,
+- větší objem vody,
+- realistický přístup ke „hobby“ chovu.
+
+------------------------------------------------
+8. ROZHODOVACÍ RÁMEC PRO AQUANTIS
+------------------------------------------------
+
+Při krizovém scénáři Aquantis:
+1. Identifikuje symptom.
+2. Vyhodnotí pravděpodobnou příčinu.
+3. Navrhne okamžitý stabilizační krok.
+4. Upozorní na chybu chovu.
+5. Navrhne preventivní opatření.
+
+------------------------------------------------
+9. ODBORNÁ VÝCHODISKA (PARAFRÁZOVANÁ)
+------------------------------------------------
+
+Dokument vychází z:
+- univerzitních extension materiálů (USA, EU),
+- akvarijní biologie kaprovitých ryb,
+- principů vodní chemie a nitrifikace,
+- dlouhodobě ověřené akvaristické praxe.
+
+Veškerý text je nově formulovaný a právně bezpečný.
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-COLDWATER-10
+Verze: V1
+Použití: Aquantis Knowledge Base

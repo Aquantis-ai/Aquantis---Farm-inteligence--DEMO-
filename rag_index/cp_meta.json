@@ -1,0 +1,37 @@
+[
+  {
+    "text": "---\ndoc_type: core_principle\ndomain: universal\nallow_numbers: false\npriority: 100\n---\n\n## Princip: Stabilita je důležitější než ideální hodnota\n\nU většiny ryb je dlouhodobě stabilní prostředí méně stresující než časté změny,\ni když se jednotlivé parametry pohybují mimo „učebnicové“ hodnoty.\n\nRychlé změny kvality vody (např. pH, teploty nebo obsahu kyslíku) mohou způsobit\nvýrazný stres i tehdy, pokud se výsledná hodnota nachází v obecně přijatelné\noblasti.\n\nJednorázové měření samo o sobě neposkytuje dostatek informací k posouzení rizika.\nPro správné vyhodnocení je vždy důležitý vývoj hodnot v čase a kontext celého\nsystému.",
+    "source": "CP-01_stability_over_numbers.txt",
+    "domain": "CP_DIR",
+    "chunk_id": 0,
+    "doc_source": "cp"
+  },
+  {
+    "text": "---\ndoc_type: core_principle\ndomain: universal\nallow_numbers: false\npriority: 100\n---\n\n## Princip: Trend a časový vývoj jsou klíčové\n\nAkutní problémy, které se objeví v průběhu hodin, jsou často spojeny\ns náhlou změnou podmínek nebo technickou poruchou.\n\nPostupné zhoršování stavu v řádu dnů až týdnů bývá typicky výsledkem\nkumulativního stresu, zhoršující se kvality vody nebo narušené biologické rovnováhy.\n\nBez informací o tom, jak se systém a jeho parametry vyvíjely v čase,\nnelze bezpečně určit příčinu problému ani posoudit jeho závažnost.",
+    "source": "CP-02_trends_and_time.txt",
+    "domain": "CP_DIR",
+    "chunk_id": 0,
+    "doc_source": "cp"
+  },
+  {
+    "text": "---\ndoc_type: core_principle\ndomain: universal\nallow_numbers: false\npriority: 100\n---\n\n## Princip: Parametry vody se navzájem ovlivňují\n\nJednotlivé parametry vody nepůsobí izolovaně.\nZměna jednoho parametru může zesílit nebo zmírnit účinek jiného.\n\nNapříklad vliv dusíkatých látek, kyslíku nebo oxidu uhličitého\nje úzce spojen s teplotou a pH vody.\n\nHodnocení jednoho parametru bez znalosti ostatních může vést\nk nesprávným závěrům o skutečném stavu systému.",
+    "source": "CP-03_water_parameters_interaction.txt",
+    "domain": "CP_DIR",
+    "chunk_id": 0,
+    "doc_source": "cp"
+  },
+  {
+    "text": "---\ndoc_type: core_principle\ndomain: universal\nallow_numbers: false\npriority: 100\n---\n\n## Princip: Chování ryb má diagnostickou hodnotu, ale své limity\n\nChování ryb je citlivým indikátorem změn v prostředí,\nale samo o sobě je nespecifické.\n\nStejné projevy chování mohou mít různé příčiny\na bez doplnění měření nelze z chování vyvozovat\nkonkrétní zásahy nebo opatření.\n\nZměny v chování slouží především jako signál,\nže je nutné ověřit stav systému a jeho parametry,\nnikoli jako podklad pro přímé rozhodnutí.",
+    "source": "CP-04_fish_behavior_limits.txt",
+    "domain": "CP_DIR",
+    "chunk_id": 0,
+    "doc_source": "cp"
+  },
+  {
+    "text": "---\ndoc_type: core_principle\ndomain: universal\nallow_numbers: false\npriority: 100\n---\n\n## Princip: STOP a eskalace\n\nPokud dochází k úhynům, rychlému zhoršení stavu\nnebo nejsou k dispozici aktuální měření klíčových parametrů,\nnení bezpečné doporučovat jakýkoli zásah.\n\nV těchto situacích je nutné nejprve získat chybějící informace\nnebo situaci posoudit v plném kontextu systému.\n\nVysoká míra nejistoty je signálem k opatrnosti,\nnikoli k rychlé akci.",
+    "source": "CP-05_stop_and_escalation.txt",
+    "domain": "CP_DIR",
+    "chunk_id": 0,
+    "doc_source": "cp"
+  }
+]

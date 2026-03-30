@@ -1,0 +1,260 @@
+KB-KOI-POND-05 – ŘASY, ZÁKALY A ESTETIKA VODY (V1)
+=================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Okrasná jezírka (hobby, KOI, smíšené)
+Typ dokumentu: Praktický management & diagnostika
+Použití v Aquantis: Diagnostika, prevence, návrh opatření
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. VÝZNAM ESTETIKY VODY V OKRASNÝCH JEZÍRKÁCH
+------------------------------------------------
+
+U okrasných jezírek je kvalita vody hodnocena nejen biologicky,
+ale především vizuálně:
+
+- čirost vody,
+- barva vody,
+- absence pěny a zápachu,
+- zdravý vzhled ryb a rostlin.
+
+Estetická kvalita vody přímo ovlivňuje:
+- vnímání kvality jezírka majitelem,
+- stres ryb,
+- riziko onemocnění,
+- stabilitu celého systému.
+
+Na rozdíl od produkčních systémů není cílem maximální biomasa,
+ale dlouhodobá stabilita a vizuální rovnováha.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ TYPY ŘAS V JEZÍRKÁCH
+------------------------------------------------
+
+### 2.1 Vláknité řasy (filamentózní)
+
+Charakteristika:
+- zelené vlákna, chomáče, povlaky,
+- přichycené na kamenech, stěnách, dně,
+- typické na jaře a začátkem léta.
+
+Příčiny:
+- vysoký obsah živin (N, P),
+- silné sluneční záření,
+- slabá konkurence vyšších rostlin,
+- nízká biologická filtrace.
+
+Rizika:
+- zanášení filtrace,
+- noční spotřeba kyslíku,
+- estetický problém.
+
+
+### 2.2 Planktonní řasy (zelená voda)
+
+Charakteristika:
+- voda má zelený zákal,
+- ryby nejsou viditelné,
+- typické pro nové nebo přehnojené jezírko.
+
+Příčiny:
+- vysoký fosfor,
+- nadměrné krmení,
+- nedostatečná mechanická filtrace,
+- silné světlo.
+
+Poznámka:
+Planktonní řasy samy o sobě nemusí být toxické,
+ale výrazně kolísají v denním O₂ režimu.
+
+
+### 2.3 Sinice (cyanobakterie)
+
+Charakteristika:
+- modrozelené povlaky,
+- mazlavá struktura,
+- zápach,
+- někdy pěna.
+
+Rizika:
+- produkce toxinů,
+- nebezpečné pro ryby, psy i lidi.
+
+Výskyt:
+- přehřátá voda,
+- stagnace,
+- extrémně vysoké živiny.
+
+
+------------------------------------------------
+3. ZÁKALY VODY – TYPY A PŘÍČINY
+------------------------------------------------
+
+### 3.1 Mechanický zákal
+
+Příčiny:
+- jemné suspendované částice,
+- kal, bahno,
+- rozvířený sediment.
+
+Řešení:
+- lepší mechanická filtrace,
+- sedimentační zóny,
+- snížení proudění u dna.
+
+
+### 3.2 Biologický zákal
+
+Příčiny:
+- bakteriální přemnožení,
+- rozklad organiky,
+- přetížení biofiltru.
+
+Řešení:
+- snížení krmení,
+- odstranění organických zbytků,
+- zlepšení biologické filtrace.
+
+
+------------------------------------------------
+4. HLAVNÍ PŘÍČINY ŘAS A ZÁKALŮ
+------------------------------------------------
+
+- přebytek živin (dusík, fosfor),
+- nadměrné krmení,
+- vysoká hustota ryb,
+- slabá filtrace,
+- dlouhá doba oslunění,
+- stojatá voda bez cirkulace,
+- málo rostlin nebo špatná skladba.
+
+
+------------------------------------------------
+5. PREVENCE ŘAS – ZÁKLADNÍ PRINCIPY
+------------------------------------------------
+
+1. Kontrola živin:
+   - nepřekrmovat,
+   - pravidelně odstraňovat zbytky,
+   - omezit splach z okolí.
+
+2. Dostatečná filtrace:
+   - kombinace mechanické + biologické,
+   - správně dimenzovaná na objem jezírka.
+
+3. Cirkulace vody:
+   - zabránění mrtvým zónám,
+   - rovnoměrné rozložení kyslíku.
+
+4. Rostliny:
+   - konkurence řasám,
+   - odběr živin,
+   - stínění.
+
+5. Stínění:
+   - hloubka jezírka,
+   - plovoucí rostliny,
+   - částečný stín.
+
+
+------------------------------------------------
+6. ROLE ROSTLIN V ŘÍZENÍ ESTETIKY
+------------------------------------------------
+
+Funkce rostlin:
+- odběr dusíku a fosforu,
+- stabilizace ekosystému,
+- stínění vody,
+- úkryt pro ryby.
+
+Typy:
+- ponořené (Elodea, Ceratophyllum),
+- plovoucí (lekníny),
+- pobřežní (orobinec, kosatec).
+
+Pozor:
+Přerostlé rostliny mohou samy vytvářet organickou zátěž.
+
+
+------------------------------------------------
+7. UV LAMPY A DALŠÍ TECHNOLOGIE
+------------------------------------------------
+
+UV lampa:
+- účinná proti zelené vodě,
+- ničí planktonní řasy,
+- neřeší příčinu, jen následek.
+
+Doporučení:
+- používat jako doplněk,
+- ne jako hlavní řešení.
+
+Další technologie:
+- protein skimmery (pěnování),
+- fosfátové absorbenty,
+- bioaktivní substráty.
+
+
+------------------------------------------------
+8. CO NEDĚLAT
+------------------------------------------------
+
+- nepoužívat agresivní algicidy bez znalosti rizik,
+- neprovádět náhlé masivní zásahy,
+- nesnižovat objem vody drasticky,
+- nelikvidovat veškeré řasy najednou (riziko hypoxie).
+
+
+------------------------------------------------
+9. DIAGNOSTICKÝ PŘEHLED (RYCHLÁ ORIENTACE)
+------------------------------------------------
+
+Zelená voda:
+→ planktonní řasy → živiny + světlo
+
+Vláknité řasy:
+→ nerovnováha živin + slabá konkurence
+
+Zápach + pěna:
+→ organické přetížení + bakteriální rozklad
+
+Mléčný zákal:
+→ bakteriální bloom
+
+
+------------------------------------------------
+10. VAZBA NA OSTATNÍ KB
+------------------------------------------------
+
+- KB-KOI-POND-01 – Základy okrasných jezírek
+- KB-KOI-POND-02 – Filtrace a technika
+- KB-KOI-02 – Kvalita vody pro KOI
+- KB13 – UV/Ozon – bezpečné používání
+
+
+------------------------------------------------
+11. POZNÁMKA K ZDROJŮM
+------------------------------------------------
+
+Dokument vychází z:
+- hobby pond best practices,
+- KOI Organisation International,
+- univerzitních extension materiálů (ornamental ponds),
+- praktických zkušeností z evropských a amerických hobby jezírek.
+
+Text je syntetizovaný a právně bezpečný (nepřebírá žádný zdroj 1:1).
+
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+KB-KOI-POND-05
+Verze: V1
+Určeno pro: Aquantis Knowledge Base

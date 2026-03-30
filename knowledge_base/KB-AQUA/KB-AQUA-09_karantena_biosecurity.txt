@@ -1,0 +1,218 @@
+KB-AQUA-09 – KARANTÉNA A BIOSECURITY V AKVARISTICE (V1)
+=====================================================
+
+-----------------------------------------------------
+METADATA
+-----------------------------------------------------
+KB oblast: Akvaristika
+Typ dokumentu: Technický / preventivní protokol
+Použití v Aquantis: Diagnostika, prevence, edukace
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+-----------------------------------------------------
+1. ÚČEL A VÝZNAM KARANTÉNY
+-----------------------------------------------------
+
+Karanténa je nejúčinnější preventivní nástroj v akvaristice.
+Jejím cílem je:
+- zabránit zavlečení patogenů do hlavní nádrže,
+- umožnit adaptaci ryb na nové podmínky,
+- sledovat zdravotní stav bez stresu z konkurence,
+- snížit riziko masových úhynů.
+
+Statisticky většina závažných problémů v akváriích vzniká:
+- po přidání nových ryb,
+- po přesunech mezi nádržemi,
+- po sdílení techniky bez dezinfekce.
+
+Karanténa je relevantní pro:
+- hobby akvária,
+- chovné linie,
+- výstavní a soutěžní ryby,
+- profesionální prodejce.
+
+
+-----------------------------------------------------
+2. ZÁKLADNÍ PRINCIPY BIOSECURITY
+-----------------------------------------------------
+
+Biosecurity = soubor opatření, která brání:
+- zavlečení patogenů,
+- jejich šíření mezi nádržemi,
+- jejich přetrvávání v systému.
+
+Základní pilíře:
+1. Oddělení (separace systémů)
+2. Hygiena (technika, ruce, voda)
+3. Kontrola pohybu ryb
+4. Monitoring zdravotního stavu
+
+
+-----------------------------------------------------
+3. KARANTÉNNÍ AKVÁRIUM – TECHNICKÉ POŽADAVKY
+-----------------------------------------------------
+
+Minimální vybavení:
+- samostatná nádrž (bez propojení s hlavním systémem),
+- biologická filtrace (zaběhlá nebo snadno restartovatelná),
+- topení (pokud druh vyžaduje),
+- kryt (snížení stresu),
+- jednoduché dno (holé sklo nebo tenká vrstva).
+
+Nedoporučeno:
+- dekorace s póry (kořeny, kameny),
+- substráty z hlavní nádrže,
+- živé rostliny z jiných akvárií.
+
+Objem:
+- dle velikosti ryb, obvykle 20–80 l pro hobby,
+- dostatek prostoru pro normální chování.
+
+
+-----------------------------------------------------
+4. DÉLKA A PRŮBĚH KARANTÉNY
+-----------------------------------------------------
+
+Doporučená délka:
+- minimálně 14 dní,
+- ideálně 21–28 dní u citlivých nebo drahých ryb.
+
+Během karantény sledovat:
+- příjem potravy,
+- dechovou frekvenci,
+- barvu a povrch těla,
+- ploutve,
+- výkaly,
+- chování (apatie, agresivita, tření).
+
+Karanténa NENÍ:
+- léčba bez diagnózy,
+- automatické používání chemie.
+
+
+-----------------------------------------------------
+5. PREVENTIVNÍ VS. POZOROVACÍ KARANTÉNA
+-----------------------------------------------------
+
+Pozorovací karanténa:
+- žádná léčiva,
+- pouze stabilní podmínky,
+- denní pozorování.
+
+Preventivní karanténa:
+- používána opatrně,
+- pouze u rizikových zdrojů,
+- cílená (např. paraziti, ne „vše najednou“).
+
+Zásada:
+Nikdy neléčit bez příznaků jen „pro jistotu“.
+
+
+-----------------------------------------------------
+6. BIOSECURITY – TECHNIKA A MANIPULACE
+-----------------------------------------------------
+
+Zásady:
+- síťky, hadice, kyblíky pouze pro jednu nádrž,
+- ruce opláchnout mezi akvárii,
+- nevylévat vodu z karantény do jiných nádrží.
+
+Dezinfekce:
+- mechanické očištění,
+- vysušení (velmi účinné),
+- případně horká voda.
+
+Nikdy:
+- nepřelévat vodu mezi nádržemi,
+- nepoužívat stejnou techniku bez ošetření.
+
+
+-----------------------------------------------------
+7. PŘESUN RYB Z KARANTÉNY DO HLAVNÍ NÁDRŽE
+-----------------------------------------------------
+
+Přesun je možný pouze pokud:
+- ryby jsou aktivní,
+- přijímají potravu,
+- bez viditelných příznaků,
+- stabilní parametry vody.
+
+Postup:
+1. Srovnat teplotu.
+2. Postupná adaptace na vodu hlavní nádrže.
+3. Nepřelévat karanténní vodu.
+
+
+-----------------------------------------------------
+8. KARANTÉNA ROSTLIN A BEZOBRATLÝCH
+-----------------------------------------------------
+
+Rostliny mohou přenášet:
+- parazity,
+- vajíčka plžů,
+- patogeny.
+
+Doporučení:
+- oddělená „rostlinná karanténa“,
+- mechanické očištění,
+- časový odstup před vložením.
+
+Bezobratlí:
+- mohou být vektory nemocí,
+- karanténa doporučena zejména u citlivých systémů.
+
+
+-----------------------------------------------------
+9. ČASTÉ CHYBY V AKVARISTICKÉ BIOSECURITY
+-----------------------------------------------------
+
+- „Je to jen jedna ryba.“
+- „Vypadá zdravě.“
+- „Prodavač říkal, že je v pořádku.“
+- Spěch při přidávání ryb.
+- Sdílení síťek mezi nádržemi.
+- Léčba bez diagnózy.
+
+Většina katastrof v akváriu je preventabilní.
+
+
+-----------------------------------------------------
+10. SOUVISLOSTI S DIAGNOSTIKOU
+-----------------------------------------------------
+
+Správná karanténa:
+- výrazně zjednodušuje diagnostiku,
+- umožňuje rychlou reakci,
+- chrání hlavní biologický systém.
+
+Bez karantény:
+- nemoc se projeví pozdě,
+- léčba zasahuje celý ekosystém,
+- riziko kolapsu filtrace.
+
+
+-----------------------------------------------------
+11. ZDROJE A ODBORNÝ KONTEXT
+-----------------------------------------------------
+
+Dokument je syntézou a odbornou parafrází:
+- univerzitních akvaristických manuálů (extension programs),
+- praktických protokolů profesionálních chovů,
+- doporučení akvarijních veterinářů,
+- zkušeností z karanténních systémů v RAS,
+- obecně uznávaných best practices v biosecurity.
+
+Text je vytvořen nově a neobsahuje žádný
+copyrightovaný materiál převzatý 1:1.
+
+
+-----------------------------------------------------
+12. VERZE DOKUMENTU
+-----------------------------------------------------
+
+KB-AQUA-09 – Karanténa a biosecurity v akvaristice  
+Verze: V1  
+Určeno pro: Aquantis Knowledge Base  

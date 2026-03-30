@@ -1,0 +1,197 @@
+KB-AQUA-COLDWATER-11 – STUDENOVODNÍ DRUHY A JEJICH BIOTOPY (V1)
+============================================================
+
+------------------------------------------------------------
+METADATA
+------------------------------------------------------------
+KB oblast: Akvaristika – studenovodní systémy
+Typ dokumentu: Species & Habitat Guide
+Použití v Aquantis: Diagnostika, návrh nádrže, welfare, kompatibilita
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+Zdroje (syntéza, parafráze):
+- FAO freshwater fish ecology
+- Boyd, Water Quality in Freshwater Systems
+- University Extension (UK, DE, US coldwater species)
+- Practical pond & coldwater aquarium literature
+- Odborná praxe akvaristiky (EU)
+
+
+------------------------------------------------------------
+1. VYMEZENÍ STUDENOVODNÍCH DRUHŮ
+------------------------------------------------------------
+
+Studenovodní akvarijní ryby jsou druhy, které:
+- dlouhodobě prosperují při teplotách 4–18 °C,
+- nepotřebují stabilní tropické teploty,
+- mají pomalejší metabolismus,
+- jsou citlivé na vysoký bioload a nízký kyslík.
+
+⚠ Častá chyba:
+Zlaté rybky a jiné studenovodní druhy jsou mylně považovány za „nenáročné“.
+
+
+------------------------------------------------------------
+2. HLAVNÍ TYPY STUDENOVODNÍCH BIOTOPŮ
+------------------------------------------------------------
+
+2.1 Nížinné stojaté vody
+- rybníky, tůně, jezera
+- kolísání teploty, kyslíku i pH
+- vyšší organické zatížení
+
+2.2 Pomalu tekoucí řeky a kanály
+- stabilnější kyslíkový režim
+- vyšší proudění
+- méně extrémní výkyvy
+
+2.3 Horské a podhorské vody
+- velmi vysoký obsah O₂
+- nízká teplota
+- minimální organická zátěž
+
+
+------------------------------------------------------------
+3. ZLATÉ RYBKY (Carassius auratus)
+------------------------------------------------------------
+
+Původní biotop:
+- stojaté a pomalu tekoucí vody východní Asie
+
+Teplotní rozsah:
+- optimum: 10–18 °C
+- krátkodobě snesou 4–28 °C (NE dlouhodobě)
+
+Specifika:
+- vysoká produkce odpadu
+- silná tolerance k pH, ale citlivost na NO₂
+- dlouhověkost (20+ let při správném chovu)
+
+Typické chyby:
+- malé nádrže
+- slabá filtrace
+- přehřívání v létě
+
+
+------------------------------------------------------------
+4. DANIA (Danio rerio, Danio albolineatus)
+------------------------------------------------------------
+
+Původní biotop:
+- mělké potoky, sezónní vody Indie a Bangladéše
+
+Teplotní rozsah:
+- optimum: 16–22 °C
+- dlouhodobě nevhodné > 24 °C
+
+Specifika:
+- aktivní plavci → potřeba délky nádrže
+- nízká tolerance k chronickému stresu
+- vhodné do proudících nádrží
+
+Častá chyba:
+- držení v tropických akváriích
+
+
+------------------------------------------------------------
+5. STUDENOVODNÍ TETRY A MALÉ KAPROVITÉ RYBY
+------------------------------------------------------------
+
+Příklady:
+- Tanichthys albonubes (kardinálka čínská)
+- Phoxinus phoxinus (střevle)
+- Leucaspius delineatus (hořavka)
+
+Biotop:
+- čisté, dobře okysličené vody
+- nízký obsah dusíkatých látek
+
+Teplotní rozsah:
+- optimum: 10–18 °C
+
+Specifika:
+- citlivost na NO₂ a nízký O₂
+- vhodné pro biotopní nádrže
+
+
+------------------------------------------------------------
+6. SUMCOVITÉ A DNOŽRAVÉ STUDENOVODNÍ DRUHY
+------------------------------------------------------------
+
+Příklady:
+- Misgurnus fossilis (sekavec)
+- některé druhy Corydoras z mírného pásma
+
+Biotop:
+- bahnité dno, vegetace
+- kolísavé podmínky
+
+Specifika:
+- vysoká tolerance k nízkému O₂
+- produkce jemného detritu
+
+Pozor:
+Nevhodní do malých, přerybněných akvárií.
+
+
+------------------------------------------------------------
+7. POROVNÁNÍ BIOTOPŮ – PRAKTICKÁ TABULKA
+------------------------------------------------------------
+
+Biotop              | Teplota | O₂       | Proudění | Bioload
+--------------------|---------|----------|----------|---------
+Rybník              | 4–25 °C | kolísavý | nízké    | vysoký
+Pomalu tekoucí řeka | 8–20 °C | střední  | střední  | střední
+Horské vody         | 4–12 °C | vysoký   | vysoké   | nízký
+
+
+------------------------------------------------------------
+8. KOMPATIBILITA DRUHŮ
+------------------------------------------------------------
+
+Zásady:
+- kombinovat druhy se stejným teplotním optimem
+- ne kombinovat vysoký bioload s citlivými druhy
+- pozor na soutěž o kyslík
+
+Nevhodné kombinace:
+- zlatá rybka + tropické ryby
+- aktivní plavci + slabý filtr
+- dravé druhy + malé kaprovité
+
+
+------------------------------------------------------------
+9. WELFARE A ETICKÉ ASPEKTY
+------------------------------------------------------------
+
+Studenovodní ryby:
+- vyžadují prostor
+- nesnáší chronický stres
+- trpí při přehřívání více než při chladu
+
+Welfare indikátory:
+- stabilní plavání
+- pravidelný příjem potravy
+- žádné lapání po vzduchu
+- čisté ploutve a pokožka
+
+
+------------------------------------------------------------
+10. DIAGNOSTICKÉ VYUŽITÍ PRO AQUANTIS
+------------------------------------------------------------
+
+Tento dokument slouží jako:
+- základ pro správný výběr druhů
+- referenční biotopový rámec
+- kontext pro diagnostiku problémů
+- prevence špatných kombinací druhů
+
+
+------------------------------------------------------------
+11. VERZE DOKUMENTU
+------------------------------------------------------------
+KB-AQUA-COLDWATER-11 – V1
+Určeno pro: Aquantis Knowledge Base
+Interní použití

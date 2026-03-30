@@ -1,0 +1,238 @@
+KB-KOI-08 – SHOW KOI & SELEKCE (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: KOI – chov, welfare, selekce
+Typ dokumentu: Odborný / chovatelský
+Použití v Aquantis: Hodnocení KOI, diagnostika vývoje, doporučení chovu
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL SHOW KOI A SELEKCE
+------------------------------------------------
+
+Show KOI představují vrchol hobby i profesionálního chovu.
+Cílem není pouze velikost ryby, ale především:
+
+- estetická kvalita,
+- genetický potenciál,
+- dlouhodobá stabilita barev a kresby,
+- správná tělesná stavba,
+- celkový dojem (presence).
+
+Selekce KOI probíhá:
+- od velmi raného stáří (fry, tosai),
+- opakovaně v průběhu života ryby,
+- s ohledem na vývoj v čase, nikoli pouze aktuální stav.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ ROZDĚLENÍ KOI PRO SHOW
+------------------------------------------------
+
+Podle věku:
+- Tosai – do 1 roku
+- Nisai – 2 roky
+- Sansai – 3 roky
+- Yonsai a starší – 4+ let
+
+Podle velikosti (orientačně, dle pravidel show):
+- Size 1–2: malé KOI
+- Size 3–4: střední
+- Size 5–6: velké
+- Size 7+: jumbo KOI
+
+Podle variety:
+- Kohaku
+- Sanke
+- Showa
+- Utsuri
+- Bekko
+- Ogon
+- Ginrin
+- Shusui, Asagi
+- Tancho
+- Kawarimono
+
+Každá varieta má specifická hodnoticí kritéria.
+
+
+------------------------------------------------
+3. HLAVNÍ HODNOTICÍ KRITÉRIA (JAPONSKÝ STANDARD)
+------------------------------------------------
+
+### 3.1 Tělesná stavba (Body Conformation)
+Nejdůležitější kritérium.
+
+Hodnotí se:
+- symetrie těla,
+- šířka ramen,
+- plynulý přechod hlava–tělo–ocas,
+- síla ocasního násadce,
+- absence deformací.
+
+Poznámka:
+Perfektní kresba nemůže kompenzovat špatnou stavbu těla.
+
+
+### 3.2 Kůže a kvalita povrchu (Skin Quality)
+- lesk (luster),
+- tloušťka a elasticita kůže,
+- čistota bílé (shiroji),
+- absence šupinových defektů, jizev.
+
+Kvalita kůže je silně ovlivněna:
+- genetikou,
+- kvalitou vody,
+- výživou,
+- stresem.
+
+
+### 3.3 Barva a kresba (Color & Pattern)
+Hodnotí se:
+- hloubka barvy,
+- rovnoměrnost,
+- ostrost hran (kiwa, sashi),
+- symetrie kresby.
+
+Důležité:
+- některé kresby se zlepšují s věkem,
+- jiné mohou degradovat (zejména u slabé genetiky).
+
+
+------------------------------------------------
+4. DETAILNÍ KRITÉRIA PODLE VARIET
+------------------------------------------------
+
+### Kohaku
+- čisté, sněhově bílé shiroji,
+- hluboká červená (beni),
+- vyvážená kresba,
+- žádné červené skvrny v ploutvích.
+
+### Sanke
+- Kohaku základ + sumi (černá),
+- sumi pouze na těle, ne na hlavě,
+- jemné, elegantní rozložení.
+
+### Showa
+- dominující sumi i na hlavě,
+- kontrast černé, bílé a červené,
+- dynamický, silný vzhled.
+
+### Ginrin
+- rovnoměrné a výrazné třpytivé šupiny,
+- konzistence efektu po celém těle.
+
+
+------------------------------------------------
+5. VÝVOJ KOI V ČASE (PREDIKCE KVALITY)
+------------------------------------------------
+
+Důležité principy selekce:
+- mladá KOI ≠ finální vzhled,
+- některé barvy (beni, sumi) dozrávají roky,
+- rychlý růst může krátkodobě „rozmazat“ kresbu.
+
+Známky dobrého potenciálu:
+- silná kostra u mladých ryb,
+- tlustší kůže,
+- hlubší, nikoli povrchová barva,
+- klidné, sebevědomé chování.
+
+
+------------------------------------------------
+6. NEJČASTĚJŠÍ VADY SHOW KOI
+------------------------------------------------
+
+- deformace páteře,
+- úzký ocasní násadec,
+- slabá hlava,
+- rozpad barvy (fading),
+- nepravidelné nebo špinavé shiroji,
+- asymetrická kresba,
+- trvalé jizvy po manipulaci.
+
+Mnoho vad vzniká:
+- stresem,
+- špatnou kvalitou vody,
+- nevhodnou manipulací,
+- nevhodným krmením v mladém věku.
+
+
+------------------------------------------------
+7. VLIV PROSTŘEDÍ NA SHOW KVALITU
+------------------------------------------------
+
+Show KOI vyžadují:
+- extrémně stabilní vodu,
+- nízké organické zatížení,
+- nízký NO₃,
+- vysoký obsah O₂,
+- minimum stresových zásahů.
+
+Nevhodné:
+- časté přelovy,
+- přerybnění,
+- kolísání teploty,
+- špatná filtrace.
+
+Kvalita prostředí rozhoduje, zda genetický potenciál bude realizován.
+
+
+------------------------------------------------
+8. SELEKCE A ROZHODOVÁNÍ V CHOVU
+------------------------------------------------
+
+Praktická selekční otázka:
+- investovat do menšího počtu kvalitních KOI,
+- nebo chovat větší množství průměrných ryb?
+
+Show chov:
+- preferuje kvalitu nad kvantitou,
+- pracuje s dlouhodobým horizontem (5–10 let).
+
+Hobby chov:
+- může tolerovat kompromisy,
+- důraz na zdraví a radost z chovu.
+
+
+------------------------------------------------
+9. ROLE AQUANTIS V HODNOCENÍ SHOW KOI
+------------------------------------------------
+
+Aquantis může pomoci:
+- vyhodnotit environmentální rizika degradace kvality,
+- upozornit na stresové faktory,
+- doporučit úpravy vody a krmení,
+- vysvětlit, proč se kvalita KOI zhoršuje nebo zlepšuje.
+
+Aquantis nenahrazuje lidského posuzovatele,
+ale poskytuje odborný kontext a prevenci chyb.
+
+
+------------------------------------------------
+10. ZDROJE A ODBORNÉ VÝCHODISKO
+------------------------------------------------
+
+Dokument je založen na syntéze:
+- japonských chovatelských standardů (ZNA, Shinkokai),
+- zkušeností profesionálních chovatelů KOI,
+- odborné literatury o vývoji pigmentace a růstu,
+- obecných principů welfare a stresové fyziologie ryb.
+
+Text je plně parafrázovaný a vytvořený nově
+pro interní použití v Aquantis Knowledge Base.
+
+
+------------------------------------------------
+11. VERZE DOKUMENTU
+------------------------------------------------
+KB-KOI-08 – Show KOI & selekce  
+Verze: V1  
+Určeno pro: Aquantis Knowledge Base (interní použití)

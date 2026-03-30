@@ -1,0 +1,224 @@
+KB-REPRO-02 – REPRODUKČNÍ CYKLY PODLE SKUPIN RYB (V1)
+===================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Reprodukce ryb
+Typ dokumentu: Technický / biologický přehled
+Použití v Aquantis: Diagnostika, plánování výtěrů, reprodukční strategie
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument systematicky popisuje reprodukční cykly hlavních skupin ryb
+používaných v akvakultuře, rybníkářství, RAS systémech a okrasných chovech.
+
+Cílem je:
+- pochopit biologické rozdíly mezi skupinami ryb,
+- identifikovat klíčové spouštěče reprodukce,
+- vysvětlit typické problémy při výtěrech,
+- poskytnout rámec pro správné řízení reprodukce bez nelegálních zásahů.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ PRINCIPY REPRODUKCE RYB
+------------------------------------------------
+
+Reprodukční cyklus ryb je řízen kombinací:
+- fotoperiody (délka dne),
+- teploty vody,
+- hormonální osy (hypotalamus–hypofýza–gonády),
+- dostupnosti potravy,
+- environmentálních signálů (proudění, substrát, kolísání hladiny).
+
+Základní fáze:
+1. Gonadogeneze (vývoj gonád)
+2. Gametogeneze (zrání pohlavních buněk)
+3. Spawning / výtěr
+4. Embryonální vývoj
+5. Larvální fáze
+
+
+------------------------------------------------
+3. KAPROVITÉ RYBY (Cyprinidae)
+------------------------------------------------
+
+Typické druhy:
+- Kapr obecný
+- Amur
+- Tolstolobik
+- Karas
+- KOI
+
+Charakteristika:
+- sezónní jarní výtěr,
+- silná závislost na teplotě,
+- většinou externí oplození,
+- vysoká plodnost (statisíce až miliony jiker).
+
+Spouštěče výtěru:
+- teplota vody 18–22 °C,
+- prodlužující se den,
+- zvýšení hladiny nebo simulace záplavy,
+- přítomnost vegetace nebo umělého substrátu.
+
+Rizika:
+- neřízený výtěr v produkčních systémech,
+- vysoká citlivost jiker na hypoxii,
+- predace jiker a larev.
+
+
+------------------------------------------------
+4. DRAVÉ RYBY (Percidae, Esocidae)
+------------------------------------------------
+
+Typické druhy:
+- Candát
+- Okoun
+- Štika
+
+Charakteristika:
+- nižší plodnost než kaprovité,
+- větší jikry,
+- vyšší nároky na kyslík,
+- často vyžadují specifický substrát.
+
+Spouštěče výtěru:
+- jarní teploty 8–15 °C (dle druhu),
+- klidné prostředí,
+- vhodný substrát (větve, kořeny, hnízda).
+
+Specifika:
+- samci často hlídají jikry (candát, okoun),
+- vysoká citlivost na manipulaci,
+- larvy vyžadují velmi jemnou živou potravu.
+
+
+------------------------------------------------
+5. SALMONIDNÍ RYBY (Salmonidae)
+------------------------------------------------
+
+Typické druhy:
+- Pstruh duhový
+- Siven americký
+- Losos obecný
+
+Charakteristika:
+- chladnomilné druhy,
+- podzimní nebo zimní výtěr,
+- jikry se vyvíjejí dlouhou dobu,
+- nízká tolerance k chybám prostředí.
+
+Spouštěče výtěru:
+- teplota vody 6–10 °C,
+- krátký den,
+- vysoký obsah kyslíku,
+- proudění vody.
+
+Rizika:
+- plísně jiker při nízkém průtoku,
+- mechanické poškození,
+- citlivost na kvalitu vody (NH₃, NO₂).
+
+
+------------------------------------------------
+6. SUMCOVITÉ RYBY (Siluriformes)
+------------------------------------------------
+
+Typické druhy:
+- Sumec velký
+- Sumeček africký
+- Pangasius
+
+Charakteristika:
+- tropické nebo teplovodní druhy,
+- reprodukce silně hormonálně řízená,
+- přirozený výtěr v zajetí často chybí.
+
+Spouštěče:
+- zvýšení teploty,
+- změna průtoku,
+- v praxi často nutná hormonální stimulace
+  (mimo rámec běžných doporučení).
+
+Rizika:
+- nekvalitní gamety,
+- vysoká mortalita larev,
+- kanibalismus v raných fázích.
+
+
+------------------------------------------------
+7. JESETEŘI (Acipenseridae)
+------------------------------------------------
+
+Charakteristika:
+- velmi dlouhý reprodukční cyklus,
+- pohlavní dospělost často 6–15 let,
+- vysoká citlivost na stres.
+
+Spouštěče:
+- sezónní změny teploty,
+- simulace říčního prostředí,
+- vysoký průtok a kyslík.
+
+Specifika:
+- přirozený výtěr v zajetí je velmi vzácný,
+- reprodukce téměř vždy řízená,
+- vysoké nároky na kvalitu vody.
+
+
+------------------------------------------------
+8. TROPICKÉ A OKRASNÉ DRUHY
+------------------------------------------------
+
+Typické skupiny:
+- Tilapie
+- Akvarijní a jezírkové druhy
+
+Charakteristika:
+- krátké reprodukční cykly,
+- častý spontánní výtěr,
+- silná role sociální struktury.
+
+Spouštěče:
+- stabilní vysoká teplota,
+- dostatek potravy,
+- teritoriální chování.
+
+Rizika:
+- přemnožení,
+- stres z dominance,
+- neřízené populační exploze.
+
+
+------------------------------------------------
+9. ČASTÉ CHYBY PŘI ŘÍZENÍ REPRODUKCE
+------------------------------------------------
+
+- Ignorování teplotních prahů
+- Nedostatečný kyslík během vývoje jiker
+- Přítomnost predátorů v nádrži
+- Nestabilní pH a alkalita
+- Snaha o výtěr bez biologické připravenosti ryb
+
+Základní pravidlo:
+Reprodukce nelze „vynutit“, pouze vytvořit správné podmínky.
+
+
+------------------------------------------------
+10. VERZE A POZNÁMKY
+------------------------------------------------
+
+Verze: KB-REPRO-02 – V1  
+Status: Stabilní základní dokument  
+Použití: Interní Knowledge Base Aquantis
+
+Tento dokument je syntézou obecně uznávaných biologických principů
+a otevřeně dostupných odborných zdrojů.
+Neobsahuje žádné instrukce k nelegálním nebo regulovaným zásahům.

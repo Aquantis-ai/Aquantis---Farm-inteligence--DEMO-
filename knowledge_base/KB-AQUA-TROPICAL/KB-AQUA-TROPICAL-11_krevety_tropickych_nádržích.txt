@@ -1,0 +1,220 @@
+KB-AQUA-TROPICAL-11 – Krevety v tropických nádržích (V1)
+======================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – tropické systémy
+Typ dokumentu: Odborný technický přehled
+Použití v Aquantis: Diagnostika, návrh osádky, prevence problémů
+Vhodné pro RAG: Ano
+Verze: V1
+Datum: 2025-02
+
+------------------------------------------------
+1. ÚVOD – ROLE KREVET V TROPICKÝCH AKVÁRIÍCH
+------------------------------------------------
+
+Krevety jsou v tropických akváriích využívány:
+- jako **detritofágové** (zpracování biofilmu a zbytků),
+- jako **estetický prvek** (barva, chování),
+- jako **indikátor kvality vody** (velmi citlivé na toxiny),
+- v některých případech jako **specializovaný chovný objekt**.
+
+Na rozdíl od ryb:
+- krevety nemají ochranné šupiny,
+- reagují rychle na změny chemie vody,
+- jsou výrazně citlivější na kovy a léčiva.
+
+------------------------------------------------
+2. HLAVNÍ SKUPINY AKVARIJNÍCH KREVET
+------------------------------------------------
+
+### 2.1 Neocaridina (např. N. davidi – cherry shrimp)
+- velmi tolerantní,
+- vhodné pro začátečníky,
+- široké rozpětí pH a tvrdosti,
+- vysoká reprodukční schopnost.
+
+### 2.2 Caridina (Crystal, Bee, Taiwan Bee)
+- výrazně citlivější,
+- vyžadují stabilní, měkkou a kyselou vodu,
+- vhodné pro pokročilé chovatele,
+- citlivé na NO₃, vodivost a výkyvy pH.
+
+### 2.3 Amano krevety (Caridina multidentata)
+- větší druh,
+- silná konzumace řas,
+- larvy vyžadují brakickou vodu → v akváriu se běžně nerozmnožují.
+
+------------------------------------------------
+3. ZÁKLADNÍ PARAMETRY VODY PRO KREVETY
+------------------------------------------------
+
+Obecná doporučení (orientační):
+
+- Teplota: 20–26 °C (optimálně 22–24 °C)
+- pH:
+  - Neocaridina: 6.5–7.5
+  - Caridina: 5.5–6.5
+- GH:
+  - Neocaridina: 6–10 °dGH
+  - Caridina: 4–6 °dGH
+- KH:
+  - Neocaridina: 3–6 °dKH
+  - Caridina: 0–2 °dKH
+- NO₂: 0 mg/l (absolutní nula)
+- NO₃: ideálně < 20 mg/l
+- NH₃/NH₄: 0 mg/l
+
+Poznámka:
+Krevety jsou **citlivější na NH₃ než většina ryb** a reagují i na subletální koncentrace.
+
+------------------------------------------------
+4. FILTRACE A PROUDĚNÍ
+------------------------------------------------
+
+Doporučení:
+- jemná biologická filtrace (houba, mattenfilter),
+- nízké až střední proudění,
+- ochrana nasávání (molitan, síťka).
+
+Rizika:
+- silné sání → mortalita juvenilů,
+- příliš sterilní prostředí → nedostatek biofilmu.
+
+------------------------------------------------
+5. SUBSTRÁT A BIOFILM
+------------------------------------------------
+
+Substrát:
+- inertní písek (Neocaridina),
+- aktivní substráty (Caridina – pH buffering).
+
+Biofilm:
+- klíčový zdroj potravy,
+- vzniká na:
+  - skle,
+  - kamenech,
+  - kořenech,
+  - listech rostlin.
+
+Chyba:
+Příliš časté čištění → hladovění krevet.
+
+------------------------------------------------
+6. KRMENÍ KREVET
+------------------------------------------------
+
+Základ:
+- biofilm + detrit = hlavní zdroj potravy.
+
+Doplňkové krmení:
+- specializované krmivo pro krevety,
+- blanšírovaná zelenina (špenát, cuketa),
+- listy mandlovníku, buku, dubu.
+
+Frekvence:
+- malé dávky 2–3× týdně,
+- nepřekrmovat → bakteriální rozvrat.
+
+------------------------------------------------
+7. KOMPATIBILITA S RYBAMI
+------------------------------------------------
+
+Vhodné kombinace:
+- drobné tetry,
+- razbory,
+- malé pancéřníčky,
+- otocinclus.
+
+Nevhodné:
+- cichlidy,
+- větší labyrintky,
+- dravější ryby,
+- ryby s teritoriálním chováním.
+
+Pravidlo:
+➡️ Pokud se ryba vejde krevetě do tlamy → kreveta bude potrava.
+
+------------------------------------------------
+8. SVLÉKÁNÍ (MOLT) A JEHO RIZIKA
+------------------------------------------------
+
+Svlékání je kritická fáze:
+- závislé na Ca/Mg poměru,
+- citlivé na změny vodivosti.
+
+Problémy:
+- uvíznutí ve svlečce,
+- deformace končetin,
+- úhyny po výměně vody.
+
+Prevence:
+- stabilní parametry,
+- doplňování minerálů (GH+),
+- pomalé výměny vody.
+
+------------------------------------------------
+9. NEMOCI A STRES
+------------------------------------------------
+
+Typické projevy stresu:
+- neaktivita,
+- ztráta barvy,
+- hromadné úhyny po výměně vody.
+
+Časté příčiny:
+- těžké kovy (měď!),
+- léčiva pro ryby,
+- náhlé změny TDS,
+- NO₂ / NH₃.
+
+Zásada:
+❗ Léčiva určená pro ryby jsou často pro krevety toxická.
+
+------------------------------------------------
+10. REPRODUKCE KREVET
+------------------------------------------------
+
+Neocaridina:
+- přímý vývoj,
+- mláďata plně vyvinutá,
+- snadná reprodukce.
+
+Caridina:
+- citlivé na parametry,
+- nižší počet mláďat,
+- vyšší nároky na stabilitu.
+
+Klíčové faktory:
+- nulový NO₂,
+- nízký NO₃,
+- dostatek úkrytů.
+
+------------------------------------------------
+11. TYPICKÉ CHYBY CHOVATELŮ
+------------------------------------------------
+
+- kombinace s nevhodnými rybami,
+- používání léčiv bez ověření toxicity,
+- náhlé výměny vody,
+- přehnaná hygiena,
+- ignorování minerální rovnováhy.
+
+------------------------------------------------
+12. ZDROJE A ODBORNÁ VÝCHODISKA
+------------------------------------------------
+
+Dokument vychází z konsolidovaných a parafrázovaných poznatků:
+
+- univerzitní akvarijní biologie (shrimp physiology),
+- zkušenosti profesionálních chovů Caridina / Neocaridina,
+- open-access články o toxicity NH₃ a těžkých kovů,
+- dlouhodobá akvaristická praxe (EU, Japonsko, Taiwan).
+
+Text neobsahuje žádný převzatý copyrightovaný obsah 1:1.
+
+------------------------------------------------
+KONEC DOKUMENTU
+------------------------------------------------

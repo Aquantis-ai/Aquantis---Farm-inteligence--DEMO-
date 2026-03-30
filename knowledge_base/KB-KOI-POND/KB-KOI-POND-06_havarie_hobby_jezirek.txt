@@ -1,0 +1,239 @@
+KB-KOI-POND-06 – HAVÁRIE HOBBY JEZÍREK (V1)
+========================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Okrasná jezírka / KOI-POND
+Typ dokumentu: Crisis & Emergency Management
+Použití v Aquantis: Diagnostika, krizové rozhodování, prevence
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument slouží jako praktický a diagnostický přehled
+nejčastějších havarijních situací v hobby okrasných jezírkách
+(KOI jezírka, zahradní jezírka, smíšené hobby chovy).
+
+Cílem je:
+- rychle rozpoznat typ havárie,
+- minimalizovat ztráty ryb,
+- stabilizovat jezírko,
+- poučit se a zabránit opakování problému.
+
+Dokument je určen pro:
+- hobby chovatele,
+- majitele zahradních jezírek,
+- diagnostický modul Aquantis.
+
+
+------------------------------------------------
+2. TYPY HAVÁRIÍ V OKRASNÝCH JEZÍRKÁCH
+------------------------------------------------
+
+Havárie lze rozdělit do několika hlavních kategorií:
+
+A) Kyslíkové havárie  
+B) Technické poruchy  
+C) Chemické a toxické havárie  
+D) Biologické kolapsy  
+E) Klimatické a sezónní extrémy  
+F) Lidská chyba  
+
+
+------------------------------------------------
+3. KYSLÍKOVÉ HAVÁRIE (NEJČASTĚJŠÍ A NEJRYCHLEJŠÍ)
+------------------------------------------------
+
+Typické příčiny:
+- noční hypoxie při řasovém květu,
+- vysoká biomasa ryb,
+- přehřátí vody v létě,
+- výpadek aerace,
+- zimní uzavření hladiny ledem.
+
+Typické příznaky:
+- ryby u hladiny, lapání po vzduchu,
+- shlukování u přítoku nebo vodopádu,
+- apatie, ztráta rovnováhy,
+- náhlé úhyny během hodin.
+
+Okamžitá opatření:
+- okamžitě zapnout / zvýšit aeraci,
+- mechanicky rozrušit hladinu,
+- částečná výměna vody (pokud je bezpečná),
+- zastavit krmení.
+
+Prevence:
+- trvalá aerace v letních měsících,
+- záložní vzduchovací zdroj,
+- rozumná obsádka ryb.
+
+
+------------------------------------------------
+4. TECHNICKÉ HAVÁRIE
+------------------------------------------------
+
+Nejčastější typy:
+- výpadek čerpadla,
+- ucpání filtru,
+- porucha UV lampy,
+- únik vody z jezírka,
+- selhání elektroinstalace.
+
+Rizika:
+- zastavení filtrace → kolaps biofiltru,
+- rychlé zhoršení kvality vody,
+- sekundární kyslíková havárie.
+
+Okamžitá opatření:
+- obnovit průtok (náhradní čerpadlo),
+- obejít filtr (bypass) při ucpání,
+- dočasná aerace mimo filtr.
+
+Prevence:
+- pravidelná kontrola techniky,
+- mechanický předfiltr,
+- záložní čerpadlo / vzduchování,
+- ochrana proti ucpání listím.
+
+
+------------------------------------------------
+5. CHEMICKÉ A TOXICKÉ HAVÁRIE
+------------------------------------------------
+
+Možné zdroje:
+- dešťová voda splachující chemii ze zahrady,
+- pesticidy, herbicidy, hnojiva,
+- nesprávné dávkování přípravků,
+- kovové předměty (měď, zinek),
+- čisticí prostředky.
+
+Příznaky:
+- dezorientace ryb,
+- křeče,
+- náhlé úhyny bez varování,
+- poškození slizu a žaber.
+
+Okamžitá opatření:
+- okamžitá částečná výměna vody,
+- aktivní uhlí ve filtru,
+- intenzivní aerace.
+
+Prevence:
+- žádná chemie v okolí jezírka,
+- oddělení jezírka od zahradního odtoku,
+- opatrnost při používání léčiv.
+
+
+------------------------------------------------
+6. BIOLOGICKÉ KOLAPSY
+------------------------------------------------
+
+Typické scénáře:
+- rozpad biofiltru,
+- masivní úhyn bakterií,
+- náhlý nárůst NH₄ / NO₂,
+- zakalení vody a zápach.
+
+Příčiny:
+- výpadek filtrace > 2–4 hodiny,
+- prudká změna teploty,
+- chemický zásah,
+- přetížení krmením.
+
+Opatření:
+- snížit nebo zastavit krmení,
+- částečná výměna vody,
+- obnovení aerace biofiltru,
+- trpělivý restart biologické rovnováhy.
+
+Prevence:
+- stabilní provoz filtrace,
+- nepřekrmovat,
+- sledovat NO₂ a NH₄.
+
+
+------------------------------------------------
+7. KLIMATICKÉ A SEZÓNNÍ HAVÁRIE
+------------------------------------------------
+
+Léto:
+- přehřátí vody,
+- nízký kyslík,
+- řasový květ.
+
+Zima:
+- zamrznutí hladiny,
+- hromadění CO₂,
+- zimní hypoxie.
+
+Opatření:
+- v létě stínění, aerace,
+- v zimě udržovat otvor v ledu,
+- nepřikrmovat při nízkých teplotách.
+
+Prevence:
+- sezónní management jezírka,
+- přizpůsobení obsádky a krmení.
+
+
+------------------------------------------------
+8. LIDSKÁ CHYBA
+------------------------------------------------
+
+Časté chyby:
+- překrmování,
+- náhlé změny vody,
+- špatné dávkování přípravků,
+- zanedbání údržby,
+- přerybnění.
+
+Poučení:
+- méně je často více,
+- stabilita je důležitější než „rychlé řešení“,
+- změny provádět postupně.
+
+
+------------------------------------------------
+9. ROZHODOVACÍ STROM – RYCHLÁ DIAGNOSTIKA
+------------------------------------------------
+
+Ryby lapají po vzduchu?
+→ Ano → řeš kyslík a aeraci
+→ Ne → pokračuj
+
+Voda náhle zapáchá nebo je mléčná?
+→ Ano → biologický kolaps
+
+Došlo k zásahu chemií?
+→ Ano → toxická havárie
+
+Nefunguje technika?
+→ Ano → technická havárie
+
+
+------------------------------------------------
+10. SHRNUTÍ
+------------------------------------------------
+
+Většina havárií v hobby jezírkách:
+- není způsobena nemocemi,
+- ale kombinací techniky, kyslíku a lidské chyby.
+
+Zlaté pravidlo:
+- Stabilita > rychlost řešení
+- Aerace zachraňuje čas
+- Prevence je levnější než ztráty ryb
+
+
+------------------------------------------------
+11. VERZE DOKUMENTU
+------------------------------------------------
+KB-KOI-POND-06 – V1  
+Určeno pro: Aquantis Knowledge Base (interní použití)

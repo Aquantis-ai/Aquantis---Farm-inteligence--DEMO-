@@ -1,0 +1,215 @@
+KB-KOI-POND-03 – KOMPATIBILITA DRUHŮ V OKRASNÝCH JEZÍRKÁCH (V1)
+===========================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Okrasná jezírka / hobby chov
+Typ dokumentu: Species compatibility & management
+Použití v Aquantis: Návrh obsádky, diagnostika problémů, prevence
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument popisuje zásady kompatibility ryb v okrasných jezírkách,
+se zvláštním důrazem na:
+- KOI jezírka,
+- hobby jezírka s kombinovanou obsádkou,
+- prevenci stresu, nemocí a dlouhodobých problémů.
+
+Cílem není maximální produkce, ale:
+- dlouhověkost ryb,
+- stabilita ekosystému,
+- estetická hodnota,
+- minimální potřeba zásahů.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ PRINCIPY KOMPATIBILITY
+------------------------------------------------
+
+Kompatibilita ryb v jezírku je dána především:
+- teplotní tolerancí,
+- nároky na kyslík,
+- chováním (aktivita, agresivita),
+- potravní strategií,
+- velikostí v dospělosti,
+- citlivostí na kvalitu vody.
+
+Zásadní pravidlo:
+➡️ Druhy musí sdílet podobné nároky na prostředí,
+nikoli pouze „vypadat, že se k sobě hodí“.
+
+
+------------------------------------------------
+3. KOI KAPR (Cyprinus rubrofuscus "koi") – REFERENČNÍ DRUH
+------------------------------------------------
+
+KOI jsou často dominantním druhem v okrasných jezírkách.
+
+Základní charakteristika:
+- teplota: 10–28 °C (optimum 18–24 °C)
+- vysoká produkce odpadu
+- velmi aktivní, hrabavé chování
+- dlouhověkost (20–40 let)
+
+Důsledky pro kompatibilitu:
+- zatěžují filtraci,
+- zvyšují zákal,
+- stresují klidnější druhy,
+- snadno přenášejí patogeny.
+
+
+------------------------------------------------
+4. KOMPATIBILNÍ DRUHY S KOI
+------------------------------------------------
+
+4.1 Jeseter (Acipenser spp.)
+--------------------------------
+Kompatibilita: ⚠️ PODMÍNĚNÁ
+
+- vyžaduje:
+  - vysoký kyslík,
+  - silné proudění,
+  - chladnější vodu
+- nesnese vysoké teploty (>22–24 °C dlouhodobě)
+- vyžaduje specifické krmení
+
+Pouze pokud:
+- jezírko je hluboké (>1.5 m),
+- silná filtrace,
+- nižší letní teploty.
+
+❗ Nevhodné do malých hobby jezírek.
+
+
+4.2 Karas zlatý (Carassius auratus)
+--------------------------------
+Kompatibilita: ✔️ DOBRÁ
+
+- podobná tolerance teplot
+- nižší nároky než KOI
+- méně zatěžuje filtraci
+
+Rizika:
+- přenos nemocí
+- křížení forem (u dlouhodobého chovu)
+
+
+4.3 Lín zlatý / lín obecný (Tinca tinca)
+--------------------------------
+Kompatibilita: ✔️ DOBRÁ
+
+- klidný druh
+- drží se u dna
+- dobře snáší kolísání prostředí
+
+Poznámka:
+- méně viditelný → často přehlížený, ale stabilizační prvek jezírka
+
+
+4.4 Tolstolobik / amur
+--------------------------------
+Kompatibilita: ⚠️ OMEZENÁ
+
+- velmi rychlý růst
+- vysoká spotřeba kyslíku
+- spíše biomanipulační druh
+
+Vhodné:
+- pouze do velkých jezírek / rybníků
+- ne do klasických KOI jezírek
+
+
+------------------------------------------------
+5. NEVHODNÉ KOMBINACE
+------------------------------------------------
+
+❌ KOI + pstruh / siven
+- rozdílné teploty
+- pstruh vyžaduje vysoký O₂
+
+❌ KOI + dravé ryby (štika, candát)
+- stres
+- riziko poranění
+
+❌ KOI + tropické druhy
+- odlišná teplotní strategie
+- sezónní kolaps
+
+
+------------------------------------------------
+6. HUSTOTA OBSÁDKY A JEJÍ VLIV
+------------------------------------------------
+
+Doporučené orientační zatížení:
+- KOI jezírko: max. 1 kg ryb / 1 000 l
+- hobby jezírko bez KOI: až 1.5 kg / 1 000 l (při dobré filtraci)
+
+Přerybnění vede k:
+- chronickému stresu,
+- nemocem,
+- kolapsům filtrace,
+- ztrátě estetiky vody.
+
+
+------------------------------------------------
+7. CHOVÁNÍ JAKO DIAGNOSTICKÝ NÁSTROJ
+------------------------------------------------
+
+Signály nekompatibility:
+- ryby se drží stranou,
+- zrychlené dýchání,
+- únikové chování,
+- apatie nebo naopak hyperaktivita,
+- zhoršení kvality vody bez změny krmení.
+
+Aquantis by měl tyto signály hodnotit
+v kontextu obsádky, nikoli izolovaně.
+
+
+------------------------------------------------
+8. DOPORUČENÉ MODELOVÉ KOMBINACE
+------------------------------------------------
+
+✔️ KOI + karas zlatý + lín
+✔️ Hobby jezírko: karas + lín + drobné bílé ryby
+✔️ Velké jezírko: KOI + omezený počet jeseterů (specializovaný režim)
+
+❌ KOI + tropické ryby
+❌ KOI + lososovité ryby
+
+
+------------------------------------------------
+9. ZÁVĚR – PRAKTICKÉ PRAVIDLO
+------------------------------------------------
+
+Pokud si nejsi jistý kompatibilitou:
+➡️ Méně druhů = stabilnější jezírko.
+
+Estetika je dlouhodobě udržitelná pouze tehdy,
+pokud respektuje biologické limity ryb.
+
+
+------------------------------------------------
+10. ODBORNÁ VÝCHODISKA (PARAFRÁZOVANÁ)
+------------------------------------------------
+- Koi Organisation International – pond management guidelines
+- UK & EU koi keeper best practices
+- FAO pond management manuals
+- University extension materials (ornamental ponds)
+- praktické zkušenosti evropských KOI chovatelů
+
+Veškerý text je odborná syntéza, nikoli přepis zdrojů.
+
+
+------------------------------------------------
+11. VERZE DOKUMENTU
+------------------------------------------------
+KB-KOI-POND-03 – V1
+Určeno pro: Aquantis Knowledge Base
+Interní použití

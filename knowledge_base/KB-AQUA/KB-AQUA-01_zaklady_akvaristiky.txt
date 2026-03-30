@@ -1,0 +1,230 @@
+KB-AQUA-01 – Základy akvaristiky (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – obecné základy
+Typ dokumentu: Knowledge Base (Core)
+Použití v Aquantis:
+- Diagnostika problémů v akváriích
+- Vysvětlování principů začátečníkům i pokročilým
+- Kontext pro druhově specifické KB (tropical, coldwater, cichlids…)
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL A ROZSAH DOKUMENTU
+------------------------------------------------
+
+Tento dokument slouží jako základní vstupní kámen Knowledge Base
+pro oblast akvaristiky v systému Aquantis.
+
+Cílem je:
+- vysvětlit základní biologické a technické principy akvária,
+- sjednotit terminologii,
+- vytvořit společný kontext pro všechny další KB-AQUA dokumenty.
+
+Dokument je záměrně obecný a platný napříč:
+- sladkovodní akvaristikou,
+- tropickou i studenovodní akvaristikou,
+- společenskými, druhovými i chovnými nádržemi.
+
+Neřeší detailní požadavky jednotlivých druhů – ty jsou předmětem
+navazujících KB dokumentů.
+
+
+------------------------------------------------
+2. CO JE AKVÁRIUM Z BIOLOGICKÉHO HLEDISKA
+------------------------------------------------
+
+Akvárium není „nádoba s vodou“, ale:
+- uzavřený nebo polouzavřený ekosystém,
+- s velmi omezenou samočisticí schopností,
+- silně závislý na lidském řízení.
+
+Zásadní rozdíl oproti přírodě:
+- minimální objem vody,
+- nízká biologická diverzita,
+- vysoká hustota organismů,
+- rychlá akumulace odpadních látek.
+
+Z tohoto důvodu je stabilita akvária vždy výsledkem:
+- správného návrhu,
+- biologické rovnováhy,
+- pravidelné údržby.
+
+
+------------------------------------------------
+3. ZÁKLADNÍ SLOŽKY AKVARIJNÍHO SYSTÉMU
+------------------------------------------------
+
+Každé funkční akvárium se skládá z těchto klíčových částí:
+
+1. Voda
+   - nosné médium pro ryby, rostliny a mikroorganismy
+   - přenašeč živin i toxinů
+
+2. Ryby a další živočichové
+   - producenti dusíkatého odpadu
+   - citliví indikátoři kvality prostředí
+
+3. Mikroorganismy
+   - nitrifikační bakterie
+   - heterotrofní bakterie rozkládající organiku
+   - klíčové pro biologickou stabilitu
+
+4. Substrát
+   - mechanická funkce
+   - biologická plocha
+   - někdy i chemická (pufrace, živiny)
+
+5. Filtrace
+   - mechanická
+   - biologická
+   - případně chemická
+
+6. Technika
+   - čerpadla
+   - topení / chlazení
+   - osvětlení
+   - aerace
+
+
+------------------------------------------------
+4. DUSÍKATÝ CYKLUS – ZÁKLAD AKVARISTIKY
+------------------------------------------------
+
+Dusíkatý cyklus je základní proces,
+bez jehož pochopení nelze akvaristiku dlouhodobě provozovat.
+
+Zjednodušený průběh:
+- ryby produkují amoniak (NH₃ / NH₄⁺),
+- bakterie jej oxidují na dusitany (NO₂⁻),
+- další bakterie oxidují NO₂⁻ na dusičnany (NO₃⁻),
+- NO₃⁻ se odstraňuje výměnou vody nebo spotřebou rostlinami.
+
+Klíčové poznatky:
+- NH₃ a NO₂ jsou akutně toxické,
+- stabilní biofiltr je nutností,
+- biologická filtrace se vyvíjí v čase (tzv. záběh akvária).
+
+Mnoho problémů v akvaristice je ve skutečnosti
+projevem narušeného dusíkatého cyklu.
+
+
+------------------------------------------------
+5. STABILITA VS. „ČISTOTA“
+------------------------------------------------
+
+Častý omyl začátečníků:
+„Čím čistější akvárium, tím zdravější ryby.“
+
+Ve skutečnosti:
+- přehnané čištění ničí biologii,
+- sterilní prostředí je nestabilní,
+- mírná přítomnost biofilmu je normální a žádoucí.
+
+Cílem není sterilita, ale:
+- stabilní mikrobiální rovnováha,
+- pomalé a předvídatelné změny.
+
+
+------------------------------------------------
+6. VODA JAKO CHEMICKÉ PROSTŘEDÍ
+------------------------------------------------
+
+Základní chemické parametry sledované v akvaristice:
+
+- Teplota
+- pH
+- Tvrdost (GH, KH)
+- Rozpuštěný kyslík
+- Amoniak / dusitany / dusičnany
+
+Důležité:
+- ryby se přizpůsobují stabilním hodnotám lépe než kolísání,
+- náhlé změny jsou často nebezpečnější než „neideální“ hodnoty.
+
+Chemie vody je vždy propojena s:
+- krmením,
+- hustotou ryb,
+- filtrací,
+- údržbou.
+
+
+------------------------------------------------
+7. ROLE ÚDRŽBY V AKVARISTICE
+------------------------------------------------
+
+Údržba není známkou selhání systému,
+ale jeho nezbytnou součástí.
+
+Základní údržbové úkony:
+- výměna části vody,
+- odstranění přebytečné organiky,
+- kontrola filtru (nikoliv jeho sterilizace),
+- pozorování chování ryb.
+
+Pozorování ryb je často lepší diagnostický nástroj
+než samotné testy vody.
+
+
+------------------------------------------------
+8. ČASTÉ CHYBY ZAČÁTEČNÍKŮ
+------------------------------------------------
+
+- Přerybnění nádrže
+- Příliš rychlé osazení nového akvária
+- Nadměrné krmení
+- Časté a drastické zásahy
+- Podcenění filtrace
+- Kopírování „návodů z internetu“ bez pochopení kontextu
+
+Tyto chyby nejsou selháním chovatele,
+ale důsledkem nepochopení principů.
+
+
+------------------------------------------------
+9. ROZDÍL MEZI AKVARISTIKOU A AKVAKULTUROU
+------------------------------------------------
+
+Akvárium:
+- primárně estetický nebo hobby cíl
+- nízká produkce biomasy
+- vysoký důraz na stabilitu a welfare
+
+Akvakultura:
+- produkční cíl
+- vysoké zatížení systému
+- technicky řízené prostředí
+
+Aquantis pracuje s oběma světy,
+ale vždy respektuje jejich rozdílnou logiku.
+
+
+------------------------------------------------
+10. ZDROJE A ODBORNÉ VÝCHODISKO
+------------------------------------------------
+
+Tento dokument je odbornou syntézou a parafrází poznatků z:
+
+- univerzitních akvaristických a biologických učebních materiálů,
+- FAO a WorldFish publikací (ekologie vody),
+- akvaristických vědeckých review článků,
+- dlouhodobě uznávaných best practices v hobby akvaristice,
+- principů známých z RAS a rybníkářství adaptovaných pro malé objemy.
+
+Neobsahuje žádný text převzatý 1:1 z chráněných zdrojů.
+
+
+------------------------------------------------
+11. VERZE DOKUMENTU
+------------------------------------------------
+
+KB-AQUA-01 – Základy akvaristiky  
+Verze: V1  
+Určeno pro: Aquantis Knowledge Base  
+Interní použití – RAG-ready

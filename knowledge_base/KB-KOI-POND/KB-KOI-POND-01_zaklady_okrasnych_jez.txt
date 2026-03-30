@@ -1,0 +1,212 @@
+KB-KOI-POND-01 – ZÁKLADY OKRASNÝCH JEZÍREK (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Okrasná jezírka / Hobby chovy
+Typ dokumentu: Základní přehled & best practices
+Použití v Aquantis: Diagnostika, návrh jezírka, prevence problémů
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL OKRASNÉHO JEZÍRKA
+------------------------------------------------
+
+Okrasné jezírko je primárně:
+- estetický prvek zahrady,
+- stabilní vodní ekosystém,
+- hobby chov ryb s důrazem na welfare, nikoliv produkci.
+
+Na rozdíl od RAS nebo produkčních rybníků:
+- cílem není maximální růst ani biomasa,
+- důraz je kladen na dlouhodobou stabilitu,
+- toleruje se nižší technologická komplexita,
+- klíčová je rovnováha mezi biologií, technikou a údržbou.
+
+Typické cíle:
+- čistá voda,
+- zdravé ryby,
+- minimální zásahy,
+- sezónní stabilita.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ TYPY OKRASNÝCH JEZÍREK
+------------------------------------------------
+
+2.1 Přírodní (extenzivní) jezírka
+- minimální filtrace nebo bez filtrace,
+- silná role rostlin a sedimentu,
+- nižší obsádka ryb,
+- vyšší sezónní výkyvy kvality vody.
+
+2.2 Technická jezírka
+- mechanická + biologická filtrace,
+- čerpadla, skimmery, UV,
+- vyšší obsádka ryb,
+- lepší kontrola kvality vody.
+
+2.3 KOI jezírka
+- vysoká filtrace,
+- minimální rostliny,
+- vysoké nároky na kvalitu vody,
+- ryby jako hlavní vizuální prvek.
+
+KB-KOI-POND se zaměřuje především na:
+- přírodní a technická jezírka s různými druhy ryb,
+- hobby chovy mimo čistě „show KOI“ segment.
+
+
+------------------------------------------------
+3. ROZDÍL MEZI OKRASNÝM JEZÍRKEM A RYBNÍKEM
+------------------------------------------------
+
+Okrasné jezírko:
+- menší objem (typicky 2–100 m³),
+- vyšší hustota ryb než v rybníku,
+- výrazný vliv člověka (krmení, filtrace),
+- rychlejší reakce systému na chyby.
+
+Rybník:
+- větší plocha a objem,
+- produkční nebo poloprodukční charakter,
+- vyšší role planktonu a sedimentu,
+- pomalejší dynamika změn.
+
+Tato KB se zaměřuje výhradně na jezírka zahradního typu.
+
+
+------------------------------------------------
+4. ZÁKLADNÍ EKOLOGICKÉ PROCESY V JEZÍRKU
+------------------------------------------------
+
+4.1 Dusíkový cyklus
+- ryby produkují amoniak (NH₃/NH₄⁺),
+- bakterie přeměňují NH₄ → NO₂ → NO₃,
+- dusičnany jsou spotřebovány rostlinami nebo akumulovány.
+
+4.2 Organické zatížení
+- zbytky krmiva,
+- rybí exkrementy,
+- odumřelé rostliny,
+- spadané listí.
+
+4.3 Plankton a řasy
+- jemné řasy = zelená voda,
+- vláknité řasy = povrchové problémy,
+- plankton ovlivňuje denní kolísání O₂ a pH.
+
+
+------------------------------------------------
+5. ZÁKLADNÍ PARAMETRY VODY (OBECNÉ)
+------------------------------------------------
+
+Orientační cíle pro hobby jezírka:
+- O₂: > 5 mg/l
+- pH: 6.8–8.2
+- NH₃: ideálně 0
+- NO₂: < 0.1 mg/l
+- NO₃: < 50–100 mg/l
+- Teplota: dle druhu ryb
+
+Poznámka:
+Jezírko snese krátkodobé výkyvy, ale dlouhodobá nestabilita vede
+k chronickému stresu ryb.
+
+
+------------------------------------------------
+6. ROLE ROSTLIN V OKRASNÉM JEZÍRKU
+------------------------------------------------
+
+Pozitivní role:
+- odběr živin (NO₃, fosfor),
+- stínění vody,
+- úkryt pro ryby,
+- stabilizace mikroklimatu.
+
+Rizika:
+- přerůstání,
+- rozklad biomasy na podzim,
+- spotřeba kyslíku v noci.
+
+Doporučení:
+- vyvážený poměr otevřené hladiny a vegetace,
+- pravidelný řez a odstraňování biomasy.
+
+
+------------------------------------------------
+7. RYBY V OKRASNÉM JEZÍRKU – OBECNÉ ZÁSADY
+------------------------------------------------
+
+Základní pravidla:
+- nízká až střední obsádka,
+- kombinace druhů s různou potravní nikou,
+- vyhnout se extrémně citlivým druhům.
+
+Typické hobby druhy:
+- karas zlatý,
+- lín zlatý,
+- jeseter (specifické nároky),
+- KOI (při vyšší technologii),
+- drobné okrasné ryby.
+
+Detailní profily jsou řešeny v KB-KOI-POND-SP dokumentech.
+
+
+------------------------------------------------
+8. SEZÓNNÍ CHARAKTER JEZÍRKA
+------------------------------------------------
+
+Jaro:
+- restart biologie,
+- riziko NO₂,
+- kolísání teplot.
+
+Léto:
+- nejvyšší biologická zátěž,
+- riziko hypoxie v noci,
+- řasy a květ vody.
+
+Podzim:
+- odumírání rostlin,
+- nárůst organického zatížení,
+- příprava na zimu.
+
+Zima:
+- omezená biologie,
+- riziko nedostatku kyslíku pod ledem,
+- důraz na minimální zásahy.
+
+
+------------------------------------------------
+9. ČASTÉ CHYBY V HOBBY JEZÍRKÁCH
+------------------------------------------------
+
+- přerybnění,
+- překrmování,
+- podcenění filtrace,
+- nulový monitoring,
+- náhlé zásahy bez pochopení příčiny,
+- míchání technologických a přírodních konceptů.
+
+Aquantis by měl tyto chyby aktivně rozpoznávat
+a uživatele na ně upozorňovat.
+
+
+------------------------------------------------
+10. VAZBA NA DALŠÍ KNOWLEDGE BASE
+------------------------------------------------
+
+Tento dokument je úvodní a navazuje na:
+- KB-KOI-POND-SP – druhové profily,
+- KB-KOI-02 – kvalita vody pro KOI,
+- KB-KOI-06 – sezónní management,
+- KB-POND-03 – kvalita vody v rybnících (pro širší kontext).
+
+------------------------------------------------
+KONEC DOKUMENTU
+------------------------------------------------

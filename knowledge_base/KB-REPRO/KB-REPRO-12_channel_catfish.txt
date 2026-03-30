@@ -1,0 +1,198 @@
+Aquantis_KB-REPRO-12
+VÝTĚRY CHANNEL CATFISH (Ictalurus punctatus)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Reprodukce ryb
+Typ dokumentu: Reproduction Protocol
+Použití v Aquantis: Reprodukce, diagnostika výtěru, návrh líhní
+Vhodné pro RAG: Ano
+Verze: V1
+Regionální relevance: USA, Latinská Amerika, Afrika, Asie (introdukované chovy)
+
+Zdroje (syntéza):
+- FAO Fisheries Technical Papers (catfish culture)
+- Southern Regional Aquaculture Center (SRAC, USA)
+- Auburn University – Channel Catfish Reproduction
+- Mississippi State University Extension
+- Boyd, C.E. – Water Quality in Warmwater Fish Ponds
+
+Obsah je **parafrázovaný a odborně konsolidovaný**, neobsahuje text převzatý 1:1.
+
+
+------------------------------------------------
+1. BIOLOGIE A REPRODUKČNÍ CHARAKTERISTIKA
+------------------------------------------------
+
+Channel catfish (Ictalurus punctatus) je:
+- teplovodní sumcovitá ryba,
+- hnízdní třecí druh,
+- s rodičovskou péčí (samec hlídá jikry).
+
+Základní rysy:
+- přirozený výtěr probíhá při vyšší teplotě,
+- jikry jsou lepivé a kladené do dutin,
+- samec zajišťuje ventilaci jiker.
+
+Výtěry jsou:
+- vysoce spolehlivé,
+- dobře kontrolovatelné,
+- vhodné pro rybníky i kontrolované systémy.
+
+
+------------------------------------------------
+2. PŘIROZENÝ VÝTĚR V RYBNÍCÍCH
+------------------------------------------------
+
+### 2.1 Spouštěcí podmínky
+
+- Teplota vody: 22–28 °C (optimum 24–26 °C)
+- Fotoperioda: dlouhý den (jaro–léto)
+- Stabilní kvalita vody
+- Dostatek úkrytů pro tření
+
+### 2.2 Hnízda a substrát
+
+Channel catfish vyžaduje:
+- umělé dutiny:
+  - betonové roury,
+  - plastové boxy,
+  - sudy,
+  - dřevěné bedny,
+- tmavé, chráněné místo.
+
+Doporučení:
+- 1 hnízdo na 1–2 páry
+- vstup hnízda orientovaný do hloubky
+- hloubka: 0,8–1,5 m
+
+### 2.3 Průběh tření
+
+1. Samec obsadí dutinu
+2. Samice klade jikry ve formě želatinové hmoty
+3. Samec oplodní jikry
+4. Samice je vyhnána
+5. Samec hlídá a ovívá jikry
+
+
+------------------------------------------------
+3. UMĚLÝ / KONTROLOVANÝ VÝTĚR
+------------------------------------------------
+
+Používá se zejména:
+- v RAS,
+- v líhních,
+- při synchronizaci produkce.
+
+Možnosti:
+- přirozený výtěr v nádržích s hnízdy,
+- odebrání hnízd s jikrami do líhně.
+
+Hormonální stimulace:
+- běžně **není nutná**,
+- používá se pouze při slabé reprodukční aktivitě.
+
+
+------------------------------------------------
+4. INKUBACE JIKER
+------------------------------------------------
+
+### 4.1 Parametry inkubace
+
+- Teplota: 26–28 °C
+- O₂: >6 mg/l
+- Průtok: jemný, kontinuální
+- Proudění: zajišťuje ventilaci jiker
+
+### 4.2 Doba inkubace
+
+- 5–8 dní (podle teploty)
+
+### 4.3 Rizika
+
+- plísně při nízkém proudění,
+- hypoxie při vysoké hustotě jiker,
+- mechanické poškození při manipulaci.
+
+Poznámka:
+U channel catfish je **přirozená rodičovská péče často účinnější** než umělá inkubace.
+
+
+------------------------------------------------
+5. LÍHNUTÍ A LARVÁLNÍ FÁZE
+------------------------------------------------
+
+Po vylíhnutí:
+- larvy zůstávají v hnízdě,
+- jsou chráněny samcem,
+- využívají žloutkový váček.
+
+Rozplavání:
+- cca 3–5 dní po vylíhnutí,
+- následuje nutnost první potravy.
+
+První krmení:
+- zooplankton,
+- jemná umělá krmiva (mikropeletky),
+- živá potrava v rybnících.
+
+
+------------------------------------------------
+6. KRITICKÉ BODY A ČASTÉ CHYBY
+------------------------------------------------
+
+Nejčastější problémy:
+
+- nedostatek vhodných hnízd,
+- příliš nízká teplota vody,
+- rušení rodičů během tření,
+- odebrání jiker bez zajištění ventilace,
+- špatná kvalita vody (NH₃, NO₂).
+
+Typická chyba:
+❌ snaha o „přílišnou kontrolu“ – u tohoto druhu často funguje přirozený režim nejlépe.
+
+
+------------------------------------------------
+7. SROVNÁNÍ S JINÝMI SUMCOVITÝMI DRUHY
+------------------------------------------------
+
+Channel catfish:
+- hnízdní tření,
+- rodičovská péče,
+- vysoká úspěšnost.
+
+Africký sumeček (Clarias):
+- pelagické jikry,
+- hormonální stimulace,
+- bez rodičovské péče.
+
+Sumec velký (Silurus glanis):
+- hnízdní tření,
+- citlivější na rušení,
+- nižší reprodukční stabilita.
+
+
+------------------------------------------------
+8. VÝZNAM PRO AQUANTIS
+------------------------------------------------
+
+Tento dokument slouží jako:
+- referenční model hnízdního tření,
+- vzor pro diagnostiku reprodukčních problémů,
+- základ pro porovnání přirozených vs. řízených výtěrů.
+
+Použitelné v:
+- rybníkářství,
+- RAS,
+- polointenzivních systémech.
+
+
+------------------------------------------------
+9. VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB-REPRO-12 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)

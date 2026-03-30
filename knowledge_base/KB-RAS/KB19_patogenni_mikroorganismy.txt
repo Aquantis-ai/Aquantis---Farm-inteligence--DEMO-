@@ -1,0 +1,373 @@
+Aquantis_KB19_PATOGENNÍ_MIKROORGANISMY_A_PREVENCE_V_RAS_V1
+==========================================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument slouží jako interní technický podklad pro Aquantis při
+vyhodnocování zdravotních problémů v RAS a intenzivních systémech.
+
+Zaměřuje se na:
+- hlavní bakteriální, plísňové a parazitární patogeny v intenzivních chovech,
+- faktory prostředí, které zvyšují riziko onemocnění,
+- obecné a bezpečné preventivní principy,
+- druhovou citlivost vybraných druhů,
+- strukturovaný rozhodovací strom diagnostiky.
+
+Dokument NEobsahuje konkrétní léčebné protokoly, dávkování léčiv ani
+konkrétní farmaka. Všechny informace jsou formulovány obecně a slouží
+jako rámec pro diagnostiku, prevenci a rozhodnutí, kdy zapojit veterináře.
+
+
+------------------------------------------------
+1. HLAVNÍ SKUPINY PATOGENŮ V INTENZIVNÍ AKVAKULTUŘE
+------------------------------------------------
+
+1.1 Bakterie
+- Aeromonas spp. (A. hydrophila, A. salmonicida aj.)  
+  → hemoragické septikemie, vředy, systémové infekce.
+- Flavobacterium spp. (F. columnare, F. psychrophilum)  
+  → columnaris disease, bakteriální onemocnění ploutví a žaber.
+- Pseudomonas spp., Vibrio spp. (u brakických/morských druhů)  
+  → oportunní infekce, sekundární komplikace.
+
+1.2 Plísně a oomycety
+- Saprolegnia spp.  
+  → typické „vatovité“ povlaky na kůži, jikrách, poraněních.
+- Další saprolegniální komplex, sekundární kolonizace ran.
+
+1.3 Paraziti (vybrané skupiny)
+- Protozoa: Ichthyophthirius multifiliis („krupička“), Trichodina spp.,  
+  Ichthyobodo (Costia), Chilodonella, Apiosoma.
+- Metazoa: monogenea (Dactylogyrus, Gyrodactylus), kožní a žaberní červi,
+  vnější červi na ploutvích a kůži.
+- Crustacea: Lernaea (kotvice), Argulus (kapřík).
+
+1.4 Viry (pouze rámcově)
+- VHS, IHN, IPN u lososovitých, koi herpes virus (KHV) u koi a kapra.  
+  → zde je vždy nutný veterinář a laboratorní diagnostika.
+
+
+------------------------------------------------
+2. FAKTORY PROSTŘEDÍ PODPORUJÍCÍ VZNIK ONEMOCNĚNÍ
+------------------------------------------------
+
+- Stres: manipulace, vysoká hustota obsádky, náhlé změny prostředí.
+- Špatná kvalita vody: NO₂, TAN, nízký O₂, nestabilní pH, nízká alkalita.
+- Kolísání teploty mimo optimální rozsah pro druh.
+- Mechanické poškození: manipulace, nevhodné povrchy, agresivní chování.
+- Biofilm a organické nánosy: „špinavé“ povrchy, mrtvý kal, přetížené filtry.
+- Nevhodné krmivo: podvýživa, oxidované tuky, plísňové toxiny.
+
+
+------------------------------------------------
+3. OBECNÉ PRINCIPY PREVENCE
+------------------------------------------------
+
+1. Stabilní kvalita vody (viz KB01 a KB02):
+   - O₂ v bezpečném pásmu pro druh,
+   - nízké NO₂ a TAN,
+   - stabilní pH a alkalita.
+
+2. Biosecurity:
+   - karanténa nových ryb,
+   - oddělené nářadí pro jednotlivé okruhy,
+   - dezinfekce sítí, kbelíků, hadic.
+
+3. Hygiena systému:
+   - pravidelné odkalování,
+   - čištění mrtvých zón,
+   - proplach mechanických filtrů.
+
+4. Šetrná manipulace:
+   - minimalizace stresu,
+   - použití vhodných sítí, vlhkých rukavic,
+   - vyvarovat se zbytečného chytání.
+
+5. Nutriční prevence:
+   - kvalitní krmivo, správná velikost pelet,
+   - žádné plesnivé nebo žluklé krmivo,
+   - přiměřené dávky, aby nedocházelo k překrmování.
+
+6. Včasná diagnostika:
+   - sledovat chování, příjem potravy, dýchání,
+   - náhodné kontroly několika kusů (žábry, kůže, ploutve).
+
+
+------------------------------------------------
+4. AEROMONÁDY – PROFIL PATOGENU
+------------------------------------------------
+
+Typické projevy:
+- vředy na kůži, hemoragie, zduřelá břišní dutina,
+- apatie, tmavnutí zbarvení, někdy exoftalmus,
+- u A. salmonicida (lososovité) i chroničtější průběh.
+
+Rizikové situace:
+- teplota v suboptimálním pásmu, náhlé výkyvy,
+- zvýšený organický kal,
+- mechanická poškození (tření o hrubé povrchy),
+- náhlé změny kvality vody.
+
+Prevence:
+- stabilní prostředí, dobrá hygiena,
+- minimalizovat zranění a stres,
+- rychle řešit poruchy kvality vody.
+
+
+------------------------------------------------
+5. FLAVOBAKTERIE / COLUMNARIS KOMPLEX
+------------------------------------------------
+
+Typické projevy:
+- „rozpad“ ploutví, nekrotické lemy,
+- žaberní léze, zvýšené dýchání,
+- bělavé „vláskovité“ nálety na kůži a žábrech.
+
+Vyšší riziko:
+- teplota v „optimu“ patogenu (často 18–24 °C),
+- vysoké organické zatížení,
+- nedostatečný průtok a okysličení v odchovných nádržích.
+
+Prevence:
+- čisté vtoky a přelivy,
+- intenzivní okysličení u citlivých stádií (larvy, fingerlings),
+- snížení organického zatížení, dobrá mechanická filtrace.
+
+
+------------------------------------------------
+6. SAPROLEGNIA A DALŠÍ PLÍSNĚ
+------------------------------------------------
+
+Typické projevy:
+- bílé až šedé „chmýří“ na kůži, žábrech, ploutvích, jikrách,
+- často sekundárně na poraněních nebo po bakteriální infekci.
+
+Rizikové faktory:
+- nízká teplota,
+- poranění, špatná manipulace,
+- nízká kvalita vody, vysoké organické zatížení.
+
+Prevence:
+- šetrná manipulace,
+- odstranění mrtvých ryb a zbytků krmiva,
+- stabilní kvalita vody, dostatek O₂.
+
+
+------------------------------------------------
+7. PARAZITÁRNÍ ONEMOCNĚNÍ – RÁMEC
+------------------------------------------------
+
+Typické příznaky:
+- tření o dno a stěny,
+- zvýšené dýchání, sliz na žábrech,
+- „bílé tečky“ (Ich), zákal kůže, lokální poškození.
+
+Všeobecná prevence:
+- karanténa nových ryb,
+- nepřenášet vodu z neznámých zdrojů,
+- vlastní nářadí pro farmu,
+- sledovat hustotu obsádky a stres.
+
+
+------------------------------------------------
+8. BEZPEČNÝ POSTUP PŘI PODEZŘENÍ NA NEMOC
+------------------------------------------------
+
+1. Okamžité kroky:
+   - zkontrolovat O₂, NO₂, TAN, pH, teplotu,
+   - zvýšit aeraci,
+   - snížit nebo dočasně zastavit krmení.
+
+2. Dokumentace:
+   - zaznamenat parametry vody, počet a velikost ryb,
+   - fotodokumentace lézí a chování.
+
+3. Vzorky:
+   - vybrat několik reprezentativních ryb (živé nebo čerstvě uhynulé),
+   - uchovat v chladu, ne v mrazáku, pro případnou laboratorní diagnostiku.
+
+4. Odborník:
+   - při výrazné mortalitě, systémovém postižení nebo podezření na virovou infekci
+     vždy kontaktovat veterináře nebo specialistu na rybí choroby.
+
+
+------------------------------------------------
+9. TABULKA DRUHOVÉ CITLIVOSTI K VYBRANÝM PATOGENŮM
+------------------------------------------------
+
+Stupně citlivosti jsou orientační:
+- Nízká (N) – obvykle jen při těžkém stresu / špatných podmínkách
+- Střední (S) – časté při kombinaci stres + patogen
+- Vysoká (V) – patogen je typický problém dané skupiny v intenzivním chovu
+
+Legenda patogenů:
+- Aerom. = Aeromonas spp.
+- Flavo. = Flavobacterium spp. / columnaris komplex
+- Sapr.  = Saprolegnia spp.
+- Ich    = Ichthyophthirius multifiliis
+- Paraz. = ostatní protozoa (Trichodina, Costia, Chilodonella)
+
+Druhová tabulka (shrnutí):
+
+Druh / skupina                        Aerom.   Flavo.   Sapr.   Ich    Paraz.
+-------------------------------------------------------------------------------
+Pstruh duhový, siven (lososovití)       S/V      V       S       S      S/V
+Losos obecný (Salmo salar)             S/V      V       S       S      S/V
+Candát, okoun (percidi)                S        S       S       S      S
+Kapr obecný, kapr koi (cyprinidi)      S        S       S/V     V      V
+Amur, tolstolobik                      S        S       S       V      S/V
+Lín, karas zlatý                       S        S       S/V     V      V
+Sumec velký, sumeček africký           V        S       S       S      S
+Pangas                                 V        S       S       S      S
+Tilapie nilská                         S        S       S       S      S
+Jeseteři (sibiřský, ruský, malý, vyza) S        S       S       S      S
+Okrasná jezírka (mix kapr koi, karas)  S        S       S/V     V      V
+
+Poznámka: skutečná citlivost závisí na konkrétních podmínkách
+(kvalita vody, hustota obsádky, výživa, stres, genetika).
+
+
+------------------------------------------------
+10. DRUHOVÉ PROFILY – TYPICKÉ NEMOCI A PATOGENY
+------------------------------------------------
+
+10.1 Lososovití (pstruh duhový, siven, losos)
+- Typické problémy:
+  - Flavobacterium psychrophilum (bakteriální onemocnění ploutví, BT),
+  - Aeromonas spp. (septikemie, vředy),
+  - Saprolegnia na jikrách a poraněních.
+- Typické spouštěče:
+  - nízký O₂, vysoké NO₂/NH₃,
+  - náhlé výkyvy teploty,
+  - přetížení odchovných jednotek ve fázi fingerlings.
+
+10.2 Percidi (candát obecný, okoun říční)
+- Typické problémy:
+  - Aeromonas spp. při stresu a manipulaci,
+  - parazitární zátěž při vysoké hustotě (Trichodina, Ich),
+  - kožní a žaberní léze při kolísavé kvalitě vody.
+- Sensitivita:
+  - citlivější na NO₂ a dlouhodobý stres,
+  - špatně tolerují hrubou manipulaci a náhlé změny prostředí.
+
+10.3 Cyprinidi (kapr, koi, lín, karas)
+- Typické problémy:
+  - „krupička“ (Ich) v jezírkách a rybnících,
+  - Saprolegnia u poraněných ryb,
+  - bakteriální rozpad ploutví (Flavobacterium),
+  - virové onemocnění KHV u koi.
+- Jezírka:
+  - kombinace vysoké organické zátěže + nestabilní O₂ + paraziti.
+
+10.4 Sumci a pangas (sumec velký, sumeček africký, pangasius)
+- Typické problémy:
+  - Aeromonas a další oportunní bakterie při vysokém TAN/NO₂,
+  - žaberní paraziti při nízkém O₂,
+  - stres z vysoké hustoty, zejména ve fázi growout.
+- Zvláštnosti:
+  - relativně dobře snášejí teplou vodu, ale špatně snáší kombinaci
+    vysoké teploty + nízkého O₂ + vysokého organického zatížení.
+
+10.5 Tilapie
+- Vysoká tolerance k teplotě a kolísání podmínek, ale:
+  - bakteriální infekce při přetížení a špatné hygieně,
+  - parazitární zátěž při vysoké hustotě a nízké výměně vody.
+- Typický problém:
+  - „nenápadné“ chronické zhoršování kondice → pomalý růst, vyšší FCR.
+
+10.6 Jeseteři (sibiřský, ruský, malý, vyza)
+- Typické problémy:
+  - žaberní léze, hypoxie (citlivost na nízký O₂),
+  - bakteriální infekce kůže a kořenů ploutví,
+  - plísně na poraněních.
+- Citlivost:
+  - špatně snášejí náhlé změny kvality vody,
+  - citliví na manipulaci a mechanické poškození.
+
+
+------------------------------------------------
+11. ROZHODOVACÍ STROM DIAGNOSTIKY (TEXTOVÁ VERZE)
+------------------------------------------------
+
+Tento strom NENAHRAZUJE veterináře, ale dává strukturu pro první kroky.
+Aquantis může tento strom interně využívat při vyhodnocování vstupních dat.
+
+KROK 1 – ZHODNOŤ SITUACI
+- Je zvýšená mortalita?
+  - NE → zaměř se na změny chování, příjmu potravy, dýchání.
+  - ANO → zaznamenat počet, velikost, časový průběh → přejít na KROK 2.
+
+KROK 2 – ZKONTROLUJ VODU
+- Změř:
+  - O₂, teplotu,
+  - pH, alkalitu,
+  - TAN, NO₂, NO₃.
+- Pokud jsou hodnoty mimo bezpečné meze:
+  - okamžitě řešit kvalitu vody (aerace, výměna, snížení krmení),
+  - patogen může být sekundární problém.
+
+KROK 3 – VZHLED RYB
+- Jsou viditelné:
+  - bílé tečky → podezření na Ich,
+  - vředy, hemoragie → Aeromonas / smíšené bakteriální infekce,
+  - vatovité povlaky → Saprolegnia,
+  - rozpad ploutví, žaber → Flavobacterium / columnaris komplex.
+- Pokud není nic na kůži, ale je:
+  - zrychlené dýchání, sliz na žábrech → často žaberní paraziti nebo NO₂.
+
+KROK 4 – ROZSAH PROBLÉMU
+- Postiženo:
+  - jen několik kusů → možné lokální poranění, individuální slabost,
+  - většina obsádky → systémový problém (voda, infekce, nebo obojí).
+- Je problém v jedné nádrži nebo ve více?
+  - jedna nádrž → lokální faktor (místní proudění, mrtvá zóna, lokální infekce),
+  - více nádrží → systémová chyba (voda, krmivo, dezinfekce, biosecurity).
+
+KROK 5 – TYP SYSTÉMU A DRUH
+- Zohlednit:
+  - druh (lososovití vs sumci vs cyprinidi),
+  - vývojovou fázi (larvy, fingerlings, growout),
+  - historii (nedávné manipulace, přesun, nové ryby).
+- Např.:
+  - lososovití ve studené vodě + rozpad ploutví → často Flavobacterium,
+  - teplá voda + vředy + špatná hygiena → Aeromonas + špatná voda,
+  - jezírko s koi + bílé tečky → často Ich.
+
+KROK 6 – BEZPEČNÉ PRVNÍ KROKY
+- Vždy:
+  - zlepšit kvalitu vody (O₂, snížit NO₂/TAN, stabilizovat pH),
+  - snížit krmení, minimalizovat manipulaci,
+  - odstranit uhynulé ryby,
+  - zdokumentovat situaci a připravit se na konzultaci odborníka.
+
+KROK 7 – ZAPOJENÍ VETERINÁŘE
+- Zapojit veterináře nebo specialistu, pokud:
+  - mortalita je rychle rostoucí,
+  - existuje podezření na virové onemocnění,
+  - je potřeba cílené bakteriologické či parazitologické vyšetření,
+  - zvažuje se použití léčiv nebo biocidů.
+
+
+------------------------------------------------
+12. VÝCHODISKA Z ODBORNÝCH ZDROJŮ (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+Tento dokument je formulován na základě syntézy veřejně dostupných a
+obecně citovaných zdrojů:
+
+- textbooks a review článků o rybích chorobách,
+- univerzitních extension materiálů (Auburn, Texas A&M, UF/IFAS, NCSU),
+- odborných článků o zdravotních problémech v intenzivních chovech a RAS,
+- praktických zkušeností z provozů publikovaných v otevřených materiálech.
+
+Všechny formulace jsou nově vytvořené a NEJSOU přepisem konkrétních vět
+z originálních zdrojů. Slouží jako obecný rámec pro interní rozhodování
+Aquantis a nikdy nenahrazují veterinární diagnózu.
+
+
+------------------------------------------------
+13. VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB19 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)

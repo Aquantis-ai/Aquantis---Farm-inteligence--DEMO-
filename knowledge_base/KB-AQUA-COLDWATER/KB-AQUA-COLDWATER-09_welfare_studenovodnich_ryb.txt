@@ -1,0 +1,194 @@
+KB-AQUA-COLDWATER-09 – Welfare studenovodních ryb (V1)
+=====================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – studenovodní akvária
+Typ dokumentu: Welfare & etologie
+Použití v Aquantis: Diagnostika, prevence, dlouhodobý management
+Vhodné pro RAG: Ano
+Verze: V1
+Datum: 2025-02
+
+Zdroje (syntéza, parafráze):
+- FAO – Fish welfare guidelines
+- RSPCA / OIE – Animal welfare in fish
+- University of Stirling – Fish welfare indicators
+- Practical Fishkeeping, IFAS Extension
+- Goldfish & coldwater husbandry best practices (EU/USA)
+
+------------------------------------------------
+1. CO ZNAMENÁ WELFARE U RYB
+------------------------------------------------
+
+Welfare ryb = dlouhodobý stav fyzické i psychické pohody,
+ne pouze absence úhynu nebo viditelných nemocí.
+
+Zahrnuje:
+- schopnost přirozeného chování,
+- nízkou úroveň chronického stresu,
+- stabilní fyziologické podmínky,
+- absenci dlouhodobého poškození tkání.
+
+U studenovodních ryb je welfare často porušeno
+NE akutní chybou, ale **dlouhodobým nevhodným chovem**.
+
+------------------------------------------------
+2. TYPICKÉ STUDENOVODNÍ DRUHY
+------------------------------------------------
+
+- Zlatá rybka (Carassius auratus – common, fancy formy)
+- Danio (Danio rerio a příbuzné druhy)
+- White cloud mountain minnow (Tanichthys albonubes)
+- Studenovodní karasovité ryby
+- Některé střevličky a mírné druhy kaprovitých
+
+Poznámka:
+Studenovodní ≠ „nenáročné“.
+
+------------------------------------------------
+3. HLAVNÍ STRESORY STUDENOVODNÍCH RYB
+------------------------------------------------
+
+1. Chronická organická zátěž (NH₃, NO₂, NO₃)
+2. Nedostatečný objem nádrže
+3. Vysoká hustota ryb
+4. Nevhodná teplota (často PŘÍLIŠ VYSOKÁ)
+5. Slabá filtrace a proudění
+6. Častá manipulace a stres
+7. Sociální stres (nevhodná skladba ryb)
+
+------------------------------------------------
+4. TEPLOTA A WELFARE
+------------------------------------------------
+
+Studenovodní ryby jsou adaptované na:
+- pomalejší metabolismus,
+- vyšší obsah O₂ ve vodě,
+- sezónní kolísání.
+
+Typické welfare problémy:
+- dlouhodobá teplota > 22 °C → chronický stres
+- zrychlený metabolismus → vyšší bioload
+- zkrácení délky života
+
+Zlaté rybky:
+- ideál: 16–20 °C
+- dlouhodobě nevhodné: > 23–24 °C
+
+------------------------------------------------
+5. HUSTOTA A PROSTOR
+------------------------------------------------
+
+Welfare není jen „kolik ryb přežije“, ale:
+- kolik prostoru má ryba k přirozenému pohybu,
+- zda má možnost úniku,
+- zda není permanentně rušena.
+
+Typické welfare chyby:
+- malé kulaté nádrže („koule“),
+- přerybnění fancy zlatými rybkami,
+- kombinace pomalých a rychlých druhů.
+
+Dlouhodobě nevhodné:
+- malé objemy < 60–80 l pro zlaté rybky
+- vysoká hustota bez silné filtrace
+
+------------------------------------------------
+6. CHOVÁNÍ JAKO INDIKÁTOR WELFARE
+------------------------------------------------
+
+Zdravé welfare chování:
+- plynulé plavání,
+- aktivní, ale ne chaotické chování,
+- pravidelné krmení,
+- normální sociální interakce.
+
+Varovné signály:
+- apatie nebo hyperaktivita,
+- lapání po dechu bez zjevné hypoxie,
+- tření o dekorace,
+- zrychlené dýchání,
+- stažené ploutve.
+
+------------------------------------------------
+7. FYZICKÉ INDIKÁTORY ŠPATNÉHO WELFARE
+------------------------------------------------
+
+- deformace těla (často u fancy forem),
+- chronické poškození ploutví,
+- zarudnutí žaber,
+- zakalené oči,
+- zhoršená regenerace po drobných poraněních.
+
+Poznámka:
+Tyto projevy jsou často výsledkem **měsíců až let špatného welfare**.
+
+------------------------------------------------
+8. SVĚTLO A KLID
+------------------------------------------------
+
+Studenovodní ryby:
+- nevyžadují silné světlo,
+- citlivé na náhlé změny osvětlení,
+- potřebují klidné období (noc).
+
+Welfare chyby:
+- náhlé rozsvícení,
+- permanentní osvětlení,
+- hluk, vibrace, klepání na sklo.
+
+------------------------------------------------
+9. MANIPULACE A STRES
+------------------------------------------------
+
+Každá manipulace = stres.
+
+Minimalizovat:
+- časté chytání ryb,
+- zbytečné přesuny,
+- agresivní čištění nádrže.
+
+Doporučení:
+- údržbu plánovat,
+- pracovat pomalu,
+- ryby zbytečně nevyrušovat.
+
+------------------------------------------------
+10. DLOUHODOBÉ DŮSLEDKY ŠPATNÉHO WELFARE
+------------------------------------------------
+
+- zkrácení délky života,
+- vyšší náchylnost k nemocem,
+- chronická imunodeprese,
+- deformace a trvalé poškození.
+
+Zlaté rybky:
+- potenciál 15–25 let
+- při špatném welfare často < 5 let
+
+------------------------------------------------
+11. PREVENTIVNÍ PRINCIPY DOBRÉHO WELFARE
+------------------------------------------------
+
+1. Dostatečný objem nádrže
+2. Silná a stabilní filtrace
+3. Nízká hustota ryb
+4. Stabilní teplota v chladnější zóně
+5. Pravidelná, ale klidná údržba
+6. Respektování přirozeného chování druhů
+
+------------------------------------------------
+12. SHRNUTÍ PRO AQUANTIS
+------------------------------------------------
+
+Aquantis by měl:
+- upozorňovat na chronické welfare chyby,
+- hodnotit welfare i bez úhynů,
+- vysvětlovat rozdíl mezi „ryba přežívá“ a „ryba prospívá“,
+- vést uživatele k dlouhodobě udržitelnému chovu.
+
+------------------------------------------------
+KONEC DOKUMENTU
+------------------------------------------------

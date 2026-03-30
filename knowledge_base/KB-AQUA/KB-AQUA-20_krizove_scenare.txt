@@ -1,0 +1,241 @@
+KB-AQUA-20 – KRIZOVÉ SCÉNÁŘE V AKVARISTICE (V1)
+=============================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika
+Typ dokumentu: Krizové scénáře / havarijní protokoly
+Použití v Aquantis: Diagnostika, prevence, krizové řízení
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument shrnuje nejčastější krizové a havarijní situace v akvaristice,
+jejich biologické příčiny, typické chyby akvaristů a správné postupy reakce.
+
+Cílem není pouze „zachránit ryby“, ale:
+- minimalizovat mortalitu,
+- zabránit opakování chyby,
+- stabilizovat systém dlouhodobě.
+
+Dokument je použitelný pro:
+- sladkovodní i tropická akvária,
+- společenská i druhová akvária,
+- hobby i pokročilé akvaristy.
+
+
+------------------------------------------------
+2. OBECNÉ ZÁSADY KRIZOVÉ REAKCE
+------------------------------------------------
+Při jakékoli krizové situaci platí:
+
+1) Nejednat chaoticky.
+2) Neaplikovat více zásahů najednou.
+3) Upřednostnit stabilitu před „rychlým řešením“.
+4) Identifikovat PŘÍČINU, ne pouze symptom.
+
+Nejčastější fatální chyba:
+→ kombinace výměny vody + chemie + změny filtrace během několika hodin.
+
+
+------------------------------------------------
+3. NÁHLÉ ÚHYNY RYB
+------------------------------------------------
+
+Symptomy:
+- rychlé nebo hromadné úhyny,
+- ryby leží na dně nebo lapají po vzduchu,
+- žádné nebo minimální předchozí varování.
+
+Pravděpodobné příčiny:
+- akutní otrava (NH3, NO2),
+- nedostatek kyslíku,
+- kontaminace (čisticí prostředky, aerosoly, těžké kovy),
+- prudká změna teploty nebo pH.
+
+Správný postup:
+- okamžitě zvýšit aeraci,
+- provést částečnou výměnu vody (20–40 %),
+- zastavit krmení,
+- změřit NH3, NO2, pH, teplotu.
+
+Typická chyba:
+- kompletní výměna vody,
+- přidání „zázračných přípravků“ bez diagnózy.
+
+
+------------------------------------------------
+4. RYBY LAPAJÍCÍ PO VZDUCHU U HLADINY
+------------------------------------------------
+
+Symptomy:
+- shromažďování ryb u hladiny,
+- rychlé dýchání,
+- apatie nebo panika.
+
+Pravděpodobné příčiny:
+- nízký obsah O₂,
+- vysoké NO2,
+- přerybnění,
+- ucpaná filtrace.
+
+Správný postup:
+- zvýšit pohyb hladiny,
+- zkontrolovat filtr a průtok,
+- snížit krmení,
+- provést částečnou výměnu vody.
+
+Typická chyba:
+- přidání CO₂ nebo tekutého uhlíku v domnění, že „ryby se dusí z jiného důvodu“.
+
+
+------------------------------------------------
+5. ZAKALENÍ VODY (MLÉČNÝ, ZELENÝ, HNĚDÝ)
+------------------------------------------------
+
+Symptomy:
+- mléčný zákal → bakteriální boom,
+- zelený zákal → fytoplankton,
+- hnědý zákal → organické částice.
+
+Pravděpodobné příčiny:
+- nezaběhnutá nádrž,
+- přetížení krmením,
+- kolaps biofiltrace,
+- nadměrné světlo.
+
+Správný postup:
+- nepanikařit (zejména u nových nádrží),
+- snížit krmení,
+- stabilizovat filtraci,
+- postupné výměny vody.
+
+Typická chyba:
+- okamžité použití UV nebo chemie bez odstranění příčiny.
+
+
+------------------------------------------------
+6. VÝPADEK FILTRACE
+------------------------------------------------
+
+Symptomy:
+- zastavený filtr,
+- zápach z filtru,
+- zhoršení kvality vody během 24–72 h.
+
+Rizika:
+- kolaps nitrifikace,
+- uvolnění toxických látek z filtru,
+- rychlý nárůst NH3 a NO2.
+
+Správný postup:
+- obnovit průtok co nejdříve,
+- filtr nikdy nečistit v horké nebo chlorované vodě,
+- zvýšit aeraci v akváriu.
+
+Typická chyba:
+- kompletní vyčištění biofiltru „do čista“.
+
+
+------------------------------------------------
+7. NÁHLÝ VÝSKYT NEMOCÍ
+------------------------------------------------
+
+Symptomy:
+- bílé tečky, povlaky,
+- rozpad ploutví,
+- změny chování.
+
+Pravděpodobné příčiny:
+- stres,
+- kolísání vody,
+- zavlečení nových ryb bez karantény.
+
+Správný postup:
+- izolace postižených ryb (pokud možno),
+- stabilizace vody,
+- přesná identifikace onemocnění.
+
+Typická chyba:
+- plošné léčení celé nádrže bez diagnózy.
+
+
+------------------------------------------------
+8. PŘEHŘÁTÍ NEBO PODCHLAZENÍ AKVÁRIA
+------------------------------------------------
+
+Symptomy:
+- letargie nebo panika,
+- zrychlené dýchání,
+- ztráta rovnováhy.
+
+Pravděpodobné příčiny:
+- porucha topítka,
+- přímé slunce,
+- výpadek topení v zimě.
+
+Správný postup:
+- postupná korekce teploty (max. 1–2 °C / hod),
+- stínění nebo chlazení,
+- kontrola techniky.
+
+Typická chyba:
+- prudké ochlazení výměnou studené vody.
+
+
+------------------------------------------------
+9. MASIVNÍ ÚHYN PO VÝMĚNĚ VODY
+------------------------------------------------
+
+Pravděpodobné příčiny:
+- teplotní šok,
+- chlor / chloramin,
+- rozdílné pH a tvrdost.
+
+Správný postup:
+- vždy upravovat vodu předem,
+- používat kondicionéry,
+- měnit menší objemy častěji.
+
+Typická chyba:
+- „rychlá velká výměna“ bez přípravy vody.
+
+
+------------------------------------------------
+10. PREVENCE KRIZOVÝCH STAVŮ
+------------------------------------------------
+
+Základní preventivní opatření:
+- pravidelný monitoring vody,
+- konzistentní údržba,
+- karanténa nových ryb,
+- nepřekrmovat,
+- nepřerybňovat.
+
+Důležitá filozofie:
+Stabilní akvárium ≠ sterilní akvárium.
+Biologická rovnováha je důležitější než „dokonalá čistota“.
+
+
+------------------------------------------------
+11. ZDROJE A ODBORNÁ VÝCHODISKA
+------------------------------------------------
+Dokument vychází ze syntézy:
+- univerzitních extension materiálů (Florida, Texas A&M),
+- akvarijní mikrobiologie a nitrifikace,
+- běžné praxe profesionálních chovatelů,
+- obecně uznávaných akvaristických standardů.
+
+Veškerý text je původní, parafrázovaný a právně bezpečný.
+
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-20 – V1
+Určeno pro: Aquantis Knowledge Base

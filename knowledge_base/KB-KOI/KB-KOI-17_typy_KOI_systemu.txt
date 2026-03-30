@@ -1,0 +1,273 @@
+KB-KOI-17 – TYPY KOI SYSTÉMŮ (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: KOI – technologie a management
+Typ dokumentu: System Overview
+Použití v Aquantis: Návrh systému, diagnostika, poradenství
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument popisuje hlavní typy KOI chovných systémů,
+jejich technologické principy, výhody, omezení a vhodné použití.
+
+Cílem je umožnit Aquantis:
+- rozpoznat typ systému podle popisu uživatele,
+- přizpůsobit doporučení filtraci, krmení a managementu,
+- správně vyhodnotit rizika spojená s daným typem jezírka.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ ROZDĚLENÍ KOI SYSTÉMŮ
+------------------------------------------------
+
+KOI systémy lze rozdělit podle:
+- míry intenzity,
+- typu filtrace,
+- míry automatizace,
+- účelu (hobby / růst / show / karanténa).
+
+Základní kategorie:
+1. Tradiční zahradní KOI jezírko
+2. KOI jezírko s vícekomorovou filtrací
+3. KOI systém s bubnovým filtrem (moderní)
+4. Průtočný KOI systém
+5. Indoor KOI systém (hala)
+6. Karanténní / nemocniční KOI systém
+7. Show / růstové KOI systémy
+
+
+------------------------------------------------
+3. TRADIČNÍ ZAHRADNÍ KOI JEZÍRKO
+------------------------------------------------
+
+Charakteristika:
+- Jednoduchý systém, často starší realizace
+- Gravitační nebo čerpadlová filtrace
+- Nízká až střední obsádka
+
+Typické prvky:
+- Skimmer
+- Čerpadlo
+- Jednoduchý biologický filtr
+- UV lampa (často poddimenzovaná)
+
+Výhody:
+- Nízké pořizovací náklady
+- Jednoduchá obsluha
+
+Omezení:
+- Nestabilní kvalita vody
+- Omezená filtrační kapacita
+- Vyšší riziko NO₂ a organického zatížení
+
+Vhodné pro:
+- Hobby chov
+- Menší KOI, nižší krmení
+
+
+------------------------------------------------
+4. KOI JEZÍRKO S VÍCEKOMOROVOU FILTRACÍ
+------------------------------------------------
+
+Charakteristika:
+- Oddělená mechanická a biologická filtrace
+- Gravitační tok vody
+
+Typické prvky:
+- Sítový nebo kartáčový předfiltr
+- Komory s biomédii
+- Samostatná UV sekce
+
+Výhody:
+- Lepší stabilita vody
+- Vyšší biologická kapacita
+
+Omezení:
+- Náročnější údržba
+- Větší prostorové nároky
+
+Vhodné pro:
+- Středně pokročilé chovatele
+- Stabilní hobby i poloprovozní systémy
+
+
+------------------------------------------------
+5. MODERNÍ KOI SYSTÉMY S BUBNOVÝM FILTREM
+------------------------------------------------
+
+Charakteristika:
+- Automatická mechanická filtrace
+- Vysoká čistota vody
+- Kombinace s moving bed biofiltrací
+
+Typické prvky:
+- Drum filter
+- Moving bed (K1, K+)
+- Výkonné UV nebo UV-C
+- Často doplněno o shower filtr
+
+Výhody:
+- Vysoká stabilita vody
+- Nízké organické zatížení
+- Vhodné pro intenzivní krmení
+
+Omezení:
+- Vyšší investiční náklady
+- Vyšší technická složitost
+
+Vhodné pro:
+- Show KOI
+- Růstové systémy
+- Náročné hobby chovy
+
+
+------------------------------------------------
+6. PRŮTOČNÉ KOI SYSTÉMY
+------------------------------------------------
+
+Charakteristika:
+- Neustálý přítok čerstvé vody
+- Minimální kumulace NO₃ a organiky
+
+Výhody:
+- Velmi stabilní chemismus vody
+- Nízké zatížení biofiltru
+
+Omezení:
+- Vysoká spotřeba vody
+- Legislativní omezení v některých regionech
+
+Vhodné pro:
+- Růstové systémy
+- Profesionální chovy
+- Farmy v oblastech s dostatkem vody
+
+
+------------------------------------------------
+7. INDOOR KOI SYSTÉMY (HALY, GARÁŽE)
+------------------------------------------------
+
+Charakteristika:
+- Celoroční provoz
+- Kontrolovaná teplota a světlo
+
+Typické prvky:
+- RAS-like technologie
+- Intenzivní aerace
+- Silná biologická filtrace
+
+Výhody:
+- Celoroční růst
+- Stabilní podmínky
+- Minimální sezónní stres
+
+Omezení:
+- Vysoké energetické náklady
+- Nutnost precizního řízení
+
+Vhodné pro:
+- Přezimování KOI
+- Růst mladých ryb
+- Karanténu
+
+
+------------------------------------------------
+8. KARANTÉNNÍ A NEMOCNIČNÍ KOI SYSTÉMY
+------------------------------------------------
+
+Charakteristika:
+- Malé objemy
+- Snadná dezinfekce
+- Krátkodobý provoz
+
+Typické prvky:
+- Jednoduchý biofiltr
+- Silná aerace
+- Regulace teploty
+
+Zásady:
+- Oddělení od hlavního systému
+- Samostatné vybavení (síťky, hadice)
+
+Vhodné pro:
+- Nové ryby
+- Léčbu
+- Diagnostiku problémů
+
+
+------------------------------------------------
+9. SHOW A RŮSTOVÉ KOI SYSTÉMY
+------------------------------------------------
+
+Charakteristika:
+- Optimalizované pro:
+  - rychlý růst
+  - barvu
+  - kondici
+
+Typické prvky:
+- Vysoký průtok
+- Extrémně účinná filtrace
+- Precizní kontrola krmení
+
+Rizika:
+- Vyšší citlivost na výpadky
+- Nutnost redundance systémů
+
+Vhodné pro:
+- Výstavní KOI
+- Profesionální chovatele
+
+
+------------------------------------------------
+10. SROVNÁNÍ TYPŮ SYSTÉMŮ (PŘEHLED)
+------------------------------------------------
+
+Typ systému | Náročnost | Stabilita | Vhodné pro
+--------------------------------------------------
+Tradiční    | Nízká     | Nízká     | Hobby
+Komorový    | Střední   | Střední   | Pokročilý hobby
+Drum filter | Vysoká    | Vysoká    | Show, růst
+Průtočný    | Vysoká    | Velmi vys.| Profesionální
+Indoor      | Vysoká    | Velmi vys.| Zimování, růst
+Karanténa   | Nízká     | Lokální   | Biosecurity
+
+
+------------------------------------------------
+11. SOUVISEJÍCÍ KB DOKUMENTY
+------------------------------------------------
+
+- KB-KOI-02 – Kvalita vody pro KOI
+- KB-KOI-03 – Filtrace a technologie
+- KB-KOI-05 – Zdraví KOI
+- KB-KOI-09 – Design KOI jezírka
+- KB-KOI-15 – Krizové scénáře v KOI chovech
+- KB-KOI-16 – Ekonomika KOI chovu
+
+
+------------------------------------------------
+12. POZNÁMKA K POUŽITÍ V AQUANTIS
+------------------------------------------------
+
+Aquantis by měl:
+- identifikovat typ KOI systému z popisu uživatele,
+- přizpůsobit limity vody a doporučení filtrace,
+- zohlednit rizika typická pro daný systém,
+- navrhovat upgrade pouze kompatibilní s daným typem.
+
+
+------------------------------------------------
+13. VERZE DOKUMENTU
+------------------------------------------------
+KB-KOI-17 – Typy KOI systémů
+Verze: V1
+Určeno pro: Aquantis Knowledge Base

@@ -1,0 +1,260 @@
+KB-KOI-15 – KRIZOVÉ SCÉNÁŘE V KOI CHOVECH (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: KOI – krizové řízení a havarijní scénáře
+Typ dokumentu: Crisis Management / Emergency Protocol
+Použití v Aquantis: Diagnostika, havarijní doporučení, prevence
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument definuje typické krizové a havarijní scénáře v KOI jezírkách,
+jejich pravděpodobné příčiny, varovné signály, okamžitá stabilizační opatření
+a dlouhodobou prevenci.
+
+Cílem není nahrazovat veterinární zásah, ale:
+- minimalizovat ztráty,
+- stabilizovat systém,
+- zabránit eskalaci problému,
+- správně rozhodnout, kdy a jak zasáhnout.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ PRINCIP KRIZOVÉHO ŘÍZENÍ KOI
+------------------------------------------------
+
+Každý krizový scénář se hodnotí podle 4 kroků:
+
+1) DETEKCE
+   - včasné rozpoznání abnormality (chování, voda, filtrace)
+2) STABILIZACE
+   - okamžité kroky ke snížení stresu a rizika
+3) DIAGNOSTIKA
+   - hledání skutečné příčiny (ne jen symptomu)
+4) PREVENCE
+   - úprava systému, aby se situace neopakovala
+
+
+------------------------------------------------
+3. KRIZOVÝ SCÉNÁŘ 1 – NÁHLÁ HYPOXIE (NEDOSTATEK KYSLÍKU)
+------------------------------------------------
+
+Typické projevy:
+- KOI se shromažďují u hladiny
+- lapání po vzduchu
+- apatie, nekoordinované plavání
+- úhyny během hodin
+
+Pravděpodobné příčiny:
+- výpadek aerace / čerpadla
+- vysoké organické zatížení
+- letní přehřátí vody
+- kolaps biofiltru
+
+Okamžité kroky (HNED):
+- maximálně zvýšit aeraci (záložní vzduchování)
+- rozvířit hladinu
+- zastavit krmení
+- pokud možno částečná výměna vody
+
+Do 24 hodin:
+- zkontrolovat všechny aerátory a pumpy
+- snížit obsádku / biomasy
+- odstranit organické nečistoty
+
+Prevence:
+- redundantní aerace
+- alarm O₂
+- letní krizový plán
+
+
+------------------------------------------------
+4. KRIZOVÝ SCÉNÁŘ 2 – OTRAVA DUSÍKEM (NH₃ / NO₂)
+------------------------------------------------
+
+Projevy:
+- zarudlé žábry
+- rychlé dýchání
+- ztráta rovnováhy
+- tmavnutí těla
+
+Příčiny:
+- přetížení biofiltru
+- nový / rozhozený filtr
+- náhlé zvýšení krmení
+- nízká alkalita
+
+Okamžité kroky:
+- okamžité snížení / zastavení krmení
+- částečná výměna vody
+- zvýšení aerace
+- kontrola pH a KH
+
+Do 24 hodin:
+- stabilizace alkalinity
+- mechanické odstranění kalu
+- monitoring TAN / NO₂ každých 6–12 h
+
+Prevence:
+- postupné navyšování krmení
+- stabilní biofiltrace
+- nepřerušovat filtrační cyklus
+
+
+------------------------------------------------
+5. KRIZOVÝ SCÉNÁŘ 3 – BAKTERIÁLNÍ ROZPAD (ULCERY, FIN ROT)
+------------------------------------------------
+
+Projevy:
+- otevřené léze
+- rozpad ploutví
+- zarudnutí kůže
+- letargie
+
+Příčiny:
+- chronický stres
+- špatná kvalita vody
+- poranění
+- oslabená imunita
+
+Okamžité kroky:
+- izolace postižených ryb (pokud možné)
+- zlepšení kvality vody
+- omezení manipulace
+
+Do 24–72 hodin:
+- konzultace s veterinářem
+- cílená diagnostika (stěr, mikroskopie)
+
+Prevence:
+- stabilní voda
+- karanténa nových ryb
+- prevence poranění
+
+
+------------------------------------------------
+6. KRIZOVÝ SCÉNÁŘ 4 – PARAZITÁRNÍ EXPLOZE
+------------------------------------------------
+
+Projevy:
+- tření o předměty
+- zvýšený hlen
+- šedý povlak
+- neklid
+
+Příčiny:
+- zavlečení nových ryb
+- slabá karanténa
+- sezónní stres (jaro/podzim)
+
+Okamžité kroky:
+- minimalizace stresu
+- zlepšení kvality vody
+- mikroskopická diagnostika
+
+Prevence:
+- karanténa
+- sezónní monitoring
+- stabilní teplota
+
+
+------------------------------------------------
+7. KRIZOVÝ SCÉNÁŘ 5 – VIRÁLNÍ ONEMOCNĚNÍ (KHV, SVC)
+------------------------------------------------
+
+Projevy:
+- masivní mortalita
+- apatie
+- poškození žaber
+- rychlá eskalace
+
+Příčiny:
+- zavlečení infikovaných ryb
+- nelegální přesuny
+- stres + teplotní šok
+
+Okamžité kroky:
+- izolace systému
+- zákaz přesunů ryb
+- kontakt veterináře / autority
+
+Prevence:
+- striktní biosecurity
+- karanténa
+- evidence původu ryb
+
+
+------------------------------------------------
+8. KRIZOVÝ SCÉNÁŘ 6 – CHEMICKÁ KONTAMINACE
+------------------------------------------------
+
+Příčiny:
+- pesticidy
+- čisticí prostředky
+- dešťový splach
+- nekvalitní voda
+
+Projevy:
+- náhlé úhyny bez varování
+- křeče
+- nekoordinovaný pohyb
+
+Okamžité kroky:
+- okamžitá výměna vody
+- aktivní uhlí
+- silná aerace
+
+Prevence:
+- ochrana přítoků
+- zákaz chemie v okolí jezírka
+
+
+------------------------------------------------
+9. ROZHODOVACÍ MATICE – KDY VOLAT ODBORNÍKA
+------------------------------------------------
+
+Kontaktuj odborníka okamžitě, pokud:
+- mortalita > 5 % / den
+- kombinace více symptomů
+- podezření na virové onemocnění
+- problém se nelepší do 24–48 h
+
+
+------------------------------------------------
+10. ZÁKLADNÍ PREVENTIVNÍ STRATEGIE
+------------------------------------------------
+
+- redundantní technika
+- alarmy (O₂, teplota)
+- karanténa
+- evidence zásahů
+- sezónní plán krizí
+- minimalizace stresu
+
+
+------------------------------------------------
+11. ZDROJOVÉ KONTEXTY (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+- KOI Organisation International
+- UK Koi Health Guidelines
+- FAO Fish Health Manuals
+- University Extension Fish Health Programs
+- praktické KOI best practices (EU, JP, USA)
+
+Veškerý text je originální syntézou odborných poznatků.
+
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+KB-KOI-15 – V1  
+Určeno pro: Aquantis Knowledge Base

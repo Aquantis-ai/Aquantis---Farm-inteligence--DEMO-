@@ -1,0 +1,202 @@
+KB-AQUA-COLDWATER-15 – BIOLOGICKÁ ZÁTĚŽ VE STUDENOVODNÍCH AKVÁRIÍCH (V1)
+====================================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – studenovodní systémy
+Typ dokumentu: Provozní ekologie / výpočtové modely
+Použití v Aquantis: Diagnostika, návrh nádrže, prevence kolapsů
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+Zdroje (syntéza, parafráze):
+- Boyd, Water Quality in Freshwater Systems
+- FAO – Freshwater aquaculture ecology
+- University Extension (coldwater aquaria & ponds)
+- Odborná akvaristická praxe EU
+
+
+------------------------------------------------
+1. CO JE BIOLOGICKÁ ZÁTĚŽ (BIOLOAD)
+------------------------------------------------
+
+Biologická zátěž představuje:
+- množství organické hmoty produkované rybami,
+- zbytky krmiva,
+- metabolický odpad (NH₄⁺),
+- rozklad biomasy (rostliny, mikrofauna).
+
+Ve studenovodních akváriích je bioload:
+- často podceňován,
+- méně „viditelný“ než v tropických nádržích,
+- dlouhodobě kumulativní.
+
+
+------------------------------------------------
+2. PROČ JE BIOLOAD KRITICKÝ VE STUDENÉ VODĚ
+------------------------------------------------
+
+Nízká teplota:
+- zpomaluje nitrifikaci,
+- snižuje aktivitu bakterií,
+- prodlužuje dobu odbourávání dusíku.
+
+Důsledek:
+Stejný počet ryb = vyšší riziko
+chronické toxicity než v tropickém akváriu.
+
+
+------------------------------------------------
+3. HLAVNÍ ZDROJE BIOLOGICKÉ ZÁTĚŽE
+------------------------------------------------
+
+3.1 Ryby
+- velikost (hmotnost) > počet kusů
+- tvar těla (zlaté rybky = vysoký bioload)
+
+3.2 Krmení
+- množství,
+- typ krmiva,
+- frekvence.
+
+3.3 Rostliny a detrit
+- rozklad listů,
+- uhynulá mikrofauna.
+
+3.4 Mikrofauna
+- sekundární zátěž při přemnožení.
+
+
+------------------------------------------------
+4. TYPICKÉ STUDENOVODNÍ DRUHY A BIOLOAD
+------------------------------------------------
+
+Orientanční srovnání:
+
+- Zlatá rybka: velmi vysoký bioload
+- Fancy goldfish: extrémní bioload
+- Danio: nízký bioload
+- Kardinálka čínská: nízký bioload
+- Střevle: střední bioload
+
+Poznámka:
+Dvě malé ryby ≠ jedna velká ryba.
+
+
+------------------------------------------------
+5. PRAKTICKÉ MODELY ODHADU BIOLOADU
+------------------------------------------------
+
+5.1 Objemový model (základní)
+- max. 1 g rybí hmoty / 1 litr vody (studená voda)
+- u zlatých rybek spíše 0.5 g / l
+
+5.2 Model podle filtrace
+- biologická filtrace musí zvládnout
+produkci TAN při nízké teplotě
+
+5.3 Krmný model
+- množství krmiva = hlavní vstup dusíku
+- více krmení = vyšší TAN než více ryb
+
+
+------------------------------------------------
+6. BIOLOAD VS. FILTRACE
+------------------------------------------------
+
+Studenovodní filtrace musí:
+- být naddimenzovaná,
+- mít dlouhou retenční dobu,
+- pracovat stabilně i při 10–15 °C.
+
+Častá chyba:
+Použití tropické filtrace ve studené vodě.
+
+
+------------------------------------------------
+7. PŘÍZNAKY PŘETÍŽENÍ BIOLOADU
+------------------------------------------------
+
+- chronicky zvýšené NO₂⁻,
+- kolísání pH,
+- zákal vody,
+- zápach,
+- apatie ryb,
+- zvýšený výskyt mikrofauny.
+
+Tyto symptomy často nejsou akutní,
+ale dlouhodobě destruktivní.
+
+
+------------------------------------------------
+8. BIOLOAD A KRIZOVÉ SCÉNÁŘE
+------------------------------------------------
+
+Rychlý nárůst bioloadu:
+- nákup nových ryb,
+- zvýšení krmení,
+- úhyn ryby bez odstranění.
+
+Výsledek:
+- kolaps nitrifikace,
+- skokový nárůst NH₄⁺ / NO₂⁻.
+
+
+------------------------------------------------
+9. JAK BIOLOAD ŘÍDIT
+------------------------------------------------
+
+✔ snížit krmení
+✔ zvýšit objem vody
+✔ zlepšit filtraci
+✔ odstranit detrit
+✔ nepřerybňovat
+
+❌ nepřidávat chemii místo úpravy režimu
+
+
+------------------------------------------------
+10. ČASTÉ CHYBY CHOVATELŮ
+------------------------------------------------
+
+- podcenění velikosti ryb,
+- „ryby rostou s akváriem“ (mýtus),
+- příliš časté krmení,
+- slabá filtrace,
+- kombinace nevhodných druhů.
+
+
+------------------------------------------------
+11. BIOLOAD JAKO DIAGNOSTICKÝ KLÍČ
+------------------------------------------------
+
+Biologická zátěž je:
+- společný jmenovatel většiny problémů,
+- základní diagnostická proměnná.
+
+Aquantis by měl:
+- vždy hodnotit bioload jako první,
+- vysvětlovat jeho roli,
+- vést k systémovým řešením.
+
+
+------------------------------------------------
+12. SHRNUTÍ
+------------------------------------------------
+
+Ve studenovodních akváriích:
+- je bioload limitující faktor,
+- filtr a objem jsou důležitější než technické „vychytávky“,
+- méně ryb = stabilnější systém.
+
+Stabilita má přednost před hustotou.
+
+
+------------------------------------------------
+13. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-COLDWATER-15 – V1
+Určeno pro: Aquantis Knowledge Base
+Interní použití

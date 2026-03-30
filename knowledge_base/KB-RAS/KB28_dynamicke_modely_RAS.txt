@@ -1,0 +1,236 @@
+Aquantis_KB28_DYNAMICKÉ_MODELY_RAS_V1
+====================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument definuje dynamické (procesní) modely používané v RAS systémech
+pro:
+- predikci zatížení systému,
+- řízení biofiltrace,
+- řízení krmení a růstu ryb,
+- odhad dusíkové zátěže (N load),
+- prevenci kolapsů systému.
+
+Dokument slouží jako výpočtový a rozhodovací základ pro Aquantis
+a je určen k interpretaci provozních dat v čase (hodiny–dny–týdny),
+nikoli pouze statických hodnot.
+
+Modely jsou zjednodušené, ale vycházejí z odborné literatury:
+FAO, Boyd (Auburn), Malone & Pfeiffer, IJRA, univerzitní extension materiály
+a běžné RAS best practices.
+
+
+------------------------------------------------
+1. PRINCIP DYNAMICKÉHO MODELOVÁNÍ V RAS
+------------------------------------------------
+
+RAS není statický systém.
+Každá změna v jednom prvku se projeví se zpožděním v jiném:
+
+- krmení → TAN → NO2 → NO3
+- teplota → metabolismus → O₂ spotřeba
+- růst ryb → vyšší krmná dávka → vyšší biofiltrační nároky
+
+Cílem dynamických modelů je:
+- odhadnout budoucí stav systému,
+- včas rozpoznat rizikové trendy,
+- umožnit preventivní zásahy.
+
+Aquantis pracuje s modely na úrovni:
+- hodin (akutní stres),
+- dnů (biofiltr, NO₂),
+- týdnů (růst, kapacita systému).
+
+
+------------------------------------------------
+2. MODEL ZATÍŽENÍ TAN (TOTAL AMMONIA NITROGEN)
+------------------------------------------------
+
+Základní vztah:
+
+TAN produkce ≈ 30–35 g TAN / kg krmiva
+
+Obecný výpočet:
+------------------------------------------------
+Denní TAN [g] = Denní krmná dávka [kg] × 30–35
+------------------------------------------------
+
+Příklad:
+- Krmení: 50 kg/den
+- TAN produkce: 1 500–1 750 g TAN / den
+
+Faktory ovlivňující TAN:
+- druh ryby (metabolismus),
+- teplota,
+- velikost ryb,
+- FCR,
+- kvalita krmiva.
+
+Poznámka:
+Zvýšení krmení se projeví v biofiltru se zpožděním 12–48 hodin.
+
+
+------------------------------------------------
+3. MODEL NITRIFIKAČNÍ KAPACITY BIOFILTRU
+------------------------------------------------
+
+Typické nitrifikační kapacity (orientační):
+- Moving Bed (MBBR): 0.4–0.8 g TAN / m² / den
+- Fixed media: 0.2–0.5 g TAN / m² / den
+
+Základní výpočet plochy biofiltru:
+------------------------------------------------
+Potřebná plocha [m²] = Denní TAN [g] / Kapacita média
+------------------------------------------------
+
+Příklad:
+- TAN: 1 600 g/den
+- Kapacita média: 0.6 g TAN/m²/den
+→ Potřebná plocha ≈ 2 670 m² aktivní plochy
+
+Dynamické aspekty:
+- nově založený biofiltr = nižší kapacita,
+- kolísání pH a alkalinity snižuje účinnost,
+- nízký O₂ drasticky omezuje nitrifikaci.
+
+
+------------------------------------------------
+4. MODEL RŮSTU RYB (ZJEDNODUŠENÝ)
+------------------------------------------------
+
+Růst je funkcí:
+- teploty,
+- krmné dávky,
+- hustoty obsádky,
+- kvality vody.
+
+Zjednodušený denní přírůstek:
+------------------------------------------------
+Denní růst [% BW] = f(teplota, druh, velikost)
+------------------------------------------------
+
+Příklad (orientačně):
+- Fingerlings: 1.5–3 % BW / den
+- Growout: 0.5–1.2 % BW / den
+
+Důležité:
+Růst není lineární – zpomaluje se s velikostí ryb
+a při suboptimálních podmínkách.
+
+
+------------------------------------------------
+5. MODEL FCR (FEED CONVERSION RATIO)
+------------------------------------------------
+
+Definice:
+------------------------------------------------
+FCR = kg krmiva / kg přírůstku biomasy
+------------------------------------------------
+
+Typické hodnoty:
+- optimální RAS: 0.9–1.2
+- stresovaný systém: 1.4–2.0+
+
+Dynamická vazba:
+- zhoršení kvality vody → horší FCR
+- horší FCR → vyšší TAN → další zhoršení vody
+
+Tento pozitivní feedback je častým důvodem kolapsu systému.
+
+
+------------------------------------------------
+6. MODEL DUSÍKOVÉ ZÁTĚŽE (N LOAD)
+------------------------------------------------
+
+Dusík z krmiva:
+- cca 7–9 % hmotnosti krmiva = dusík
+
+Rozdělení dusíku:
+- ~25–30 % do biomasy ryb
+- ~60–70 % do vody (TAN → NO3)
+- zbytek do kalů
+
+Zjednodušený model:
+------------------------------------------------
+N do vody [kg] = Krmivo [kg] × 0.07 × 0.65
+------------------------------------------------
+
+Použití:
+- dimenzování biofiltru,
+- návrh denitrifikace,
+- odhad výměn vody.
+
+
+------------------------------------------------
+7. ČASOVÉ ZPOŽDĚNÍ (LAG EFFECTS)
+------------------------------------------------
+
+Klíčové zpoždění v RAS:
+- krmení → TAN: 2–6 h
+- TAN → NO2: 12–24 h
+- NO2 → NO3: 24–72 h
+- změna krmení → stabilizace: 3–7 dní
+
+Provozní chyba:
+Reakce až na NO2 je vždy pozdě – zásah musí přijít
+už při změně krmení nebo TAN trendu.
+
+
+------------------------------------------------
+8. DYNAMICKÉ RIZIKOVÉ SCÉNÁŘE
+------------------------------------------------
+
+Typické řetězce selhání:
+
+1) Zvýšení krmení
+→ přetížení biofiltru
+→ NO2 spike
+→ stres ryb
+→ zhoršení FCR
+→ další zatížení
+
+2) Výpadek aerace
+→ pokles O₂
+→ kolaps nitrifikace
+→ TAN + NO2
+→ akutní mortalita
+
+3) Pokles alkalinity
+→ pH kolísání
+→ snížení nitrifikace
+→ nestabilní systém
+
+
+------------------------------------------------
+9. PRAKTICKÉ VYUŽITÍ V AQUANTIS
+------------------------------------------------
+
+Aquantis využívá tyto modely k:
+- interpretaci trendů z dat,
+- generování varování (early warning),
+- vysvětlení příčinných souvislostí,
+- návrhu preventivních opatření.
+
+Cílem není přesná predikce,
+ale včasné rozpoznání nebezpečných směrů vývoje.
+
+
+------------------------------------------------
+10. OMEZENÍ MODELU
+------------------------------------------------
+
+- modely jsou zjednodušené,
+- nezahrnují genetické rozdíly,
+- předpokládají standardní krmiva,
+- slouží jako rozhodovací pomůcka, ne absolutní pravda.
+
+Vždy musí být interpretovány v kontextu
+konkrétního provozu.
+
+
+------------------------------------------------
+11. VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB28 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)

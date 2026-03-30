@@ -1,0 +1,222 @@
+KB-AQUA-15 – HUSTOTA RYB A BIOLOGICKÁ ZÁTĚŽ V AKVÁRIU (V1)
+======================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika
+Typ dokumentu: Technický / diagnostický
+Použití v Aquantis: Diagnostika, prevence problémů, návrh osádky
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument vysvětluje vztah mezi:
+- hustotou ryb v akváriu,
+- biologickou zátěží systému,
+- stabilitou dusíkatého cyklu,
+- welfare ryb.
+
+Cílem je odstranit jeden z nejčastějších mýtů akvaristiky:
+„Objem akvária = počet ryb.“
+
+Ve skutečnosti je rozhodující:
+- produkce odpadu (TAN),
+- spotřeba kyslíku,
+- schopnost filtrace,
+- chování a velikost ryb.
+
+
+------------------------------------------------
+2. CO JE BIOLOGICKÁ ZÁTĚŽ
+------------------------------------------------
+
+Biologická zátěž je souhrn:
+- exkrementů ryb (amoniak / TAN),
+- nestráveného krmiva,
+- rozkládající se organiky,
+- mikrobiální aktivity.
+
+Biologická zátěž ovlivňuje:
+- NH₃/NH₄⁺,
+- NO₂⁻,
+- spotřebu O₂,
+- stabilitu pH,
+- růst řas a bakterií.
+
+Dvě akvária se stejným objemem mohou mít **zcela odlišnou biologickou zátěž**.
+
+
+------------------------------------------------
+3. PROČ PRAVIDLO „1 CM RYBY NA 1 LITR“ NEFUNGUJE
+------------------------------------------------
+
+Toto pravidlo je:
+- historické,
+- zjednodušené,
+- často nebezpečné.
+
+Nezohledňuje:
+- konečnou velikost ryby,
+- metabolickou aktivitu,
+- tvar těla,
+- chování (aktivní vs. klidné druhy),
+- krmný režim,
+- filtrační kapacitu.
+
+Příklad:
+- 10 cm neonka ≠ 10 cm závojnatka ≠ 10 cm cichlida.
+
+
+------------------------------------------------
+4. FAKTORY, KTERÉ URČUJÍ SKUTEČNOU HUSTOTU
+------------------------------------------------
+
+4.1 Druh ryby
+- aktivní druhy (danio, tetry): vyšší spotřeba O₂
+- teritoriální druhy (cichlidy): stres při přerybnění
+- velké ryby (zlaté rybky): vysoká produkce odpadu
+
+4.2 Velikost a růst
+- plánuj **dospělou velikost**, ne velikost při nákupu
+
+4.3 Krmení
+- frekvence,
+- typ krmiva,
+- přebytek = exponenciální růst zátěže
+
+4.4 Filtrace
+- biologická kapacita filtru,
+- objem filtračního média,
+- průtok.
+
+4.5 Rostliny
+- aktivně snižují NO₃⁻,
+- konkurují řasám,
+- částečně stabilizují systém.
+
+
+------------------------------------------------
+5. ORIENTAČNÍ HUSTOTY (KONZERVATIVNÍ)
+------------------------------------------------
+
+Poznámka: platí pro dobře filtrovaná, stabilní akvária.
+
+- Malé tetry, rasbory:
+  ~1 ryba / 2–3 litry
+
+- Střední společenské ryby:
+  ~1 ryba / 5–8 litrů
+
+- Větší ryby (skaláry, větší cichlidy):
+  ~1 ryba / 20–40 litrů
+
+- Zlaté rybky:
+  min. 40–60 litrů / kus
+
+- Dravé nebo velmi aktivní druhy:
+  individuální posouzení (často >50 l / kus)
+
+Tyto hodnoty nejsou cílové maximum, ale **bezpečný start**.
+
+
+------------------------------------------------
+6. DŮSLEDKY PŘERYBNĚNÍ
+------------------------------------------------
+
+Krátkodobě:
+- zvýšený stres,
+- agresivita,
+- zrychlené dýchání.
+
+Střednědobě:
+- zvýšený NH₃ / NO₂,
+- kolísání pH,
+- růst řas,
+- častější nemoci.
+
+Dlouhodobě:
+- chronický stres,
+- zakrnění růstu,
+- zkrácení života,
+- kolaps filtrace.
+
+
+------------------------------------------------
+7. BIOLOGICKÁ ZÁTĚŽ VS. WELFARE
+------------------------------------------------
+
+Nízká hustota:
+- stabilnější voda,
+- přirozenější chování,
+- lepší barvy,
+- nižší nemocnost.
+
+Vyšší hustota:
+- možná pouze při:
+  - silné filtraci,
+  - přesném krmení,
+  - časté údržbě,
+  - zkušeném managementu.
+
+Hobby akvárium by mělo **vždy upřednostnit welfare před maximálním osazením**.
+
+
+------------------------------------------------
+8. TYPICKÉ CHYBY AKVARISTŮ
+------------------------------------------------
+
+- přidání „ještě jedné ryby“ bez úvahy,
+- ignorování budoucí velikosti,
+- přerybnění kvůli estetice,
+- přeceňování filtru,
+- kombinace nekompatibilních druhů.
+
+
+------------------------------------------------
+9. DIAGNOSTICKÉ SIGNÁLY PŘÍLIŠ VYSOKÉ ZÁTĚŽE
+------------------------------------------------
+
+- opakované problémy s NO₂,
+- časté řasy i při údržbě,
+- ryby se drží u hladiny,
+- zakalená voda,
+- nutnost velmi častých výměn vody.
+
+
+------------------------------------------------
+10. DOPORUČENÝ POSTUP PŘI PLÁNOVÁNÍ OSÁDKY
+------------------------------------------------
+
+1. Vybrat cílové druhy.
+2. Zjistit dospělou velikost a chování.
+3. Odhadnout biologickou zátěž (ne počet ryb).
+4. Dimenzovat filtr s rezervou.
+5. Přidávat ryby postupně.
+6. Sledovat parametry vody po každém zásahu.
+
+
+------------------------------------------------
+11. ZDROJE A ODBORNÉ VÝCHODISKO
+------------------------------------------------
+
+Dokument je syntézou poznatků z:
+- univerzitních extension materiálů (UF/IFAS, Texas A&M),
+- akvaristické biologie (dusíkatý cyklus, metabolismus ryb),
+- dlouhodobé praxe akvaristiky,
+- principů známých z RAS a rybníkářství.
+
+Text je formulován nově a slouží jako odborný základ pro Aquantis.
+
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-15 – V1  
+Určeno pro: Aquantis Knowledge Base  
+Interní použití – vzdělávací a diagnostické účely

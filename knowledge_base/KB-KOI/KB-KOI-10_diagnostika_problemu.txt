@@ -1,0 +1,219 @@
+KB-KOI-10 – DIAGNOSTIKA PROBLÉMŮ V KOI JEZÍRKÁCH (V1)
+==================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: KOI jezírka
+Typ dokumentu: Diagnostický manuál
+Použití v Aquantis: Diagnostika, doporučení zásahů, prevence
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument slouží jako systematický diagnostický rámec
+pro řešení nejčastějších problémů v KOI jezírkách.
+
+Cílem je:
+- rychle rozpoznat příznaky,
+- propojit je s pravděpodobnými příčinami,
+- navrhnout bezpečný a logický postup nápravy,
+- zabránit opakování problému.
+
+Diagnostika je založena na:
+- chování ryb,
+- vizuálním stavu ryb,
+- parametrech vody,
+- sezónním kontextu,
+- technologii jezírka.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ DIAGNOSTICKÝ PRINCIP
+------------------------------------------------
+V KOI jezírkách platí pravidlo:
+
+> „Většina problémů začíná ve vodě, ne na rybě.“
+
+Proto je diagnostika vždy vedena v tomto pořadí:
+1) Kvalita vody
+2) Technologie / filtrace
+3) Chování ryb
+4) Zdravotní stav ryb
+5) Vnější stresory (počasí, manipulace, nové ryby)
+
+
+------------------------------------------------
+3. RYCHLÝ DIAGNOSTICKÝ ROZHODOVACÍ STROM
+------------------------------------------------
+
+SYMPTOM → PRVNÍ KONTROLA → DALŠÍ KROKY
+
+- Ryby u hladiny, lapání po vzduchu
+  → O₂, teplota, NH₃, NO₂
+  → aerace, proudění, zatížení
+
+- Apatie, neaktivní ryby
+  → teplota, NO₂, pH
+  → sezónní kontext, toxiny
+
+- Tření o dno / stěny
+  → paraziti, NH₃, pH výkyvy
+  → mikroskop, karanténa
+
+- Zakalená voda
+  → mechanická filtrace, DOC
+  → biofiltr, pěnění
+
+- Pěna na hladině
+  → vysoké organické zatížení
+  → protein skimmer, výměna vody
+
+
+------------------------------------------------
+4. DIAGNOSTIKA PODLE PARAMETRŮ VODY
+------------------------------------------------
+
+4.1 Rozpuštěný kyslík (O₂)
+- Kritické < 5 mg/l
+- Typické příčiny:
+  - vysoká teplota
+  - nedostatečná aerace
+  - noční respirace planktonu
+- Okamžitá opatření:
+  - zvýšit aeraci
+  - zlepšit cirkulaci
+  - snížit krmení
+
+4.2 Amoniak (NH₃ / NH₄⁺)
+- Bezpečné NH₃ < 0.02 mg/l
+- Typické příčiny:
+  - přetížení biofiltru
+  - nové jezírko
+  - prudké oteplení
+- Riziko:
+  - poškození žaber
+  - oslabení imunity
+
+4.3 Nitrit (NO₂⁻)
+- Alarm > 0.3 mg/l
+- Symptomy:
+  - tmavnutí ryb
+  - zrychlené dýchání
+- Často spojeno s kolapsem nitrifikace
+
+4.4 pH
+- Optimální 7.0–8.2
+- Rizikové:
+  - ranní pokles pH
+  - prudké denní výkyvy
+- Dlouhodobý stres i bez akutních úhynů
+
+
+------------------------------------------------
+5. DIAGNOSTIKA PODLE CHOVÁNÍ KOI
+------------------------------------------------
+
+Normální chování:
+- plynulé plavání
+- reakce na krmení
+- žádné tření
+
+Varovné signály:
+- izolace jedinců
+- kymácivé plavání
+- časté vynořování
+- ztráta zájmu o krmivo
+
+Chování je často prvním signálem problému,
+ještě před změnou parametrů vody.
+
+
+------------------------------------------------
+6. DIAGNOSTIKA PODLE VZHLEDU RYB
+------------------------------------------------
+
+6.1 Kůže a šupiny
+- matný povrch → stres, kvalita vody
+- zarudnutí → NH₃, bakterie
+- bílé skvrny → paraziti, plísně
+
+6.2 Ploutve
+- třepení → bakteriální infekce
+- slepení → špatná voda
+
+6.3 Žábry
+- tmavé / hnědé → NH₃, NO₂
+- bledé → hypoxie, anémie
+
+
+------------------------------------------------
+7. SEZÓNNÍ DIAGNOSTICKÉ SCÉNÁŘE
+------------------------------------------------
+
+JARO:
+- studená voda, slabá imunita
+- riziko bakteriálních infekcí
+- pomalá nitrifikace
+
+LÉTO:
+- hypoxie
+- NH₃ toxicita
+- vysoké DOC
+
+PODZIM:
+- kolísání teplot
+- stres z manipulace
+- příprava na zimu
+
+ZIMA:
+- hypoxie pod ledem
+- akumulace NH₃
+- minimální zásahy
+
+
+------------------------------------------------
+8. ČASTÉ CHYBY PŘI DIAGNOSTICE
+------------------------------------------------
+- Léčení bez testování vody
+- Záměna stresu za nemoc
+- Překrmování při problémech
+- Příliš rychlé chemické zásahy
+- Ignorování sezónního kontextu
+
+
+------------------------------------------------
+9. PREVENTIVNÍ DIAGNOSTICKÝ CHECKLIST
+------------------------------------------------
+Denně:
+- chování ryb
+- funkce aerace
+
+Týdně:
+- pH, NH₃, NO₂
+- vizuální kontrola filtrace
+
+Měsíčně:
+- kontrola biofiltru
+- kontrola průtoku
+- revize krmné strategie
+
+
+------------------------------------------------
+10. ZÁVĚR
+------------------------------------------------
+Správná diagnostika v KOI jezírkách je kombinací:
+- pozorování,
+- měření,
+- znalosti biologie KOI,
+- pochopení sezónních procesů.
+
+Rychlé a systematické vyhodnocení problému
+je vždy efektivnější než pozdní léčba.
+
+------------------------------------------------
+KONEC DOKUMENTU
+------------------------------------------------

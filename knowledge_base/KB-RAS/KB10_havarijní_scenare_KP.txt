@@ -1,0 +1,260 @@
+Aquantis_KB10_HAVARIJNI_SCENARE_A_KRIZOVE_PROTOKOLY_V_RAS_V1
+============================================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------------------
+Tento dokument popisuje nejčastější havarijní scénáře v recirkulačních 
+akvakulturních systémech (RAS), postupy jejich rychlé diagnostiky a 
+standardizované krizové protokoly založené na mezinárodně uznávaných 
+„RAS Best Practices“. Obsah je založen na syntéze veřejně dostupných 
+odborných materiálů (FAO, Boyd/Auburn University, WorldFish, univerzitní 
+aquaculture extension guidelines, otevřené studie IJRA a Aquaculture Journal). 
+Text je nově formulovaný a právně bezpečný — neobsahuje žádné převzaté pasáže 1:1.
+
+Dokument je určen jako tréninková a referenční jednotka pro Aquantis 
+Knowledge Base verze 1.
+
+
+------------------------------------------------------------
+1. HLAVNÍ TYPOVÉ HAVÁRIE V RAS
+------------------------------------------------------------
+RAS systémy jsou citlivé na několik kritických bodů, které mohou vést k 
+rychlé degradaci kvality vody a úhynům. Mezi nejčastější patří:
+
+1) **Kolaps biofiltru**  
+2) **Akutní pokles kyslíku (O₂ crash)**  
+3) **Nitritový pík (NO₂ spike)**  
+4) **Amoniakový pík (NH₃/NH₄ spike)**  
+5) **Hydraulické a průtokové selhání**  
+6) **Výpadek elektřiny**  
+7) **Selhání aerace nebo oxygenátoru**  
+8) **Masivní ucpání mechanické filtrace**  
+9) **Chemická kontaminace vody**  
+10) **Mikrobiální havárie (bílý biofilm, patogeny)**
+
+Každá havárie vyžaduje jiný krizový protokol a rozdílně rychlou reakci.
+
+
+------------------------------------------------------------
+2. KOLAPS BIOFILTRU
+------------------------------------------------------------
+PŘÍZNAKY  
+- Rychlý růst TAN (NH₃/NH₄) a NO₂.  
+- Pokles alkalinity, kolísání pH.  
+- Zápach, pěna, hromadění kalu.  
+- Ryby vykazují stres: rychlé dýchání, shlukování u hladiny.
+
+HLAVNÍ PŘÍČINY  
+- Náhlý pokles O₂ v biofiltru.  
+- Přetížení krmivem / vysoká organická zátěž.  
+- Použití dezinfekce nebo chemikálií toxických pro nitrifikátory.  
+- Nedostatečná alkalita (KH).  
+- Kolísání průtoku.
+
+KRIZOVÝ PROTOKOL  
+**HNED (0–10 minut)**  
+1. Zvýšit aeraci biofiltru.  
+2. Zkontrolovat průtok — odstranit případné ucpání.  
+3. Snížit krmení na 0 %.  
+4. Provedení částečné výměny vody (20–30 %).  
+
+**DO 6 HODIN**  
+1. Stabilizovat pH a alkalitu (cílit na KH 100–150 mg/l CaCO₃).  
+2. Zkontrolovat mechanickou filtraci a odstranit kal.  
+3. Nastavit konstantní průtok podle typu RAS.  
+
+**DO 24 HODIN**  
+1. Monitorovat TAN/NO₂ každé 2–4 hodiny.  
+2. Provést další dílčí výměnu vody, pokud hodnoty dále rostou.  
+3. Postupný restart biofiltru (zvýšit O₂ a udržovat stabilní podmínky).
+
+PREVENCE  
+- Nepřetěžovat krmivem.  
+- Stabilní O₂, pH, alkalita.  
+- Pravidelná údržba a kontrola průtoku.  
+
+
+------------------------------------------------------------
+3. AKUTNÍ POKLES KYSLÍKU (O₂ CRASH)
+------------------------------------------------------------
+PŘÍZNAKY  
+- Ryby rychle dýchají, shlukují se u hladiny.  
+- Reakce často během minut.  
+- Může nastat v noci nebo při výpadku aerace.
+
+HLAVNÍ PŘÍČINY  
+- Porucha bloweru, oxygenátoru, difuzorů.  
+- Výpadek elektřiny.  
+- Masivní metabolická spotřeba O₂ (překrmení, rozklad organiky).
+
+KRIZOVÝ PROTOKOL  
+**HNED (0–3 minuty)**  
+1. Zapnout nouzové aerátory (backup blower, lahvový O₂).  
+2. Zvýšit turbulenci hladiny (provizorní čerpadlo).  
+3. Vypnout krmení.
+
+**DO 30 MINUT**  
+1. Zkontrolovat funkci oxygenátoru / difuzorů.  
+2. Zkontrolovat průtok tanky → biofiltr → degaser.  
+
+**DO 6 HODIN**  
+1. Monitorovat saturaci O₂ (cílit na 90–110 %).  
+2. Zkontrolovat mechanickou filtraci (zanesení → nízký O₂).
+
+PREVENCE  
+- Redundantní aerace (A + B systém).  
+- Alarmy na nízký O₂.  
+- Rezervní zdroj energie.
+
+
+------------------------------------------------------------
+4. NITRITOVÝ PEAK (NO₂ CRASH)
+------------------------------------------------------------
+PŘÍZNAKY  
+- Ryby tmavnou, zrychlené dýchání, letargie.  
+- NO₂ často roste po kolapsu nitrifikace nebo přetížení.
+
+HLAVNÍ PŘÍČINY  
+- Nedostatečná nitrifikace.  
+- Porucha biofiltru.  
+- Nízký obsah chloridů.
+
+KRIZOVÝ PROTOKOL  
+**HNED**  
+1. Provedení částečné výměny vody (20–40 %).  
+2. Zvýšit aeraci.  
+3. Snížit krmení na 0–20 %.
+
+**DO 24 HODIN**  
+1. Zajistit stabilní pH a alkalitu.  
+2. Prověřit průtok biofiltru.  
+
+PREVENCE  
+- Stabilní alkalita, průtok, aerace.  
+- Nepřetěžovat krmivem.  
+- Pravidelný monitoring NO₂.
+
+
+------------------------------------------------------------
+5. AMONIAKOVÝ PEAK (TAN/NH₃ CRASH)
+------------------------------------------------------------
+PŘÍZNAKY  
+- Ryby lapají po dechu, podráždění kůže a žaber.  
+- Rychlé změny chování, občas úhyny během hodin.
+
+HLAVNÍ PŘÍČINY  
+- Překrmení.  
+- Ztráta nitrifikční kapacity.  
+- Kolísání pH → vyšší NH₃ frakce.
+
+KRIZOVÝ PROTOKOL  
+**HNED**  
+1. Stopp krmení.  
+2. Částečná výměna vody.  
+3. Zkontrolovat mechanickou filtraci.  
+4. Zvýšit aeraci.
+
+**DO 24 HODIN**  
+1. Stabilizovat pH.  
+2. Udržovat vysoké O₂.  
+3. Monitorovat TAN každé 2–4 hodiny.
+
+PREVENCE  
+- Stabilní nitrifikace, dobrá aerace.  
+- Pravidelné čištění mechaniky.  
+
+
+------------------------------------------------------------
+6. HYDRAULICKÉ SELHÁNÍ / UCPÁNÍ FILTRACE
+------------------------------------------------------------
+PŘÍZNAKY  
+- Nevhodné proudění v nádržích.  
+- Špinavá voda, pěna, zvýšený TAN a NO₂.  
+- Nerovnoměrná cirkulace.
+
+KRIZOVÝ PROTOKOL  
+1. Okamžitě zkontrolovat a vyčistit mechanickou filtraci.  
+2. Zkontrolovat čerpadla, průtoky, ventily.  
+3. Zkontrolovat degasery a oxygenátory.  
+4. V případě stagnace provést výměnu vody.
+
+PREVENCE  
+- Pravidelná údržba filtrů.  
+- Alarmy průtoku.  
+- Přístup k bypass okruhům.
+
+
+------------------------------------------------------------
+7. VÝPADEK ELEKTŘINY
+------------------------------------------------------------
+KRIZOVÝ PROTOKOL  
+**HNED (0–2 minuty)**  
+1. Spustit záložní generátor nebo UPS.  
+2. Prioritizovat systémy: aerace → čerpadla → technologie.
+
+**DO 30 MINUT**  
+1. Prověřit, které systémy běží.  
+2. V případě nedostatku výkonu odstavit nepotřebné části.
+
+PREVENCE  
+- Pravidelné testy generátoru.  
+- Senzory s SMS alarmem.  
+- Nouzové oxygenační systémy.
+
+
+------------------------------------------------------------
+8. CHEMICKÁ KONTAMINACE
+------------------------------------------------------------
+PŘÍZNAKY  
+- Ryby vykazují akutní stres, masové úhyny.  
+- Zápach nebo neobvyklé barvy vody.
+
+KRIZOVÝ PROTOKOL  
+1. Okamžitě přejít na čerstvou vodu → výměna 50–80 %.  
+2. Bypass biofiltru (v případě toxicity pro nitrifikátory).  
+3. Zvýšit aeraci.  
+4. Ověřit zdroj kontaminace.
+
+PREVENCE  
+- Neumisťovat chemikálie do blízkosti systému.  
+- Kontrola dodavatelů vody.  
+
+
+------------------------------------------------------------
+9. MIKROBIOLOGICKÉ HAVÁRIE
+------------------------------------------------------------
+PŘÍZNAKY  
+- Tvorba bílého biofilmu.  
+- Rychlé změny kvality vody.  
+- Zhoršené dýchání ryb.
+
+KRIZOVÝ PROTOKOL  
+1. Snížit krmné dávky.  
+2. Zvýšit aeraci a průtok.  
+3. Částečná výměna vody.  
+4. Vyčistit mechanickou filtraci.
+
+PREVENCE  
+- Soulad s hygienickými standardy.  
+- Stabilní biofiltr.  
+
+
+------------------------------------------------------------
+10. RYCHLÁ TABULKA REAKCÍ
+------------------------------------------------------------
+Havárie | Okamžitá akce (0–5 min) | Další kroky (do 24 h)
+--------|--------------------------|-----------------------
+O₂ crash | Nouzová aerace | Kontrola difuzorů, stabilizace systému
+NO₂ spike | Výmena vody | Stabilizace biofiltru
+TAN spike | Stop krmení, výměna vody | Stabilizace pH a alkalinity
+Hydraulické selhání | Čištění filtrace | Kontrola čerpadel
+Kolaps biofiltru | Aerace biofiltru, výměna vody | Restart a monitoring
+
+
+------------------------------------------------------------
+11. VERZE DOKUMENTU
+------------------------------------------------------------
+Verze: KB10 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)
+

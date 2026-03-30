@@ -1,0 +1,227 @@
+KB-AQUA-TROPICAL-02 – TROPICKÁ VODA
+Blackwater / Clearwater / Whitewater (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – tropické systémy
+Typ dokumentu: Environmentální typologie vody
+Použití v Aquantis:
+- návrh akvária podle biotopu
+- diagnostika problémů
+- kompatibilita druhů
+- stabilita chemismu vody
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument popisuje tři hlavní typy tropických sladkovodních ekosystémů:
+- blackwater (černé vody),
+- clearwater (čiré vody),
+- whitewater (bílé vody).
+
+Cílem je umožnit:
+- realistický návrh akvária podle přirozeného biotopu,
+- pochopení rozdílů v chemismu vody,
+- správný výběr druhů,
+- prevenci typických chyb při míchání nekompatibilních ryb.
+
+Dokument je založen na syntéze otevřených odborných zdrojů (Amazon basin studies, FAO, univerzitní ekologie řek, akvaristická věda).
+
+
+------------------------------------------------
+2. ZÁKLADNÍ ROZDĚLENÍ TROPICKÝCH VOD
+------------------------------------------------
+
+Tropické řeky a povodí lze zjednodušeně rozdělit podle původu vody a obsahu rozpuštěných látek:
+
+1. Blackwater – kyselé, huminové vody chudé na minerály  
+2. Clearwater – neutrální až mírně kyselé vody s nízkou zákalností  
+3. Whitewater – minerálně bohaté, zakalené vody s vysokou úživností  
+
+Tyto rozdíly nejsou kosmetické, ale zásadně ovlivňují:
+- pH,
+- vodivost,
+- mikrobiální procesy,
+- adaptace ryb.
+
+
+------------------------------------------------
+3. BLACKWATER (ČERNÉ VODY)
+------------------------------------------------
+
+3.1 Charakteristika
+--------------------------------
+Blackwater vzniká:
+- v oblastech s písčitým podložím,
+- v deštných pralesích s vysokým podílem organického opadu,
+- minimálním přínosem minerálů.
+
+Typická barva:
+- tmavě hnědá až čajová (huminové a fulvinové kyseliny).
+
+3.2 Typické parametry
+--------------------------------
+- pH: 3.5–6.0
+- GH: 0–3 °dGH
+- KH: 0–2 °dKH
+- Vodivost: 10–80 µS/cm
+- NO₃: velmi nízké
+- Ca, Mg: téměř nulové
+
+3.3 Biologické dopady
+--------------------------------
+- Nízká bakteriální aktivita
+- Nízký rozklad organiky
+- Vysoká stabilita proti patogenům
+- Ryby jsou extrémně citlivé na změny
+
+3.4 Typické druhy
+--------------------------------
+- Discus (Symphysodon)
+- Skaláry (Pterophyllum)
+- Tetry (Paracheirodon, Hyphessobrycon)
+- Trpasličí cichlidy (Apistogramma)
+- Některé sumce (Corydoras z blackwater oblastí)
+
+3.5 Akvaristická rizika
+--------------------------------
+- kolaps pH při špatné filtraci,
+- špatná nitrifikace,
+- nesnášenlivost s rybami z minerálních vod,
+- častá chyba: „přidání kamínků / vápence“.
+
+
+------------------------------------------------
+4. CLEARWATER (ČIRÉ VODY)
+------------------------------------------------
+
+4.1 Charakteristika
+--------------------------------
+Clearwater:
+- protéká skalnatými oblastmi,
+- má nízký obsah huminových látek,
+- vysokou průhlednost.
+
+Barva:
+- čirá až lehce nazelenalá.
+
+4.2 Typické parametry
+--------------------------------
+- pH: 6.0–7.2
+- GH: 2–8 °dGH
+- KH: 1–5 °dKH
+- Vodivost: 50–200 µS/cm
+
+4.3 Biologické dopady
+--------------------------------
+- stabilnější nitrifikace než v blackwater,
+- vyváženější mikrobiální život,
+- vyšší primární produkce.
+
+4.4 Typické druhy
+--------------------------------
+- Mnoho tetrovitých
+- Některé cichlidy Jižní Ameriky
+- Pancířníčci
+- Menší characidi
+
+4.5 Akvaristická rizika
+--------------------------------
+- podcenění biologické filtrace,
+- příliš tvrdá voda z vodovodu,
+- míchání s rybami z whitewater systémů.
+
+
+------------------------------------------------
+5. WHITEWATER (BÍLÉ VODY)
+------------------------------------------------
+
+5.1 Charakteristika
+--------------------------------
+Whitewater:
+- pochází z horských oblastí,
+- přináší velké množství minerálů a sedimentů,
+- vysoká úživnost.
+
+Barva:
+- mléčně hnědá až šedá (jemný sediment).
+
+5.2 Typické parametry
+--------------------------------
+- pH: 6.8–7.8
+- GH: 5–15 °dGH
+- KH: 3–10 °dKH
+- Vodivost: 150–500+ µS/cm
+
+5.3 Biologické dopady
+--------------------------------
+- vysoká produkce planktonu,
+- rychlý rozklad organiky,
+- vyšší tlak patogenů,
+- vyšší nitrifikační kapacita.
+
+5.4 Typické druhy
+--------------------------------
+- Větší cichlidy
+- Sumci
+- Aktivní, robustní druhy
+- Některé kaprovité tropické ryby
+
+5.5 Akvaristická rizika
+--------------------------------
+- přehnojení systému,
+- eutrofizace,
+- kolísání O₂ v noci,
+- špatná kontrola organické zátěže.
+
+
+------------------------------------------------
+6. ČASTÉ CHYBY AKVARISTŮ
+------------------------------------------------
+
+1. Míchání blackwater a whitewater druhů  
+2. „Univerzální tropická voda“ bez biotopového kontextu  
+3. Umělé zvyšování pH u blackwater ryb  
+4. Podcenění vlivu substrátu a dekorací  
+5. Rychlé změny parametrů při výměně vody  
+
+
+------------------------------------------------
+7. PRAKTICKÉ DOPORUČENÍ PRO AQUANTIS
+------------------------------------------------
+
+Při návrhu akvária:
+- vždy identifikovat typ vody,
+- doporučit kompatibilní skupiny ryb,
+- upozornit na rizika míchání biotopů,
+- preferovat stabilitu před „ideálními čísly“.
+
+Pro diagnostiku:
+- náhlé problémy často souvisí s nekompatibilním chemismem,
+- chronický stres je typický při špatném biotopu.
+
+
+------------------------------------------------
+8. ZDROJE A ODBORNÁ VÝCHODISKA (PARAFRÁZOVÁNO)
+------------------------------------------------
+- FAO – Tropical Inland Waters
+- Amazon basin limnology studies
+- Junk et al., Flood Pulse Concept
+- University of Florida IFAS – Tropical freshwater ecology
+- Akvaristická biologie a biotopové studie (open access)
+
+Text je nově formulovaný, syntetický a právně bezpečný.
+
+
+------------------------------------------------
+9. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-TROPICAL-02 – V1
+Určeno pro: Aquantis Knowledge Base
+Interní použití

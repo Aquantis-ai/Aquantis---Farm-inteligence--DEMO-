@@ -1,0 +1,305 @@
+Aquantis_KB16_MIKROBIOLOGIE_RAS_V1
+==================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument popisuje základní principy mikrobiologie v recirkulačních
+akvakulturních systémech (RAS). Je určen jako technické zázemí pro Aquantis
+pro oblast:
+- pochopení role mikroorganismů v biofiltru a systému,
+- interpretaci změn kvality vody ve vztahu k mikrobiologii,
+- rozpoznání typických problémových stavů (kolaps biofiltru, přerůstání
+  heterotrofů, patogeny, off-flavour),
+- návrhy preventivních a stabilizačních opatření.
+
+Text je koncepční, neobsahuje 1:1 převzaté pasáže z konkrétních publikací,
+ale je syntézou obecných, široce akceptovaných poznatků z oblasti RAS.
+
+
+------------------------------------------------
+1. ZÁKLADNÍ MIKROBIOLOGICKÉ SLOŽKY V RAS
+------------------------------------------------
+
+V RAS systémech se typicky uplatňuje několik hlavních skupin mikroorganismů:
+
+1. Nitrifikační bakterie:
+   - Amoniak-oxidující (AOB, např. rody Nitrosomonas, Nitrosospira),
+   - Nitrit-oxidující (NOB, např. rody Nitrobacter, Nitrospira).
+   Funkce: Přeměna amoniaku (NH₃/NH₄⁺) → NO₂⁻ → NO₃⁻.
+
+2. Heterotrofní bakterie:
+   - Konsumují organický uhlík (rozpuštěný i částice),
+   - Konkurenčně využívají kyslík a prostor v biofilmu,
+   - Tvoří kal, bio-slime a mohou přerůstat nitrifikační vrstvu.
+
+3. Denitrifikační bakterie (v anaerobních/nízko-oxidovaných zónách):
+   - NO₃⁻ → NO₂⁻ → N₂O → N₂,
+   - Potřebují elektronový donor (organický C nebo jiný redukovaný substrát),
+   - Uplatní se v specifických denitrifikačních reaktorech.
+
+4. Patogenní/portunistické mikroorganismy:
+   - Bakterie (např. Aeromonas, Flavobacterium, Vibrio),
+   - Paraziti, houby, plísně,
+   - Často profitují ze stresovaných ryb a špatné kvality vody.
+
+5. Mikroorganismy související s off-flavour:
+   - Některé aktinomycety a sinice produkující geosmin a MIB,
+   - Uplatňují se zejména při vyšším organickém zatížení, teplotě a nízkém
+     obratu vody.
+
+Biofilm v RAS je smíšené společenstvo, kde nitrifikace tvoří klíčovou
+funkční vrstvu, ale vždy existuje širší komunitní kontext ostatních mikrobů.
+
+
+------------------------------------------------
+2. BIOFILM A JEHO STRUKTURA
+------------------------------------------------
+
+Biofilm tvořený na nosičích (moving bed, pevné médium, stěny nádrže) je
+typicky organizován ve vrstvách:
+
+- Povrchová vrstva:
+  - Dobře okysličená,
+  - Převaha heterotrofů (rychle rostoucí, konzumují organiku),
+  - Podíl bakterií produkujících extracelulární polymerní látky (EPS).
+
+- Nitrifikační vrstva:
+  - O něco hlouběji v biofilmu,
+  - Stabilnější komunity AOB a NOB,
+  - Citlivé na změny kyslíku, pH a toxické látky.
+
+- Hlubší (často nízko-DO) vrstvy:
+  - Potenciálně denitrifikační mikroorganismy (pokud je dostatek NO₃⁻
+    a organického C),
+  - Mohou vznikat anaerobní „kapsy“, pokud je biofilm příliš tlustý
+    a nesprávně udržovaný.
+
+Důsledky pro provoz:
+- Příliš tenký biofilm → nízká nitrifikační kapacita,
+- Příliš tlustý biofilm → riziko anoxických zón, odplavování kusů biofilmu,
+  nestabilita nitrifikace a nárazové uvolňování NO₂⁻.
+
+
+------------------------------------------------
+3. ROVNOVÁHA NITRIFIKÁTORŮ A HETEROTROFŮ
+------------------------------------------------
+
+Klíčový princip: nitrifikace je pomalejší proces než heterotrofní růst.
+
+- Heterotrofové:
+  - Dvojnásobný čas růstu typicky v řádu hodin až desítek hodin,
+  - Rychle reagují na zvýšení organického zatížení (překrmování,
+    nečistoty, kal).
+
+- Nitrifikátoři:
+  - Doba zdvojnásobení spíše v řádu dnů,
+  - Velmi citliví na:
+    - nízký O₂,
+    - extrémní pH,
+    - toxické látky (např. některá léčiva, dezinfekce),
+    - náhlé výkyvy zátěže.
+
+Důsledky:
+- Pokud se systém překrmí nebo se hromadí organika, heterotrofové
+  přerůstají nitrifikační vrstvu → zvýšený TAN, NO₂⁻.
+- Mechanická filtrace a řízení organického zatížení jsou přímo
+  mikrobiologickým nástrojem: méně organiky = stabilnější nitrifikace.
+
+
+------------------------------------------------
+4. KLÍČOVÉ PROVOZNÍ PARAMETRY OVLIVŇUJÍCÍ MIKROBIOLOGII
+------------------------------------------------
+
+1. Rozpuštěný kyslík (DO):
+   - Nitrifikace: vyžaduje dobře aerované prostředí,
+   - Cíl v biofiltru: DO často ≥ 5 mg/l,
+   - Nízké DO → pokles nitrifikace, růst heterotrofů, vznik anoxických zón.
+
+2. pH:
+   - Optimální pro nitrifikaci: cca 7.0–8.0,
+   - pH < 6.5 → výrazná inhibice nitrifikace,
+   - pH > 8.2 → vyšší podíl toxické NH₃ a potenciální stres mikrobiomu.
+
+3. Alkalita:
+   - Nitrifikace spotřebovává alkalitu,
+   - Při nízké alkalitě se systém acidifikuje a nitrifikace se rozpadá.
+
+4. Teplota:
+   - Vyšší teploty zrychlují mikrobiální procesy,
+   - Příliš vysoké teploty → riziko růstu nežádoucích mikroorganismů
+     a off-flavour.
+
+5. Zatížení organickou hmotou:
+   - Více krmiva → více výkalů → více organiky → růst heterotrofů,
+   - Při špatné mechanické filtraci se organika dostává do biofiltru
+     a konkuruje nitrifikačním bakteriím.
+
+
+------------------------------------------------
+5. START-UP A DOZRÁVÁNÍ BIOFILTRU
+------------------------------------------------
+
+Fáze start-upu:
+
+1. Inokulace:
+   - Může být „přirozená“ (z prostředí, vody, krmiva),
+   - Nebo podpořená komerčními kulturami nitrifikačních bakterií
+     (pokud jsou kvalitní a vhodně použité).
+
+2. Fáze růstu AOB:
+   - Nejprve se objevuje pokles NH₃/TAN, ale roste NO₂⁻,
+   - Systém je v této fázi citlivý – nitritová špička.
+
+3. Fáze růstu NOB:
+   - Postupně klesá NO₂⁻, roste NO₃⁻,
+   - Systém začíná fungovat jako stabilní nitrifikační jednotka.
+
+Důležité zásady při startu:
+- Nezvyšovat zatížení (krmení, hustota ryb) příliš rychle,
+- Udržovat stabilní pH a O₂,
+- Vyhýbat se léčivům a agresivním chemikáliím,
+- Trpělivost: plná nitrifikační kapacita může trvat týdny.
+
+
+------------------------------------------------
+6. KOLAPS BIOFILTRU A MIKROBIOLOGICKÉ HAVÁRIE
+------------------------------------------------
+
+Typické příčiny kolapsu biofiltru:
+- Náhlé snížení DO (výpadek aerace, čerpadel),
+- Prudká změna pH (např. vyčerpání alkalinity),
+- Předávkování léčivy nebo dezinfekcí (např. některé antibiotické kúry,
+  nesprávně použitý peroxid, formalín apod.),
+- Mechanické poškození/spláchnutí biofilmu (nadměrné proplachování
+  bez kontroly, nárazové odplavení kalu),
+- Extrémní překrmování → nadměrný růst heterotrofů.
+
+Mikrobiologické projevy kolapsu:
+- Prudký nárůst TAN a NO₂⁻,
+- Zhoršená čirost vody, slizké povrchy,
+- Zhoršení zdraví ryb (rychlé dýchání, apatie, úhyny).
+
+Obnova biofiltru:
+- Okamžitě stabilizovat O₂, pH a alkalitu,
+- Snížit nebo dočasně zastavit krmení,
+- Zajistit částečné výměny vody,
+- Udržet průtok přes biofiltr, ale neprovádět destruktivní proplach,
+- Podle situace znovu inokulovat nitrifikačními kulturami
+  (volit opatrně a kvalitní produkty),
+- Počítat s tím, že návrat nitrifikace do plného výkonu trvá dny–týdny.
+
+
+------------------------------------------------
+7. PATOGENY, OPPORTUNISTÉ A „VLHKÁ CHEMIE“
+------------------------------------------------
+
+RAS prostředí je komplexní – nelze sterilizovat „na nulu“. Cílem je:
+
+- Udržet „prospěšnou“ a neutrální mikrobiotu v převaze,
+- Minimalizovat stres ryb a extrémy ve vodních parametrech,
+- Používat UV, ozon a další metody cíleně a v bezpečných dávkách
+  (viz samostatné KB k UV/ozonu).
+
+Patogeny často profitují z:
+- mechanického poškození ryb (transport, manipulace),
+- špatné kvality vody (NH₃, NO₂⁻, nízký O₂),
+- vysoké organické zátěže (biofilm v potrubí, mrtvé zóny).
+
+Chemické zásahy:
+- Vždy posuzovat jejich dopad na nitrifikační bakterie,
+- V ideálním případě mít možnost ošetřit část systému nebo ryby mimo
+  hlavní biofiltr (karanténa, léčebné nádrže),
+- Aquantis by měl při doporučeních vždy upozornit,
+  že konkrétní léčebné postupy jsou v kompetenci veterináře.
+
+
+------------------------------------------------
+8. OFF-FLAVOUR A PRODUCENTI GEOSMINU/MIB
+------------------------------------------------
+
+Off-flavour (zemitá/pachutě „bláta“ nebo „plísně“ v mase ryb) je
+často spojen s:
+
+- Růstem určitých aktinomycet a sinic,
+- Vyšší teplotou vody,
+- Vysokým obsahem organiky a delším retenčním časem vody,
+- Nízkým obratem systému.
+
+Mikrobiologická řešení:
+- Zlepšit odstranění organiky (mechanická filtrace, kalová hospodárnost),
+- Optimalizovat průtoky a hydrauliku tak, aby nevznikaly „mrtvé zóny“,
+- V některých případech dočasné držení ryb v čistější vodě (purging),
+- Správně nadimenzované UV/ozon v kombinaci s biologickou filtrací
+  (bez destrukce biofiltru).
+
+
+------------------------------------------------
+9. MONITORING MIKROBIOLOGIE V PRAXI
+------------------------------------------------
+
+Běžná akvakultura často nemá laboratorní zázemí, přesto lze provádět:
+
+1. Nepřímý monitoring:
+   - Sleduj kvalitu vody (O₂, pH, TAN, NO₂⁻, NO₃⁻, alkalita, teplota),
+   - Sleduj vizuálně stav biofiltru (barva, konzistence, slizké vrstvy),
+   - Sleduj chování a zdravotní stav ryb.
+
+2. Jednodušší laboratorní nástroje:
+   - Mikroskopie (slimy, nátěry, plankton),
+   - Kultivace na základních médiích (orientační představa o mikrobiálním zatížení).
+
+3. Pokročilé metody (větší farmy, výzkum):
+   - qPCR, sekvenování 16S rRNA,
+   - ATP testy,
+   - Pravidelné mikrobiologické profily (např. ve spolupráci s laboratoří).
+
+Pro Aquantis:
+- V odpovědích by měl vysvětlit, že mikrobiologická diagnostika je
+  vždy pouze zčásti odhad založený na parametrech vody a projevech,
+  a doporučit laboratorní vyšetření, pokud jsou problémy závažné
+  nebo opakované.
+
+
+------------------------------------------------
+10. PRAKTICKÉ BEST PRACTICES PRO MIKROBIOLOGICKOU STABILITU RAS
+------------------------------------------------
+
+1. Stabilní a dostatečný DO v biofiltru (nejlépe ≥ 5 mg/l).
+2. Stabilní pH a alkalita (pH cca 7.0–7.8, dostatečná pufrační kapacita).
+3. Nepřekrmovat – přizpůsobit dávku krmiva kapacitě biofiltru.
+4. Udržovat mechanické filtry a kalové prostory v čistotě,
+   minimalizovat hromadění organiky.
+5. Vyhnout se náhlým a agresivním chemickým zásahům.
+6. Udržovat přiměřený „klid“ biofiltru – neproplachovat bezdůvodně
+   a neodpojovat dlouhodobě od průtoku.
+7. Při problémech:
+   - nejprve stabilizuj O₂, pH, alkalitu,
+   - sniž krmení,
+   - zvaž částečnou výměnu vody,
+   - teprve poté uvažuj o dalších zásazích.
+
+
+------------------------------------------------
+11. VÝCHODISKA Z ODBORNÝCH ZDROJŮ (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+Tento dokument je syntézou běžně dostupných poznatků z oblasti recirkulačních
+systémů a akvakulturní mikrobiologie, zejména:
+
+- Obecných principů popsaných v literatuře k RAS mikrobiologii
+  (nitrifikace, biofilmy, denitrifikace, off-flavour).
+- Praktických zkušeností z provozních manuálů a technických zpráv
+  pro RAS (Evropa, USA).
+- Základních principů vodárenské a odpadní mikrobiologie, přenesených
+  do kontextu akvakultury (biofilmy, nitrifikační a denitrifikační reaktory).
+
+Formulace jsou nové a obecné, bez doslovného přebírání textu.
+
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+
+Verze: KB16 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)

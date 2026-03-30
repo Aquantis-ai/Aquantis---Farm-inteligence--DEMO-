@@ -1,0 +1,186 @@
+KB-AQUA-05 – KRMENÍ V AKVÁRIU (V1)
+================================================
+
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika
+Typ dokumentu: Základní provozní a biologický dokument
+Použití v Aquantis: Diagnostika problémů, prevence, doporučení krmení
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ROLE KRMENÍ V AKVARIJNÍM SYSTÉMU
+------------------------------------------------
+
+Krmení je jeden z nejdůležitějších, ale zároveň nejrizikovějších zásahů do
+akvarijního systému.
+
+Krmení přímo ovlivňuje:
+- produkci organického odpadu,
+- zatížení biologické filtrace,
+- stabilitu dusíkatého cyklu,
+- zdraví ryb,
+- růst řas,
+- kvalitu vody (NH₃/NH₄⁺, NO₂⁻, NO₃⁻, DOC).
+
+V akváriu platí zásadní pravidlo:
+„Každé krmivo se dříve nebo později stane odpadem.“
+
+
+------------------------------------------------
+2. BIOLOGICKÁ ZÁTĚŽ A SOUVISLOST S KRMENÍM
+------------------------------------------------
+
+Z biologického hlediska je krmení hlavním zdrojem dusíku (N) a fosforu (P).
+
+Zjednodušený tok:
+Krmivo → ryba → metabolismus → exkrementy + rozklad → NH₃/NH₄⁺ → NO₂⁻ → NO₃⁻
+
+Přibližné orientační hodnoty:
+- 25–35 % dusíku z krmiva se přemění na tělesnou hmotu ryby,
+- 65–75 % končí jako odpad v systému.
+
+Důsledky nadměrného krmení:
+- přetížení biofiltru,
+- zvýšení NH₃/NH₄⁺ a NO₂⁻,
+- růst řas,
+- bakteriální zákaly,
+- stres ryb a náchylnost k nemocem.
+
+
+------------------------------------------------
+3. TYPY KRMIV A JEJICH VLASTNOSTI
+------------------------------------------------
+
+3.1 Suchá krmiva (vločky, granule, pelety)
+- nejčastější forma,
+- dlouhá trvanlivost,
+- rozdílná velikost částic,
+- riziko překrmování.
+
+3.2 Mražená krmiva
+- vyšší biologická hodnota,
+- menší objem plniv,
+- vyšší riziko organického zatížení při špatném dávkování.
+
+3.3 Živá krmiva
+- přirozené chování ryb,
+- vysoká stravitelnost,
+- možné riziko zavlečení patogenů.
+
+3.4 Speciální krmiva
+- rostlinná (herbivorní druhy),
+- proteinová (dravci),
+- funkční krmiva (barva, imunita).
+
+
+------------------------------------------------
+4. STRATEGIE SPRÁVNÉHO KRMENÍ
+------------------------------------------------
+
+Základní principy:
+- krmit méně, ale pravidelně,
+- přizpůsobit krmivo druhu ryb,
+- sledovat chování při krmení,
+- odstraňovat nespotřebované zbytky.
+
+Praktická pravidla:
+- ryby by měly krmivo sežrat do 1–3 minut,
+- pokud krmivo padá na dno a zůstává → překrmování,
+- u dna krmících druhů používat cílené krmení.
+
+Doporučená frekvence:
+- většina ryb: 1–2× denně,
+- potěr a rychle rostoucí ryby: vícekrát denně,
+- dospělé ryby: i obden (u některých druhů).
+
+
+------------------------------------------------
+5. NEJČASTĚJŠÍ CHYBY HOBBY AKVARISTŮ
+------------------------------------------------
+
+1. Překrmování „protože ryby vypadají hladově“
+2. Krmení jedním typem krmiva dlouhodobě
+3. Krmení při nestabilním akváriu (nezaběhnutý filtr)
+4. Krmení během nemoci nebo stresu
+5. Ignorování vlivu krmení na kvalitu vody
+
+Poznámka:
+Ryby v přírodě často nežerou každý den – krátkodobý půst je přirozený.
+
+
+------------------------------------------------
+6. VAZBA KRMENÍ NA KVALITU VODY
+------------------------------------------------
+
+Zvýšené krmení vede k:
+- nárůstu TAN (NH₃/NH₄⁺),
+- zvýšení NO₂⁻ při slabé nitrifikaci,
+- postupnému nárůstu NO₃⁻,
+- růstu řas při nadbytku živin.
+
+Typické signály problémů:
+- zákal vody po krmení,
+- zápach,
+- rychlý růst řas,
+- ryby lapající po vzduchu.
+
+
+------------------------------------------------
+7. KRMENÍ V RŮZNÝCH TYPŮ AKVÁRIÍ
+------------------------------------------------
+
+7.1 Společenské akvárium
+- kombinace vloček, granulí, mraženého,
+- hlídat rozdílné rychlosti příjmu potravy.
+
+7.2 Rostlinné (aquascape)
+- menší dávky,
+- důraz na stabilitu živin,
+- přímá vazba na CO₂ a hnojení.
+
+7.3 Dravé ryby
+- nižší frekvence,
+- větší jednotlivé dávky,
+- vyšší organická zátěž.
+
+7.4 Krevetária a nano akvária
+- extrémně malé dávky,
+- vysoké riziko přetížení.
+
+
+------------------------------------------------
+8. DIAGNOSTICKÉ VZORY PRO AQUANTIS
+------------------------------------------------
+
+Symptom → Pravděpodobná souvislost s krmením:
+
+- Zvýšené NO₂⁻ → přetížení biofiltru krmením
+- Zelená voda → nadbytek živin
+- Zákal po krmení → bakteriální rozklad
+- Letargie ryb → překrmování nebo špatná kvalita vody
+- Rychlý růst řas → dlouhodobé nadkrmení
+
+
+------------------------------------------------
+9. ZDROJE A ODBORNÁ VÝCHODISKA
+------------------------------------------------
+
+Dokument je založen na syntéze a parafrázi:
+- univerzitních extension materiálů (akvaristika, biologie ryb),
+- principů dusíkatého cyklu (Boyd, nitrifikace),
+- běžné akvarijní praxe a dlouhodobě ověřených postupů,
+- otevřených odborných článků o biozatížení a krmení ryb.
+
+Neobsahuje žádný text převzatý 1:1 z chráněných zdrojů.
+
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-05 – Krmení v akváriu
+Verze: V1
+Určeno pro: Aquantis Knowledge Base

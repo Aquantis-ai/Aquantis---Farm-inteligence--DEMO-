@@ -1,0 +1,210 @@
+KB-KOI-POND-12 – Jeseter v okrasném jezírku (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: KOI & hobby jezírka – doplňkové druhy
+Typ dokumentu: Species reality check / welfare guidance
+Použití v Aquantis: Diagnostika, prevence úhynů, edukace hobby chovatelů
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+------------------------------------------------
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument vysvětluje, proč je chov jeseterů v okrasných jezírkách
+často problematický, jaké jsou jejich skutečné biologické nároky
+a proč jsou jeseteři jedním z nejčastějších zdrojů chronických problémů
+a úhynů v hobby jezírkách.
+
+Cílem není jesetery zakázat, ale realisticky popsat:
+- jejich fyziologické potřeby,
+- konflikty s KOI a jinými okrasnými rybami,
+- typické chyby chovatelů,
+- minimální podmínky pro přežití vs. prosperitu.
+
+------------------------------------------------
+1. ZÁKLADNÍ BIOLOGIE JESETERŮ
+------------------------------------------------
+Jeseteři (Acipenseridae) jsou:
+- ryby dna,
+- chladnomilné až mírně teplomilné (dle druhu),
+- s velmi vysokou citlivostí na kvalitu vody,
+- s odlišnou potravní strategií než KOI.
+
+Klíčové biologické znaky:
+- dýchání silně závislé na vysokém O₂,
+- slabá tolerance organického zatížení,
+- minimální schopnost přežít krátkodobé hypoxie,
+- potrava výhradně ze dna (nemohou sbírat z hladiny).
+
+------------------------------------------------
+2. PROČ JE JESETER PROBLEMATICKÝ V HOBBY JEZÍRKU
+------------------------------------------------
+
+Hlavní důvody:
+- hobby jezírka jsou navržena primárně pro KOI,
+- jeseter má zcela jiné ekologické nároky,
+- konfliktní krmné chování,
+- dlouhodobý stres bez viditelných akutních příznaků.
+
+Typický scénář:
+„Jeseter přežívá první rok, druhý rok chřadne, třetí rok náhle uhyne.“
+
+------------------------------------------------
+3. KYSLÍK – KRITICKÝ LIMITUJÍCÍ FAKTOR
+------------------------------------------------
+
+Minimální požadavky:
+- ideálně ≥ 7–8 mg/l O₂
+- dlouhodobě nikdy pod 6 mg/l
+- nulová tolerance nočních poklesů
+
+Problém v jezírkách:
+- v noci pokles O₂ vlivem respirace řas,
+- v létě kombinace vysoké teploty + nízký O₂,
+- KOI přežijí → jeseter kolabuje.
+
+Typické příznaky hypoxie u jesetera:
+- apatie,
+- ležení na dně bez pohybu,
+- rychlé dýchání,
+- náhlý úhyn bez varování.
+
+------------------------------------------------
+4. PROUDĚNÍ A HYDRAULIKA
+------------------------------------------------
+
+Jeseteři vyžadují:
+- kontinuální proudění u dna,
+- výměnu vody kolem žaber,
+- aktivní přísun kyslíku.
+
+Problém:
+- většina hobby jezírek má proudění orientované na hladinu,
+- mrtvé zóny u dna,
+- sediment + nízký O₂.
+
+Doporučení:
+- cílené proudění u dna (spodní sání, trysky),
+- kruhové proudění,
+- žádné „stojaté jezírko“ pro jesetera.
+
+------------------------------------------------
+5. TEPLOTA – ČASTO PODCEŇOVANÝ FAKTOR
+------------------------------------------------
+
+Optimální teplota (obecně):
+- 12–20 °C (dle druhu)
+- nad 22–24 °C výrazně roste stres
+- nad 26 °C vysoké riziko úhynu
+
+Hobby realita:
+- jezírka se v létě běžně dostávají nad 25 °C,
+- KOI prosperují,
+- jeseter dlouhodobě strádá.
+
+------------------------------------------------
+6. KRMENÍ – KONFLIKT S KOI
+------------------------------------------------
+
+Jeseter:
+- krmení výhradně ze dna,
+- pomalý příjem potravy,
+- potřebuje klid a čas.
+
+KOI:
+- extrémně agresivní krmné chování,
+- rychlá konzumace,
+- konkurence u dna.
+
+Typické chyby:
+- „Jeseter určitě něco najde“
+- „Krmení padá ke dnu“
+- „Všichni jedí stejné krmivo“
+
+Důsledek:
+- jeseter hladoví, i když jezírko je „dobře krmeno“.
+
+------------------------------------------------
+7. ORGANICKÉ ZATÍŽENÍ A KVALITA VODY
+------------------------------------------------
+
+Jeseteři jsou velmi citliví na:
+- NO₂,
+- TAN,
+- organický kal,
+- bakteriální zátěž dna.
+
+Hobby jezírka:
+- často vysoký kal,
+- zbytky krmiva,
+- biofilm bez kontroly.
+
+Dlouhodobý efekt:
+- chronický stres,
+- poškození žaber,
+- snížená imunita.
+
+------------------------------------------------
+8. TYPICKÉ PŘÍČINY ÚHYNŮ JESETERŮ V JEZÍRKÁCH
+------------------------------------------------
+
+Nejčastější příčiny:
+1. Noční hypoxie v létě.
+2. Vysoká teplota vody.
+3. Hladovění kvůli konkurenci KOI.
+4. Nedostatečné proudění u dna.
+5. Chronické zatížení dusíkatými látkami.
+6. Nesprávné zazimování.
+
+Důležité:
+Úhyn jesetera je často „poslední kapka“, ne náhlá událost.
+
+------------------------------------------------
+9. REALISTICKÉ DOPORUČENÍ AQUANTIS
+------------------------------------------------
+
+Aquantis doporučuje:
+- NEkombinovat jesetera s KOI v malých jezírkách,
+- považovat jesetera za „technologicky náročnou rybu“,
+- pokud už jeseter → samostatná část systému.
+
+Minimální podmínky:
+- velmi hluboké jezírko,
+- silná aerace,
+- řízené proudění,
+- oddělené krmení,
+- monitoring O₂ i v noci.
+
+------------------------------------------------
+10. KLÍČOVÉ SDĚLENÍ PRO HOBBY CHOVATELE
+------------------------------------------------
+
+Jeseter:
+- není dekorace,
+- není „odolná ryba“,
+- není vhodný doplněk ke KOI bez úprav systému.
+
+Pokud nejsou splněny specifické podmínky:
+→ chov jesetera je dlouhodobě neetický,
+i když krátkodobě „funguje“.
+
+------------------------------------------------
+11. ZDROJE A ODBORNÁ VÝCHODISKA (PARAFRÁZOVANÉ)
+------------------------------------------------
+- FAO Fisheries Manuals – physiology of sturgeons
+- Boyd, Auburn University – oxygen & temperature interactions
+- KOI Organisation International – hobby pond failures
+- European sturgeon welfare guidelines
+- WorldFish pond system limitations
+
+Text je odborná syntéza, nikoli citace 1:1.
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+KB-KOI-POND-12 – V1
+Určeno pro: Aquantis Knowledge Base

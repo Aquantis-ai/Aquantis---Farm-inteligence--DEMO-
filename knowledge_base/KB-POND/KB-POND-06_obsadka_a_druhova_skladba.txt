@@ -1,0 +1,211 @@
+KB-POND-06 – OBSÁDKA RYBNÍKA A DRUHOVÁ SKLADBA (V1)
+================================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument slouží jako odborný základ pro návrh obsádky rybníka
+v tradičním rybníkářství a polointenzivní akvakultuře.
+
+Zaměřuje se na:
+- principy správné obsádky rybníků,
+- volbu druhové skladby,
+- poměry hlavních, doplňkových a dravých druhů,
+- vliv obsádky na produkci, kvalitu vody a stabilitu ekosystému.
+
+Dokument vychází z:
+- FAO Fisheries & Aquaculture Technical Papers,
+- tradičních středoevropských rybníkářských postupů,
+- výzkumů Mendelovy univerzity, Jihočeské univerzity a VÚRH Vodňany,
+- WorldFish pond aquaculture guidelines,
+- dlouhodobé provozní praxe rybníkářských podniků.
+
+Obsah je formulován jako odborná syntéza, nikoli jako přepis konkrétních publikací.
+
+
+------------------------------------------------
+1. ZÁKLADNÍ PRINCIPY OBSÁDKY RYBNÍKA
+------------------------------------------------
+
+Obsádka rybníka určuje:
+- celkovou produkci ryb,
+- strukturu potravního řetězce,
+- stabilitu planktonu,
+- riziko přerybnění nebo naopak nevyužití produkční kapacity.
+
+Základní cíle správné obsádky:
+- maximální využití přirozené produkce rybníka,
+- omezení negativních vlivů na kvalitu vody,
+- dosažení cílové velikosti ryb v plánovaném čase,
+- stabilní a předvídatelný výlov.
+
+Klíčové zásady:
+- nepřetěžovat rybník biomásou,
+- kombinovat více druhů s různými potravními nikami,
+- udržet rovnováhu mezi planktonem, bentosem a rybí obsádkou.
+
+
+------------------------------------------------
+2. KATEGORIE RYB V OBSÁDCE
+------------------------------------------------
+
+Obsádku rybníka lze rozdělit do tří základních skupin:
+
+1) Hlavní produkční druh
+2) Doplňkové (meliorační) druhy
+3) Dravé druhy
+
+Každá skupina má v rybníce specifickou funkci.
+
+
+------------------------------------------------
+3. HLAVNÍ PRODUKČNÍ DRUH – KAPR OBECNÝ
+------------------------------------------------
+
+Kapr obecný (Cyprinus carpio) je dominantním druhem
+středoevropského rybníkářství.
+
+Hlavní charakteristiky:
+- všežravec s vysokou adaptabilitou,
+- schopnost využívat bentos i krmivo,
+- tolerantní k teplotě i kolísání kvality vody.
+
+Typické obsádky kapra:
+- extenzivní rybník: 200–400 ks/ha
+- polointenzivní rybník: 400–800 ks/ha
+- intenzivnější chovy: až 1 200 ks/ha (s krmením)
+
+Rizika vysoké obsádky:
+- zakalení vody,
+- zvýšení NH₄ a organického zatížení,
+- potlačení planktonu,
+- horší růst a zdravotní stav.
+
+
+------------------------------------------------
+4. DOPLŇKOVÉ (MELIORAČNÍ) DRUHY
+------------------------------------------------
+
+Doplňkové druhy zvyšují efektivitu rybníka tím, že:
+- využívají jiné zdroje potravy než kapr,
+- stabilizují plankton,
+- omezují přerůstání sinic nebo makrofyt.
+
+Nejčastější doplňkové druhy:
+
+Amur bílý (Ctenopharyngodon idella)
+- regulace vodních rostlin,
+- typická obsádka: 5–10 % biomasy kapra
+
+Tolstolobik bílý a pestrý (Hypophthalmichthys spp.)
+- filtrátoři fytoplanktonu a zooplanktonu,
+- snižují riziko květů vody,
+- typická obsádka: 10–30 % biomasy kapra
+
+Lín obecný (Tinca tinca)
+- využívá bentos,
+- doplňuje produkci v mělčinách,
+- citlivější na nízký kyslík
+
+Karas, cejn, plotice (kontrolovaně)
+- mohou zvyšovat biologickou diverzitu,
+- při přemnožení však zvyšují konkurenci a zákal
+
+
+------------------------------------------------
+5. DRAVÉ DRUHY – REGULAČNÍ FUNKCE
+------------------------------------------------
+
+Dravé ryby mají v rybníce klíčovou regulační roli:
+- kontrola přemnožení plevelných ryb,
+- zlepšení kondice bílé ryby,
+- stabilizace potravní pyramidy.
+
+Nejčastější dravci:
+
+Candát obecný (Sander lucioperca)
+- preferuje čistší vodu,
+- citlivý na nízký O₂,
+- obsádka: 1–3 % celkové biomasy
+
+Štika obecná (Esox lucius)
+- velmi efektivní predátor,
+- vhodná do menších rybníků,
+- obsádka: 0.5–2 %
+
+Sumec velký (Silurus glanis)
+- regulace větších ryb,
+- riziko nadměrné predace,
+- obsádka velmi nízká a cílená
+
+Poznámka:
+Přemíra dravců vede ke stresu ryb a snížení celkové produkce.
+
+
+------------------------------------------------
+6. DRUHOVÁ SKLADBA – MODELOVÉ PŘÍKLADY
+------------------------------------------------
+
+Model A – Tradiční kaprový rybník:
+- Kapr: 70–80 %
+- Tolstolobik: 10–15 %
+- Amur: 5 %
+- Dravci: 1–2 %
+
+Model B – Polointenzivní produkční rybník:
+- Kapr: 60–70 %
+- Tolstolobik: 15–25 %
+- Lín / doplňkové druhy: 5–10 %
+- Dravci: 2–3 %
+
+Model C – Rybník s důrazem na kvalitu vody:
+- Kapr: 50–60 %
+- Tolstolobik: 25–30 %
+- Amur: 5–10 %
+- Dravci: 1–2 %
+
+
+------------------------------------------------
+7. VZTAH OBSÁDKY A KVALITY VODY
+------------------------------------------------
+
+Nevhodná obsádka může vést k:
+- chronické hypoxii,
+- častým ranním kyslíkovým deficitům,
+- rozvoji sinic,
+- zhoršení růstu a zdravotního stavu ryb.
+
+Zásady:
+- vyšší obsádka → nutnost krmení a řízení živin,
+- více kapra → vyšší zákal,
+- více filtrátorů → stabilnější plankton,
+- více dravců → nižší riziko přemnožení bílé ryby.
+
+
+------------------------------------------------
+8. ČASTÉ CHYBY V PRAXI
+------------------------------------------------
+
+- přerybnění rybníka kaprem,
+- absence dravců,
+- příliš vysoký podíl tolstolobika bez kontroly planktonu,
+- nerespektování hloubky a produktivity rybníka,
+- jednotná obsádka bez funkční diverzity.
+
+
+------------------------------------------------
+9. SHRNUTÍ PRO PRAXI
+------------------------------------------------
+
+Správná obsádka rybníka:
+- není fixní číslo, ale dynamický systém,
+- musí odpovídat typu rybníka, hloubce a produktivitě,
+- kombinuje produkční, meliorační a regulační funkce,
+- je klíčovým nástrojem řízení kvality vody i ekonomiky chovu.
+
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB-POND-06 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base – Rybníkářství

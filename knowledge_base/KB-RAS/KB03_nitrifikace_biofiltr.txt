@@ -1,0 +1,276 @@
+Aquantis_KB03_NITRIFIKACE_A_BIOFILTR_V_AKVAKULTUŘE_V1
+=====================================================
+
+ÚČEL DOKUMENTU
+-----------------------------------------------------
+Tento dokument poskytuje odborný technický základ pro systém Aquantis
+v oblasti nitrifikace, funkce biofiltru, provozních limitů,
+diagnostiky problémů a obnovy systémů. Text vychází z konsolidovaných
+poznatků z:
+- FAO Technical Papers (RAS, voda, akvakultura),
+- Auburn University – Boyd & Tucker (Water Quality),
+- Recirculating Aquaculture (Timmons, Ebeling, parafrázováno),
+- International Journal of Recirculating Aquaculture,
+- univerzitních extension materiálů (UF/IFAS, Texas A&M),
+- praktických RAS best practices používaných v EU a USA.
+
+Všechny formulace v tomto dokumentu jsou nově vytvořené a neobsahují
+copyrightovaný obsah 1:1.
+
+
+-----------------------------------------------------
+1. CO JE NITRIFIKACE A PROČ JE KLÍČOVÁ
+-----------------------------------------------------
+Nitrifikace je biologický proces, při kterém specializované bakterie
+přeměňují toxický amoniak (NH₃/NH₄⁺) na dusitany (NO₂⁻) a následně na
+méně toxické dusičnany (NO₃⁻).
+
+Fáze:
+
+1) AMONIFIKACE  
+Organický odpad → NH₄⁺
+
+2) NITRIFIKACE 1. STUPNĚ (AOB)  
+NH₄⁺ / NH₃ → NO₂⁻  
+Typičtí zástupci: *Nitrosomonas*, *Nitrosospira*
+
+3) NITRIFIKACE 2. STUPNĚ (NOB)  
+NO₂⁻ → NO₃⁻  
+Typičtí zástupci: *Nitrospira*, *Nitrobacter*
+
+Bez funkční nitrifikace dochází k:
+- akutní toxicitě NH₃,
+- methemoglobinémii způsobené NO₂⁻,
+- výpadku metabolismu ryb,
+- rychlým úhynům.
+
+
+-----------------------------------------------------
+2. OPTIMÁLNÍ PODMÍNKY PRO NITRIFIKACI
+-----------------------------------------------------
+Nitrifikační bakterie mají úzké toleranční pásmo.
+
+KLÍČOVÉ PODMÍNKY:
+
+1. **Kyslík (O₂)**  
+- optimálně ≥ 6 mg/l v biofiltru  
+- pod 4 mg/l klesá nitrifikační aktivita  
+- kritický pokles O₂ může způsobit kolaps během hodin
+
+2. **pH**  
+- optimální 7.0–7.8  
+- pH < 6.5 → inhibice nitrifikace  
+- pH > 8.2 → zvyšuje toxickou frakci NH₃
+
+3. **Alkalita (KH)**  
+- min. 80–150 mg/l CaCO₃ pro stabilní provoz  
+- nitrifikace spotřebovává KH → nutné doplňování
+
+4. **Teplota**  
+Obecně:
+- minimum pro aktivitu: ~10–12 °C  
+- optimální 20–30 °C  
+- nad 35 °C → inhibice či úhyn nitrifikantů
+
+5. **Průtok biofiltru**  
+- musí zajistit přísun kyslíku a substrátu  
+- typicky 1–2 objemy biofiltru za minutu (podle typu systému)
+
+6. **Nízká koncentrace toxických látek**  
+- chlor, chloramin, ozón → zabíjejí nitrifikační bakterie  
+- vysoké NH₃/NO₂ mohou biom asociaci poškodit
+
+
+-----------------------------------------------------
+3. JAK FUNGUJE BIOFILTR
+-----------------------------------------------------
+Biofiltr je nosič (substrát), na kterém žije nitrifikační biofilm.
+
+Typické RAS biofiltry:
+- MBBR (moving bed),
+- ponořené biofiltry,
+- trickling towers,
+- bead filtry s nitrifikační sekcí.
+
+Biofilm se vyvíjí postupně:
+
+1. kolonizace povrchu,
+2. růst heterotrofů,
+3. stabilizace nitrifikantů,
+4. vyvážený ekosystém.
+
+Kapacita biofiltru závisí na:
+- ploše povrchu (m²/m³),
+- saturaci kyslíkem,
+- rychlosti průtoku,
+- stabilitě pH a KH,
+- zátěži dusíkem (mg TAN / m²/den).
+
+
+-----------------------------------------------------
+4. SPOUŠTĚNÍ BIOFILTRU (START-UP)
+-----------------------------------------------------
+Nový nebo restartovaný biofiltr potřebuje 3–8 týdnů k dosažení plné funkce.
+
+Fáze startu:
+
+1) Den 0–7  
+- převaha heterotrofů  
+- kolísavé pH  
+- nízká nitrifikace
+
+2) Den 7–21  
+- vznikají AOB → začne růst NO₂  
+- TAN může mírně klesat, ale NO₂ stoupá
+
+3) Den 21–45  
+- nastupují NOB  
+- NO₂ výrazně klesá, NO₃ roste
+
+4) Den 45+  
+- systém se stabilizuje  
+- potenciální kapacita ≈ max. výkonu
+
+BEST PRACTICES pro start-up:
+- nepřetěžovat krmivem (≤ 50 % obvyklé dávky),
+- stabilní pH 7.0–7.5,
+- alkalita > 120 mg/l,
+- silná aerace,
+- teplota v optimu (20–28 °C ideálně),
+- nikdy nečistit celý biofiltr najednou.
+
+
+-----------------------------------------------------
+5. KOLAPS NITRIFIKACE (PŘÍČINY)
+-----------------------------------------------------
+Kolaps biofiltru se projeví zvýšením TAN nebo NO₂. Typické příčiny:
+
+1. **Nízký kyslík v biofiltru**  
+- výpadek čerpadla  
+- zanesené difusory  
+- nedostatečná aerace
+
+2. **Výpadek průtoku**  
+- ucpání filtrů  
+- mechanická závada  
+- chybná hydraulika
+
+3. **Nízké pH (< 6.5)**  
+→ okamžitá inhibice nitrifikace
+
+4. **Nízká alkalita (< 60 mg/l)**  
+→ kolísání pH, zpomalení nitrifikace
+
+5. **Chlor, chemikálie, sanitační látky**  
+→ zabití biofilmu
+
+6. **Přetížení krmivem / vysoký TAN**  
+→ heterotrofové přerostou nitrifikanty
+
+7. **Biofouling a přerůstání biofilmu**  
+→ anaerobní zóny → toxické metabolity
+
+
+-----------------------------------------------------
+6. OBNOVA BIOFILTRU
+-----------------------------------------------------
+
+KROK 1 – Stabilizace prostředí  
+- zvýšit aeraci, zkontrolovat difusory  
+- obnovit/zkontrolovat průtok  
+- upravit pH na 7.0–7.5  
+- doplnit alkalitu na 120–150 mg/l
+
+KROK 2 – Snížení zátěže  
+- snížit krmení na 20–40 %  
+- odstranit kal z mechanické filtrace  
+- podle potřeby provést částečnou výměnu vody
+
+KROK 3 – Postupná rekultivace  
+- nechat systém stabilizovat 5–10 dní  
+- očekávat postupný pokles TAN, později NO₂  
+- nepoužívat chemikálie, které by narušily biofilm
+
+KROK 4 – Návrat ke standardní zátěži  
+- postupně navyšovat krmení během 7–21 dní  
+- sledovat TAN/NO₂ každý den
+
+
+-----------------------------------------------------
+7. DIAGNOSTIKA PROBLÉMŮ S NITRIFIKACÍ
+-----------------------------------------------------
+
+1. **Vysoký TAN, nízký NO₂ → problém v AOB**  
+- nízký kyslík  
+- příliš vysoké pH → toxická NH₃ frakce  
+- heterotrofové potlačují AOB  
+- nízká alkalita
+
+2. **Nízký TAN, vysoký NO₂ → problém v NOB**  
+- NOB jsou citlivější než AOB  
+- nízké pH  
+- nedávný zásah chemikáliemi  
+- nedostatečný průtok
+
+3. **Současně vysoké TAN i NO₂ → kolaps celého biofilmu**  
+- výpadek energie  
+- hypoxie biofiltru  
+- toxické látky  
+- drastická změna pH
+
+
+-----------------------------------------------------
+8. KAPACITA BIOFILTRU A DIMENZOVÁNÍ
+-----------------------------------------------------
+Kapacita se typicky vyjadřuje jako:
+
+mg TAN odstraněného na m² povrchu biofiltru za den.
+
+Orientace (parafrázované hodnoty):
+
+- Nízká zátěž RAS: 200–400 mg TAN/m²/den  
+- Intenzivní RAS: 400–800 mg TAN/m²/den  
+- Velmi intenzivní systémy: až 1200 mg TAN/m²/den
+
+Tato čísla se liší podle:
+- typu nosiče (K1, K3, Hel-X),
+- velikosti povrchu,
+- teploty,
+- pH,
+- aerace.
+
+
+-----------------------------------------------------
+9. PREVENCE PROBLÉMŮ S BIOFILTREM
+-----------------------------------------------------
+1. stabilní pH a alkalita,  
+2. dostatečný kyslík ve filtru,  
+3. nepřetěžovat systém krmivem,  
+4. pravidelně odstraňovat kal,  
+5. zajistit nepřerušený průtok,  
+6. neaplikovat chemikálie do RAS bez konzultace,  
+7. kontrolovat teplotu a hydrauliku.
+
+
+-----------------------------------------------------
+10. SHRNUTÍ PRO AQUANTIS (interní instrukce)
+-----------------------------------------------------
+Při odpovědích modelu Aquantis vždy:
+- uváděj možné příčiny (ale jako hypotézu),
+- doporučuj bezpečné kroky (bez léčiv),
+- sleduj O₂, pH, KH, TAN, NO₂ jako primární indikátory,
+- vnímej kolaps nitrifikace jako urgentní problém,
+- doporuč kontaktovat odborníka při vysokém NO₂ nebo TAN.
+
+Model musí jasně rozlišovat:
+- problém AOB vs. NOB,
+- kolaps biofilmu vs. přetížení systému,
+- krátkodobou nerovnováhu vs. systémovou poruchu.
+
+
+-----------------------------------------------------
+11. VERZE DOKUMENTU
+-----------------------------------------------------
+Verze: KB03 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)

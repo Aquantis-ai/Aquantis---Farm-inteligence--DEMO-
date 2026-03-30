@@ -1,0 +1,213 @@
+KB-AQUA-TROPICAL-04 – TROPICKÉ NEMOCI & ENVIRONMENTÁLNÍ STRESORY (V1)
+=================================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – tropická akvária
+Typ dokumentu: Zdraví ryb / diagnostika
+Použití v Aquantis: Diagnostika symptomů, prevence, vysvětlení příčin
+Vhodné pro RAG: Ano
+Verze: V1
+Datum: 2025-02
+
+
+------------------------------------------------
+1. ÚVOD – PROČ JSOU TROPICKÉ RYBY ZRANITELNÉ
+------------------------------------------------
+
+Tropické akvarijní ryby pocházejí z relativně stabilních ekosystémů,
+kde jsou:
+
+- malé sezónní výkyvy teploty,
+- nízká koncentrace patogenů na jednotku objemu,
+- vysoká kvalita vody (zejména nízký obsah dusíkatých látek).
+
+V akváriu jsou ryby vystaveny:
+- omezenému objemu,
+- kumulaci stresorů,
+- vysoké hustotě obsádky,
+- častým zásahům chovatele.
+
+➡️ Většina nemocí v tropických akváriích **nevzniká primárně infekcí**,
+ale **sekundárně v důsledku stresu**.
+
+
+------------------------------------------------
+2. HLAVNÍ ENVIRONMENTÁLNÍ STRESORY
+------------------------------------------------
+
+### 2.1 Teplotní stres
+- Náhlé poklesy nebo výkyvy > 2 °C / 24 h
+- Přehřátí > 30 °C (nižší O₂, vyšší toxicita NH₃)
+
+Důsledky:
+- oslabení imunity,
+- zrychlení životních cyklů parazitů,
+- zvýšená mortalita citlivých druhů (tetry, diskusi).
+
+---
+
+### 2.2 Kvalita vody (chronický stres)
+Nejčastější problém tropických akvárií:
+
+- NH₃/NH₄⁺ > 0
+- NO₂⁻ > 0
+- NO₃⁻ dlouhodobě > 40–50 mg/l
+- nestabilní pH
+
+Důsledky:
+- poškození žaber,
+- snížená osmoregulace,
+- náchylnost k bakteriálním infekcím.
+
+---
+
+### 2.3 Osmotický stres
+Vzniká při:
+- náhlých výměnách vody,
+- nevhodné mineralizaci (GH/KH),
+- kombinaci druhů z odlišných biotopů.
+
+Typické projevy:
+- apatie,
+- zrychlené dýchání,
+- zhoršené hojení poranění.
+
+---
+
+### 2.4 Sociální a behaviorální stres
+- přerybnění,
+- nevhodná skladba druhů,
+- dominance (cichlidy, labyrintky),
+- absence úkrytů.
+
+➡️ Velmi častý **skrytý stresor**, který vede k nemocem bez zjevné příčiny.
+
+
+------------------------------------------------
+3. NEJČASTĚJŠÍ TROPICKÉ NEMOCI
+------------------------------------------------
+
+### 3.1 Parazitární onemocnění
+
+#### Ichthyophthirius multifiliis (krupička)
+- bílé tečky,
+- tření o dekorace,
+- zrychlené dýchání.
+
+Spouštěče:
+- teplotní stres,
+- nové ryby bez karantény.
+
+---
+
+#### Trichodina, Chilodonella
+- zakalená kůže,
+- apatie,
+- snížený příjem potravy.
+
+Časté u:
+- přerybněných nádrží,
+- zanedbané údržby.
+
+---
+
+### 3.2 Bakteriální infekce
+
+#### Aeromonas / Pseudomonas
+- rozpad ploutví,
+- vředy,
+- zarudnutí báze ploutví.
+
+Vždy sekundární!
+➡️ Bez stresu a špatné vody se nerozvíjí.
+
+---
+
+#### Columnaris (Flavobacterium)
+- bělavé povlaky,
+- rychlý průběh,
+- časté úhyny.
+
+Podporuje:
+- vysoká teplota,
+- vysoká organická zátěž.
+
+---
+
+### 3.3 Plísňová onemocnění (Saprolegnia)
+- vatovité povlaky,
+- obvykle na poraněních nebo jikrách.
+
+Typické při:
+- špatné kvalitě vody,
+- nízké teplotě + stresu.
+
+
+------------------------------------------------
+4. ROLE STRESU V ROZVOJI NEMOCÍ
+------------------------------------------------
+
+Zásadní princip:
+
+➡️ **Patogen je téměř vždy přítomen.**
+➡️ **Nemoc vzniká až při oslabení ryby.**
+
+Hlavní spouštěče:
+- špatná voda,
+- nevhodná teplota,
+- přerybnění,
+- špatná kompatibilita druhů,
+- chybějící karanténa.
+
+
+------------------------------------------------
+5. PREVENCE – ZÁKLAD ZDRAVÉHO TROPICKÉHO AKVÁRIA
+------------------------------------------------
+
+1. Stabilní parametry vody (ne honba za „ideálem“).
+2. Pravidelné výměny vody (menší, ale časté).
+3. Karanténa všech nových ryb min. 2–4 týdny.
+4. Nepřerybňovat.
+5. Správná kompatibilita druhů.
+6. Vyhýbat se „preventivní chemii“ bez diagnózy.
+7. Minimalizovat stres při údržbě.
+
+
+------------------------------------------------
+6. RYCHLÁ DIAGNOSTIKA – VZOROVÉ VZTAHY
+------------------------------------------------
+
+Symptom → Pravděpodobná příčina
+
+- Bílé tečky → parazit + teplotní stres
+- Rozpad ploutví → chronický stres + špatná voda
+- Apatie bez viditelných změn → NO₃, sociální stres
+- Rychlé dýchání → O₂ deficit / NO₂
+- Náhlé úhyny → NH₃, teplotní šok
+
+
+------------------------------------------------
+7. ZDROJE A ODBORNÝ ZÁKLAD
+------------------------------------------------
+
+Tento dokument vychází z odborné syntézy a parafrází poznatků z:
+
+- FAO – Small-scale aquaculture & fish health manuals
+- Noga, E. – Fish Disease: Diagnosis and Treatment
+- University Extension Programs (UF/IFAS, Auburn, Texas A&M)
+- Otevřených článků z Journal of Fish Diseases
+- Praktických poznatků z tropické akvaristiky a karanténních protokolů
+
+Text je formulován nově, neobsahuje žádný převzatý text 1:1
+a je určen jako znalostní základ pro Aquantis.
+
+
+------------------------------------------------
+8. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-TROPICAL-04
+Verze: V1
+Stav: Produkční
+Určeno pro: Aquantis Knowledge Base

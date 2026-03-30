@@ -1,0 +1,213 @@
+Aquantis_KB20_DIMENZOVÁNÍ_BIOFILTRU_V1
+======================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument poskytuje metodiku pro dimenzování biofiltru v RAS systémech
+na základě:
+- produkce TAN (Total Ammonia Nitrogen),
+- nitrifikační kapacity nosiče (média),
+- teplotních koeficientů,
+- bezpečnostních faktorů,
+- požadované stability systému.
+
+Dokument čerpá z obecných best practices
+(FAO, RAS engineering manuals, univerzitní extension materiály),
+ale je kompletně přeformulován pro právně bezpečné použití.
+
+
+------------------------------------------------
+1. ROLE BIOFILTRU V RAS
+------------------------------------------------
+Biofiltr:
+- oxiduje NH₃/NH₄⁺ → NO₂⁻ (Nitrosomonas),
+- oxiduje NO₂⁻ → NO₃⁻ (Nitrobacter/Nitrospira),
+- stabilizuje pH (spotřebovává alkalitu),
+- je klíčovou komponentou pro udržení nízké toxicity amoniaku a dusitanů.
+
+Výkon biofiltru musí být vždy vyšší než:
+→ denní produkce TAN z krmiva + organický rozklad.
+
+
+------------------------------------------------
+2. PRODUKCE TAN – ZÁKLADNÍ VZOREC
+------------------------------------------------
+Produkce TAN závisí hlavně na množství krmiva.
+
+Obecný model:
+
+1) TAN_load (g TAN/den) = Feed_rate(kg/den) × Protein_fraction × 0.092
+
+kde:
+- protein_fraction = podíl proteinu v krmivu (např. 0.42 = 42 %),
+- 0.092 ≈ průměrná frakce proteinu, která končí jako TAN.
+
+Typické hodnoty:
+- losos, pstruh → 42–48 % protein → TAN ~38–48 g / 100 kg ryb / den  
+- kaprovité ryby → 30–38 % protein → TAN ~25–35 g  
+- sumec, tilapie → 30–40 % → TAN ~30–40 g  
+
+Příklad výpočtu:
+Feed = 5 kg/den  
+Protein = 45 %  
+TAN_load = 5 × 0.45 × 0.092 = **0.207 kg TAN/den = 207 g/den**
+
+
+------------------------------------------------
+3. NITRIFIKAČNÍ KAPACITA MÉDIÍ (KLa, m² povrchu)
+------------------------------------------------
+Hodnota SA (specific surface area) je klíčová.
+
+Typické SA:
+- Kaldnes K1 → ~500–800 m²/m³
+- Kaldnes K3 → ~600–900 m²/m³
+- Hel-X 13 → 600–750 m²/m³
+- Jiné statické médium → 200–400 m²/m³
+
+Typická nitrifikační kapacita (orientačně):
+
+**Pro NH₃ → NO₂ (první krok):**  
+0.2–0.45 g TAN odstraněno/m²/den (závisí na teplotě)
+
+**Pro NO₂ → NO₃ (druhý krok):**  
+0.2–0.35 g NO₂-N/m²/den
+
+Bezpečné průměry pro dimenzování v RAS:
+- studená voda (10–14 °C): **0.15–0.25 g TAN/m²/den**
+- teplá voda (24–28 °C): **0.30–0.45 g TAN/m²/den**
+
+Teplotní koeficient:  
+Růst kapacity cca 6–8 % na každý 1 °C.
+
+
+------------------------------------------------
+4. ZÁKLADNÍ VZOREC PRO OBJEM BIOFILTRU
+------------------------------------------------
+
+Biofilter_volume (m³) =
+    TAN_load (g/den)
+ / (SA × nitrification_rate × Safety_factor)
+
+kde:
+- SA = povrch média (m²/m³)
+- nitrification_rate = g TAN/m²/den
+- Safety_factor = 1.2–2.0
+
+Doporučujeme Safety_factor:
+- 1.5 pro teplovodní systémy,
+- 1.8–2.0 pro studenovodní systémy (pomalá nitrifikace).
+
+
+------------------------------------------------
+5. MODEL KONKRÉTNÍHO VÝPOČTU (příklad)
+------------------------------------------------
+Systém: pstruh duhový (stud. voda 12 °C)  
+Krmení: 4 kg/den  
+Protein: 46 %  
+Médium: K1 (SA = 650 m²/m³)  
+Nitrifikační kapacita: 0.22 g TAN/m²/den  
+Safety factor: 1.8
+
+1) TAN_load = 4 × 0.46 × 0.092 = 0.169 kg = 169 g TAN/den  
+2) Kapacita filtru na 1 m³:
+   650 × 0.22 = 143 g TAN/m³/den  
+3) Po bezpečnostním faktoru:
+   143 / 1.8 = 79.4 g TAN/m³/den  
+4) Objem biofiltru:
+   169 / 79.4 = **2.13 m³**
+
+→ Doporučený biofiltr ≈ **2.2–2.5 m³**
+
+
+------------------------------------------------
+6. DIMENZOVÁNÍ PRO JEDNOTLIVÉ DRUHY (orientační rozsahy)
+------------------------------------------------
+
+Pstruh duhový  
+- Teplota 10–16 °C → nízká nitrifikace  
+- Doporučení: 0.20–0.28 g TAN/m²/den
+
+Siven  
+- Ještě citlivější na NO₂  
+- Doporučení: 0.18–0.25 g TAN/m²/den
+
+Candát / okoun  
+- Nízká tolerance NO₂  
+- Doporučení: 0.22–0.32 g TAN/m²/den
+
+Kapr, amur, tolstolobik  
+- Vysoké teploty → vyšší nitrifikace  
+- Doporučení: 0.30–0.40 g TAN/m²/den
+
+Tilapie  
+- Velmi stabilní, vysoká teplota  
+- Doporučení: 0.35–0.45 g TAN/m²/den
+
+Sumci (africký, pangas)  
+- Vysoký metabolismus → vysoký TAN load  
+- Doporučení: 0.35–0.45 g TAN/m²/den
+
+
+------------------------------------------------
+7. ALKALITA A NITRIFIKACE – PROČ JE DŮLEŽITÁ
+------------------------------------------------
+Nitrifikace spotřebuje cca:
+→ 7.14 g alkalinity (vyjádřené jako CaCO₃)
+na každý gram TAN oxidovaný.
+
+Model:
+Alkalinity_consumption =
+    TAN_load (g/den) × 7.14
+
+Biofiltr se může zhroutit při:
+- pH < 6.5
+- alkalita < 80 mg/l
+- výpadku aerace
+- výpadku průtoku
+
+
+------------------------------------------------
+8. BEZPEČNOSTNÍ FAKTORY A REDUNDANCE
+------------------------------------------------
+Doporučení:
+
+1) Biofiltr alespoň **1.5×–2× větší**, než vyžaduje výpočet.  
+2) Dva paralelní biofiltry místo jednoho.  
+3) Bypass pro přidání nového média.  
+4) Monitorovat:
+   - TAN,
+   - NO₂,
+   - alkalitu,
+   - pH,
+   - DO v biofiltru.
+
+
+------------------------------------------------
+9. KOLAPS BIOFILTRU – DIAGNOSTIKA A OBNOVA
+------------------------------------------------
+Příčiny:
+- výpadek kyslíku,
+- nízké pH/alkalita,
+- náhlé přetížení krmivem,
+- přidání toxických látek.
+
+Diagnostika:
+- Náhlý nárůst TAN/NO₂.
+- Zpomalení průtoku biofiltrem.
+- Pokles DO uvnitř filtru.
+
+Obnova:
+1) Okamžité zvýšení aerace.  
+2) Zvýšit průtok biofiltrem.  
+3) Stabilizovat pH a alkalitu (100–150 mg/l CaCO₃).  
+4) Snížit krmivo o 40–60 %.  
+5) Přidat nové médium postupně (max 5–10 % denně).  
+6) Obnova trvá 3–10 dní podle rozsahu poškození.
+
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB20 – V1
+Poslední aktualizace: 2025-02
+Určeno pro: Aquantis Knowledge Base (interní použití)

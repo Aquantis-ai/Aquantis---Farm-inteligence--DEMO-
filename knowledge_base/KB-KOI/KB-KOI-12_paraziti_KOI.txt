@@ -1,0 +1,280 @@
+KB-KOI-12 – PARAZITI KOI (ŽIVOTNÍ CYKLY, DIAGNOSTIKA, RIZIKA)
+===========================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: KOI jezírka
+Typ dokumentu: Parazitologie / Diagnostika
+Použití v Aquantis: Diagnostika symptomů, prevence, karanténa
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument slouží jako odborný základ pro:
+- rozpoznání nejčastějších parazitů KOI kaprů,
+- pochopení jejich životních cyklů,
+- vyhodnocení rizik pro chov,
+- správnou diagnostiku (bez předepisování léčiv),
+- návrh preventivních opatření a biosecurity.
+
+Dokument je určen pro:
+- hobby KOI chovy,
+- show KOI,
+- zahradní jezírka,
+- karanténní systémy.
+
+Neobsahuje žádné konkrétní dávkování léčiv.
+
+
+------------------------------------------------
+2. OBECNÁ CHARAKTERISTIKA PARAZITÁRNÍCH PROBLÉMŮ U KOI
+------------------------------------------------
+
+Paraziti u KOI jsou nejčastější příčinou:
+- chronického stresu,
+- zhoršení imunity,
+- sekundárních bakteriálních infekcí,
+- úhynů po transportu nebo při sezónních přechodech.
+
+Typické spouštěče:
+- nově zakoupené ryby bez karantény,
+- kolísání teploty a pH,
+- vysoké organické zatížení,
+- přeplnění jezírka,
+- manipulace a transport.
+
+
+------------------------------------------------
+3. HLAVNÍ SKUPINY PARAZITŮ KOI
+------------------------------------------------
+
+### 3.1 Ektoparaziti (na kůži a žábrách)
+- nejčastější u KOI
+- snadno přenosní
+- rychlá reprodukce
+
+### 3.2 Endoparaziti (vnitřní)
+- méně častí v okrasných chovech
+- spíše u ryb z extenzivních chovů
+- obtížnější diagnostika
+
+
+------------------------------------------------
+4. NEJČASTĚJŠÍ PARAZITI KOI – PŘEHLED
+------------------------------------------------
+
+### 4.1 Trichodina spp.
+Typ: prvok  
+Lokalizace: kůže, žábry  
+
+Projevy:
+- zvýšené tření o předměty,
+- zakalený povrch kůže,
+- apatie,
+- zrychlené dýchání.
+
+Poznámky:
+- velmi častý parazit u KOI,
+- explozivní růst při zhoršené kvalitě vody.
+
+
+### 4.2 Chilodonella spp.
+Typ: prvok  
+Lokalizace: kůže, žábry  
+
+Projevy:
+- šedavý povlak na kůži,
+- letargie,
+- rychlé úhyny při nízkých teplotách.
+
+Riziko:
+- nebezpečný hlavně na jaře a na podzim.
+
+
+### 4.3 Ichthyophthirius multifiliis (krupička)
+Typ: prvok  
+Lokalizace: kůže, ploutve, žábry  
+
+Projevy:
+- bílé tečky („krupice“),
+- silný stres,
+- rychlé dýchání,
+- odmítání potravy.
+
+Poznámky:
+- životní cyklus závislý na teplotě,
+- volná stadia jsou infekční.
+
+
+### 4.4 Costia (Ichthyobodo necator)
+Typ: prvok  
+Lokalizace: kůže, žábry  
+
+Projevy:
+- téměř neviditelné změny,
+- vysoká mortalita u oslabených ryb,
+- velmi agresivní průběh.
+
+Poznámky:
+- častá u nových importů KOI.
+
+
+### 4.5 Dactylogyrus spp. (žábrohlíst)
+Typ: ploštěnec  
+Lokalizace: žábry  
+
+Projevy:
+- jednostranné dýchání,
+- zhoršený příjem kyslíku,
+- chronické poškození žaber.
+
+Riziko:
+- klade vajíčka → opakované infekce.
+
+
+### 4.6 Gyrodactylus spp. (kožní hlíst)
+Typ: ploštěnec  
+Lokalizace: kůže, ploutve  
+
+Projevy:
+- tření,
+- poškození ploutví,
+- rychlé šíření mezi rybami.
+
+Poznámky:
+- živorodý → velmi rychlá reprodukce.
+
+
+### 4.7 Argulus (rybí veš)
+Typ: korýš  
+Lokalizace: povrch těla  
+
+Projevy:
+- viditelný parazit,
+- lokální záněty,
+- sekundární infekce.
+
+Riziko:
+- mechanické poškození kůže.
+
+
+------------------------------------------------
+5. ŽIVOTNÍ CYKLY – PROČ JE DŮLEŽITÉ JE ZNÁT
+------------------------------------------------
+
+Paraziti mají často:
+- vícestupňový vývoj,
+- fáze mimo rybu,
+- teplotně závislý cyklus.
+
+Důsledky:
+- jednorázový zásah často nestačí,
+- reinfekce po několika dnech,
+- význam karantény a opakovaného sledování.
+
+
+------------------------------------------------
+6. DIAGNOSTIKA PARAZITŮ
+------------------------------------------------
+
+### 6.1 Pozorování chování
+- tření o dno/stěny,
+- shlukování u hladiny,
+- zrychlené dýchání,
+- apatie.
+
+### 6.2 Vizuální kontrola
+- povlak na kůži,
+- bílé tečky,
+- poškozené ploutve.
+
+### 6.3 Mikroskopické vyšetření (ideální)
+- kožní seškrab,
+- žaberní stěr.
+
+Poznámka:
+Mikroskop je nejspolehlivější diagnostický nástroj v KOI chovu.
+
+
+------------------------------------------------
+7. RIZIKA A SEKUNDÁRNÍ KOMPLIKACE
+------------------------------------------------
+
+Parazitární infekce často vedou k:
+- bakteriálním infekcím (Aeromonas, Pseudomonas),
+- plísním (Saprolegnia),
+- dlouhodobému stresu,
+- selhání imunity.
+
+Největší riziko:
+- po transportu,
+- při náhlých změnách teploty,
+- v přeplněných jezírkách.
+
+
+------------------------------------------------
+8. PREVENCE A BIOSECURITY
+------------------------------------------------
+
+Základní principy:
+- povinná karanténa nových ryb,
+- stabilní kvalita vody,
+- nízké organické zatížení,
+- nepřerybňovat jezírko,
+- minimalizovat stres.
+
+Doporučení:
+- oddělené pomůcky pro karanténu,
+- dezinfekce sítěk a nádob,
+- postupná aklimatizace ryb.
+
+
+------------------------------------------------
+9. VAZBA NA DALŠÍ KB DOKUMENTY
+------------------------------------------------
+
+Souvisí s:
+- KB-KOI-02 – Kvalita vody pro KOI
+- KB-KOI-05 – Zdraví KOI
+- KB-KOI-10 – Diagnostika problémů v KOI jezírkách
+- KB-KOI-11 – Karanténa & biosecurity pro KOI
+
+
+------------------------------------------------
+10. POZNÁMKA K LÉČBĚ
+------------------------------------------------
+
+Tento dokument:
+- neuvádí konkrétní léčiva,
+- neobsahuje dávkování,
+- slouží pouze k diagnostice a prevenci.
+
+Konkrétní léčebné postupy musí být:
+- konzultovány s odborníkem,
+- přizpůsobeny lokální legislativě,
+- zohledňovat welfare ryb.
+
+
+------------------------------------------------
+11. ZDROJE (PARAFRÁZOVÁNO)
+------------------------------------------------
+
+Obsah vychází z konsolidovaných poznatků:
+- KOI Organisation International (KOI Health Guides),
+- univerzitních extension materiálů (Auburn, UF/IFAS),
+- otevřených parazitologických publikací,
+- praktických diagnostických manuálů KOI chovů.
+
+Veškerý text je autorsky přeformulovaný.
+
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+KB-KOI-12 – V1
+Určeno pro: Aquantis Knowledge Base

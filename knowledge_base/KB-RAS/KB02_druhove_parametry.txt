@@ -1,0 +1,315 @@
+Aquantis_KB02_DRUHOVE_PARAMETRY_V_AKVAKULTURE_V1
+================================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument obsahuje konsolidované odborné parametry pro jednotlivé druhy ryb
+pěstované v recirkulačních systémech (RAS), průtočných systémech a rybnících.
+Představuje druhovou referenci pro Aquantis, aby mohl poskytovat přesnější
+diagnostiku, doporučení a vyhodnocení rizik.
+
+Všechny parametry jsou syntézou otevřeně dostupných zdrojů:
+- FAO Technical Papers,
+- Auburn University – Boyd & Tucker: Water Quality,
+- WorldFish pond manuals,
+- univerzitních extension dokumentů (UF/IFAS, Texas A&M, NC State),
+- otevřených článků IJRA a Aquaculture Journal,
+- ASC RAS Module a EUMOFA reportů.
+
+Všechny texty jsou nově formulované a neobsahují originální autorsky chráněné pasáže.
+
+
+------------------------------------------------
+1. PSTRUH DUHOVÝ (Oncorhynchus mykiss)
+------------------------------------------------
+Optimální teplota: 10–16 °C  
+Toleranční rozmezí: 5–20 °C  
+Min. O₂: 7–8 mg/l (kriticky > 6 mg/l)  
+pH tolerance: 6.6–7.8  
+Citlivost na NH₄/TAN: velmi citlivý → TAN > 0.5 mg/l problém  
+Citlivost na NH₃: toxické > 0.02 mg/l  
+Citlivost na NO₂: velmi citlivý → > 0.1 mg/l alarm  
+Tolerované NO₃: < 80 mg/l dlouhodobě  
+Poznámky: studenovodní druh s vysokým metabolismem kyslíku; nutná stabilní nitrifikace.
+
+
+------------------------------------------------
+2. SIVEN AMERICKÝ (Salvelinus fontinalis)
+------------------------------------------------
+Optimální teplota: 10–14 °C  
+Toleranční rozmezí: 4–18 °C  
+Min. O₂: 7–9 mg/l  
+pH tolerance: 6.5–7.8  
+NH₄/TAN: citlivý → ideálně < 0.5 mg/l TAN  
+NH₃: kritické > 0.02 mg/l  
+NO₂: velmi citlivý → > 0.1 mg/l riziko  
+NO₃: < 70 mg/l  
+Poznámky: velmi citlivý na náhlé změny parametrů a nízký kyslík.
+
+
+------------------------------------------------
+3. CANDÁT OBECNÝ (Sander lucioperca)
+------------------------------------------------
+Optimální teplota: 14–20 °C  
+Toleranční rozmezí: 12–24 °C  
+Min. O₂: 6 mg/l  
+pH tolerance: 7.0–8.0  
+NH₄/TAN: středně citlivý → < 1.0 mg/l TAN  
+NH₃: toxické > 0.03 mg/l  
+NO₂: citlivý → > 0.2 mg/l alarm  
+NO₃: < 150 mg/l  
+Poznámky: dravec, citlivý na stres a světlo, často se objevují problémy při nestabilním biofiltru.
+
+
+------------------------------------------------
+4. OKOUN ŘÍČNÍ (Perca fluviatilis)
+------------------------------------------------
+Optimální teplota: 14–20 °C  
+Toleranční rozmezí: 10–24 °C  
+Min. O₂: 6 mg/l  
+pH tolerance: 6.8–8.0  
+NH₄/TAN: střední citlivost → < 1 mg/l  
+NH₃: toxické > 0.03 mg/l  
+NO₂: středně citlivý → > 0.3 mg/l alarm  
+NO₃: < 150 mg/l  
+Poznámky: snáší kolísání parametrů lépe než candát, ale citlivý na NO₂.
+
+
+------------------------------------------------
+5. LOSOS OBECNÝ (Salmo salar)
+------------------------------------------------
+Optimální teplota: 8–14 °C  
+Toleranční rozmezí: 4–18 °C  
+Min. O₂: 7–9 mg/l  
+pH tolerance: 6.7–7.8  
+NH₄/TAN: velmi citlivý → < 0.5 mg/l  
+NH₃: toxické > 0.02 mg/l  
+NO₂: extrémně citlivý → > 0.05 mg/l alarm  
+NO₃: < 60–80 mg/l  
+Poznámky: vyžaduje vysoce stabilní podmínky, vysoké nároky na biofiltr.
+
+
+------------------------------------------------
+6. TILAPIE (Oreochromis niloticus)
+------------------------------------------------
+Optimální teplota: 24–30 °C  
+Toleranční rozmezí: 20–35 °C  
+Min. O₂: 4–5 mg/l  
+pH tolerance: 6.5–8.5  
+NH₄/TAN: tolerantní → krátkodobě až 3 mg/l  
+NH₃: toxické > 0.06 mg/l  
+NO₂: střední citlivost → > 1.0 mg/l riziko  
+NO₃: < 300 mg/l  
+Poznámky: nejodolnější druh pro RAS; dobře snáší výkyvy parametrů.
+
+
+------------------------------------------------
+7. KAPR OBECNÝ (Cyprinus carpio)
+------------------------------------------------
+Optimální teplota: 22–28 °C  
+Toleranční rozmezí: 15–32 °C  
+Min. O₂: 4 mg/l  
+pH tolerance: 6.5–8.5  
+NH₄/TAN: tolerantní → krátkodobě až 2 mg/l  
+NH₃: kritické > 0.05 mg/l  
+NO₂: střední citlivost → > 0.5 mg/l  
+NO₃: < 200 mg/l  
+Poznámky: kapr velmi dobře snáší nízký O₂, ale nitrifikace musí být stabilní.
+
+
+------------------------------------------------
+8. KAPR KOI (Cyprinus rubrofuscus "koi")
+------------------------------------------------
+Optimální teplota: 20–26 °C  
+Toleranční rozmezí: 15–30 °C  
+Min. O₂: 5 mg/l  
+pH tolerance: 7.0–8.2  
+NH₄/TAN: střední citlivost → < 1 mg/l  
+NH₃: toxické > 0.05 mg/l  
+NO₂: citlivý → > 0.2 mg/l  
+NO₃: < 150 mg/l  
+Poznámky: KOI jsou citlivější než kapr, zejména na NO₂ a stabilitu pH.
+
+
+------------------------------------------------
+9. SUMEC VELKÝ (Silurus glanis)
+------------------------------------------------
+Optimální teplota: 22–28 °C  
+Toleranční rozmezí: 18–30 °C  
+Min. O₂: 4 mg/l  
+pH tolerance: 6.5–8.0  
+NH₄/TAN: střední → < 1.5 mg/l  
+NH₃: > 0.04 mg/l riziko  
+NO₂: střední citlivost → > 0.5 mg/l  
+NO₃: < 200 mg/l  
+Poznámky: dobře snáší kolísání kyslíku, ale citlivý na NO₂ při nízkém Cl⁻.
+
+
+------------------------------------------------
+10. SUMEČEK AFRICKÝ (Clarias gariepinus)
+------------------------------------------------
+Optimální teplota: 26–30 °C  
+Toleranční rozmezí: 20–34 °C  
+Min. O₂: 2–3 mg/l (velmi tolerantní)  
+pH tolerance: 6.5–8.5  
+NH₄/TAN: velmi tolerantní → až 3–5 mg/l krátkodobě  
+NH₃: > 0.08 mg/l riziko  
+NO₂: vyšší tolerance → > 2 mg/l riziko  
+NO₃: < 300 mg/l  
+Poznámky: extrémně odolný druh; vhodný do nízkookysličených systémů.
+
+
+------------------------------------------------
+11. PANGAS (Pangasianodon hypophthalmus)
+------------------------------------------------
+Optimální teplota: 26–30 °C  
+Toleranční rozmezí: 22–34 °C  
+Min. O₂: 3–4 mg/l  
+pH tolerance: 6.5–8.0  
+NH₄/TAN: tolerantní → až 3 mg/l  
+NH₃: > 0.06 mg/l riziko  
+NO₂: střední citlivost → > 1 mg/l  
+NO₃: < 200 mg/l  
+Poznámky: rychlý růst, citlivý na stres, vyžaduje stabilní pH.
+
+
+------------------------------------------------
+12. JESETER SIBIŘSKÝ (Acipenser baerii)
+------------------------------------------------
+Optimální teplota: 16–20 °C  
+Toleranční rozmezí: 10–24 °C  
+Min. O₂: 6 mg/l  
+pH tolerance: 6.8–8.0  
+NH₄/TAN: střední → < 1.0 mg/l  
+NH₃: kritické > 0.03 mg/l  
+NO₂: velmi citlivý → > 0.15 mg/l  
+NO₃: < 120 mg/l  
+Poznámky: citlivý druh na NO₂ a nízký kyslík.
+
+
+------------------------------------------------
+13. JESETER RUSKÝ (Acipenser gueldenstaedtii)
+------------------------------------------------
+Optimální teplota: 18–22 °C  
+Toleranční rozmezí: 12–26 °C  
+Min. O₂: 6 mg/l  
+pH tolerance: 6.8–8.2  
+NH₄/TAN: < 1.0 mg/l  
+NH₃: > 0.03 mg/l riziko  
+NO₂: velmi citlivý → > 0.15 mg/l  
+NO₃: < 120 mg/l
+
+
+------------------------------------------------
+14. JESETER MALÝ – STERLET (Acipenser ruthenus)
+------------------------------------------------
+Optimální teplota: 15–20 °C  
+Toleranční rozmezí: 10–24 °C  
+Min. O₂: 6 mg/l  
+pH tolerance: 6.8–8.0  
+NH₄/TAN: < 1 mg/l  
+NH₃: kritické > 0.03 mg/l  
+NO₂: > 0.1 mg/l riziko  
+NO₃: < 100 mg/l
+
+
+------------------------------------------------
+15. VYZA VELKÁ (Huso huso)
+------------------------------------------------
+Optimální teplota: 14–20 °C  
+Toleranční rozmezí: 8–24 °C  
+Min. O₂: 7 mg/l  
+pH tolerance: 6.8–8.0  
+NH₄/TAN: velmi citlivá → < 0.5 mg/l  
+NH₃: velmi citlivé > 0.02 mg/l  
+NO₂: > 0.1 mg/l riziko  
+NO₃: < 100 mg/l  
+Poznámky: vyžaduje vysoce kvalitní vodu a stabilitu systému.
+
+
+------------------------------------------------
+16. AMUR BÍLÝ (Ctenopharyngodon idella)
+------------------------------------------------
+Optimální teplota: 22–28 °C  
+Toleranční rozmezí: 18–32 °C  
+Min. O₂: 4–5 mg/l  
+pH tolerance: 6.5–8.5  
+NH₄/TAN: tolerantní → až 2 mg/l  
+NH₃: > 0.05 mg/l riziko  
+NO₂: střední → > 0.5 mg/l  
+NO₃: < 200 mg/l  
+
+
+------------------------------------------------
+17. TOLSTOLOBIK BÍLÝ (Hypophthalmichthys molitrix)
+------------------------------------------------
+Optimální teplota: 20–28 °C  
+Toleranční rozmezí: 15–30 °C  
+Min. O₂: 4 mg/l  
+pH tolerance: 6.5–8.5  
+NH₄/TAN: tolerantní → 1–2 mg/l  
+NH₃: > 0.05 mg/l riziko  
+NO₂: střední → > 0.5 mg/l  
+NO₃: < 200 mg/l  
+
+
+------------------------------------------------
+18. LÍN OBECNÝ (Tinca tinca)
+------------------------------------------------
+Optimální teplota: 20–26 °C  
+Toleranční rozmezí: 15–30 °C  
+Min. O₂: 4 mg/l  
+pH tolerance: 6.5–8.0  
+NH₄/TAN: < 1 mg/l  
+NH₃: > 0.04 mg/l  
+NO₂: > 0.5 mg/l riziko  
+NO₃: < 180 mg/l  
+
+
+------------------------------------------------
+19. LÍN ZLATÝ (Tinca tinca “gold”)
+------------------------------------------------
+Stejné parametry jako lín obecný:
+Teplota: 20–26 °C  
+O₂: 4 mg/l  
+pH: 6.5–8.0  
+NH₄/TAN: < 1 mg/l  
+NH₃: > 0.04 mg/l  
+NO₂: > 0.5 mg/l  
+NO₃: < 180 mg/l  
+
+
+------------------------------------------------
+20. KARAS ZLATÝ (Carassius auratus)
+------------------------------------------------
+Optimální teplota: 18–24 °C  
+Toleranční rozmezí: 10–28 °C  
+Min. O₂: 4 mg/l  
+pH tolerance: 6.5–8.0  
+NH₄/TAN: tolerantní → až 2 mg/l  
+NH₃: > 0.05 mg/l  
+NO₂: střední → > 0.5 mg/l  
+NO₃: < 150 mg/l  
+
+
+------------------------------------------------
+21. MNÍK JEDNOVOUSÝ (Lota lota)
+------------------------------------------------
+Optimální teplota: 6–12 °C  
+Toleranční rozmezí: 2–18 °C  
+Min. O₂: 7 mg/l  
+pH tolerance: 6.8–7.8  
+NH₄/TAN: velmi citlivý → < 0.5 mg/l  
+NH₃: kritické > 0.02 mg/l  
+NO₂: velmi citlivý → > 0.1 mg/l  
+NO₃: < 80 mg/l  
+Poznámky: studenovodní druh, silně citlivý na kvalitu vody, vhodný pouze pro stabilní RAS.
+
+
+------------------------------------------------
+VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB02 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)
+

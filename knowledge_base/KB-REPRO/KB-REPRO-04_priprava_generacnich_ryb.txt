@@ -1,0 +1,213 @@
+KB-REPRO-04 – Příprava generačních ryb (kondice, výživa, selekce) – V1
+===============================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Reprodukce ryb
+Typ dokumentu: Technický / reprodukční protokol
+Použití v Aquantis: Reprodukční diagnostika, plánování výtěru, prevence selhání výtěru
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+------------------------------------------------
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument popisuje zásady správné přípravy generačních ryb
+před plánovaným nebo přirozeným výtěrem.
+
+Zaměřuje se na:
+- kondici generačních ryb,
+- výživové požadavky,
+- selekci vhodných jedinců,
+- nejčastější chyby vedoucí k neúspěšnému výtěru.
+
+Dokument slouží jako odborný základ pro reprodukční doporučení
+v systému Aquantis.
+
+------------------------------------------------
+1. VÝZNAM PŘÍPRAVY GENERAČNÍCH RYB
+------------------------------------------------
+
+Kvalita generačních ryb je rozhodující faktor úspěchu reprodukce.
+
+Nedostatečně připravené generační ryby mohou vést k:
+- nízké kvalitě jiker,
+- nízké oplozenosti,
+- slabému embryonálnímu vývoji,
+- vysoké mortalitě larev,
+- deformacím plůdku.
+
+Ani optimální výtěrové podmínky nenahradí špatnou kondici rodičů.
+
+------------------------------------------------
+2. FYZIOLOGICKÁ KONDICE GENERAČNÍCH RYB
+------------------------------------------------
+
+### 2.1 Tělesná kondice
+
+Generační ryby by měly:
+- mít vyvážený poměr svaloviny a tukových zásob,
+- nevykazovat známky obezity ani vyhublosti,
+- mít nepoškozené ploutve a pokožku,
+- mít normální chování a reakce.
+
+Obezita:
+- snižuje kvalitu jiker,
+- zvyšuje riziko degenerace gonád.
+
+Podvýživa:
+- vede k malým jikrách,
+- snižuje hormonální odpověď.
+
+------------------------------------------------
+3. VÝŽIVA GENERAČNÍCH RYB
+------------------------------------------------
+
+### 3.1 Základní výživové principy
+
+Výživa generačních ryb musí být:
+- dlouhodobá (týdny až měsíce před výtěrem),
+- stabilní,
+- cílená na reprodukční funkce.
+
+Krátkodobé „překrmování“ před výtěrem je neúčinné.
+
+------------------------------------------------
+### 3.2 Klíčové nutriční složky
+
+#### Proteiny
+- dostatečný obsah esenciálních aminokyselin,
+- typicky 40–55 % dle druhu.
+
+#### Tuky
+- klíčové pro vývoj jiker,
+- důraz na HUFA (DHA, EPA, ARA).
+
+#### Vitamíny
+- vitamin E – ochrana jiker,
+- vitamin C – kvalita pojivových tkání,
+- vitamin A – embryonální vývoj.
+
+#### Minerály
+- fosfor, vápník – vývoj zárodku,
+- selen, zinek – hormonální funkce.
+
+------------------------------------------------
+4. DLOUHODOBÁ PŘÍPRAVA (BROODSTOCK CONDITIONING)
+------------------------------------------------
+
+Doporučená doba přípravy:
+- minimálně 8–12 týdnů před plánovaným výtěrem,
+- u některých druhů (jeseteři, kaprovité) i déle.
+
+Během této fáze:
+- stabilní krmný režim,
+- minimální stres,
+- konstantní kvalita vody,
+- žádné drastické manipulace.
+
+------------------------------------------------
+5. SELEKCE GENERAČNÍCH JEDINCŮ
+------------------------------------------------
+
+### 5.1 Kritéria selekce
+
+Vybírat jedince:
+- bez deformací,
+- bez kožních lézí,
+- bez známek parazitóz,
+- s typickým druhem chování.
+
+Upřednostňovat:
+- jedince z osvědčených linií,
+- geneticky nepříbuzné jedince,
+- vyrovnanou velikostní kategorii.
+
+------------------------------------------------
+### 5.2 Věk a velikost
+
+Příliš mladé ryby:
+- nízká kvalita pohlavních produktů.
+
+Příliš staré ryby:
+- vyšší riziko degenerace gonád,
+- nižší oplozenost.
+
+Optimální věk je druhově specifický a měl by být evidován.
+
+------------------------------------------------
+6. ODDĚLENÍ POHLAVÍ A MANIPULACE
+------------------------------------------------
+
+U citlivých druhů je vhodné:
+- oddělit pohlaví v přípravné fázi,
+- zabránit předčasnému výtěru,
+- minimalizovat stres z manipulace.
+
+Manipulace:
+- provádět šetrně,
+- ideálně při nižších teplotách,
+- s minimalizací doby mimo vodu.
+
+------------------------------------------------
+7. NEJČASTĚJŠÍ CHYBY V PŘÍPRAVĚ
+------------------------------------------------
+
+- Podcenění délky přípravy.
+- Nedostatečná výživa (levná krmiva).
+- Přetížení generačních ryb stresem.
+- Časté přelovy a manipulace.
+- Ignorování zdravotního stavu.
+- Směšování generačních ryb s produkční obsádkou.
+
+------------------------------------------------
+8. DIAGNOSTICKÉ SIGNÁLY ŠPATNÉ PŘÍPRAVY
+------------------------------------------------
+
+Varovné signály:
+- nepravidelný výtěr,
+- nízká oplozenost,
+- lepkavé nebo deformované jikry,
+- vysoká mortalita embryí,
+- opožděný vývoj.
+
+V těchto případech je nutné:
+- revidovat výživu,
+- prodloužit přípravnou fázi,
+- zhodnotit kondici rodičů.
+
+------------------------------------------------
+9. PRÁVNÍ A ETICKÉ ASPEKTY
+------------------------------------------------
+
+Příprava generačních ryb musí:
+- respektovat welfare ryb,
+- minimalizovat stres a zranění,
+- dodržovat místní legislativu o ochraně zvířat.
+
+Nevhodné zacházení může vést nejen k selhání výtěru,
+ale i k právním důsledkům.
+
+------------------------------------------------
+10. ZDROJE (PARAFRÁZOVANÉ, OTEVŘENÉ)
+------------------------------------------------
+
+Tento dokument vychází z odborné syntézy následujících zdrojů:
+
+- FAO Fisheries Technical Papers – Reproductive management of fish
+- WorldFish broodstock conditioning manuals
+- Aquaculture Journal (open-access články o broodstock nutrition)
+- International Journal of Aquatic Biology – reproduction & nutrition
+- Boyd, C.E. – Water quality and fish reproduction (Auburn University)
+- Univerzitní extension materiály (Florida IFAS, Texas A&M)
+
+Text je **zcela nově formulovaný**, neobsahuje citace 1:1
+a je právně bezpečný pro interní použití v Aquantis Knowledge Base.
+
+------------------------------------------------
+11. VERZE DOKUMENTU
+------------------------------------------------
+KB-REPRO-04 – V1
+Určeno pro: Aquantis Knowledge Base (interní použití)

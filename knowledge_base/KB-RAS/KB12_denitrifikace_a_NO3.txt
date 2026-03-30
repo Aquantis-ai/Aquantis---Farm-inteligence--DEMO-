@@ -1,0 +1,417 @@
+Aquantis_KB12_DENITRIFIKACE_A_RIZENI_NO3_V1
+================================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument slouží jako interní technický podklad pro modul Aquantis zaměřený
+na denitrifikaci a řízení dusičnanů (NO₃⁻) v RAS a intenzivních systémech.
+
+Cíl:
+- vysvětlit principy denitrifikace,
+- definovat cílové hladiny NO₃⁻ pro různé typy chovů,
+- poskytnout orientační výpočetní rámec (NO₃ load, velikost reaktoru, potřeba uhlíku),
+- upozornit na druhové citlivosti,
+- popsat typické provozní scénáře (včetně kolapsu a restartu denitrifikačního stupně).
+
+Dokument je formulován jako syntéza běžně přijímaných best practices v oblasti RAS a
+intenzivní akvakultury. Neobsahuje text převzatý 1:1 z konkrétních zdrojů.
+
+
+------------------------------------------------
+1. ZÁKLADNÍ POJMY – NITRIFIKACE VS. DENITRIFIKACE
+------------------------------------------------
+
+Nitrifikace:
+- aerobní proces (přítomnost kyslíku),
+- oxidace NH₃/NH₄⁺ → NO₂⁻ → NO₃⁻,
+- zajišťují ji autotrofní nitrifikační bakterie (Nitrosomonas, Nitrobacter aj.),
+- probíhá v biofiltru a produkuje dusičnany (NO₃⁻) a spotřebovává alkalitu.
+
+Denitrifikace:
+- anoxický proces (bez kyslíku, ale přítomnost NO₃⁻ jako akceptoru elektronů),
+- redukce NO₃⁻ → NO₂⁻ → N₂O → N₂ (plynný dusík uniká z vody),
+- zajišťují ji heterotrofní denitrifikační bakterie,
+- vyžaduje zdroj organického uhlíku (např. ethanol, methanol, glycerol, jednoduché cukry),
+- částečně obnovuje alkalitu spotřebovanou nitrifikací.
+
+Důležitá provozní fakta:
+- nitrifikace a denitrifikace se obvykle provozují v oddělených stupních,
+- denitrifikační reaktor musí být:
+  - dobře mísený,
+  - s velmi nízkým nebo nulovým DO,
+  - se stabilním přísunem NO₃⁻ a uhlíku,
+  - chráněný před přetížením (vznik H₂S, zápach, NO₂ breakthrough).
+
+
+------------------------------------------------
+2. CÍLOVÉ HLADINY NO₃⁻ – ORIENTAČNÍ ROZSAHY
+------------------------------------------------
+
+U dusičnanů (NO₃⁻) jde hlavně o:
+- dlouhodobý subklinický stres při vysokých hodnotách,
+- rozdílnou citlivost druhů,
+- souvislost s acidifikací a celkovou kvalitou vody.
+
+Obecné orientační cíle (dlouhodobě):
+
+- Studenovodní lososovité (pstruh duhový, siven, losos):
+  - preferováno: < 50–80 mg/l NO₃⁻
+  - horní toleranční hranice: ~100 mg/l (podle kondice a věku)
+- Candát, okoun:
+  - preferováno: < 60–80 mg/l
+  - horní hranice: ~100 mg/l
+- Jeseteři:
+  - preferováno: < 60–90 mg/l
+  - horní hranice: cca 120 mg/l (v dobrých podmínkách O₂, pH)
+- Kapr, amur, tolstolobik, lín:
+  - preferováno: < 80–120 mg/l
+  - horní hranice: cca 150 mg/l
+- Tilapie:
+  - preferováno: < 80–150 mg/l
+  - horní hranice: cca 200 mg/l (krátkodobě)
+- Sumci (africký, pangas):
+  - preferováno: < 80–120 mg/l
+  - horní hranice: cca 150–200 mg/l
+- Okrasná jezírka / KOI:
+  - estetika a zdraví: často cíl < 40–80 mg/l
+  - u citlivých linií KOI se preferují nižší NO₃⁻ než u potravních druhů.
+
+Poznámka:
+- Tyto rozsahy jsou orientační a konzervativní.
+- S rostoucím NO₃⁻ mohou některé druhy vykazovat snížení růstu, změny v hematologii či zvýšenou náchylnost k infekcím,
+  přestože akutní toxicita je mnohem nižší než u NH₃ a NO₂⁻.
+
+
+------------------------------------------------
+3. BILANCE DUSÍKU A VZNIK NO₃⁻
+------------------------------------------------
+
+Základní princip:
+- Krmivo → obsahuje dusík (protein),
+- část N se zabuduje do rybí biomasy,
+- velká část se vyloučí jako NH₃/NH₄⁺ (TAN),
+- nitrifikace v biofiltru → přemění TAN na NO₃⁻.
+
+Zjednodušený model:
+- Protein v krmivu: ~35–45 % (obvykle v intenzivních chovech),
+- Dusík v proteinu: ~16 %,
+- Podíl N v krmivu, který skončí jako TAN: cca 60–75 % (zbytek jde do růstu, pevných exkrementů apod.).
+
+Orientační výpočet:
+
+1) Hmotnost N v krmivu (g N / den):
+   N_krmivo ≈ (dávka krmiva v kg/den) × (protein % / 100) × 0.16 × 1000
+
+2) TAN produkovaný (g N TAN / den):
+   N_TAN ≈ N_krmivo × (0.6 až 0.75)
+
+3) Pokud biofiltr pracuje správně:
+   TAN → NO₃⁻ (prakticky 1:1 v N jednotkách)
+
+Tj. produkce NO₃⁻-N je přibližně:
+   NO3_N_prod ≈ N_TAN  (g N / den)
+
+Pro přepočet NO₃⁻-N na NO₃⁻:
+- NO₃⁻ obsahuje 14 g N na 62 g NO₃⁻,
+- převod: NO₃⁻ (mg/l) = NO₃⁻-N (mg/l) × (62/14) ≈ NO₃⁻-N × 4.43
+
+Tato čísla slouží jako rámec pro odhad zatížení NO₃⁻ systémem.
+
+
+------------------------------------------------
+4. JEDNODUCHÝ PŘÍKLAD VÝPOČTU NO₃⁻ LOADU
+------------------------------------------------
+
+Situace:
+- RAS pro pstruha duhového,
+- denní krmná dávka: 50 kg/den,
+- protein v krmivu: 42 %,
+- předpokládaný podíl N → TAN: 70 %.
+
+Kroky (zjednodušeně):
+
+1) N v krmivu:
+   N_krmivo ≈ 50 × 0.42 × 0.16 × 1000 = 336 g N / den
+
+2) TAN produkovaný:
+   N_TAN ≈ 336 × 0.7 ≈ 235 g TAN-N / den
+
+3) Při úplné nitrifikaci:
+   NO3_N_prod ≈ 235 g NO₃⁻-N / den
+
+4) V systému o objemu 500 m³ bez denitrifikace:
+   čistý nárůst NO₃⁻-N ≈ 235 g / 500 000 l = 0.47 mg/l NO₃⁻-N / den
+   → v NO₃⁻: 0.47 × 4.43 ≈ 2.1 mg/l NO₃⁻ / den
+
+Za měsíc (bez výměny vody / denitrifikace):
+   cca 60 mg/l NO₃⁻ navíc.
+
+Tento odhad ukazuje, že u intenzivních chovů bez denitrifikace NO₃⁻ poměrně rychle roste.
+
+
+------------------------------------------------
+5. TYPOVÁ ŘEŠENÍ PRO ŘÍZENÍ NO₃⁻
+------------------------------------------------
+
+Možnosti řízení dusičnanů:
+
+1) Výměna vody:
+   - jednoduché, ale náročné na vodní zdroje a energii,
+   - používá se často v menších nebo starších systémech,
+   - NO₃⁻ se naředí, ale přináší to kolísání parametrů (teplota, pH, alkalita).
+
+2) Denitrifikační reaktor:
+   - uzavřená/anoxická jednotka s médiem (pevné médium / MBBR),
+   - přísun NO₃⁻ bočním bypassem z hlavního okruhu,
+   - dávkování organického uhlíku (uhlíkatý substrát),
+   - umožňuje dlouhodobě udržet stabilní a nízké NO₃⁻ bez velké výměny vody.
+
+3) Kombinace:
+   - menší výměna vody + menší denitrifikace (kompromis),
+   - vhodné pro provozy, které mají omezený zdroj vody, ale ne nulový.
+
+4) Nízkotechnologické přístupy (spíše mimo intenzivní RAS):
+   - rostlinné zóny, hydroponie / aquaponie,
+   - větší sedimentační nádrže s rostlinstvem,
+   - vhodné pro polointenzivní systémy nebo jezírka.
+
+Pro Aquantis má smysl uvažovat hlavně o:
+- scénářích s čistou denitrifikací,
+- scénářích s kombinací denitrifikace + výměny vody.
+
+
+------------------------------------------------
+6. ORIENTAČNÍ DIMENZOVÁNÍ DENITRIFIKAČNÍHO STUPNĚ
+------------------------------------------------
+
+Klíčové veličiny:
+- NO₃⁻-N load (g/den),
+- cílový pokles NO₃⁻ (kolik NO₃⁻-N chceme denně odstranit),
+- specifická denitrifikační kapacita média (g NO₃⁻-N/m³ média/den).
+
+Zjednodušený postup (rámcový):
+
+1) Spočítat produkci NO₃⁻-N podle krmné dávky (viz kapitola 3).
+2) Rozhodnout, jaký podíl této produkce chceme řešit denitrifikací (zbytek může krýt výměna vody).
+3) Zvolit konzervativní kapacitu média:
+   - často se používají orientační hodnoty typu 20–50 g NO₃⁻-N/m³ média/den,
+   - závisí na konkrétním médiu, teplotě, C:N poměru a provozních podmínkách.
+
+Příklad (ilustrační):
+
+- produkce NO₃⁻-N: 235 g/den,
+- cílem je odstranit 70 % → cca 165 g NO₃⁻-N/den,
+- zvolená konzervativní kapacita: 30 g NO₃⁻-N/m³/den,
+
+Potřebný objem média:
+  V_média ≈ 165 / 30 ≈ 5.5 m³ média
+
+Poznámky:
+- jde o hrubý odhad – finální návrh denitrifikační jednotky by měl dělat specialista,
+- provozní data (skutečný pokles NO₃⁻, ORP, NO₂ breakthrough) jsou zásadní pro korekce.
+
+
+------------------------------------------------
+7. UHLÍK PRO DENITRIFIKACI – OBECNÉ PRINCIPY
+------------------------------------------------
+
+Denitrifikační bakterie potřebují organický uhlík jako zdroj energie.
+V praxi se používají různé substráty (např. ethanol, methanol, glycerol, určité komerční produkty).
+
+Obecný princip:
+- existuje stechiometrický poměr mezi NO₃⁻-N a potřebným množstvím C,
+- různé substráty mají různý obsah uhlíku a tedy různé dávkování,
+- dávku je nutné navrhovat konzervativně a vždy ověřovat měřením (NO₃⁻, NO₂⁻, DO, ORP).
+
+Zásady bezpečného návrhu:
+- nezačínat s vysokými dávkami uhlíku,
+- sledovat NO₂⁻ (při nedostatečné denitrifikaci může unikat),
+- sledovat redox (ORP) a DO:
+  - příliš nízký ORP → riziko tvorby H₂S,
+  - příliš vysoký DO → denitrifikace neprobíhá.
+
+Aquantis by měl v odpovědích:
+- poskytovat pouze orientační rámec (poměrně obecný),
+- zdůrazňovat nutnost odborného návrhu a provozního testování.
+
+
+------------------------------------------------
+8. DRUHOVÉ CITLIVOSTI NA NO₃⁻ – ORIENTAČNÍ PŘEHLED
+------------------------------------------------
+
+Poznámka:
+- Dlouhodobé limity jsou předmětem výzkumu, data jsou často fragmentární.
+- Níže uvedené rozsahy jsou syntézou více zdrojů a provozní zkušenosti.
+
+Obecně platí:
+- čím citlivější druh (losos, pstruh, KOI, některé jeseteři),
+  tím konzervativnější přístup k NO₃⁻,
+- vysoké NO₃⁻ může:
+  - zhoršovat růst,
+  - měnit krevní parametry,
+  - zvyšovat náchylnost k infekcím.
+
+Orientační přístup:
+
+- Pstruh duhový, siven, losos:
+  - cílit: 20–80 mg/l NO₃⁻,
+  - vyhnout se dlouhodobě > 100 mg/l.
+
+- Jeseteři (sibiřský, ruský, vyza, malý):
+  - cílit: 30–90 mg/l,
+  - vyhnout se dlouhodobě > 120 mg/l.
+
+- Candát, okoun:
+  - cílit: 30–80 mg/l,
+  - dlouhodobě nejlépe < 100 mg/l.
+
+- Kapr, amur, tolstolobik, lín:
+  - cílit: 40–120 mg/l,
+  - dlouhodobě preferovaně < 150 mg/l.
+
+- Tilapie, sumci (afričtí, pangas):
+  - cílit: 50–150 mg/l,
+  - krátkodobě mohou snášet i vyšší hodnoty, ale bez zjevného přínosu.
+
+- Okrasné KOI, ornamentální druhy:
+  - častý cíl: < 40–80 mg/l,
+  - chovatelé často míří blíž k dolní hranici kvůli estetice a zdraví.
+
+Aquantis by měl tyto rozsahy používat jako doporučené cílové intervaly
+a uvádět je jako orientační, nikoli jako tvrdé limity.
+
+
+------------------------------------------------
+9. REAL-CASE SCÉNÁŘE
+------------------------------------------------
+
+SCÉNÁŘ A – Postupně rostoucí NO₃⁻ v RAS bez denitrifikace
+---------------------------------------------------------
+Situace:
+- RAS pro pstruha,
+- výměna vody 3–5 % denně,
+- NO₃⁻ roste a pohybuje se kolem 100–150 mg/l,
+- provozovatel chce snížit NO₃⁻ bez masivního zvýšení výměny vody.
+
+Možné postupy:
+1) Kvantifikace:
+   - spočítat produkci NO₃⁻-N podle krmné dávky (viz výše),
+   - spočítat, kolik NO₃⁻-N dnes odstraňuje výměna vody,
+   - rozdíl = potenciál pro denitrifikační jednotku.
+
+2) Strategické volby:
+   - zvýšit výměnu vody (omezené vodní zdroje?),
+   - instalovat menší denitrifikační reaktor, který sníží NO₃⁻ na cílovou hodnotu,
+   - kombinovat obojí (např. lehce zvýšit výměnu vody + menší denitrifikace).
+
+3) Aquantis doporučení:
+   - navrhne konzervativní cílový interval NO₃⁻ (např. 40–80 mg/l),
+   - naznačí postup výpočtu no3 loadu a návrhu denitrifikačního stupně,
+   - zdůrazní nutnost zapojení odborníka pro detailní projekt.
+
+
+SCÉNÁŘ B – Kolaps denitrifikačního reaktoru
+---------------------------------------------------------
+Situace:
+- denitrifikační reaktor začne produkovat zápach (H₂S),
+- v systému se objevuje zvýšený NO₂⁻,
+- NO₃⁻ přestává klesat.
+
+Možné příčiny:
+- přetížení organickým uhlíkem,
+- nedostatečný přísun NO₃⁻ (hladovění reaktoru),
+- špatná cirkulace nebo stagnace v reaktoru,
+- příliš nízký redox/ORP.
+
+Bezpečný postup (obecně rámcově):
+1) Okamžitě:
+   - snížit nebo zastavit dávkování uhlíku,
+   - zajistit, aby reaktor nebyl přímo zpět v hlavním okruhu bez kontroly NO₂⁻,
+   - zvýšit výměnu vody, pokud je to možné.
+
+2) Do 24 h:
+   - zkontrolovat a změřit NO₂⁻, NO₃⁻, pH, O₂,
+   - prověřit mechanické parametry reaktoru (průtok, míchání),
+   - případně provést řízený proplach reaktoru, pokud je to v návrhu jednotky umožněno.
+
+3) Restart:
+   - postupný restart s nízkým dávkováním uhlíku,
+   - časté měření NO₂⁻ a NO₃⁻,
+   - ORP v mírném anoxickém pásmu (typicky -50 až -200 mV dle návrhu).
+
+Aquantis by ve svých odpovědích měl:
+- popsat tento rámec,
+- upozornit na rizika H₂S,
+- doporučit kontaktovat specialistu v případě vážného kolapsu.
+
+
+SCÉNÁŘ C – Přestřelená dávka uhlíku, nízký O₂ a zákal
+---------------------------------------------------------
+Situace:
+- provozovatel zvýší dávku uhlíku, aby "zrychlil" denitrifikaci,
+- objeví se zákal, pokles DO, případně zápach,
+- ryby vykazují stres.
+
+Rámec řešení:
+1) Hned:
+   - snížit/stopnout dávku uhlíku,
+   - zvýšit aeraci v hlavním systému (chránit ryby),
+   - sledovat DO, NO₂⁻, NH₄⁺.
+
+2) Do 24 h:
+   - prověřit nastavení reaktoru (průtok, směšování),
+   - zvážit částečnou výměnu vody.
+
+3) Dlouhodobě:
+   - vrátit se k konzervativnímu dávkování uhlíku,
+   - zavést pravidelný monitoring ORP, NO₂⁻ a NO₃⁻,
+   - definovat maximální přípustné změny v dávkování (např. nenavyšovat o více než X %/den).
+
+
+------------------------------------------------
+10. CHECK-LIST PRO NÁVRH A AUDIT DENITRIFIKAČNÍHO STUPNĚ
+------------------------------------------------
+
+Předběžný check-list, který může Aquantis použít jako strukturovaný dotazník:
+
+1) Systém:
+   - typ chovu a druh ryb,
+   - objem systému (m³),
+   - současné NO₃⁻ (mg/l) a cílové NO₃⁻ (mg/l),
+   - průměrná denní krmná dávka (kg/den).
+
+2) Voda:
+   - výměna vody (%/den),
+   - dostupnost čerstvé vody a její kvalita,
+   - pH, alkalita, teplota.
+
+3) Biofiltr:
+   - typ média, objem,
+   - stávající nitrifikační výkon (odhad).
+
+4) Denitrifikace:
+   - existuje / neexistuje,
+   - typ reaktoru,
+   - typ uhlíkového substrátu,
+   - způsob řízení (manuál / automat).
+
+5) Monitoring:
+   - pravidelně měřené parametry: NO₂⁻, NO₃⁻, NH₄⁺, pH, O₂, ORP,
+   - četnost měření,
+   - historie problémů (NO₂ peak, zápach, kolaps).
+
+6) Provozní cíle:
+   - cílový interval NO₃⁻,
+   - míra snížení výměny vody,
+   - rozpočet na investici a provoz.
+
+Aquantis může tento check-list využívat při generování strukturovaných doporučení
+pro návrh nebo audit denitrifikačního stupně.
+
+
+------------------------------------------------
+11. VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB12 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)

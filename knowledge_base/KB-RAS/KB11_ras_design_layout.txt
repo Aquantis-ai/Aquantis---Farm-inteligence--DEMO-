@@ -1,0 +1,180 @@
+Aquantis_KB11_RAS_DESIGN_LAYOUT_DIMENZOVANI_V1
+================================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument poskytuje základní technické principy pro návrh, dimenzování a
+layout recirkulačních akvakulturních systémů (RAS). Slouží jako podklad pro 
+Aquantis při odpovídání na dotazy týkající se velikosti nádrží, průtoků, 
+aerace, biofiltru, hydrauliky a celkového uspořádání systému.
+
+Obsah vychází z:
+– FAO RAS guidelines (parafrázováno),
+– otevřených materiálů D. E. Boyda (Auburn University),
+– EU RAS best practices (EUMOFA, ASC RAS Module),
+– univerzitních extension programů (UF/IFAS, NC State, Texas A&M),
+– open-access publikací z International Journal of Recirculating Aquaculture 
+  a Aquaculture Engineering.
+
+Žádný obsah není převzatý 1:1. Všechny formulace jsou nově vytvořené.
+
+------------------------------------------------
+1. KLÍČOVÉ PRVKY RAS DESIGN
+------------------------------------------------
+
+Každý RAS systém zahrnuje následující hlavní moduly:
+
+1) Fish Tanks – produkční nádrže.
+2) O2 Supply – systémy okysličení (LOX, oxygen cones, venturi).
+3) CO2 Degassing – odplynění (věžové odplyňovače, degassing columns).
+4) Mechanical Filtration – bubnové filtry, síta, sedimentace.
+5) Biofiltration – nitrifikace (MBBR, fixed-bed, bead filters).
+6) Solids Management – odvod kalu, odtah, swirl separators.
+7) Temperature Control – ohřev/chlazení.
+8) Disinfection – UV, ozon (opatrně, dle druhu).
+9) Pumping & Hydraulics – recirkulace, záložní okruhy.
+10) Monitoring & Automation – senzory (O2, pH, ORP, NO2, NH4, flow).
+
+Design musí být optimalizován pro:
+– druh ryb,
+– biomasa (aktuální + maximální),
+– cílové růstové tempo,
+– plánované FCR,
+– dostupný průtok,
+– kapacitu nitrifikace,
+– bezpečnostní redundanci.
+
+------------------------------------------------
+2. DIMENZOVÁNÍ PRODUKČNÍ NÁDRŽE
+------------------------------------------------
+
+Orientace podle hustoty biomasy (benchmarky):
+
+Studenovodní druhy (pstruh, siven):
+– intenzivní RAS: 60–80 kg/m³
+– velmi intenzivní: až 100 kg/m³
+– doporučené bezpečné pásmo pro začátek: 40–60 kg/m³
+
+Teplovodní (tilapie, sumec africký):
+– běžně 70–120 kg/m³
+– velmi intenzivní až 150 kg/m³ (jen u zkušených operátorů)
+
+Dravci (candát, okoun):
+– 20–50 kg/m³ (citlivější na nitrit a nízké O2)
+
+Jeseteři:
+– 40–90 kg/m³ dle velikosti a fáze růstu
+
+Hrubý výpočet objemu tanku:
+Objem tanku (m³) = MAX biomasa (kg) / cílová hustota (kg/m³)
+
+Příklad:
+500 kg candáta při 40 kg/m³ → 12.5 m³ tank.
+
+------------------------------------------------
+3. PRŮTOKY V SYSTÉMU A VE FISH TANKU
+------------------------------------------------
+
+3.1 Průtok přes tank (Turnover Rate)
+------------------------------------
+Obecně doporučeno (orientačně):
+
+– Pstruh, siven: 1.0–1.5 tank volumes/h
+– Tilapie: 0.8–1.2 tv/h
+– Sumec africký: 0.5–0.8 tv/h
+– Jeseter: 0.6–1.0 tv/h
+– Candát, okoun: 0.4–0.8 tv/h (nižší turbulence)
+  
+Nižší hodnoty jsou použitelné, pokud je biofiltr vysoce efektivní a systém stabilní.
+Vyšší hodnoty slouží ke stabilizaci při zátěži (vyšší FCR, teplota, rychlý růst).
+
+Výpočet průtoku:
+Flow (m³/h) = objem tanku (m³) × turnover rate (h⁻¹)
+
+3.2 Rychlost proudění v tanku (cm/s)
+------------------------------------
+Optimální proudění dle druhu:
+
+– Pstruh: 20–40 cm/s
+– Siven: 15–30 cm/s
+– Candát: 5–12 cm/s
+– Okoun: 5–10 cm/s
+– Kaprovité druhy: 8–20 cm/s
+– Tilapie: 10–25 cm/s
+– Sumci: 8–18 cm/s
+– Jeseteři: 10–15 cm/s
+
+Přepočet rychlosti na průtok:
+Flow (m³/h) = (rychlost (m/s) × průřez tanku (m²)) × 3600
+
+Pro kruhové tanky:
+průřez = π × r²
+
+3.3 Odplynění a oxygenace
+------------------------------------
+Pro každý 1 kg krmiva vzniká ~1.1 kg CO₂ → nutná kapacita odplynění.
+
+Oxygenace:
+– studenovodní druhy: 300–450 mg O₂/kg ryb/h
+– teplovodní: 200–350 mg/kg/h
+– při stresu +50–100 %
+
+------------------------------------------------
+4. DIMENZOVÁNÍ BIOFILTRU
+------------------------------------------------
+
+Biofiltr se dimenzuje podle TAN load (produkce amoniaku):
+
+TAN load = (krmivo (kg/den) × 30–35 g TAN/kg krmiva)
+
+Kapacita biofiltru:
+– MBBR: 0.2–0.6 g TAN removed / L média / den
+– Fixed-bed: 0.1–0.3 g/L/den
+– High-rate MBBR: až 1.0 g/L/den (velmi intenzivní provozy)
+
+Výpočet objemu filtračního média:
+Objem média (L) = TAN load (g/den) / specifická kapacita (g/L/den)
+
+------------------------------------------------
+5. LAYOUT RAS – PRINCIPY
+------------------------------------------------
+
+Optimální layout zahrnuje:
+
+1) Gravitační tok ze separátoru do biofiltru, aby se snížila spotřeba energie.
+2) Mechanickou filtraci před biofiltrem (chrání nitrifikaci).
+3) Degassing a oxygenaci mezi biofiltrem a tanky.
+4) Redundanci u kritických komponent (čerpadla, O₂ systémy).
+5) Snadný přístup pro servis (bubnový filtr, čerpadla, senzory).
+6) Zónování: „ryby → mechanika → biofiltr → degassing → oxygenace → zpět k rybám“.
+
+------------------------------------------------
+6. REDUNDANCE A BEZPEČNOST
+------------------------------------------------
+
+Minimální doporučení:
+
+– dvojitá čerpadla (1+1 backup),
+– záložní zdroj O₂ (LOX nebo generátor + lahve),
+– alarmy (O₂, průtok, NO₂, NH₄, výpadek proudu),
+– UPS pro senzory a řídicí jednotku,
+– automatický bypass v případě zaplavení nebo výpadku čerpadel.
+
+------------------------------------------------
+7. TYPOVÉ CHYBY V DESIGNU RAS
+------------------------------------------------
+
+1) Nedostatečný průtok (NO₂ výkyvy, nízké O₂).
+2) Příliš malé odplynění (CO₂ akumulace).
+3) Nevhodně dimenzovaný biofiltr.
+4) Kombinace bubnového filtru a bead filtru bez správné hydraulické sekvence.
+5) Nedostatečné zónování (míchání čistých a špinavých okruhů).
+6) Špatné proudění v tanku – mrtvé zóny, hromadění kalu.
+7) Neexistence havarijních protokolů a záložních zdrojů.
+
+------------------------------------------------
+8. VERZE
+------------------------------------------------
+Verze: KB11 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)

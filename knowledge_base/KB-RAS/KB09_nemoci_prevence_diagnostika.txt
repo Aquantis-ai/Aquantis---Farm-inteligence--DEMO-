@@ -1,0 +1,238 @@
+Aquantis_KB09_NEMOCI_PREVENCE_DIAGNOSTIKA_RAS_V1
+================================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument poskytuje ucelený přehled nejčastějších onemocnění, provozních rizik a 
+diagnostických protokolů v recirkulačních akvakulturních systémech (RAS). 
+Slouží jako odborný základ pro odpovědi modelu Aquantis v oblasti patologie, prevence, 
+rizikového managementu a rozpoznávání neinfekčních i infekčních chorob.
+
+Dokument je syntézou otevřených technických zdrojů:
+- FAO Fisheries Technical Papers (infekce, monitoring),
+- WorldFish aquaculture health guides,
+- univerzitních extension materiálů (UF/IFAS, NC State, Auburn),
+- otevřených článků z International Journal of Recirculating Aquaculture, Aquaculture a JWAS,
+- obecně uznávaných best practices v EU/USA RAS provozech.
+
+Formulace jsou zcela nové, bez kopírování textů 1:1. Dokument je právně bezpečný.
+
+
+------------------------------------------------
+1. ROZDĚLENÍ CHOROB V RAS: INFEKČNÍ VS. NEINFEKČNÍ
+------------------------------------------------
+
+1.1 Neinfekční (environmentální) onemocnění
+- Hypoxie (nízký O₂)
+- Nitrózní stres (NO₂ toxikóza)
+- Amoniaková toxicita (NH₃)
+- Acidóza / alkalóza (kolísání pH)
+- Teplotní stres
+- Otrava CO₂
+- Otrava H₂S (anaerobní kal)
+- Mechanické poškození (vír na hladině, vysoký proud)
+- Stres z přetížení systému (nadměrné krmení, nízká filtrační kapacita)
+
+→ V RAS tvoří 70–90 % všech problémů.  
+→ Primární opatření: upravit parametry vody, průtok, mechanickou filtraci, snížit krmení.
+
+1.2 Infekční onemocnění
+- Bakteriální (Aeromonas, Pseudomonas, Flavobacterium, Edwardsiella)
+- Parazitární (Ichthyophthirius, Trichodina, Costia, Gyrodactylus)
+- Virová (IHN, IPN, VHS – u pstruhů a lososů)
+- Plísňová (Saprolegnia)
+
+→ V RAS se infekce objevují často sekundárně — po stresu, výkyvech vody nebo poškození kůže.
+
+
+------------------------------------------------
+2. KLÍČOVÉ PROVOZNÍ RIZIKOVÉ FAKTORY V RAS
+------------------------------------------------
+
+2.1 Kolaps biofiltru  
+- Příčina: nízká alkalita, výkyv pH, předávkování chemie, nedostatek O₂.  
+- Následek: nárůst NH₄ → NH₃, následně NO₂ → akutní toxicita.  
+
+2.2 Nevhodné proudění  
+- Nízké proudění → sedimentace kalu, anaerobní kapsy (H₂S).  
+- Nadměrné proudění → mechanický stres, odírání kůže, sekundární infekce.
+
+2.3 Nedostatečná mechanická filtrace  
+- Nahromadění organiky → růst heterotrofních bakterií → zátěž pro biofiltr.
+
+2.4 Nekontrolované krmení  
+- Vysoké FCR → přetížení systému → amoniak, nitrit, kal.  
+- Náhlé navýšení krmiva → nitrifikační kapacita nestíhá.
+
+2.5 Nízká stabilita provozu  
+- Kolísání teploty, pH nebo kyslíku vyvolává imunitní stres.
+
+2.6 Biologická rizika  
+- Zavlečení patogenů rybou, krmením, vodou nebo vybavením.
+
+
+------------------------------------------------
+3. KLINICKÉ PŘÍZNAKY PODLE KATEGORIÍ PROBLÉMŮ
+------------------------------------------------
+
+3.1 Hypoxie / nízký O₂
+- Ryby u hladiny, rychlá ventilace, apatie.
+- Nejčastěji při výpadcích aerace, nízkém průtoku nebo překrmení.
+
+3.2 Nitrózní stres (NO₂)
+- Hnědnutí žaber, letargie, tmavnutí kůže.
+- Ryby mohou plavat šikmo, zrychlené dýchání.
+
+3.3 Amoniaková toxicita (NH₃)
+- Nejasné, pobíhání ryb, dráždění kůže.
+- Při vyšším pH výrazně toxické.
+
+3.4 Bakteriální infekce
+- Povrchové léze, zarudnutí kolem ploutví, zvýšená mortalita při stresu.
+
+3.5 Parazitární infekce
+- Tření o dno/stěny, bílá zrnka, zákal na kůži, zrychlené dýchání.
+
+3.6 Stres z proudění
+- Ryby “zaparkované” proti proudu, odřeniny kolem tlamy.
+
+
+------------------------------------------------
+4. DIAGNOSTICKÝ PROTOKOL (RAS)
+------------------------------------------------
+
+4.1 Krok 1 – Rychlý screening paramerů vody
+- O₂  
+- Teplota  
+- pH  
+- Alkalita  
+- TAN (NH₃ + NH₄⁺)  
+- NO₂  
+- NO₃  
+- Průtok tankem (mnoho problémů se odhalí zde)
+
+4.2 Krok 2 – Kontrola mechanické filtrace
+- zanesení sít, bubnového filtru, pěny, sedimentace ve swirl separátoru
+
+4.3 Krok 3 – Kontrola krmení
+- množství vs. kapacita biofiltru  
+- náhlé změny krmného režimu  
+
+4.4 Krok 4 – Klinické symptomy
+- žábry (barva, hnědnutí, sliz)  
+- kůže (léze, zákal, červené skvrny)  
+- chování (povrch, dno, víření, tření)
+
+4.5 Krok 5 – Diferenciální diagnóza
+- Je problém primárně **environmentální**? (80 % případů)  
+- Nebo **infekční**? (často sekundární)  
+
+4.6 Krok 6 – Kdy kontaktovat odborníka
+- masivní mortalita  
+- hniloba ploutví + hluboké léze  
+- paraziti ve velké intenzitě  
+- NO₂ > 1.0 mg/l při mortalitě  
+- NH₃ > 0.05 mg/l při stresu
+
+
+------------------------------------------------
+5. PREVENČNÍ PROTOKOLY
+------------------------------------------------
+
+5.1 Stabilita vody
+- Udržovat všechny parametry v doporučených mezích druhu (viz KB02).  
+- pH stabilní → alkalita min. 80–150 mg/l CaCO₃.  
+- O₂ monitoring 24/7 (ideálně optické sondy).
+
+5.2 Provozní disciplína
+- Pravidelná údržba mechanických filtrů.  
+- Nevypínat aeraci biofiltru.  
+- Kontrolovat průtoky → častá skrytá příčina problémů.
+
+5.3 Krmení
+- Stabilní dávky, prevence překrmování.  
+- Přechody krmiva postupné (48–72 h).
+
+5.4 Karanténa
+- Každá nová ryba → min. 14 dní izolace.  
+- Nepřenášet vybavení mezi tanky.
+
+5.5 Hygiena provozu
+- Pravidelně odstraňovat sediment.  
+- Zabránit anaerobním kapsám (H₂S).
+
+5.6 Biosekurita
+- Minimalizovat vstup patogenů z venku.  
+- Pracovní tok: čisté → špinavé → dezinfekce.
+
+
+------------------------------------------------
+6. POPIS HLAVNÍCH SKUPIN ONEMOCNĚNÍ (OBECNÝ PROFIL)
+------------------------------------------------
+
+6.1 Aeromonóza (Aeromonas spp.)
+- často sekundární po stresu  
+- léze, zarudnutí, septikémie  
+- prevence: stabilní voda, čisté filtry  
+
+6.2 Flavobakterióza (Flavobacterium)
+- povlaky na žábrech, ulcerace  
+- prevence: mechanické čištění, stabilní průtok  
+
+6.3 Ichthyophthirius (krupička)
+- bílá zrnka 0.5–1 mm  
+- prevence: karanténa, stabilní teplota  
+
+6.4 Gyrodactylus, Dactylogyrus
+- tření, zvýšené dýchání  
+- prevence: čistota vody, karanténa  
+
+6.5 Saprolegnia
+- vata na kůži, hlavně studenovodní druhy  
+- prevence: minimální stres, dobré proudění  
+
+6.6 Virózy (VHS, IHN, IPN)
+- typické pro pstruhové farmy  
+- prevence: biosekurita, kontrola přenosu ryb  
+
+
+------------------------------------------------
+7. ALGORITMUS „AQUANTIS RISK TRIAGE“
+------------------------------------------------
+
+Aquantis by měl vyhodnocovat rizika takto:
+
+1. **Je problém environmentální?**  
+   → Pokud O₂, NO₂, TAN, pH nebo teplota mimo optimum, jde téměř vždy o primární příčinu.
+
+2. **Je problém sekundární infekce?**  
+   → Léze, povlaky, tření → sekundární po stresu.
+
+3. **Je nutný zásah odborníka?**  
+   → Ano, pokud je mortalita, hluboké léze nebo výrazný zákal žaber.
+
+4. **Jsou nutná provozní opatření?**  
+   → Aerace, výměna vody, kontrola krmení, vyčištění filtrů.
+
+
+------------------------------------------------
+8. ODBORNÁ VÝCHODISKA (PARAFRÁZOVANÁ)
+------------------------------------------------
+
+- Boyd & Tucker (Auburn University): primární příčiny onemocnění v aquaculture jsou environmentální faktory.  
+- FAO Fish Health Manuals: důležitost prevence, karantény, stability prostředí.  
+- WorldFish: primární role managementu kvality vody na farmách.  
+- IJRA a JWAS: nitrifikace, NO₂ toxicita a souvislost stresu se sekundárními infekcemi.  
+- EU Best Practices: biosekurita, karanténa, stabilita provozu.
+
+Všechny formulace jsou nově vytvořené a nezahrnují žádné kopie původních textů.
+
+
+------------------------------------------------
+9. VERZE DOKUMENTU
+------------------------------------------------
+KB09 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base
+  
+

@@ -1,0 +1,228 @@
+KB-KOI-04 – KRMENÍ KOI (RŮST, BARVA, SEZÓNNÍ STRATEGIE)
+====================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: KOI jezírka
+Typ dokumentu: Technický / chovatelský standard
+Použití v Aquantis: Diagnostika, krmné strategie, welfare
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL KRMENÍ U KOI
+------------------------------------------------
+
+Krmení KOI (Cyprinus rubrofuscus "koi") není pouze otázkou růstu,
+ale komplexní strategií, která ovlivňuje:
+
+- rychlost růstu a tělesnou stavbu,
+- kvalitu a stabilitu barev,
+- zdraví trávicího systému,
+- imunitu,
+- kvalitu vody v jezírku,
+- dlouhověkost ryb (KOI jsou dlouhověké ryby – 30+ let).
+
+Na rozdíl od produkční akvakultury je u KOI cílem:
+- estetická kvalita,
+- rovnoměrný růst bez deformací,
+- minimalizace stresu a metabolického zatížení.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ PRINCIPY KRMENÍ KOI
+------------------------------------------------
+
+2.1 KOI jsou všežravé ryby
+- přijímají rostlinnou i živočišnou složku,
+- vyžadují vyvážený poměr bílkovin, tuků a sacharidů.
+
+2.2 Krmení musí respektovat:
+- teplotu vody,
+- sezónu,
+- věk a velikost ryb,
+- hustotu obsádky,
+- kapacitu filtrace.
+
+2.3 Překrmování je nejčastější chovatelská chyba
+- vede ke zhoršení kvality vody,
+- zvyšuje organické zatížení,
+- podporuje rozvoj patogenů.
+
+
+------------------------------------------------
+3. PROTEIN, TUKY A SACHARIDY
+------------------------------------------------
+
+3.1 Proteiny
+- hlavní stavební složka růstu,
+- zdroj dusíkaté zátěže (TAN).
+
+Doporučené hodnoty:
+- mladé KOI (do 1 roku): 38–42 %
+- růstová fáze: 35–40 %
+- dospělé KOI (udržovací): 28–34 %
+
+Poznámka:
+Příliš vysoký obsah proteinů:
+- zvyšuje produkci amoniaku,
+- zatěžuje biofiltr,
+- zhoršuje kvalitu vody.
+
+3.2 Tuky
+- zdroj energie,
+- důležité pro zimní kondici.
+
+Doporučené rozmezí:
+- 5–9 %
+
+Nadbytek tuků:
+- zhoršuje trávení,
+- může vést k tukové degeneraci jater.
+
+3.3 Sacharidy
+- sekundární zdroj energie,
+- využitelné při vyšších teplotách.
+
+KOI mají omezenou schopnost trávit sacharidy při nízkých teplotách.
+
+
+------------------------------------------------
+4. VLIV KRMENÍ NA BARVU KOI
+------------------------------------------------
+
+Barva KOI je geneticky podmíněná, ale silně ovlivněná výživou.
+
+4.1 Pigmenty
+- karotenoidy (astaxanthin, spirulina),
+- beta-karoten,
+- přírodní rostlinné pigmenty.
+
+Účinky:
+- zvýraznění červené (beni),
+- stabilizace bílé (shiroji),
+- zlepšení kontrastu.
+
+Rizika:
+- nadměrné dávky pigmentů → umělé, „tvrdé“ barvy,
+- dlouhodobé přepigmentování může poškodit vzhled.
+
+4.2 Strategie
+- pigmentační krmiva používat cíleně,
+- ne celoročně,
+- kombinovat s neutrálními krmivy.
+
+
+------------------------------------------------
+5. SEZÓNNÍ STRATEGIE KRMENÍ
+------------------------------------------------
+
+5.1 Jaro (10–15 °C)
+- metabolismus se probouzí,
+- trávení je omezené.
+
+Doporučení:
+- lehce stravitelná krmiva,
+- nižší protein (28–32 %),
+- menší dávky, vyšší frekvence.
+
+5.2 Léto (18–26 °C)
+- optimální období pro růst.
+
+Doporučení:
+- růstová krmiva,
+- vyšší protein (35–40 %),
+- 2–4 krmení denně dle filtrace.
+
+5.3 Podzim (15–10 °C)
+- příprava na zimu.
+
+Doporučení:
+- postupné snižování krmných dávek,
+- vyšší obsah tuků,
+- omezení pigmentačních krmiv.
+
+5.4 Zima (< 8–10 °C)
+- metabolismus výrazně zpomalen.
+
+Doporučení:
+- při < 8 °C nekrmit,
+- při 8–10 °C pouze výjimečně,
+- pouze velmi lehce stravitelná krmiva.
+
+
+------------------------------------------------
+6. FREKVENCE A DÁVKOVÁNÍ
+------------------------------------------------
+
+Základní pravidlo:
+- krmit pouze tolik, kolik ryby sežerou do 3–5 minut.
+
+Orientační denní dávka:
+- 0.5–2 % tělesné hmotnosti (dle teploty).
+
+Vyšší frekvence:
+- lepší využití krmiva,
+- menší špičky TAN,
+- menší zatížení filtrace.
+
+
+------------------------------------------------
+7. VLIV KRMENÍ NA KVALITU VODY
+------------------------------------------------
+
+Každé krmení:
+- zvyšuje TAN,
+- zvyšuje BOD/COD,
+- podporuje růst biofilmu.
+
+Souvislosti:
+- vyšší krmení = vyšší nároky na filtraci,
+- špatně zvolená krmná strategie = zakalení vody,
+- zvýšené riziko bakteriálních infekcí.
+
+Aquantis doporučuje:
+- vždy hodnotit krmení v kontextu filtrace,
+- sledovat NO₂ po změně krmiva.
+
+
+------------------------------------------------
+8. CHYBY V KRMENÍ KOI
+------------------------------------------------
+
+Nejčastější chyby:
+- překrmování „pro radost“,
+- krmení při nízkých teplotách,
+- celoroční používání pigmentačních krmiv,
+- ignorování kvality vody,
+- používání levných, nestabilních krmiv.
+
+Důsledky:
+- zhoršení vody,
+- zdravotní problémy,
+- ztráta estetické hodnoty ryb.
+
+
+------------------------------------------------
+9. VÝCHODISKA Z ODBORNÝCH ZDROJŮ (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+Dokument vychází z konsolidovaných poznatků:
+- Koi Organisation International (KOI Health & Nutrition),
+- japonských chovatelských standardů (Niigata region),
+- univerzitních extension materiálů (UF/IFAS, Texas A&M),
+- otevřených studií o výživě kaprovitých ryb,
+- praktických chovatelských zkušeností z KOI komunit.
+
+Text neobsahuje žádný převzatý obsah 1:1.
+
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+KB-KOI-04 – V1  
+Určeno pro: Aquantis Knowledge Base  
+Použití: Diagnostika, návrh krmení, edukace uživatelů

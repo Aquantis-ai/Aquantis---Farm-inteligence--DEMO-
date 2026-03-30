@@ -1,0 +1,212 @@
+KB-AQUA-COLDWATER-08 – Diagnostika problémů ve studenovodním akváriu (V1)
+=====================================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – studenovodní akvária
+Typ dokumentu: Diagnostický manuál
+Použití v Aquantis: Diagnostika, prevence, edukace chovatelů
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument slouží jako praktický diagnostický nástroj pro studenovodní
+akvária (zlaté rybky, dania, střevličky, chladnomilné druhy).
+
+Cílem je:
+- propojit symptomy s biologickou zátěží (bioload),
+- identifikovat typické chyby chovu,
+- nabídnout bezpečná nápravná opatření bez předepisování léčiv.
+
+Diagnostika je založena na principech:
+- dusíkatého cyklu,
+- kyslíkového režimu,
+- teplotního stresu,
+- organického zatížení.
+
+
+------------------------------------------------
+2. DIAGNOSTICKÝ PRINCIP
+------------------------------------------------
+
+Každý problém hodnotíme ve třech krocích:
+
+SYMPTOM
+↓
+BIOLOGICKÁ / FYZIKÁLNÍ PŘÍČINA
+↓
+NEJČASTĚJŠÍ CHYBA CHOVATELE
+
+Teprve poté se navrhují nápravná opatření.
+
+
+------------------------------------------------
+3. SYMPTOMY SPOJENÉ S BIOLOAD A DUSÍKEM
+------------------------------------------------
+
+### 3.1 Ryby lapají po vzduchu u hladiny
+Příčina:
+- nízký rozpuštěný kyslík,
+- vysoká biologická zátěž,
+- rozklad organiky.
+
+Typická chyba:
+- přerybnění,
+- slabá filtrace,
+- vysoká teplota vody (>22 °C).
+
+Poznámka:
+U studenovodních ryb klesá tolerance k nízkému O₂ výrazně rychle
+než u tropických druhů.
+
+
+### 3.2 Apatie, pomalé reakce, stání u dna
+Příčina:
+- zvýšené NO₂⁻ nebo NH₃,
+- chronický stres.
+
+Typická chyba:
+- nedostatečně zaběhnutý filtr,
+- časté a velké výměny vody bez stabilizace biofiltru.
+
+
+### 3.3 Náhlé úhyny bez varování
+Příčina:
+- akutní NO₂⁻ spike,
+- kolaps biofiltru,
+- kombinace teplotního a kyslíkového stresu.
+
+Typická chyba:
+- vyčištění filtru v horké nebo chlorované vodě,
+- výpadek filtrace nebo aerace.
+
+
+------------------------------------------------
+4. SYMPTOMY SPOJENÉ S ORGANICKOU ZÁTĚŽÍ
+------------------------------------------------
+
+### 4.1 Zakalená voda (mléčná, šedá)
+Příčina:
+- bakteriální zákal,
+- nadbytek organiky.
+
+Typická chyba:
+- překrmování,
+- nedostatečné mechanické předčištění,
+- málo výměn vody.
+
+
+### 4.2 Zápach vody
+Příčina:
+- anaerobní rozklad,
+- vysoké BOD.
+
+Typická chyba:
+- zanedbaná údržba dna,
+- hromadění detritu.
+
+
+------------------------------------------------
+5. SYMPTOMY SPOJENÉ S TEPLOTOU
+------------------------------------------------
+
+### 5.1 Rychlé dýchání při vyšší teplotě
+Příčina:
+- snížená rozpustnost kyslíku,
+- zvýšený metabolismus.
+
+Typická chyba:
+- umístění akvária v teplé místnosti,
+- letní přehřívání bez chlazení.
+
+
+### 5.2 Ztráta chuti k jídlu při teplotním výkyvu
+Příčina:
+- teplotní šok,
+- metabolický stres.
+
+Typická chyba:
+- rychlé změny vody s odlišnou teplotou.
+
+
+------------------------------------------------
+6. SYMPTOMY SPOJENÉ S CHOVÁNÍM
+------------------------------------------------
+
+### 6.1 Agresivita, okusování ploutví
+Příčina:
+- stres z přerybnění,
+- nedostatek prostoru.
+
+Typická chyba:
+- držení zlatých rybek v malých nádržích,
+- kombinace nekompatibilních druhů.
+
+
+### 6.2 Chaotické plavání
+Příčina:
+- intoxikace dusíkem,
+- náhlá změna parametrů.
+
+Typická chyba:
+- prudké zásahy do vody,
+- neověřené chemické přípravky.
+
+
+------------------------------------------------
+7. RYCHLÁ DIAGNOSTICKÁ TABULKA
+------------------------------------------------
+
+Symptom → Pravděpodobná příčina → Typická chyba
+
+- Lapání po vzduchu → Nízký O₂ → Přerybnění
+- Zákal → Organická zátěž → Překrmování
+- Apatie → NO₂ / NH₃ → Slabý biofiltr
+- Náhlé úhyny → Kolaps filtru → Špatná údržba
+- Agresivita → Stres → Malý objem nádrže
+
+
+------------------------------------------------
+8. ZÁKLADNÍ NÁPRAVNÁ OPATŘENÍ (BEZPEČNÁ)
+------------------------------------------------
+
+HNED:
+- snížit krmení,
+- zvýšit aeraci,
+- zkontrolovat filtraci.
+
+DO 24 HODIN:
+- otestovat NH₃, NO₂, NO₃,
+- provést částečnou výměnu vody (10–20 %).
+
+PREVENCE:
+- správně dimenzovaná nádrž,
+- pravidelná údržba filtru,
+- respektování teplotních nároků.
+
+
+------------------------------------------------
+9. ODBORNÉ ZDROJE (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+- Boyd, C.E. – Water Quality in Aquaculture
+- University Extension Materials (coldwater species)
+- FAO Aquaculture Manuals
+- Ornamental Fish Health Guidelines (EU, UK)
+- Best practices běžně používané v chovu zlatých rybek
+
+Text je autorská syntéza, nikoli kopie zdrojů.
+
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-COLDWATER-08
+Verze: V1
+Určeno pro: Aquantis Knowledge Base

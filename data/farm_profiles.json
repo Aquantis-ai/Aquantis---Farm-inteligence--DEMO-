@@ -1,0 +1,346 @@
+{
+  "active_farm_id": "FARM-6ce4682c",
+  "farms": [
+    {
+      "farm_id": "FARM-f5d23eb2",
+      "farm_name": "Farm 1",
+      "operation": "RAS",
+      "species_pack": [],
+      "units": [
+        {
+          "unit_id": "UNIT-35f419be",
+          "unit_name": "Hatchery",
+          "targets": {
+            "ph": null,
+            "temp": null,
+            "salinity": null,
+            "o2": null,
+            "no2": null,
+            "no3": null,
+            "nh3": null,
+            "nh4": null,
+            "tan": null
+          },
+          "mins": {
+            "ph": null,
+            "temp": null,
+            "salinity": null,
+            "o2": 0.0,
+            "no2": null,
+            "no3": null,
+            "nh3": null,
+            "nh4": null,
+            "tan": null
+          },
+          "tanks": [
+            {
+              "tank_id": "TNK-c17f4033",
+              "tank_name": "",
+              "biomass_kg": null,
+              "avg_weight_g": null,
+              "feed_rate_pct_day": null,
+              "o2_active": false,
+              "o2_min": null,
+              "o2_target": null,
+              "o2_max": null,
+              "feed_kg_day": null
+            }
+          ],
+          "species_pack": {
+            "selected": [],
+            "custom": null
+          },
+          "maxs": {
+            "ph": null,
+            "temp": null,
+            "salinity": null,
+            "o2": null,
+            "no2": null,
+            "no3": null,
+            "nh3": null,
+            "nh4": null,
+            "tan": null
+          },
+          "param_active": {
+            "ph": false,
+            "temp": false,
+            "salinity": false,
+            "no2": false,
+            "no3": false,
+            "nh3": false,
+            "nh4": false,
+            "tan": false
+          }
+        }
+      ],
+      "measurement_units": {
+        "ph": "pH",
+        "temp": "°C",
+        "salinity": "ppt",
+        "o2": "mg/L",
+        "no2": "mg/L",
+        "no3": "mg/L",
+        "nh3": "mg/L",
+        "nh4": "mg/L",
+        "tan": "mg/L"
+      }
+    },
+    {
+      "farm_id": "FARM-6ce4682c",
+      "farm_name": "Test farm",
+      "operation": "RAS",
+      "units": [
+        {
+          "unit_id": "UNIT-307ac15f",
+          "unit_name": "Grow-out A",
+          "species_pack": {
+            "selected": [
+              "European perch - Perca fluviatilis"
+            ],
+            "custom": null
+          },
+          "mins": {
+            "ph": 6.8,
+            "temp": 20.0,
+            "salinity": 0.0,
+            "o2": 6.5,
+            "no2": 0.0,
+            "no3": 0.0,
+            "nh3": 0.0,
+            "nh4": 0.0,
+            "tan": 0.0
+          },
+          "targets": {
+            "ph": 7.2,
+            "temp": 22.0,
+            "salinity": 0.5,
+            "o2": 8.0,
+            "no2": 0.02,
+            "no3": 50.0,
+            "nh3": 0.01,
+            "nh4": 0.3,
+            "tan": 0.5
+          },
+          "maxs": {
+            "ph": 7.8,
+            "temp": 24.0,
+            "salinity": 2.0,
+            "o2": 12.0,
+            "no2": 0.1,
+            "no3": 120.0,
+            "nh3": 0.03,
+            "nh4": 1.0,
+            "tan": 1.0
+          },
+          "tanks": [
+            {
+              "tank_id": "TNK-fbb08503",
+              "tank_name": "T1",
+              "biomass_kg": 300.0,
+              "avg_weight_g": 250.0,
+              "feed_kg_day": 12.0,
+              "o2_active": true,
+              "o2_min": 6.5,
+              "o2_target": 7.5,
+              "o2_max": 10.0
+            },
+            {
+              "tank_id": "TNK-c80da993",
+              "tank_name": "T2",
+              "biomass_kg": 200.0,
+              "avg_weight_g": 45.0,
+              "feed_kg_day": 8.0,
+              "o2_active": true,
+              "o2_min": 6.5,
+              "o2_target": 7.5,
+              "o2_max": 10.0
+            },
+            {
+              "tank_id": "TNK-068492aa",
+              "tank_name": "T3",
+              "biomass_kg": 300.0,
+              "avg_weight_g": 450.0,
+              "feed_kg_day": 20.0,
+              "o2_active": true,
+              "o2_min": 6.5,
+              "o2_target": 7.5,
+              "o2_max": 10.0
+            },
+            {
+              "tank_id": "TNK-7f3a098f",
+              "tank_name": "T4",
+              "biomass_kg": 200.0,
+              "avg_weight_g": 45.0,
+              "feed_kg_day": 7.0,
+              "o2_active": true,
+              "o2_min": 6.5,
+              "o2_target": 7.5,
+              "o2_max": 10.0
+            }
+          ],
+          "param_active": {
+            "ph": true,
+            "temp": true,
+            "salinity": true,
+            "no2": true,
+            "no3": true,
+            "nh3": true,
+            "nh4": true,
+            "tan": true
+          }
+        },
+        {
+          "unit_id": "UNIT-3275cfa8",
+          "unit_name": "",
+          "species_pack": {
+            "selected": [],
+            "custom": null
+          },
+          "mins": {
+            "ph": null,
+            "temp": null,
+            "salinity": null,
+            "o2": null,
+            "no2": null,
+            "no3": null,
+            "nh3": null,
+            "nh4": null,
+            "tan": null
+          },
+          "targets": {
+            "ph": null,
+            "temp": null,
+            "salinity": null,
+            "o2": null,
+            "no2": null,
+            "no3": null,
+            "nh3": null,
+            "nh4": null,
+            "tan": null
+          },
+          "maxs": {
+            "ph": null,
+            "temp": null,
+            "salinity": null,
+            "o2": null,
+            "no2": null,
+            "no3": null,
+            "nh3": null,
+            "nh4": null,
+            "tan": null
+          },
+          "tanks": [],
+          "param_active": {
+            "ph": false,
+            "temp": false,
+            "salinity": false,
+            "no2": false,
+            "no3": false,
+            "nh3": false,
+            "nh4": false,
+            "tan": false
+          }
+        }
+      ],
+      "measurement_units": {
+        "ph": "pH",
+        "temp": "°C",
+        "salinity": "ppt",
+        "o2": "mg/L",
+        "no2": "mg/L",
+        "no3": "mg/L",
+        "nh3": "mg/L",
+        "nh4": "mg/L",
+        "tan": "mg/L"
+      }
+    },
+    {
+      "farm_id": "FARM-e2804f89",
+      "farm_name": "Farm 1",
+      "operation": "RAS",
+      "species_pack": {
+        "selected": [
+          "Other / Custom species"
+        ],
+        "custom": "Úhoř říční"
+      },
+      "units": [
+        {
+          "unit_id": "UNIT-57b41324",
+          "unit_name": "Pregrow",
+          "species_pack": {
+            "selected": [
+              "European perch - Perca fluviatilis",
+              "Other / Custom species"
+            ],
+            "custom": "Úhoř říční"
+          },
+          "param_active": {
+            "ph": true,
+            "temp": true,
+            "salinity": true,
+            "no2": true,
+            "no3": true,
+            "nh3": true,
+            "nh4": true,
+            "tan": true
+          },
+          "mins": {
+            "ph": 0.0,
+            "temp": 0.0,
+            "salinity": 0.0,
+            "no2": 0.0,
+            "no3": 0.0,
+            "nh3": 0.0,
+            "nh4": 0.0,
+            "tan": 0.0
+          },
+          "targets": {
+            "ph": 0.0,
+            "temp": 0.0,
+            "salinity": 0.0,
+            "no2": 0.0,
+            "no3": 0.0,
+            "nh3": 0.0,
+            "nh4": 0.0,
+            "tan": 0.0
+          },
+          "maxs": {
+            "ph": 0.0,
+            "temp": 0.0,
+            "salinity": 0.0,
+            "no2": 0.0,
+            "no3": 0.0,
+            "nh3": 0.0,
+            "nh4": 0.0,
+            "tan": 0.0
+          },
+          "tanks": [
+            {
+              "tank_id": "TNK-5488a3cc",
+              "tank_name": "T1",
+              "biomass_kg": 160.0,
+              "avg_weight_g": 200.0,
+              "feed_kg_day": 16.0,
+              "o2_active": true,
+              "o2_min": 0.0,
+              "o2_target": 0.0,
+              "o2_max": 0.0
+            }
+          ]
+        }
+      ],
+      "measurement_units": {
+        "ph": "pH",
+        "temp": "°C",
+        "salinity": "ppt",
+        "o2": "mg/L",
+        "no2": "mg/L",
+        "no3": "mg/L",
+        "nh3": "mg/L",
+        "nh4": "mg/L",
+        "tan": "mg/L"
+      }
+    }
+  ]
+}

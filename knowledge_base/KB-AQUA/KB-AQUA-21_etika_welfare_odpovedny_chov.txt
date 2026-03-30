@@ -1,0 +1,214 @@
+KB-AQUA-21 – ETIKA, WELFARE A ODPOVĚDNÝ CHOV V AKVARISTICE (V1)
+=============================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika
+Typ dokumentu: Etika & welfare guidelines
+Použití v Aquantis: Diagnostika, edukace, prevence chyb
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Cílem tohoto dokumentu je definovat principy etického a odpovědného
+chovu akvarijních ryb a dalších vodních organismů.
+
+Akvaristika není pouze technická disciplína,
+ale dlouhodobá péče o živé organismy,
+které jsou plně závislé na rozhodnutích chovatele.
+
+Dokument slouží jako:
+- etický rámec pro Aquantis,
+- vodítko pro diagnostiku welfare problémů,
+- prevence chronického stresu, utrpení a zbytečných úhynů.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ PRINCIPY WELFARE RYB
+------------------------------------------------
+
+Welfare ryb lze shrnout do následujících pilířů:
+
+1) Fyziologické potřeby:
+   - vhodná teplota,
+   - dostatek kyslíku,
+   - stabilní chemismus vody.
+
+2) Biologické potřeby:
+   - přiměřený prostor,
+   - vhodná hustota obsádky,
+   - kompatibilita druhů.
+
+3) Behaviorální potřeby:
+   - možnost přirozeného chování (úkryty, teritoria),
+   - respektování sociální struktury,
+   - omezení stresových interakcí.
+
+4) Zdravotní stav:
+   - prevence nemocí,
+   - včasná diagnostika,
+   - karanténa nových ryb.
+
+Welfare není „absence úhynu“, ale dlouhodobý stav pohody.
+
+
+------------------------------------------------
+3. ČASTÉ ETICKÉ PROBLÉMY V AKVARISTICE
+------------------------------------------------
+
+Nejčastější etické problémy:
+
+- přerybnění akvária,
+- nevhodná kombinace druhů,
+- ignorování minimálních prostorových nároků,
+- chov ryb mimo jejich teplotní rozsah,
+- dlouhodobé vystavení subletálním koncentracím NO2, NH3,
+- nákup ryb bez znalosti jejich dospělé velikosti,
+- impulzivní nákupy bez karantény.
+
+Tyto problémy často nevedou k okamžitému úhynu,
+ale k chronickému stresu a zkrácení života.
+
+
+------------------------------------------------
+4. STRES U AKVARIJNÍCH RYB
+------------------------------------------------
+
+Hlavní stresory:
+
+- kolísání parametrů vody,
+- agresivní spolubydlící,
+- častá manipulace a odchyt,
+- nadměrné osvětlení bez úkrytů,
+- nevhodná proudění.
+
+Projevy stresu:
+- ztráta zbarvení,
+- apatie nebo naopak hyperaktivita,
+- snížený příjem potravy,
+- zvýšená náchylnost k nemocem.
+
+Chronický stres je jedním z hlavních
+„neviditelných zabijáků“ v akvaristice.
+
+
+------------------------------------------------
+5. ODPOVĚDNÝ VÝBĚR DRUHŮ
+------------------------------------------------
+
+Zodpovědný chovatel:
+- studuje nároky druhu PŘED nákupem,
+- bere v úvahu dospělou velikost,
+- zná sociální chování druhu,
+- ví, zda jde o rybu hejnovou, teritoriální či samotářskou.
+
+Nevhodné příklady:
+- teritoriální cichlidy v malých nádržích,
+- studenovodní druhy v tropických akváriích,
+- aktivní plavci v nano nádržích.
+
+
+------------------------------------------------
+6. PROBLEMATIKA IMPULZIVNÍHO PRODEJE
+------------------------------------------------
+
+Etický problém akvaristiky spočívá i v:
+- prodeji nevhodných druhů začátečníkům,
+- podhodnocování nároků ryb,
+- marketingu „nenáročných ryb“, které takové nejsou.
+
+Aquantis by měl:
+- upozorňovat na dlouhodobé nároky,
+- vysvětlovat důsledky špatných rozhodnutí,
+- nepodporovat nevhodné kombinace.
+
+
+------------------------------------------------
+7. KARANTÉNA JAKO ETICKÁ POVINNOST
+------------------------------------------------
+
+Karanténa není jen technické opatření,
+ale etická povinnost vůči stávajícím rybám.
+
+Bez karantény:
+- se zvyšuje riziko zavlečení patogenů,
+- dochází k masovým úhynům,
+- trpí celé společenství ryb.
+
+Minimální doporučení:
+- samostatná nádrž,
+- 2–4 týdny,
+- sledování chování a zdravotního stavu.
+
+
+------------------------------------------------
+8. MANIPULACE, TRANSPORT A ODCHYT
+------------------------------------------------
+
+Nešetrná manipulace způsobuje:
+- mechanická poranění,
+- poškození slizové vrstvy,
+- vstupní brány pro infekce.
+
+Zásady:
+- minimalizovat odchyt,
+- používat vhodné síťky,
+- vyhýbat se zbytečnému stresu,
+- plánovat zásahy.
+
+
+------------------------------------------------
+9. DLOUHODOBÁ ODPOVĚDNOST CHOVATELE
+------------------------------------------------
+
+Pořízení ryby znamená:
+- závazek na roky (některé druhy 10–20 let),
+- pravidelnou údržbu,
+- finanční náklady,
+- ochotu se vzdělávat.
+
+Etický chov není „jednorázový projekt“,
+ale dlouhodobý proces.
+
+
+------------------------------------------------
+10. ROLE AQUANTIS V OBLASTI WELFARE
+------------------------------------------------
+
+Aquantis by měl:
+- upozorňovat na welfare rizika,
+- zpochybňovat neetická rozhodnutí,
+- vysvětlovat důsledky chovatelských chyb,
+- podporovat odpovědné chování.
+
+Cílem není „kritizovat chovatele“,
+ale pomoci rybám žít kvalitní život.
+
+
+------------------------------------------------
+11. ZDROJE A ODBORNÝ KONTEXT
+------------------------------------------------
+
+Dokument vychází z obecně uznávaných principů:
+- FAO – welfare ryb a odpovědná akvakultura,
+- EFSA – welfare ryb (vědecké stanoviska),
+- univerzitní extension materiály (EU, USA),
+- odborná literatura k behaviorální ekologii ryb,
+- akvaristické etické kodexy (KOI, ornamental fish).
+
+Text je formulován jako původní syntéza,
+nikoliv kopie zdrojových dokumentů.
+
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+
+KB-AQUA-21 – V1  
+Určeno pro: Aquantis Knowledge Base  
+Použití: interní / edukační / diagnostické

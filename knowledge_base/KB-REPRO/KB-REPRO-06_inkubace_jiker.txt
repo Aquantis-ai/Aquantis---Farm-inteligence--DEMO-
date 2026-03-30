@@ -1,0 +1,197 @@
+KB-REPRO-06 – INKUBACE JIKER (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Reprodukce ryb
+Typ dokumentu: Technický / provozní
+Použití v Aquantis: Inkubace, diagnostika problémů, prevence mortality
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+------------------------------------------------
+ZDROJE (PARAFRÁZOVANÉ)
+------------------------------------------------
+Tento dokument vychází z odborně konsolidovaných poznatků z:
+- FAO Fisheries & Aquaculture Technical Papers (inkubace, líhnutí)
+- Boyd, Tucker – Water Quality & Hatchery Management
+- WorldFish hatchery manuals
+- University Extension materials (Auburn, Wageningen, Vodňany, UF/IFAS)
+- International Journal of Aquaculture & Aquaculture Reports
+- Praktických hatchery protokolů (salmonidi, kaprovité, sumci)
+
+Text je nově formulovaný, neobsahuje žádný převzatý obsah 1:1.
+
+------------------------------------------------
+1. ÚČEL INKUBACE JIKER
+------------------------------------------------
+Cílem inkubace jiker je:
+- maximalizovat líhnivost,
+- minimalizovat embryonální mortalitu,
+- zajistit rovnoměrný vývoj embryí,
+- zabránit sekundárním infekcím (zejména plísním).
+
+Inkubace je nejcitlivější fází reprodukce ryb – chyby zde
+nelze později kompenzovat.
+
+------------------------------------------------
+2. ZÁKLADNÍ FYZIOLOGIE JIKER
+------------------------------------------------
+Po oplození probíhá:
+- buněčné dělení (cleavage),
+- gastrulace,
+- organogeneze,
+- líhnutí.
+
+Embrya:
+- nemají aktivní osmoregulaci,
+- jsou plně závislá na kvalitě okolní vody,
+- spotřebovávají kyslík difuzí přes obal jikry.
+
+------------------------------------------------
+3. TEPLOTA INKUBACE
+------------------------------------------------
+Teplota je klíčovým řídícím faktorem vývoje.
+
+Obecné principy:
+- vyšší teplota → rychlejší vývoj, vyšší riziko deformací
+- nižší teplota → pomalejší vývoj, nižší metabolický stres
+
+Orientační teplotní rozsahy:
+- Salmonidi (pstruh, siven): 6–12 °C
+- Kaprovité ryby: 18–22 °C
+- Sumcovité ryby: 24–28 °C
+- Tilapie: 26–30 °C
+- Jeseteři: 12–18 °C
+
+Kolísání teploty:
+- > ±1 °C / den výrazně zvyšuje mortalitu
+
+------------------------------------------------
+4. ROZPUŠTĚNÝ KYSLÍK (O₂)
+------------------------------------------------
+Minimální požadavky:
+- ideálně > 8 mg/l u salmonidů
+- > 6 mg/l u teplovodních druhů
+- nikdy < 5 mg/l
+
+Kritické poznatky:
+- embrya mají vyšší spotřebu O₂ než larvy po rozplavání
+- nízký O₂ → deformace, slabé larvy, nízká líhnivost
+
+Proudění vody musí:
+- zajišťovat přísun O₂
+- nepoškozovat jikry mechanicky
+
+------------------------------------------------
+5. PROUDĚNÍ A HYDRAULIKA
+------------------------------------------------
+Funkce proudění:
+- přívod kyslíku
+- odplavování metabolitů
+- prevence sedimentace
+
+Zásady:
+- proudění jemné, laminární
+- žádné turbulence
+- rovnoměrné omývání jiker
+
+Typické systémy:
+- Zugské lahve
+- Heath tray systémy
+- Vertikální inkubátory
+- Jeseterové válcové inkubátory
+
+------------------------------------------------
+6. pH A CHEMICKÉ PARAMETRY
+------------------------------------------------
+Optimální pH:
+- 6.5–7.8 (většina druhů)
+
+Nevhodné hodnoty:
+- pH < 6.0 → acidifikace, mortalita
+- pH > 8.2 → zvýšená toxicita amoniaku
+
+Další parametry:
+- NH₃: ideálně 0 mg/l
+- NO₂: 0 mg/l
+- CO₂: < 10 mg/l
+
+------------------------------------------------
+7. PLÍSNĚ A SEKUNDÁRNÍ INFEKCE
+------------------------------------------------
+Nejčastější problém inkubace:
+- Saprolegnia spp.
+
+Rizikové faktory:
+- mrtvé jikry mezi živými
+- nízký průtok
+- organické znečištění
+- kolísání teploty
+
+Preventivní opatření:
+- pravidelné odstraňování mrtvých jiker
+- stabilní hydraulika
+- dobrá mechanická filtrace přívodní vody
+
+Poznámka:
+Použití chemických lázní je vždy regulované
+a mimo rozsah Aquantis doporučení.
+
+------------------------------------------------
+8. MORTALITA JIKER – TYPICKÉ PŘÍČINY
+------------------------------------------------
+1. Nízký kyslík
+2. Teplotní šok
+3. Plísně
+4. Mechanické poškození
+5. Špatná kvalita generačních ryb
+6. Nekvalitní oplození
+
+Mortalita > 30 %:
+- signalizuje systémovou chybu
+
+------------------------------------------------
+9. MONITORING INKUBACE
+------------------------------------------------
+Denně sledovat:
+- teplotu
+- O₂
+- průtok
+- vizuální stav jiker
+
+Záznamy:
+- datum oplození
+- teplotní režim
+- den líhnutí
+- % líhnivosti
+
+------------------------------------------------
+10. PŘECHOD NA LÍHNUTÍ A LARVY
+------------------------------------------------
+Před líhnutím:
+- zvýšit pozornost na O₂
+- snížit manipulaci
+- stabilizovat prostředí
+
+Po vylíhnutí:
+- přechod na larvální management
+- změna hydrauliky
+- příprava na rozplavání
+
+------------------------------------------------
+11. KLÍČOVÉ BEST PRACTICES
+------------------------------------------------
+- Stabilita je důležitější než „ideální čísla“
+- Inkubace = čistota + kyslík + klid
+- Největší chyby vznikají z přehnaných zásahů
+- Každý druh má jinou toleranci → univerzální nastavení neexistuje
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+KB-REPRO-06 – V1
+Určeno pro: Aquantis Knowledge Base
+Interní odborné použití

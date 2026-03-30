@@ -1,0 +1,234 @@
+KB-POND-SP03 – SALMONIDNÍ RYBY V RYBNÍCÍCH (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Rybníkářství – druhové profily
+Typ dokumentu: Species Profile
+Použití v Aquantis: Diagnostika, návrh obsádky, kvalita vody, krmení
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚVOD A KONTEXT
+------------------------------------------------
+
+Salmonidní ryby (zejména pstruh duhový a siven americký) nejsou
+typickými rybníkovými druhy ve smyslu tradiční kaprové produkce,
+ale v mnoha regionech světa i Evropy jsou úspěšně chovány v:
+
+- průtočných rybnících,
+- chladných rybnících s přítokem,
+- horských a podhorských oblastech,
+- polointenzivních systémech kombinujících rybník + přítok.
+
+Jejich chov je **vysoce citlivý na kvalitu vody** a kyslíkový režim,
+ale umožňuje produkci ryb s vysokou tržní hodnotou.
+
+
+------------------------------------------------
+2. HLAVNÍ DRUHY
+------------------------------------------------
+
+### 2.1 Pstruh duhový (Oncorhynchus mykiss)
+
+- Nejrozšířenější salmonid chovaný mimo RAS
+- Vysoká růstová schopnost
+- Dobrá tolerance manipulace (ve srovnání se sivenem)
+
+### 2.2 Siven americký (Salvelinus fontinalis)
+
+- Vyšší nároky na kyslík a čistotu vody
+- Citlivější na organické zatížení
+- Vhodný spíše pro chladné, čisté rybníky s přítokem
+
+
+------------------------------------------------
+3. POŽADAVKY NA KVALITU VODY
+------------------------------------------------
+
+### 3.1 Teplota
+
+- Optimální:
+  - Pstruh: 10–16 °C
+  - Siven: 8–14 °C
+- Kritické:
+  - > 18 °C → snížení příjmu potravy
+  - > 20 °C → riziko hypoxie, stres, mortalita
+  - > 22 °C → vysoké riziko úhynů
+
+### 3.2 Rozpuštěný kyslík (O₂)
+
+- Optimální: 7–10 mg/l
+- Minimální hranice: 6 mg/l
+- Kritické: < 5 mg/l (akutní stres)
+
+Salmonidi mají vysokou spotřebu kyslíku a špatně tolerují
+noční pokles O₂ typický pro eutrofní rybníky.
+
+### 3.3 pH
+
+- Optimální: 6.5–7.8
+- Krátkodobě tolerované: 6.0–8.2
+- pH > 8.5 zvyšuje toxicitu NH₃
+
+### 3.4 Dusíkaté látky
+
+- NH₃ (toxická frakce): < 0.02 mg/l
+- TAN: ideálně < 0.5 mg/l
+- NO₂:
+  - optimálně < 0.1 mg/l
+  - kritické > 0.3 mg/l
+- NO₃:
+  - dlouhodobě < 100 mg/l
+
+
+------------------------------------------------
+4. TYP RYBNÍKA A PROSTŘEDÍ
+------------------------------------------------
+
+Vhodné rybníky:
+- průtočné rybníky,
+- rybníky s konstantním studeným přítokem,
+- hlubší rybníky s dobrou cirkulací vody.
+
+Nevhodné:
+- mělké eutrofní rybníky,
+- rybníky s výrazným denním kolísáním pH a O₂,
+- rybníky s bohatým planktonem (riziko noční hypoxie).
+
+Vegetace:
+- omezená,
+- bez masivního rozvoje fytoplanktonu.
+
+
+------------------------------------------------
+5. OBSÁDKA A HUSTOTA
+------------------------------------------------
+
+Orientační obsádky:
+
+- extenzivní rybník: 200–500 ks/ha
+- polointenzivní s přítokem: 500–1 500 ks/ha
+- kombinované systémy: dle průtoku a kyslíkové bilance
+
+Přerybnění vede k:
+- rychlému poklesu O₂,
+- zhoršení růstu,
+- vyššímu riziku nemocí.
+
+
+------------------------------------------------
+6. KRMENÍ
+------------------------------------------------
+
+- Salmonidi v rybnících jsou **plně závislí na přikrmování**.
+- Používají se extrudované granule s vysokým obsahem bílkovin.
+
+Typické parametry krmiva:
+- protein: 40–50 %
+- tuk: 18–25 %
+
+Krmení:
+- 1–3× denně dle teploty
+- při T < 8 °C výrazné omezení
+- při T > 18 °C snížit dávky
+
+Překrmování:
+- zvyšuje organické zatížení,
+- zvyšuje riziko bakteriálních onemocnění.
+
+
+------------------------------------------------
+7. ZDRAVOTNÍ RIZIKA A NEMOCI
+------------------------------------------------
+
+Typické problémy:
+- bakteriální onemocnění (Aeromonas, Flavobacterium),
+- saprolegnióza (plísně),
+- stres z tepla a hypoxie,
+- mechanická poranění při manipulaci.
+
+Riziková období:
+- léto (teplota + O₂),
+- manipulace a přelovy,
+- kolísání kvality přítoku.
+
+
+------------------------------------------------
+8. SEZÓNNÍ PROVOZ
+------------------------------------------------
+
+Jaro:
+- nasazení ryb,
+- postupné zvyšování krmných dávek.
+
+Léto:
+- nejvyšší riziko hypoxie,
+- nutná kontrola O₂ ráno a v noci,
+- případně nouzová aerace.
+
+Podzim:
+- intenzivní růst,
+- příprava na výlov.
+
+Zima:
+- omezení krmení,
+- kontrola přítoku,
+- ochrana proti zamrznutí.
+
+
+------------------------------------------------
+9. EKONOMICKÉ A PROVOZNÍ POZNÁMKY
+------------------------------------------------
+
+Výhody:
+- vysoká tržní cena ryb,
+- rychlý růst při dobrých podmínkách.
+
+Nevýhody:
+- vysoká citlivost na chyby,
+- omezená vhodnost rybníků,
+- vyšší riziko ztrát při extrémech počasí.
+
+
+------------------------------------------------
+10. DIAGNOSTICKÉ SIGNÁLY
+------------------------------------------------
+
+Varovné chování:
+- ryby u přítoku,
+- lapání po vzduchu,
+- snížený příjem krmiva,
+- neklid nebo apatie.
+
+Doporučená reakce:
+- okamžité měření O₂ a teploty,
+- omezení krmení,
+- zvýšení průtoku / aerace,
+- částečný výlov při dlouhodobém riziku.
+
+
+------------------------------------------------
+11. ZDROJE A ODBORNÉ VÝCHODISKO (PARAFRÁZOVÁNO)
+------------------------------------------------
+
+- FAO Fisheries Manuals – salmonid pond culture
+- Boyd, C.E. – Water Quality in Aquaculture
+- WorldFish pond aquaculture guides
+- European trout pond farming practices
+- University extension materials (Auburn, UC Davis)
+
+Text je odborná syntéza, nikoliv citace 1:1.
+
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+
+KB-POND-SP03 – V1  
+Určeno pro: Aquantis Knowledge Base  
+Použití: interní, diagnostické, návrhové

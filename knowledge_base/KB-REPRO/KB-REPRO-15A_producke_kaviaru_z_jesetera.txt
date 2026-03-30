@@ -1,0 +1,245 @@
+AQUANTIS – KNOWLEDGE BASE
+================================================
+KB-REPRO-15A – PRODUKCE KAVIÁRU Z JESETERŮ (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Reprodukce ryb
+Typ dokumentu: Technologický & produkční přehled
+Použití v Aquantis:
+- Strategické plánování chovu jeseterů
+- Diagnostika reprodukčních problémů
+- Welfare & biosecurity
+- Ekonomické úvahy (navázáno na KB26 – Ekonomika RAS)
+Vhodné pro RAG: Ano
+Verze: V1
+Rok: 2025
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument poskytuje odborný přehled produkce kaviáru z jeseterů
+v kontrolovaných systémech (RAS, průtočné farmy, rybníky).
+
+Zaměřuje se na:
+- biologické základy tvorby jiker,
+- technologie získávání kaviáru,
+- welfare ryb,
+- rizika a kritické body produkce,
+- rozdíly mezi tradičními a moderními metodami.
+
+Dokument je koncipován jako technologický a rozhodovací podklad,
+nikoli jako návod k nelegální nebo neetické produkci.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ BIOLOGIE TVORBY KAVIÁRU
+------------------------------------------------
+Kaviár = zralé neoplozené jikry samic jeseterů.
+
+Klíčové biologické aspekty:
+- Jeseteři dosahují pohlavní dospělosti pozdě:
+  - 6–8 let (např. sterlet),
+  - 10–15 let (Siberian sturgeon),
+  - 15–20+ let (Beluga).
+- Reprodukční cyklus je dlouhý (2–4 roky mezi ovulacemi).
+- Tvorba jiker je energeticky extrémně náročná.
+
+Kvalita kaviáru závisí na:
+- genetice,
+- věku ryby,
+- výživě,
+- kvalitě vody,
+- stresové zátěži během zrání.
+
+
+------------------------------------------------
+3. HLAVNÍ DRUHY JESETERŮ PRO KAVIÁR
+------------------------------------------------
+
+Nejčastěji využívané druhy:
+- Acipenser baerii (jeseter sibiřský) – nejrozšířenější v RAS
+- Acipenser gueldenstaedtii (jeseter ruský)
+- Huso huso (vyza velká) – extrémně dlouhý cyklus
+- Acipenser ruthenus (sterlet) – menší jikry, kratší cyklus
+- Hybridy (např. bester) – zkrácení produkční doby
+
+Poznámka:
+Hybridizace se používá ke zkrácení doby do první sklizně,
+ale může ovlivnit texturu a velikost jiker.
+
+
+------------------------------------------------
+4. SYSTÉMY PRO PRODUKCI KAVIÁRU
+------------------------------------------------
+
+Používané systémy:
+- RAS (dominantní v EU a Asii)
+- Průtočné systémy
+- Kombinace rybníků + finální RAS
+
+Požadavky systému:
+- velmi stabilní kvalita vody,
+- nízký stres,
+- nízká hustota obsádky,
+- možnost individuální manipulace s rybami.
+
+Typické parametry:
+- Teplota: 14–20 °C (dle druhu)
+- O₂: > 6 mg/l
+- NO₂: < 0.1 mg/l
+- NH₃: prakticky nulové
+- Minimální vibrace, hluk, manipulace
+
+
+------------------------------------------------
+5. METODY ZÍSKÁVÁNÍ KAVIÁRU
+------------------------------------------------
+
+5.1 Tradiční letální metoda
+- Usmrcení ryby
+- Vyjmutí gonád
+- Historicky nejrozšířenější metoda
+
+Nevýhody:
+- jednorázová produkce,
+- etické a legislativní omezení,
+- vysoké náklady na obnovu chovu.
+
+
+5.2 Neletální metody (moderní standard)
+- Císařský řez (chirurgický odběr)
+- Hormonálně řízená ovulace + stripping
+
+Výhody:
+- opakovaná produkce z jedné ryby,
+- vyšší welfare,
+- dlouhodobá ekonomická efektivita.
+
+Nevýhody:
+- vysoké nároky na know-how,
+- veterinární dohled,
+- vyšší CAPEX.
+
+
+------------------------------------------------
+6. ZRÁNÍ JIKER A STANOVENÍ SPRÁVNÉHO OKAMŽIKU
+------------------------------------------------
+
+Stanovení zralosti:
+- ultrazvuk,
+- biopsie jiker,
+- hormonální profil,
+- sledování indexu gonád (GSI).
+
+Chyby:
+- předčasný odběr → měkký kaviár,
+- pozdní odběr → ovulace, ztráta kvality.
+
+Správné načasování je jeden z nejkritičtějších faktorů úspěchu.
+
+
+------------------------------------------------
+7. ZPRACOVÁNÍ KAVIÁRU
+------------------------------------------------
+
+Základní kroky:
+1. Oddělení jiker od pojivové tkáně
+2. Promývání
+3. Solení (malossol typicky 3–5 %)
+4. Třídění podle velikosti a barvy
+5. Hygienické balení
+
+Kvalita kaviáru závisí na:
+- čistotě zpracování,
+- rychlosti procesu,
+- teplotě během manipulace.
+
+
+------------------------------------------------
+8. WELFARE A ETICKÉ ASPEKTY
+------------------------------------------------
+
+Klíčové zásady:
+- minimalizace stresu,
+- šetrná manipulace,
+- použití anestezie při neletálních metodách,
+- rychlá rekonvalescence ryb.
+
+Welfare přímo ovlivňuje:
+- kvalitu jiker,
+- mortalitu,
+- opakovatelnost produkce.
+
+
+------------------------------------------------
+9. RIZIKA A SELHÁNÍ PRODUKCE
+------------------------------------------------
+
+Nejčastější problémy:
+- stres → resorpce jiker,
+- kolaps biofiltru → toxické zatížení,
+- infekce po chirurgickém zákroku,
+- špatné načasování odběru.
+
+Prevence:
+- dlouhodobě stabilní provoz,
+- veterinární protokoly,
+- zkušený personál,
+- konzervativní produkční strategie.
+
+
+------------------------------------------------
+10. EKONOMICKÝ KONTEXT (STRUČNĚ)
+------------------------------------------------
+
+Charakteristika:
+- vysoký CAPEX,
+- dlouhá návratnost (8–15 let),
+- extrémní citlivost na chyby v managementu.
+
+Kaviár je:
+- vysoce hodnotný produkt,
+- ale s vysokým technologickým a biologickým rizikem.
+
+
+------------------------------------------------
+11. LEGISLATIVA A OBCHOD
+------------------------------------------------
+
+Klíčové rámce:
+- CITES – regulace obchodu s jesetery a kaviárem
+- povinné značení původu
+- sledovatelnost produkce
+
+Nelegální produkce:
+- vysoké sankce,
+- ztráta licence,
+- reputační riziko.
+
+
+------------------------------------------------
+12. ZDROJE (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+Tento dokument vychází ze syntézy otevřených a odborných zdrojů:
+- FAO Fisheries & Aquaculture Technical Papers (jeseteři, kaviár)
+- CITES guidelines for sturgeon aquaculture
+- European aquaculture research (RAS sturgeon production)
+- World Sturgeon Conservation Society (WSCS)
+- Peer-reviewed články (Aquaculture, Reviews in Aquaculture)
+- Univerzitní extension materiály (Auburn, UC Davis)
+
+Text je formulován nově a neobsahuje žádný převzatý chráněný obsah.
+
+
+------------------------------------------------
+13. VERZE DOKUMENTU
+------------------------------------------------
+KB-REPRO-15A – Produkce kaviáru z jeseterů
+Verze: V1
+Datum: 2025
+Stav: Schváleno pro Knowledge Base Aquantis

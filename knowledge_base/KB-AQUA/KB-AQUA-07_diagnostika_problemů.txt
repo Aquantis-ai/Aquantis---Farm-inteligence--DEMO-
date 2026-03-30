@@ -1,0 +1,261 @@
+KB-AQUA-07 – DIAGNOSTIKA PROBLÉMŮ V AKVÁRIU (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika
+Typ dokumentu: Diagnostický manuál
+Použití v Aquantis: Diagnostika, edukace, prevence chyb
+Vhodné pro RAG: Ano
+Verze: V1
+Datum: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument slouží jako praktický diagnostický nástroj pro identifikaci
+nejčastějších problémů v akváriích.
+
+Cíl:
+- propojit pozorovaný symptom s pravděpodobnou příčinou,
+- upozornit na typické chyby akvaristů,
+- navrhnout bezpečné a realistické kroky k nápravě,
+- zdůraznit prevenci místo „rychlých řešení“.
+
+Diagnostika je vždy založena na kombinaci:
+- chování ryb,
+- vzhledu ryb a prostředí,
+- kvality vody,
+- historie zásahů (krmení, výměny vody, nové ryby).
+
+
+------------------------------------------------
+2. ZÁKLADNÍ DIAGNOSTICKÝ PRINCIP
+------------------------------------------------
+
+Nikdy neexistuje jedna univerzální příčina.
+
+Postup diagnostiky:
+1. Co přesně pozoruji? (symptom)
+2. Jak dlouho to trvá?
+3. Co se změnilo v posledních 7–14 dnech?
+4. Jaké jsou aktuální parametry vody?
+5. Jaký je typ akvária (objem, osádka, filtrace)?
+
+Bez odpovědi na tyto otázky je jakýkoli zásah rizikový.
+
+
+------------------------------------------------
+3. TABULKA RYCHLÉ DIAGNOSTIKY
+------------------------------------------------
+
+SYMPTOM → PRAVDĚPODOBNÁ PŘÍČINA → TYPICKÁ CHYBA → ZÁKLADNÍ ŘEŠENÍ
+
+------------------------------------------------
+Ryby lapají po vzduchu u hladiny
+------------------------------------------------
+Příčina:
+- Nízký rozpuštěný kyslík
+- Přetížení biofiltru
+- Vysoká teplota
+
+Typická chyba:
+- Překrmení
+- Vypnutá aerace
+- Přerybnění
+
+Řešení:
+- Okamžitě zvýšit okysličení
+- Omezit krmení
+- Částečná výměna vody
+
+
+------------------------------------------------
+Zakalená voda (bílý / mléčný zákal)
+------------------------------------------------
+Příčina:
+- Bakteriální zákal (nové akvárium)
+- Kolaps dusíkatého cyklu
+
+Typická chyba:
+- Příliš rychlé zarybnění
+- Časté čištění filtru
+
+Řešení:
+- Nezasahovat panicky
+- Stabilizovat filtr
+- Kontrola NH₃ / NO₂
+
+
+------------------------------------------------
+Zelená voda / zelený zákal
+------------------------------------------------
+Příčina:
+- Přebytek živin
+- Nadměrné světlo
+
+Typická chyba:
+- Dlouhá doba svícení
+- Překrmování
+
+Řešení:
+- Zkrátit světelný režim
+- Výměny vody
+- Zvážit UV filtr
+
+
+------------------------------------------------
+Ryby jsou apatické, stojí u dna
+------------------------------------------------
+Příčina:
+- Chronický stres
+- Špatná kvalita vody
+- Nevhodná teplota
+
+Typická chyba:
+- Ignorování měření
+- Náhlé změny parametrů
+
+Řešení:
+- Zkontrolovat pH, NH₃, NO₂, teplotu
+- Stabilizace podmínek
+
+
+------------------------------------------------
+Tření o dekorace („flashing“)
+------------------------------------------------
+Příčina:
+- Paraziti
+- Dráždivé látky ve vodě (NH₃, NO₂)
+
+Typická chyba:
+- Okamžité použití léčiv bez diagnózy
+
+Řešení:
+- Test vody
+- Pozorování dalších symptomů
+- Karanténa, ne plošná léčba
+
+
+------------------------------------------------
+Rozpad ploutví
+------------------------------------------------
+Příčina:
+- Špatná kvalita vody
+- Sekundární bakteriální infekce
+
+Typická chyba:
+- Léčba bez odstranění příčiny
+
+Řešení:
+- Zlepšení kvality vody
+- Snížení stresu
+- Léčba až jako poslední krok
+
+
+------------------------------------------------
+4. PROBLÉMY S FILTRACÍ
+------------------------------------------------
+
+Typické projevy:
+- Zápach po síře
+- Náhlý nárůst NH₃ / NO₂
+- Zakalení po čištění filtru
+
+Příčiny:
+- Příliš časté čištění
+- Čištění v chlorované vodě
+- Nedostatečný objem filtrační hmoty
+
+Zásada:
+Filtr se nikdy nečistí „do čista“.
+
+
+------------------------------------------------
+5. PROBLÉMY S KRME NÍM
+------------------------------------------------
+
+Projevy:
+- Zhoršení kvality vody
+- Obezita ryb
+- Zvýšená mortalita
+
+Typické chyby:
+- Krmení „pro radost“
+- Nevhodná velikost krmiva
+- Krmení bez ohledu na teplotu
+
+Zásada:
+Méně je téměř vždy lépe než více.
+
+
+------------------------------------------------
+6. PROBLÉMY PO ZÁSAZÍCH DO AKVÁRIA
+------------------------------------------------
+
+Rizikové zásahy:
+- Velké výměny vody (>50 %)
+- Náhlá změna dekorací
+- Přidání většího počtu ryb
+
+Možné následky:
+- Stres
+- Kolaps biofiltru
+- Výkyvy pH
+
+Prevence:
+- Postupné změny
+- Monitorování po zásahu 48–72 h
+
+
+------------------------------------------------
+7. KDY NEZASAHOVAT
+------------------------------------------------
+
+Ne každý problém vyžaduje okamžité řešení.
+
+Nezasahovat, pokud:
+- parametry vody jsou stabilní,
+- ryby se chovají normálně,
+- problém se nezhoršuje.
+
+Panika je častější příčinou úhynů než samotný problém.
+
+
+------------------------------------------------
+8. KDY ZVAŽOVAT ODBORNÝ ZÁSAH
+------------------------------------------------
+
+- Opakované úhyny
+- Rychlé šíření symptomů
+- Kombinace více problémů
+- Neznámé nebo nejednoznačné projevy
+
+Vždy:
+Nejdříve stabilizuj prostředí, teprve potom řeš patogeny.
+
+
+------------------------------------------------
+9. ZDROJE A ODBORNÁ VÝCHODISKA
+------------------------------------------------
+
+Tento dokument vychází z odborné syntézy a praxe:
+- FAO & WorldFish – obecné principy kvality vody
+- Boyd, C.E. – Water Quality Management
+- University extension materials (UF/IFAS, Texas A&M)
+- Practical Aquarium Fish Health Management (open access)
+- Dlouhodobé best practices akvaristiky
+
+Text je plně parafrázovaný a právně bezpečný.
+
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-07 – Diagnostika problémů v akváriu
+Verze: V1
+Určeno pro: Aquantis Knowledge Base
+------------------------------------------------

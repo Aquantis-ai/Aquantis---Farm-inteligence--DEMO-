@@ -1,0 +1,204 @@
+KB-AQUA-COLDWATER-02 – ZLATÉ RYBKY (Carassius auratus)
+====================================================
+
+----------------------------------------------------
+METADATA
+----------------------------------------------------
+KB oblast: Akvaristika – studenovodní systémy
+Typ dokumentu: Species Profile / Coldwater Aquarium
+Použití v Aquantis: Diagnostika, návrh nádrže, welfare, prevence chyb
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+----------------------------------------------------
+1. ÚVOD A BIOLOGICKÝ KONTEXT
+----------------------------------------------------
+
+Zlatá rybka (Carassius auratus) je domestikovaná forma karase stříbřitého,
+pocházející z východní Asie. Patří mezi nejdéle chované okrasné ryby na světě.
+
+Navzdory rozšířenému vnímání jako „nenáročné ryby pro začátečníky“ jde o druh
+s vysokou produkcí odpadu, dlouhověkostí a výraznými nároky na prostor,
+kvalitu vody a stabilitu prostředí.
+
+Při správných podmínkách se dožívá:
+- běžně 15–20 let
+- výjimečně přes 30 let
+
+----------------------------------------------------
+2. ČASTÉ MÝTY VS. REALITA
+----------------------------------------------------
+
+MÝTUS: Zlatá rybka patří do malé koule.
+REALITA: Koule je biologicky nevyhovující – bez filtrace, kyslíku a objemu.
+
+MÝTUS: Zlaté rybky jsou „low maintenance“.
+REALITA: Produkují více odpadu než většina tropických ryb.
+
+MÝTUS: Studená voda = žádná filtrace.
+REALITA: Filtrace je klíčová, často ještě důležitější než u tropických akvárií.
+
+----------------------------------------------------
+3. TEPLOTA A METABOLISMUS
+----------------------------------------------------
+
+Optimální teplotní rozsah:
+- 16–22 °C (ideál)
+- krátkodobě snesou 4–28 °C
+- dlouhodobě nevhodné: >24 °C
+
+Vliv teploty:
+- vyšší teplota → rychlejší metabolismus → více odpadu
+- vyšší teplota → vyšší spotřeba O₂
+- kombinace teplo + nízký O₂ = častá příčina úhynů
+
+Zlaté rybky nejsou tropické ryby a neměly by být trvale drženy v tropických teplotách.
+
+----------------------------------------------------
+4. KVALITA VODY – KLÍČOVÉ PARAMETRY
+----------------------------------------------------
+
+pH:
+- ideál: 7.0–8.0
+- tolerance: 6.5–8.5
+
+Rozpuštěný kyslík (O₂):
+- ideál: >6 mg/l
+- citlivé na hypoxii zejména v létě
+
+Dusíkaté látky:
+- NH₃ (toxická frakce): <0.02 mg/l
+- TAN: <0.5 mg/l
+- NO₂⁻: ideálně 0 mg/l
+- NO₃⁻: <50 mg/l (dlouhodobě)
+
+Zlaté rybky jsou citlivé na chronicky zvýšené NO₃⁻ → zhoršení imunity, růstu a vitality.
+
+----------------------------------------------------
+5. BIOLOGICKÁ ZÁTĚŽ A PRODUKCE ODPADU
+----------------------------------------------------
+
+Zlaté rybky:
+- mají krátké střevo
+- produkují velké množství pevných i rozpuštěných exkrementů
+- silně zatěžují biologickou filtraci
+
+Praktický důsledek:
+- vyšší dimenzování filtru
+- častější údržba
+- pravidelné odkalení dna
+
+----------------------------------------------------
+6. MINIMÁLNÍ OBJEM A HUSTOTA
+----------------------------------------------------
+
+Doporučené minimum:
+- 1 zlatá rybka: 80–100 litrů
+- každá další ryba: +40–60 litrů
+
+Fancy variety (teleskopky, závojky):
+- nižší plavecká schopnost
+- citlivější na proudění
+- stále vysoká biologická zátěž
+
+Nevhodné:
+- přerybnění
+- malé nádrže
+- dlouhodobý chov v nádobách bez filtrace
+
+----------------------------------------------------
+7. FILTRACE A PROUDĚNÍ
+----------------------------------------------------
+
+Filtrace:
+- silná biologická filtrace (velká plocha média)
+- mechanická filtrace pro zachycení pevných částic
+
+Doporučení:
+- průtok filtru: 5–8× objem nádrže / hodinu
+- dostatečné okysličení výtoku
+
+Proudění:
+- střední
+- vyhnout se extrémním vírům (zejména u fancy variet)
+
+----------------------------------------------------
+8. KRMENÍ A VÝŽIVA
+----------------------------------------------------
+
+Zlaté rybky jsou všežravci s tendencí k obezitě.
+
+Zásady:
+- krmit střídmě
+- raději častěji malé dávky
+- nepřekrmovat „z lítosti“
+
+Vhodné složky:
+- kvalitní granule / pelety
+- rostlinná složka (špenát, hrášek)
+- omezeně bílkoviny
+
+Překrmování:
+- hlavní příčina zhoršení vody
+- častý spouštěč nemocí
+
+----------------------------------------------------
+9. ZDRAVOTNÍ PROBLÉMY A STRES
+----------------------------------------------------
+
+Časté problémy:
+- problémy s plovacím měchýřem
+- bakteriální infekce (Aeromonas)
+- parazitární onemocnění
+- poškození ploutví při špatné kvalitě vody
+
+Stresory:
+- kolísání teploty
+- nízký O₂
+- přerybnění
+- špatná kvalita vody
+
+----------------------------------------------------
+10. KOMPATIBILITA S JINÝMI DRUHY
+----------------------------------------------------
+
+Vhodní spolubydlící:
+- jiné zlaté rybky
+- některé studenovodní druhy (danio, některé střevle – s opatrností)
+
+Nevhodné:
+- tropické ryby
+- agresivní druhy
+- druhy vyžadující vyšší teplotu
+
+----------------------------------------------------
+11. ETIKA A WELFARE
+----------------------------------------------------
+
+Zlatá rybka je dlouhověká a inteligentní ryba s komplexním chováním.
+
+Základní welfare principy:
+- dostatek prostoru
+- stabilní voda
+- kvalitní filtrace
+- přirozené světlo / fotoperioda
+- minimalizace stresu
+
+Chov v kouli či malém objemu je z pohledu welfare neakceptovatelný.
+
+----------------------------------------------------
+12. ZDROJE A ODBORNÝ ZÁKLAD
+----------------------------------------------------
+
+Dokument vychází z odborně konsolidovaných poznatků z:
+- univerzitních extension materiálů (UK, USA)
+- akvaristických biologických studií
+- welfare doporučení (RSPCA, Ornamental Aquatic Trade Association)
+- obecných principů sladkovodní ekologie
+
+Text je formulován nově, parafrázovaně a je určen pro interní Knowledge Base Aquantis.
+
+----------------------------------------------------
+KONEC DOKUMENTU
+----------------------------------------------------

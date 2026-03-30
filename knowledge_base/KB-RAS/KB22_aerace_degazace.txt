@@ -1,0 +1,240 @@
+Aquantis_KB22_AERACE_A_DEGAZACE_V_RAS_V1
+================================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument popisuje kompletní principy aerace, okysličování, odstraňování CO₂,
+degazace, řízení saturace plynů a návrh technologických komponent v recirkulačních
+akvakulturních systémech (RAS).
+
+Vychází z best practices dle:
+- Timmons & Ebeling: Recirculating Aquaculture (RAS Engineering Principles),
+- FAO aquaculture manuals,
+- RAS design standards (EU & US),
+- Boyd, Tucker: Water Quality,
+- univerzitních aquaculture extension materiálů (Auburn, NC State, Texas A&M).
+
+Všechny formulace jsou přepracované do bezpečné podoby (bez kopírování originálních textů).
+
+
+------------------------------------------------
+1. ÚLOHA AERACE A DEGAZACE V RAS
+------------------------------------------------
+
+Hlavní funkce:
+1. Dodání kyslíku (O₂) pro ryby i biofiltr.
+2. Odstranění přebytečného CO₂ vzniklého dýcháním a nitrifikací.
+3. Stabilizace pH (CO₂ ovlivňuje koncentraci H₂CO₃ → acidifikace).
+4. Prevence saturace škodlivými plyny (N₂, H₂S).
+5. Zlepšení nitrifikační kapacity biofiltru.
+
+Bez dostatečné aerace a degazace dochází k:
+- acidifikaci vody,
+- snížené nitrifikaci,
+- hypoxii ryb,
+- stresu, vyšší mortalitě,
+- kolapsům biofiltru.
+
+
+------------------------------------------------
+2. CÍLOVÉ HODNOTY PRO O₂ A CO₂
+------------------------------------------------
+
+Rozpuštěný kyslík (DO):
+- Studenovodní druhy (pstruh, siven): 7–10 mg/l
+- Candát, okoun: 6–8 mg/l
+- Kapr, amur, tolstolobik: 5–7 mg/l
+- Tilapie: 4–6 mg/l
+- Sumci: 4–6 mg/l
+- Jeseteři: 6–8 mg/l
+
+CO₂ – doporučené limity:
+- Ideální: < 15 mg/l
+- Akceptovatelné: 15–20 mg/l
+- Problémové: > 20 mg/l
+- Kritické: > 30 mg/l (akutní stres, kolaps biofiltru, rychlá acidifikace)
+
+Poznámka: Nitrifikace produkuje značné množství CO₂. Bez degazace CO₂ se systém stává
+chronicky nestabilní.
+
+
+------------------------------------------------
+3. TYPY AERAČNÍCH A DEGASAČNÍCH SYSTÉMŮ
+------------------------------------------------
+
+1) **Vzduchovací kameny / difuzory**
+- levné, jednoduché,
+- vhodné spíše pro fish tanky a základní saturaci,
+- nízká účinnost přenosu O₂,
+- zvyšují CO₂ stripping jen minimálně.
+
+2) **Kaskádové provzdušňovače (cascade aerators)**
+- velmi efektivní pro degazaci CO₂,
+- zvyšují pH stabilitu, podporují nitrifikaci,
+- doporučeno pro většinu RAS.
+
+3) **Degazační kolonky (packed column degassers)**
+- nejúčinnější systém odstraňování CO₂,
+- používají se u středních a velkých RAS,
+- typická účinnost: 50–70 % odstranění CO₂ na jeden průchod.
+
+4) **O₂ injektory (low-pressure oxygen cones)**
+- slouží pro okysličení vody na vysoké hodnoty,
+- neodstraňují CO₂ → nutná kombinace s degazací.
+
+5) **Oxygenační věže / mikrobublinné systémy**
+- vysoká účinnost přenosu kyslíku,
+- používají se tam, kde není možné pracovat s vysokým tlakem.
+
+6) **Surface agitation (povrchové provzdušnění)**
+- zvýšení turbulence → zlepšení výměny plynů,
+- vhodné jako doplňkový prvek.
+
+
+------------------------------------------------
+4. NÁVRH A DIMENZOVÁNÍ DEGASU A AERACE
+------------------------------------------------
+
+4.1. Potřeba odstraňování CO₂  
+CO₂ produkce = dýchání ryb + nitrifikace.
+
+Hrubý model (RAS engineering principles):
+- Ryby: 1 kg biomasy → cca 200–300 mg CO₂ / hod
+- Nitrifikace: každé odstraněné 1 mg NH₄ → cca 1,0–1,2 mg CO₂
+
+Doporučení:
+- Degaser musí zvládnout min. 1,5–2,0× teoretickou CO₂ produkci.
+- Kaskádové degasery typicky odstraňují 20–40 % CO₂ / průchod.
+- Packed columns odstraňují 50–70 % / průchod.
+
+4.2. Potřeba aerace (O₂)  
+O₂ spotřeba:
+- Ryby: 200–500 mg O₂ / kg biomasy / hod
+- Biofiltr: 4,6–5,5 mg O₂ na 1 mg nitrifikovaného amoniaku
+
+Oxygenační systémy se navrhují tak, aby:
+- DO nikdy neklesl pod limit,
+- byl k dispozici O₂ pro pík krmení,
+- byl pokryt O₂ pro biofiltr i fish tanks.
+
+4.3. Poměr mezi aerací a degazací  
+- Aerace dodává O₂, jen minimálně odstraňuje CO₂.
+- Degazace odstraňuje CO₂, nedodává O₂.
+
+⇒ Proto musí být **vždy instalovány oba systémy**.
+
+
+------------------------------------------------
+5. ŘÍZENÍ SATURACE PLYNŮ (GAS SUPERSATURATION)
+------------------------------------------------
+
+Nebezpečná je především supersaturace N₂:
+- > 103–105 % → riziko gas bubble disease
+- > 110 % → akutní ohrožení
+
+Kontrola:
+- měření celkové saturace plynů (TGP meter),
+- dobrá degazace,
+- žádné netěsnosti na tlakové straně pump.
+
+Prevence:
+- degasace před vstupem vody do tanků,
+- nepřetlakovat okruh nad doporučené hodnoty.
+
+
+------------------------------------------------
+6. UMÍSTĚNÍ AERACE A DEGAZACE V TECHNOLOGICKÉM TOKU
+------------------------------------------------
+
+Doporučené pořadí v RAS:
+1. Fish tank → mechanická filtrace  
+2. Biofiltr  
+3. Degaser → stabilizace CO₂  
+4. Oxygenační zóna / O₂ injekce  
+5. Distribution manifold → zpět do tanků
+
+Výhody:
+- odstranění CO₂ zvyšuje pH v biofiltru,
+- zvýšení O₂ před vstupem do fish tanků zvyšuje výkon ryb,
+- systém je stabilnější při krmení nebo stresových špičkách.
+
+
+------------------------------------------------
+7. KONTROLA A ÚDRŽBA AERAČNÍCH A DEGASAČNÍCH SYSTÉMŮ
+------------------------------------------------
+
+Týdenní kontrola:
+- sedimenty v kaskádách / kolonách,
+- průtoky a tlak u O₂ injektorů,
+- zanesení difuzorů (výměna každých 3–6 měsíců),
+- stabilita DO a CO₂ na vstupu do tanků.
+
+Měsíční kontrola:
+- účinnost degazace (CO₂ vstup / výstup),
+- ztráty tlakem v oxygenačních systémech,
+- celková saturace plynů (TGP).
+
+Roční údržba:
+- kompletní čištění kolon, kaskád,
+- výměna membrán difuzorů,
+- testování O₂ injektorů a měřicí techniky.
+
+
+------------------------------------------------
+8. RYCHLÁ DIAGNOSTIKA PROBLÉMŮ
+------------------------------------------------
+
+1) Nízký O₂:
+- zkontrolovat průtok O₂,
+- zkontrolovat zanesení difuzorů,
+- zvýšit průtok, zvýšit aeraci,
+- zkontrolovat spotřebu O₂ biofiltrem.
+
+2) Vysoký CO₂:
+- nedostatečná degazace → zvýšit průtok přes degaser,
+- zkontrolovat kaskády a kolonky,
+- zvýšit turbulenci vody,
+- provést částečnou výměnu vody.
+
+3) Gas bubble disease (bubliny pod kůží ryb):
+- okamžitě snížit tlak,
+- zvýšit degazaci,
+- zkontrolovat pumpy a netěsnosti,
+- zkontrolovat saturaci N₂.
+
+4) Nestabilní pH:
+- vysoké CO₂ → slabá degazace,
+- nízká alkalita,
+- vysoká nitrifikační aktivita.
+
+
+------------------------------------------------
+9. REAL-CASE SCÉNÁŘE (Z JAKÉ PRAXE VYCHÁZÍ)
+------------------------------------------------
+
+Scénář A – Velké kolísání pH po krmení  
+→ Nedostatečná degazace, vysoká produkce CO₂ při nitrifikaci.
+
+Scénář B – Ryby se drží u hladiny při vysokém DO  
+→ CO₂ je vysoké → akutní acidifikace → stres.
+
+Scénář C – Pomalý růst navzdory dobrému DO  
+→ chronicky zvýšené CO₂ → zhoršená ventilace ryb → snížené FCR.
+
+Scénář D – Opakované kolapsy biofiltru  
+→ vysoké CO₂ snižuje pH → inhibice nitrifikačních bakterií.
+
+Scénář E – Gas supersaturation  
+→ nesprávné zapojení O₂ injektorů a nedostatečná degazace.
+
+Všechny scénáře jsou syntézou zkušeností z RAS studií, EU provozů a univerzitních experimentů.
+
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB22 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)
+
+================================================

@@ -1,0 +1,231 @@
+KB-AQUA-COLDWATER-13 – MIKROFAUNA & BEZOBRATLÍ VE STUDENOVODNÍCH AKVÁRIÍCH (V1)
+============================================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – studenovodní systémy
+Typ dokumentu: Ekologie / diagnostika
+Použití v Aquantis: Diagnostika, stabilita systému, interpretace nálezů
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+Zdroje (syntéza, parafráze):
+- FAO – Freshwater ecology
+- University Extension (pond & coldwater systems)
+- Limnology textbooks (freshwater invertebrates)
+- Akvaristická praxe EU / UK (coldwater aquaria)
+
+
+------------------------------------------------
+1. ROLE MIKROFAUNY VE STUDENOVODNÍM AKVÁRIU
+------------------------------------------------
+
+Mikrofauna a drobní bezobratlí jsou:
+- přirozenou součástí biologického systému,
+- indikátorem kvality vody a organického zatížení,
+- důležitým článkem rozkladu organické hmoty.
+
+Jejich přítomnost:
+✔ neznamená automaticky problém,
+❌ ale jejich přemnožení často signalizuje chybu chovu.
+
+
+------------------------------------------------
+2. CO JE MIKROFAUNA
+------------------------------------------------
+
+Mikrofauna zahrnuje:
+- mikroskopické a drobné mnohobuněčné organismy,
+- prvoky, drobné korýše, červy,
+- larvální stádia bezobratlých.
+
+Ve studenovodních akváriích se rozvíjí pomaleji
+než v tropických, ale je stabilnější.
+
+
+------------------------------------------------
+3. HLAVNÍ SKUPINY MIKROFAUNY
+------------------------------------------------
+
+------------------------------------------------
+3.1 Prvoci (Protozoa)
+------------------------------------------------
+Příklady:
+- nálevníci,
+- bičíkovci.
+
+Role:
+- rozklad bakterií,
+- součást biofilmu.
+
+Diagnostický význam:
+- masový výskyt → vysoká organická zátěž.
+
+
+------------------------------------------------
+3.2 Drobní korýši
+------------------------------------------------
+Příklady:
+- Cyclops (buchanky),
+- Daphnia (dafnie – spíše ve větších nádržích),
+- ostrakodi.
+
+Role:
+- filtrují vodu,
+- konzumují bakterie a řasy.
+
+Poznámka:
+Ve studenovodních systémech často stabilizační prvek.
+
+
+------------------------------------------------
+3.3 Hlístice a drobní červi
+------------------------------------------------
+Příklady:
+- detritičtí červi,
+- planárie (ploché červy).
+
+Role:
+- rozklad organického odpadu.
+
+Diagnostický význam:
+- přemnožení = překrmování / detrit.
+
+
+------------------------------------------------
+3.4 Plži (šneci)
+------------------------------------------------
+Příklady:
+- okružák (Planorbarius),
+- levatka (Physa),
+- plovatka (Lymnaea).
+
+Role:
+- konzumace řas a detritu,
+- indikátory přebytku živin.
+
+Pozor:
+Masový výskyt není příčina, ale důsledek.
+
+
+------------------------------------------------
+4. POZITIVNÍ ROLE BEZOBRATLÝCH
+------------------------------------------------
+
+✔ stabilizace biologického systému  
+✔ rozklad detritu  
+✔ omezení bakteriálních zákalů  
+✔ přirozený zdroj potravy (zejména pro malé ryby)  
+✔ indikace dlouhodobého stavu akvária  
+
+
+------------------------------------------------
+5. NEGATIVNÍ SCÉNÁŘE A RIZIKA
+------------------------------------------------
+
+5.1 Přemnožení mikrofauny
+- signalizuje vysoký bioload,
+- často doprovází zákal vody.
+
+5.2 Planárie
+- indikují nadbytek bílkovinného krmiva,
+- mohou poškozovat jikry.
+
+5.3 Nevhodné bezobratlé
+- některé larvy hmyzu mohou predovat potěr,
+- zavlečení z venkovních zdrojů.
+
+
+------------------------------------------------
+6. MIKROFAUNA JAKO DIAGNOSTICKÝ NÁSTROJ
+------------------------------------------------
+
+Co říká výskyt mikrofauny:
+
+- málo mikrofauny → velmi čistý, „sterilní“ systém
+- vyvážená mikrofauna → stabilní nádrž
+- exploze mikrofauny → přetížení, překrmování
+
+Aquantis by měl:
+- neoznačovat mikrofaunu automaticky za problém,
+- hodnotit ji v kontextu dalších symptomů.
+
+
+------------------------------------------------
+7. VZTAH K BIOLOAD A FILTRACI
+------------------------------------------------
+
+Mikrofauna:
+- se množí při nadbytku organiky,
+- klesá při silné filtraci a nízkém krmení.
+
+Přehnané zásahy:
+- vysávání všeho detritu,
+- sterilizace filtru,
+→ destabilizují systém více než mikrofauna sama.
+
+
+------------------------------------------------
+8. INTERAKCE SE STUDENOVODNÍMI RYBAMI
+------------------------------------------------
+
+Zlaté rybky:
+- mikrofaunu často konzumují,
+- přesto ji díky bioloadu podporují.
+
+Malé kaprovité ryby:
+- využívají mikrofaunu jako potravu,
+- vhodné do biotopních nádrží.
+
+
+------------------------------------------------
+9. KDY ZASAHOVAT A KDY NE
+------------------------------------------------
+
+NEZASAHOVAT, pokud:
+- ryby jsou zdravé,
+- voda je čirá,
+- mikrofauna je stabilní.
+
+ZASAHOVAT, pokud:
+- zákal,
+- zápach,
+- souběh s jinými symptomy.
+
+Zásah = úprava krmení, údržby, filtrace
+(ne chemické přípravky).
+
+
+------------------------------------------------
+10. ČASTÉ CHYBY CHOVATELŮ
+------------------------------------------------
+
+- panika při objevení mikrofauny,
+- používání chemie místo úpravy režimu,
+- sterilní přístup k biologii akvária,
+- zaměňování indikátoru za příčinu.
+
+
+------------------------------------------------
+11. SHRNUTÍ PRO AQUANTIS
+------------------------------------------------
+
+Mikrofauna:
+- je normální a žádoucí součást studenovodních akvárií,
+- slouží jako ekologický a diagnostický indikátor,
+- pomáhá interpretovat bioload a stabilitu systému.
+
+Aquantis by měl:
+- vysvětlovat její roli,
+- uklidňovat uživatele,
+- vést ke korekci chovu, ne k chemii.
+
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-COLDWATER-13 – V1
+Určeno pro: Aquantis Knowledge Base
+Interní použití

@@ -1,0 +1,209 @@
+KB-AQUA-02_AKVARIJNÍ_VODA_A_JEJÍ_CHEMIE_V1
+=================================================
+
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika
+Typ dokumentu: Technický / edukační
+Použití v Aquantis: Diagnostika, doporučení, prevence chyb
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+
+Tento dokument shrnuje klíčové chemické vlastnosti akvarijní vody,
+které přímo ovlivňují:
+
+- zdraví ryb a bezobratlých,
+- stabilitu biologické filtrace,
+- růst rostlin,
+- toxicitu dusíkatých látek,
+- dlouhodobou stabilitu akvária.
+
+Dokument je formulován obecně tak, aby byl použitelný
+pro sladkovodní akvária všech typů (community, biotopní, rostlinná,
+cichlidová, studenovodní).
+
+Neobsahuje žádný text převzatý 1:1 z odborných zdrojů.
+
+
+------------------------------------------------
+2. pH – AKTIVNÍ REAKCE VODY
+------------------------------------------------
+
+pH určuje kyselost nebo zásaditost vody
+a je jedním z nejdůležitějších parametrů akvária.
+
+Rozsah:
+- pH 7.0 = neutrální
+- pH < 7.0 = kyselé
+- pH > 7.0 = zásadité
+
+Obecná doporučení:
+- většina tropických ryb: pH 6.0–7.5
+- živorodky a africké cichlidy: pH 7.5–8.5
+- studenovodní ryby: pH 6.5–8.0
+
+Rizika:
+- náhlé změny pH jsou nebezpečnější než „neideální“ stabilní hodnota
+- nízké pH → stres, inhibice nitrifikace
+- vysoké pH → zvýšení toxické frakce NH₃
+
+Denní cyklus:
+- pH kolísá vlivem fotosyntézy (nižší ráno, vyšší večer)
+
+
+------------------------------------------------
+3. GH – CELKOVÁ TVRDOST
+------------------------------------------------
+
+GH (General Hardness) vyjadřuje koncentraci
+vápenatých (Ca²⁺) a hořečnatých (Mg²⁺) iontů.
+
+Jednotky:
+- °dGH (německé stupně)
+
+Orientační rozsahy:
+- velmi měkká voda: < 4 °dGH
+- střední tvrdost: 6–12 °dGH
+- tvrdá voda: > 15 °dGH
+
+Význam:
+- ovlivňuje osmoregulaci ryb
+- důležitá pro vývoj kostry, šupin a jiker
+- některé druhy (živorodky, africké cichlidy)
+  vyžadují vyšší GH
+
+Nízká GH:
+- problémy s vývojem jiker
+- slabší vitalita ryb
+
+Vysoká GH:
+- nevhodná pro měkkovodní druhy
+- omezuje některé rostliny
+
+
+------------------------------------------------
+4. KH – UHLIČITANOVÁ TVRDOST (PUFR pH)
+------------------------------------------------
+
+KH (Carbonate Hardness) určuje pufrační schopnost vody,
+tedy schopnost stabilizovat pH.
+
+Jednotky:
+- °dKH
+
+Doporučené hodnoty:
+- minimum pro stabilitu: 3–4 °dKH
+- běžná akvária: 4–8 °dKH
+- africké cichlidy: 8–12 °dKH
+
+Význam:
+- chrání před náhlými výkyvy pH
+- klíčová pro stabilní nitrifikaci
+- nízká KH = riziko pH kolapsu
+
+Poznámka:
+- nitrifikace spotřebovává alkalitu
+- dlouhodobě zaběhlá akvária mají tendenci ke snižování KH
+
+
+------------------------------------------------
+5. CO₂ – OXID UHLIČITÝ
+------------------------------------------------
+
+CO₂ je přirozenou součástí akvarijní vody
+a klíčovým prvkem pro rostliny.
+
+Zdroje CO₂:
+- dýchání ryb a bakterií
+- rozklad organické hmoty
+- externí CO₂ systémy
+
+Orientační koncentrace:
+- bez přidávání: 2–5 mg/l
+- rostlinná akvária: 15–30 mg/l
+
+Rizika:
+- vysoké CO₂ → dušení ryb
+- nízké O₂ při špatné cirkulaci
+
+Interakce:
+- CO₂ snižuje pH
+- vztah pH–KH–CO₂ je klíčový pro stabilitu systému
+
+
+------------------------------------------------
+6. VZÁJEMNÉ VZTAHY PARAMETRŮ
+------------------------------------------------
+
+Základní vazby:
+- vyšší KH → stabilnější pH
+- vyšší teplota → vyšší toxicita NH₃
+- CO₂ ↓ pH
+- nitrifikace ↓ KH
+
+Častá chyba:
+- úprava pH bez řešení KH
+- prudké změny pomocí chemie místo postupných úprav
+
+
+------------------------------------------------
+7. ÚPRAVA VODY V AKVARISTICE
+------------------------------------------------
+
+Běžné metody:
+- míchání vod (vodovodní + RO)
+- filtrace přes rašelinu
+- minerální doplňky
+- výměny vody
+
+Zásady:
+- vždy postupně
+- sledovat reakce ryb
+- stabilita > ideální číslo
+
+
+------------------------------------------------
+8. TYPICKÉ PROBLÉMY A DIAGNOSTIKA
+------------------------------------------------
+
+Nízké pH:
+- přerybnění
+- vysoké organické zatížení
+- nízká KH
+
+Nestabilní pH:
+- slabá pufrační kapacita
+- nepravidelné výměny vody
+
+Vysoká tvrdost:
+- tvrdá vstupní voda
+- nevhodná dekorace (vápenec)
+
+
+------------------------------------------------
+9. ODBORNÉ ZDROJE (PARAFRÁZOVÁNO)
+------------------------------------------------
+
+Dokument vychází ze syntézy:
+- univerzitních extension materiálů (chemie vody),
+- akvarijních standardů používaných v EU a USA,
+- otevřených článků o vodní chemii a nitrifikaci,
+- obecně uznávaných akvaristických best practices.
+
+Veškerý text je autorsky přeformulovaný
+a právně bezpečný pro použití v Aquantis.
+
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+
+KB-AQUA-02 – Akvarijní voda a její chemie  
+Verze: V1  
+Určeno pro: Aquantis Knowledge Base (interní použití)

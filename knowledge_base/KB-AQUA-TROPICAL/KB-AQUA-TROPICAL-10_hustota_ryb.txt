@@ -1,0 +1,254 @@
+Aquantis_KB-AQUA-TROPICAL-10_HUSTOTA_RYB_A_BIOLOAD_KALKULACE_(PRAKTICKÉ_MODELY)_V1
+=================================================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – Tropické akvárium
+Typ dokumentu: Technický manuál + výpočtové modely
+Použití v Aquantis: Návrh osádky, diagnostika přetížení, plán údržby, prevence nemocí
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2026-01
+Jazyk: Čeština
+Poznámka k právům: Dokument je původní syntéza (bez citací 1:1); číselná doporučení jsou orientační a vyžadují lokální ověření.
+
+------------------------------------------------
+1) CÍL DOKUMENTU
+------------------------------------------------
+Tento dokument dává praktický rámec, jak v tropickém akváriu:
+- odhadnout “biologické zatížení” (bioload),
+- nastavit bezpečnou hustotu ryb (stocking density),
+- vybrat vhodnou filtraci a údržbu,
+- a hlavně: jak se vyhnout typickému scénáři “přerybnění → stres → nemoc → kolaps kvality vody”.
+
+Základní princip: “Bezpečná osádka” není jedno číslo (např. cm ryby/l), ale kombinace:
+- produkce odpadu (NH3/TAN, fekálie, rozpuštěné organiky),
+- schopnosti systému odpad odbourat (biofiltr, výměny vody, rostliny),
+- schopnosti systému odpad odstranit fyzicky (mechanická filtrace, odkalování),
+- a rychlosti, jakou se odpad hromadí mezi údržbami.
+
+------------------------------------------------
+2) PROČ NEFUNGUJE JEDNODUCHÉ PRAVIDLO “CM RYBY NA LITR”
+------------------------------------------------
+Pravidlo “1 cm ryby na 1 litr” (nebo variace) je zavádějící, protože:
+- 1× 10 cm ryba ≠ 10× 1 cm ryba (metabolismus, povrch žaber, způsob krmení, exkrementy),
+- druhy se liší aktivitou (tetry vs. cichlidy), teritorialitou, potravním chováním,
+- filtrace a údržba se liší o řády (sump, kanystrový filtr, rostlinné akvárium, holá nádrž),
+- teplota a krmení zásadně zvyšují metabolismus (tropické nádrže jsou citlivější než studené),
+- “bioload” je často limitovaný kyslíkem v biofiltru a stabilitou pH/KH.
+
+Lepší přístup: používat 3 vrstvy modelování:
+A) hrubý bezpečnostní odhad (rychlá kontrola),
+B) “krmivo → dusík → kapacita biofiltru” (realističtější),
+C) provozní model s údržbou + rezervou (nejlepší pro praxi).
+
+------------------------------------------------
+3) DEFINICE: CO JE BIOLOAD (PRAKTICKY)
+------------------------------------------------
+V praxi rozlišuj 3 typy zátěže:
+
+(1) Dusíkatá zátěž (N-load)
+- vzniká hlavně z krmiva (bílkoviny) a metabolismu,
+- projevuje se: NH3/NH4 (TAN) → NO2 → NO3.
+
+(2) Organická zátěž (DOC/POC)
+- rozpuštěná organika + jemné částice (fekálie, prach z krmiva, biofilm),
+- projevuje se: zákal, zápach, pěnění, biofilm, zvýšené BOD/COD,
+- často spouští bakteriální problémy a stres (aeromonády, plísně, “šedé slizování”).
+
+(3) Respirační zátěž (O2/CO2)
+- ryby + bakterie spotřebují O2 a produkují CO2,
+- v tropických nádržích je O2 dostupnost nižší (teplejší voda → méně O2).
+
+Nejčastější kolapsy v akvaristice jsou kombinace (1)+(2) s nedostatečným O2 v biofiltru.
+
+------------------------------------------------
+4) ZÁKLADNÍ “RISK INDEX” PŘERYBNĚNÍ (RYCHLÁ KONTROLA)
+------------------------------------------------
+Použij rychlou tabulku rizika. Pokud máš 2+ položky v “vysoké”, jsi blízko problémů.
+
+VYSOKÉ RIZIKO:
+- krmení 2–4× denně + “hodně zůstává na dně”,
+- NO3 stabilně > 50 mg/l bez rostlin,
+- NO2 detekovatelné (i malé),
+- “rychlé dýchání” ryb ráno nebo po zhasnutí,
+- časté zákaly, sliz, pěna, biofilm na hladině,
+- údržba filtru “až když se ucpe”,
+- malý objem filtrační hmoty / malý průtok,
+- velké ryby nebo cichlidy v malém objemu,
+- vysoká teplota (26–30 °C) + málo pohybu hladiny.
+
+STŘEDNÍ RIZIKO:
+- NO3 25–50 mg/l,
+- krmení 1–2× denně,
+- filtr čištěn nepravidelně, ale ne “zanedbaně”,
+- občasný zákal nebo řasy,
+- mírné výkyvy pH (např. 6.6–7.4).
+
+NÍZKÉ RIZIKO:
+- NO3 < 25 mg/l (bez “agresivních” výměn),
+- žádné NO2,
+- stabilní pH/KH, čistá voda bez zápachu,
+- filtr je dimenzovaný s rezervou, údržba pravidelná,
+- rozumná osádka + dostatek kyslíku.
+
+------------------------------------------------
+5) MODEL A: HRUBÝ ODHAD “OSÁDKA PODLE OBJEMU” (ORIENTAČNĚ)
+------------------------------------------------
+Tento model je orientační a funguje nejlépe pro “běžné komunitní” tropické akvárium (tetry, živorodky, malé sumce).
+
+A1) Komunitní tropické (tetry/živorodky, 24–27 °C)
+- nízké zatížení: 0.5–1.0 g ryb / litr
+- střední zatížení: 1.0–2.0 g ryb / litr
+- vyšší zatížení (jen s dobrou filtrací): 2.0–3.0 g ryb / litr
+
+Poznámky:
+- “g ryb” je hmotnost. Pokud ji neznáš, použij aproximaci:
+  hmotnost (g) ≈ 0.01 × délka(cm)^3  (pouze orientačně pro malé ryby).
+  Příklad: 5 cm rybka → 0.01×125 = 1.25 g.
+
+A2) Cichlidy (teritoriální, vyšší krmení, vyšší odpad)
+- bezpečnější je být spíše v nižších pásmech (0.5–1.5 g/l),
+- agresivní krmení a boj zvyšují stres → nemoc se objeví dřív než “měřitelné NO2”.
+
+A3) “Rostlinné” akvárium (hodně rostlin, CO2, pravidelná údržba)
+- může tolerovat vyšší NO3 (např. 20–50 mg/l), ale:
+  CO2 zvyšuje riziko při chybách (přidání CO2 + vysoký bioload → noční hypoxie).
+- osádku navrhuj konzervativně, dokud nemáš stabilitu.
+
+------------------------------------------------
+6) MODEL B: “KRMIVO → TAN → BIOFILTR” (PRAKTICKÉ JÁDRO)
+------------------------------------------------
+Nejlepší praktický model: krmivo je zdroj N. Když znáš krmivo, umíš odhadnout zátěž.
+
+B1) Odhad TAN z krmiva (orientačně)
+- Zjednodušeně: 1 g krmiva vyprodukuje cca 0.03–0.05 g TAN (NH3+NH4) v systému.
+  (Rozptyl podle bílkovin, stravitelnosti, teploty.)
+
+Praktický “rychlý” výpočet:
+TAN_g_den ≈ krmivo_g_den × 0.04
+
+Příklad:
+- krmíš 5 g/den → TAN ≈ 0.2 g/den.
+
+B2) Co z toho plyne pro akvárium?
+Biofiltr musí “zvládnout” oxidovat TAN na NO3 bez NO2 špiček.
+
+Indikátor, že nitrifikace nestíhá:
+- měřitelné NO2,
+- TAN měřitelný mimo “stopu”,
+- kolísání pH (při nízké KH) + náhlý pokles stability.
+
+B3) Kapacita biofiltru (praktická logika)
+V akvaristice není snadné počítat plochu médií přesně, proto použij “rezervní pravidlo”:
+- Pokud zvýšíš krmení o 50 %, očekávej potřebu:
+  - větší objem biologického média,
+  - vyšší průtok,
+  - a vyšší kyslík v biofiltru.
+
+Pravidlo pro praxi:
+- Biofiltr a průtok dimenzuj tak, aby při běžném krmení byl NO2 = 0
+  a měl “rezervu” pro nemoc, přerybnění nebo teplotní změny.
+
+------------------------------------------------
+7) MODEL C: PROVOZNÍ MODEL (ÚDRŽBA, VÝMĚNY VODY, REZERVA)
+------------------------------------------------
+C1) NO3 jako “integrovaný ukazatel”
+NO3 obvykle roste jako výsledek nitrifikace. Je to vhodný ukazatel dlouhodobé zátěže.
+
+Zjednodušený provozní přístup:
+- Změř NO3 dnes.
+- Změř NO3 za týden při stejném krmení a stejné údržbě.
+- Rozdíl = akumulace.
+- Podle toho nastav výměny vody / osádku.
+
+C2) Praktický výpočet výměny vody podle cílového NO3
+Pokud chceš udržet NO3 pod cílem, použij zjednodušené pravidlo:
+Po výměně části vody se NO3 sníží přibližně o stejný podíl.
+
+Příklad:
+- NO3 = 60 mg/l, chceš 30 mg/l → potřebuješ cca 50% výměnu.
+- V praxi raději 2× 25% než 1× 50% (menší stres, stabilnější parametry).
+
+C3) Rezerva
+Bezpečný provoz má vždy rezervu:
+- filtrace: “zvládne” i pár dnů bez údržby,
+- nitrifikace: ustojí zvýšené krmení nebo krátký stres,
+- kyslík: vydrží i v noci / při vyšší teplotě.
+
+------------------------------------------------
+8) PRAKTICKÉ BIOLOAD MODELY PRO BĚŽNÉ SITUACE
+------------------------------------------------
+Níže jsou orientační “provozní profily” – nejsou to normy, ale šablony:
+
+(1) “Community 100 L” (tetry + pancéřníčci)
+- krmení: 1× denně malé dávky
+- filtr: kvalitní biomédium + průtok alespoň několik objemů nádrže/h
+- cíle: NO2 = 0; NO3 10–40; stabilní pH/KH
+- údržba: výměna 20–30% týdně + odkal
+
+(2) “Cichlid tank 200 L”
+- krmení: opatrně; vysoké bílkoviny → rychlý N-load
+- filtr: předimenzovat, mechanická filtrace důležitá
+- cíle: NO2 = 0; NO3 spíše níž (častější výměny)
+- údržba: častější odkal + kontrola agresivity/stresu
+
+(3) “Rostlinné akvárium s CO2”
+- výhodou je odběr NO3 rostlinami,
+- riziko je noční hypoxie + nestabilní CO2/pH
+- důraz: proudění, pohyb hladiny, stabilní CO2 a údržba
+
+------------------------------------------------
+9) TYPICKÉ CHYBY, KTERÉ DĚLAJÍ Z “OK OSÁDKY” PROBLÉM
+------------------------------------------------
+- Náhlé přidání velké části osádky (“přerybnění přes noc”) → biofiltr nestíhá.
+- Překrmování “protože ryby žerou” → NO2, organika, bakteriální tlak.
+- Čištění biofiltru v chlorované vodě → kolaps nitrifikace.
+- Nedostatek KH (nízké pufrování) → pH swing → nitrifikace padá.
+- CO2 bez kontroly v noci → hypoxie.
+- Pomalý průtok přes filtr (ucpaný filtr) → anaerobní kapsy, zápach, kolísání.
+
+------------------------------------------------
+10) PRAKTICKÁ “BUDGET” KALKULAČKA PRO AQUANTIS (V1)
+------------------------------------------------
+Aquantis může použít jednoduchý vstupní formulář:
+- objem nádrže (L),
+- teplota (°C),
+- typ osádky (community / cichlids / mixed / planted+CO2),
+- počet ryb + průměrná velikost,
+- frekvence krmení a hrubé množství (g/den),
+- typ filtrace (interní / kanystrový / sump) + hrubý průtok,
+- režim údržby (výmena vody % a frekvence).
+
+Výstup:
+- riziko přetížení (nízké/střední/vysoké),
+- doporučená rezerva (zvýšit filtraci / snížit krmení / upravit výměny),
+- varování pro NO2/NO3/pH/KH,
+- doporučení, jak osádku rozšiřovat (postupně).
+
+------------------------------------------------
+11) MINIMÁLNÍ SADA LIMITŮ PRO “SAFE OPERATION” (TROPICAL)
+------------------------------------------------
+Tyto limity jsou obecné pro tropické sladkovodní akvárium:
+- NO2: 0 mg/l (detekovatelný NO2 = varování)
+- TAN: ideálně 0; měřitelný TAN = varování
+- NO3: cílově 10–40 mg/l (vyšší dle osádky/rostlin, ale s rezervou)
+- pH: stabilní (důležitější než “ideální číslo”)
+- KH: aby pH nekolísalo (prakticky: zabránit “pH crash”)
+- O2: dostatek pohybu hladiny; při teple a zátěži přidat aeraci
+
+------------------------------------------------
+12) ZDROJE A INSPIRACE (NEPŘÍMÁ SYNTÉZA)
+------------------------------------------------
+Dokument je syntéza běžně uznávaných principů akvaristiky a vodní kvality:
+- nitrifikace a biofiltrace (obecné akvakulturní principy),
+- univerzitní a extension materiály k vodní chemii a nitrifikaci,
+- praktické akvaristické best-practices (bez přebírání textů 1:1),
+- zkušenostní rámce pro “stocking density” a “feeding → N load” v malých systémech.
+
+------------------------------------------------
+13) VERZE
+------------------------------------------------
+Verze: KB-AQUA-TROPICAL-10 – V1
+Určeno pro: Aquantis Knowledge Base (interní použití)

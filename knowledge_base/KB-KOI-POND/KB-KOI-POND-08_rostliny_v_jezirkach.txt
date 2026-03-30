@@ -1,0 +1,203 @@
+KB-KOI-POND-08 – ROSTLINY V OKRASNÝCH JEZÍRKÁCH (V1)
+==================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Okrasná jezírka / hobby chovy
+Typ dokumentu: Technický + praktický manuál
+Použití v Aquantis: Diagnostika, návrh jezírka, prevence problémů
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+------------------------------------------------
+1. ÚČEL A ROLE ROSTLIN V OKRASNÝCH JEZÍRKÁCH
+------------------------------------------------
+
+Vodní a pobřežní rostliny v okrasných jezírkách plní několik klíčových funkcí:
+- ekologickou (stabilizace prostředí),
+- estetickou (vzhled jezírka),
+- biologickou (konkurence řasám),
+- částečně filtrační (odběr živin).
+
+Je však nutné zdůraznit:
+Rostliny NENAHRAZUJÍ technickou filtraci, zejména v jezírkách s rybami
+(KOI, karasi, jeseteři). Jsou pouze doplňkovým stabilizačním prvkem.
+
+------------------------------------------------
+2. ZÁKLADNÍ SKUPINY ROSTLIN
+------------------------------------------------
+
+2.1 Submerzní (ponořené) rostliny
+- rostou zcela pod hladinou
+- produkují kyslík během dne
+- odebírají živiny přímo z vody
+
+Příklady:
+- Elodea canadensis
+- Ceratophyllum demersum
+- Vallisneria spp.
+
+Vhodnost:
+- vhodné pro jezírka bez KOI
+- KOI je často vytrhávají a poškozují
+
+2.2 Emergentní (bahenní, pobřežní)
+- kořeny ve vodě, listy nad hladinou
+- stabilizují břehy
+- významně odebírají dusík a fosfor
+
+Příklady:
+- Phragmites (rákos)
+- Typha (orobinec – opatrně!)
+- Iris pseudacorus
+- Acorus calamus
+
+2.3 Plovoucí rostliny
+- stíní hladinu
+- snižují přehřívání vody
+- omezují růst vláknitých řas
+
+Příklady:
+- Nymphaea (lekníny)
+- Pistia stratiotes
+- Eichhornia crassipes
+
+Poznámka:
+Plovoucí invazní druhy mohou rychle přerůst jezírko.
+
+------------------------------------------------
+3. FUNKČNÍ PŘÍNOSY ROSTLIN
+------------------------------------------------
+
+3.1 Odběr živin
+- rostliny spotřebovávají NO₃ a PO₄
+- snižují dostupnost živin pro řasy
+
+3.2 Stínění
+- snížení světelné intenzity
+- omezení planktonních a vláknitých řas
+
+3.3 Mikrohabitat
+- úkryt pro drobné ryby a bezobratlé
+- stabilizace mikroekosystému
+
+3.4 Estetická hodnota
+- přirozený vzhled
+- sezónní variabilita
+
+------------------------------------------------
+4. RIZIKA A NEVÝHODY ROSTLIN
+------------------------------------------------
+
+4.1 Rozklad biomasy
+- odumřelé části rostlin zvyšují organické zatížení
+- rozklad → spotřeba O₂ → riziko hypoxie
+
+4.2 Produkce kalu
+- listí a kořeny přispívají k sedimentaci
+- zvyšují BOD a riziko zápachu
+
+4.3 Noční spotřeba kyslíku
+- v noci rostliny kyslík SPOTŘEBOVÁVAJÍ
+- riziko ranní hypoxie v létě
+
+4.4 Nevhodné pro KOI
+- KOI rostliny okusují, vytrhávají
+- kalení vody
+- poškození kořenů → úhyn rostlin
+
+------------------------------------------------
+5. ROSTLINY A RYBY – KOMPATIBILITA
+------------------------------------------------
+
+5.1 KOI jezírka
+- doporučeno MINIMUM rostlin
+- ideálně oddělená regenerační zóna
+- preferovat lekníny v koších chráněných mříží
+
+5.2 Hobby jezírka bez KOI
+- vyšší tolerance rostlin
+- možné kombinace s karasem, línem, drobnými rybami
+
+5.3 Jeseteři
+- špatná kompatibilita s hustou vegetací
+- riziko poranění a uvíznutí
+
+------------------------------------------------
+6. SPRÁVNÉ ROZMÍSTĚNÍ ROSTLIN
+------------------------------------------------
+
+- rostliny NEUMÍSŤOVAT do hlavního plaveckého prostoru ryb
+- využít:
+  - mělčiny,
+  - pobřežní zóny,
+  - samostatné filtrační laguny
+- nepřekračovat 30–40 % pokrytí hladiny
+
+------------------------------------------------
+7. ÚDRŽBA ROSTLIN
+------------------------------------------------
+
+Pravidelné kroky:
+- odstranění odumřelé biomasy
+- ztenčení přerostlých porostů
+- podzimní redukce před zimou
+- kontrola zakořenění a stability
+
+Doporučení:
+NIKDY nenechávat velké množství odumřelé hmoty v jezírku.
+
+------------------------------------------------
+8. ROSTLINY VS. TECHNIKA – SPRÁVNÝ BALANCE
+------------------------------------------------
+
+Základní princip:
+- Technická filtrace = základ
+- Rostliny = doplněk
+
+Rostliny NEDOKÁŽÍ:
+- odstranit TAN / NH₃ v reálném zatížení
+- nahradit biofiltr
+- zabránit problémům při vysoké obsádce ryb
+
+------------------------------------------------
+9. TYPICKÉ CHYBY V PRAXI
+------------------------------------------------
+
+- příliš mnoho rostlin v malém jezírku
+- nulová údržba → rozklad
+- kombinace KOI + hustá vegetace
+- spoléhání se na rostliny místo filtrace
+
+------------------------------------------------
+10. SHRNUTÍ PRO AQUANTIS
+------------------------------------------------
+
+Rostliny v okrasných jezírkách:
+- zvyšují stabilitu a estetiku,
+- snižují tlak na řasy,
+- ale zvyšují nároky na údržbu.
+
+Pro diagnostiku:
+- náhlé úhyny → zkontrolovat rozklad rostlin,
+- ranní hypoxie → kombinace teplo + biomasa,
+- zákaly → přebytek živin + nedostatečná filtrace.
+
+------------------------------------------------
+11. ZDROJE A INSPIRACE (PARAFRÁZOVÁNO)
+------------------------------------------------
+
+- FAO pond management manuals
+- University Extension programs (UF/IFAS, Texas A&M)
+- Koi Organisation International – pond design
+- Limnologie a rybniční ekologie (obecné best practices)
+
+Veškerý text je nově formulovaný, bez přímého kopírování zdrojů.
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+KB-KOI-POND-08 – V1
+Určeno pro: Aquantis Knowledge Base

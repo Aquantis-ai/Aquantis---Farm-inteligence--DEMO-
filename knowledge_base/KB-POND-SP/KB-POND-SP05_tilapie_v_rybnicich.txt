@@ -1,0 +1,224 @@
+KB-POND-SP05 – TILAPIE V RYBNÍCÍCH (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Rybníkářství – druhové profily
+Typ dokumentu: Species Profile
+Použití v Aquantis: Diagnostika, návrh obsádky, krmení, řízení produkce
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚVOD A GLOBÁLNÍ KONTEXT
+------------------------------------------------
+
+Tilapie patří mezi nejrozšířenější akvakulturní druhy na světě, zejména v:
+- Africe,
+- jihovýchodní Asii,
+- Latinské Americe,
+- subtropických a tropických oblastech.
+
+V rybníkářství se využívají především díky:
+- vysoké toleranci ke kolísání kvality vody,
+- rychlému růstu,
+- dobré konverzi krmiva,
+- jednoduchému managementu,
+- všežravosti.
+
+V mírném klimatickém pásmu (Evropa) je chov tilapie v rybnících možný
+pouze sezónně nebo v kombinaci s:
+- ohřívanou vodou,
+- termálními zdroji,
+- chovem v létě + přezimováním v RAS.
+
+
+------------------------------------------------
+2. HLAVNÍ CHOVANÉ DRUHY
+------------------------------------------------
+
+Nejčastější druhy:
+- Tilapie nilská – Oreochromis niloticus
+- Tilapie modrá – Oreochromis aureus
+- Tilapie mosambická – Oreochromis mossambicus
+
+Pro rybníky je nejvhodnější:
+- Oreochromis niloticus (rychlý růst, dobrá konverze).
+
+
+------------------------------------------------
+3. VHODNÉ PODMÍNKY PRO RYBNÍKOVÝ CHOV
+------------------------------------------------
+
+Teplota:
+- optimální: 26–30 °C
+- růst se výrazně zpomaluje pod 22 °C
+- kritická dolní hranice: 14–15 °C
+- úhyny pod 10–12 °C
+
+Kyslík (O₂):
+- optimální: > 5 mg/l
+- toleruje krátkodobě i 3 mg/l
+- vysoká tolerance k hypoxii oproti kaprovitým rybám
+
+pH:
+- optimální: 6.5–8.5
+- toleranční rozsah: 6.0–9.0
+
+Průhlednost vody:
+- ideálně 30–60 cm (planktonní produkce vítaná)
+
+Tilapie jsou velmi tolerantní ke kolísání kvality vody, což je činí
+vhodnými pro extenzivní a polointenzivní rybníky.
+
+
+------------------------------------------------
+4. OBSÁDKA A HUSTOTA NASAZENÍ
+------------------------------------------------
+
+Extenzivní chov:
+- 0.5–1.5 t/ha
+- využití přirozené produkce planktonu
+
+Polointenzivní chov:
+- 2–5 t/ha
+- kombinace planktonu + přikrmování
+
+Intenzivní rybníkový chov:
+- až 8–10 t/ha
+- vyžaduje:
+  - pravidelné krmení,
+  - aeraci,
+  - řízení kyslíku a organického zatížení
+
+Poznámka:
+Tilapie mají silnou tendenci k přemnožení → běžně se používají:
+- monosex populace (samci),
+- hybridní linie,
+- biologická regulace (dravé ryby).
+
+
+------------------------------------------------
+5. KRMENÍ A RŮST
+------------------------------------------------
+
+Potravní strategie:
+- všežravec s výraznou schopností využívat:
+  - fytoplankton,
+  - detrit,
+  - rostlinné složky krmiv
+
+Krmení:
+- extenzivní: bez krmení nebo obiloviny
+- polointenzivní: pelety 20–28 % bílkovin
+- intenzivní: pelety 28–35 % bílkovin
+
+FCR:
+- extenzivní: 1.8–2.5
+- polointenzivní: 1.4–1.8
+- intenzivní: 1.2–1.5
+
+Růst:
+- při optimální teplotě 26–30 °C velmi rychlý
+- tržní velikost (400–800 g) za 5–8 měsíců
+
+
+------------------------------------------------
+6. REPRODUKCE A JEJÍ ŘÍZENÍ
+------------------------------------------------
+
+Tilapie se velmi snadno rozmnožují v rybnících:
+- pohlavní dospělost již při 30–50 g
+- časté tření během sezóny
+
+Negativní dopady nekontrolované reprodukce:
+- přerybnění,
+- zakrnění populace,
+- zhoršení FCR,
+- nerovnoměrná velikost ryb
+
+Řešení:
+- nasazení monosexních populací (samci),
+- hybridní linie,
+- přídavek dravců (candát, okoun) – jen v určitých systémech.
+
+
+------------------------------------------------
+7. ZDRAVÍ A NEMOCI
+------------------------------------------------
+
+Tilapie jsou obecně odolné, ale citlivé na:
+- nízké teploty,
+- dlouhodobou hypoxii,
+- vysoké organické zatížení.
+
+Nejčastější problémy:
+- bakteriální infekce (Aeromonas, Streptococcus),
+- parazité (Trichodina, Ichthyophthirius),
+- stresové kožní léze.
+
+Prevence:
+- stabilní teplota,
+- dobrý kyslíkový režim,
+- nepřetěžovat rybník,
+- kvalitní krmivo.
+
+
+------------------------------------------------
+8. SEZÓNNÍ MANAGEMENT
+------------------------------------------------
+
+Jaro:
+- nasazení při stabilních teplotách > 20 °C
+
+Léto:
+- hlavní růstová fáze
+- kontrola O₂ v noci a při květech vody
+
+Podzim:
+- výlov před poklesem teplot pod 18 °C
+- případně přesun do RAS k přezimování
+
+Zima:
+- rybníkový chov v mírném pásmu nemožný
+- nutný přechod do temperovaných systémů
+
+
+------------------------------------------------
+9. EKONOMICKÉ A PRAKTICKÉ POZNÁMKY
+------------------------------------------------
+
+Výhody:
+- rychlý obrat produkce,
+- nízké nároky na kvalitu vody,
+- dobrý tržní potenciál globálně
+
+Nevýhody:
+- teplotní omezení v Evropě,
+- nutnost kontroly reprodukce,
+- omezený trh v některých regionech EU
+
+
+------------------------------------------------
+10. SHRNUTÍ PRO AQUANTIS
+------------------------------------------------
+
+Tilapie jsou:
+- ideální rybou pro teplé rybníky,
+- vhodné pro extenzivní až intenzivní chovy,
+- velmi tolerantní k vodním parametrům,
+- ale vyžadují aktivní řízení reprodukce a teploty.
+
+Použití v Aquantis:
+- návrh obsádky,
+- posouzení vhodnosti lokality,
+- diagnostika stresu při nízké teplotě nebo hypoxii,
+- doporučení sezónního managementu.
+
+
+------------------------------------------------
+KONEC DOKUMENTU
+------------------------------------------------

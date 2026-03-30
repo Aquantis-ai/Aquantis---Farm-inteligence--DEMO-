@@ -1,0 +1,208 @@
+KB-KOI-05 – ZDRAVÍ KOI (NEMOCI, PARAZITI, PREVENCE, KARANTÉNA)
+===========================================================
+
+------------------------------------------------------------
+METADATA
+------------------------------------------------------------
+KB oblast: KOI jezírka
+Typ dokumentu: Health & Diagnostics
+Použití v Aquantis: Diagnostika, prevence, krizové řízení
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+------------------------------------------------------------
+1. ÚVOD – ZDRAVÍ KOI JAKO SYSTÉMOVÁ ZÁLEŽITOST
+------------------------------------------------------------
+
+Zdraví KOI kaprů je výsledkem rovnováhy mezi:
+- kvalitou vody,
+- výživou,
+- mikrobiálním prostředím,
+- stresem,
+- genetickou kondicí ryb.
+
+Ve většině případů nejsou problémy způsobeny primárně patogenem,
+ale kombinací stresových faktorů, které umožní patogenům se projevit.
+
+Zásadní princip:
+➡️ „Špatná voda → stres → oslabená imunita → nemoc“
+
+------------------------------------------------------------
+2. HLAVNÍ KATEGORIE ONEMOCNĚNÍ KOI
+------------------------------------------------------------
+
+### 2.1 Parazitární onemocnění
+Nejčastější příčina akutních problémů.
+
+Typičtí paraziti:
+- Costia (Ichthyobodo)
+- Trichodina
+- Chilodonella
+- Gyrodactylus / Dactylogyrus
+- Ichthyophthirius („krupička“)
+
+Projevy:
+- tření o dno a stěny,
+- zrychlené dýchání,
+- sevřené ploutve,
+- apatie,
+- lokální zarudnutí kůže.
+
+### 2.2 Bakteriální onemocnění
+Často sekundární po stresu nebo parazitech.
+
+Typické bakterie:
+- Aeromonas spp.
+- Pseudomonas spp.
+- Flavobacterium spp.
+
+Projevy:
+- vředy,
+- rozpad ploutví,
+- krváceniny,
+- ztráta šupin,
+- systémová sepse.
+
+### 2.3 Plísňová onemocnění
+Nejčastěji Saprolegnia.
+
+Projevy:
+- bílé až šedé vatovité povlaky,
+- často sekundární po poranění nebo manipulaci.
+
+### 2.4 Virová onemocnění
+Vzácnější, ale velmi závažná.
+
+Nejznámější:
+- KHV (Koi Herpesvirus)
+
+Charakteristika:
+- vysoká mortalita,
+- často latentní průběh,
+- aktivace při stresu a kolísání teplot.
+
+------------------------------------------------------------
+3. STRESOVÉ FAKTORY JAKO SPOUŠTĚČ NEMOCÍ
+------------------------------------------------------------
+
+Hlavní stresory:
+- kolísání teploty,
+- nízký O₂,
+- vysoké NH₃ / NO₂,
+- vysoké organické zatížení,
+- častá manipulace,
+- přeplnění jezírka,
+- špatná filtrace,
+- nekvalitní krmivo.
+
+Dlouhodobý stres:
+➡️ potlačení imunity
+➡️ náchylnost k parazitům a bakteriím
+
+------------------------------------------------------------
+4. PREVENCE – ZÁKLAD ZDRAVÍ KOI
+------------------------------------------------------------
+
+### 4.1 Kvalita vody
+- O₂ > 6 mg/l
+- NH₃ ~ 0
+- NO₂ < 0.1 mg/l
+- stabilní pH (7.0–8.0)
+- nízké organické zatížení
+
+### 4.2 Správná filtrace
+- dostatečný biofiltr
+- účinná mechanická filtrace
+- pravidelná údržba bez destrukce biofilmu
+
+### 4.3 Výživa
+- kvalitní krmivo přiměřené teplotě
+- nepřekrmovat
+- v chladné vodě omezit nebo zastavit krmení
+
+### 4.4 Management jezírka
+- nepřerybňovat
+- stabilní prostředí
+- omezení náhlých zásahů
+
+------------------------------------------------------------
+5. KARANTÉNA – NEJDŮLEŽITĚJŠÍ OCHRANA
+------------------------------------------------------------
+
+Karanténa je klíčová při:
+- nákupu nových ryb,
+- návratu ryb z výstav,
+- přesunech mezi systémy.
+
+### 5.1 Základní karanténní protokol
+- oddělená nádrž / jezírko,
+- minimálně 4–6 týdnů,
+- stabilní teplota (18–22 °C),
+- samostatná filtrace,
+- žádné sdílení vybavení.
+
+### 5.2 Co sledovat v karanténě
+- chování,
+- příjem potravy,
+- dýchání,
+- vzhled kůže a ploutví,
+- případné parazity.
+
+------------------------------------------------------------
+6. ZÁKLADNÍ DIAGNOSTICKÝ POSTUP (BEZ LÉČIV)
+------------------------------------------------------------
+
+1️⃣ Pozorování chování  
+2️⃣ Kontrola kvality vody  
+3️⃣ Kontrola filtrace a průtoku  
+4️⃣ Vyhodnocení stresových faktorů  
+5️⃣ Rozhodnutí:
+   - stabilizace prostředí
+   - izolace postižených ryb
+   - kontakt odborníka / veterináře
+
+Aquantis nikdy nenahrazuje veterinární diagnostiku,
+ale pomáhá včas rozpoznat problém a zabránit jeho eskalaci.
+
+------------------------------------------------------------
+7. SEZÓNNÍ RIZIKA ZDRAVÍ KOI
+------------------------------------------------------------
+
+### Jaro
+- oslabená imunita po zimě
+- aktivace parazitů
+
+### Léto
+- nízký kyslík
+- vysoké organické zatížení
+- bakteriální infekce
+
+### Podzim
+- stres z kolísání teplot
+- příprava na zimu
+
+### Zima
+- hypoxie pod ledem
+- problémy při špatném zazimování
+
+------------------------------------------------------------
+8. SHRNUTÍ – KLÍČOVÉ ZÁSADY
+------------------------------------------------------------
+
+- Většina nemocí KOI je důsledkem prostředí, ne náhody.
+- Prevence je vždy účinnější než léčba.
+- Karanténa je nejlevnější a nejúčinnější ochrana.
+- Stabilita systému = zdravé ryby.
+
+------------------------------------------------------------
+9. ZDROJE A ODBORNÁ VÝCHODISKA (PARAFRÁZOVANÁ)
+------------------------------------------------------------
+
+- Koi Organisation International (KOI Health & Biosecurity)
+- FAO aquaculture health manuals
+- University Extension aquaculture materials
+- Best practices z hobby i profesionálních KOI chovů (EU, JP, USA)
+
+Veškerý obsah je syntézou a parafrází otevřených odborných zdrojů
+a je určen pro interní použití v systému Aquantis.

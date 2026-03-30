@@ -1,0 +1,216 @@
+Aquantis_KB-POND-15_UDRŽITELNOST_LEGISLATIVA_ENVIRONMENT (V1)
+===========================================================
+
+ÚČEL DOKUMENTU
+-----------------------------------------------------------
+Tento dokument shrnuje principy udržitelného rybníkářství,
+právní rámec (EU + ČR/EU kontext) a environmentální vazby
+rybníků na krajinu, vodní režim a biodiverzitu.
+
+Dokument slouží jako:
+- referenční rámec pro ekologicky odpovědný chov ryb,
+- interpretační základ pro Aquantis při hodnocení dopadů provozu,
+- orientační přehled legislativních povinností (bez právního poradenství).
+
+Obsah vychází ze syntézy:
+- FAO Fisheries & Aquaculture Technical Papers,
+- EU Water Framework Directive (2000/60/ES),
+- Natura 2000 / Birds & Habitats Directives,
+- EUMOFA a národních rybníkářských metodik,
+- dlouhodobé středoevropské rybníkářské praxe.
+
+Text je parafrázovaný a právně bezpečný.
+
+
+-----------------------------------------------------------
+1. RYBNÍK JAKO MULTIFUNKČNÍ EKOSYSTÉM
+-----------------------------------------------------------
+
+Rybník není pouze produkční jednotka, ale:
+- vodohospodářský prvek,
+- biotop vysoké biodiverzity,
+- krajinotvorný a retenční prvek,
+- nárazník proti suchu i povodním.
+
+Správně řízený rybník plní současně:
+- produkční funkci (ryby),
+- ekologickou funkci (habitat),
+- společenskou funkci (krajina, rekreace).
+
+
+-----------------------------------------------------------
+2. PRINCIPY UDRŽITELNÉHO RYBNÍKÁŘSTVÍ
+-----------------------------------------------------------
+
+Základní pilíře:
+
+1. Přiměřená obsádka
+   - nepřetěžovat produkční kapacitu rybníka
+   - respektovat přirozenou úživnost
+
+2. Vyvážená druhová skladba
+   - kombinace kapr + doplňkové druhy
+   - kontrola dominance jedné trofické skupiny
+
+3. Omezené externí vstupy
+   - krmiva používat cíleně
+   - minimalizace hnojení
+
+4. Respekt sezónní dynamiky
+   - jarní citlivost
+   - letní kyslíkové riziko
+   - zimní omezení zásahů
+
+5. Prevence místo zásahů
+   - prevence eutrofizace
+   - prevence hypoxií
+   - prevence eroze břehů
+
+
+-----------------------------------------------------------
+3. RYBNÍKY A OCHRANA VOD
+-----------------------------------------------------------
+
+Rybníky ovlivňují kvalitu povrchových vod:
+
+Pozitivní efekty:
+- retence živin
+- zpomalení odtoku
+- zachycení sedimentů
+- stabilizace hydrologického režimu
+
+Rizika:
+- eutrofizace při přetížení
+- uvolňování fosforu ze sedimentu
+- kyslíkové deficity
+- export živin při výlovech
+
+Cílem udržitelného hospodaření je:
+- minimalizovat čistý export N a P
+- udržet rybník jako nutrient sink, ne source
+
+
+-----------------------------------------------------------
+4. LEGISLATIVNÍ RÁMEC (EU KONTEXT)
+-----------------------------------------------------------
+
+Základní legislativní pilíře:
+
+1. Water Framework Directive (2000/60/ES)
+   - cíl: dobrý ekologický stav vod
+   - rybníky jako významně ovlivněné vodní útvary
+
+2. Natura 2000
+   - ochrana biotopů a druhů
+   - omezení intenzifikace v chráněných lokalitách
+
+3. Birds Directive / Habitats Directive
+   - ochrana hnízdišť, mokřadních ptáků
+   - sezónní omezení zásahů
+
+4. Národní vodní zákony
+   - manipulace s vodní hladinou
+   - odběry a vypouštění vody
+   - práce se sedimentem
+
+Poznámka:
+Legislativa se liší dle státu – Aquantis poskytuje orientační rámec,
+nikoli právně závazné stanovisko.
+
+
+-----------------------------------------------------------
+5. RYBNÍKÁŘSTVÍ A BIODIVERZITA
+-----------------------------------------------------------
+
+Správně vedené rybníky podporují:
+- obojživelníky
+- vodní ptáky
+- bezobratlé
+- mokřadní rostliny
+
+Negativní dopady při špatném řízení:
+- homogenizace biotopu
+- dominance sinic
+- úbytek makrofytní vegetace
+- ztráta litorálních zón
+
+Klíčové nástroje:
+- ponechání litorálních pásů
+- mozaikovitá hloubka
+- střídání produkčních a klidových rybníků
+- řízené letnění
+
+
+-----------------------------------------------------------
+6. KLIMATICKÁ ZMĚNA A RYBNÍKY
+-----------------------------------------------------------
+
+Hlavní trendy:
+- vyšší letní teploty
+- delší období stratifikace
+- častější hypoxie
+- extrémní srážky / sucha
+
+Adaptivní opatření:
+- snížení obsádky
+- hlubší refugia
+- posílení aerace u citlivých rybníků
+- flexibilní manipulace hladiny
+
+Rybníky jsou klíčovým adaptačním prvkem krajiny,
+pokud jsou správně spravovány.
+
+
+-----------------------------------------------------------
+7. SOCIÁLNÍ A KRAJINNÝ ROZMĚR
+-----------------------------------------------------------
+
+Rybníkářství:
+- formovalo kulturní krajinu střední Evropy
+- má vysokou společenskou hodnotu
+- je spojeno s tradicí i turistikou
+
+Udržitelné hospodaření zvyšuje:
+- akceptaci veřejností
+- stabilitu podnikání
+- dlouhodobou produkční jistotu
+
+
+-----------------------------------------------------------
+8. INDIKÁTORY UDRŽITELNOSTI
+-----------------------------------------------------------
+
+Praktické indikátory:
+- stabilní kyslíkový režim
+- absence masových úhynů
+- vyvážená druhová skladba
+- nízký export živin
+- dobrý stav sedimentu
+- pozitivní biologické indikátory
+
+Aquantis využívá tyto indikátory
+pro orientační hodnocení provozu.
+
+
+-----------------------------------------------------------
+9. SHRNUJÍCÍ PRINCIPY
+-----------------------------------------------------------
+
+Udržitelné rybníkářství:
+- není maximalizace výnosu
+- je optimalizace systému
+- respektuje ekologické limity
+- pracuje s přírodní dynamikou
+
+Dlouhodobě je:
+- ekologicky stabilnější
+- ekonomicky odolnější
+- společensky přijatelnější
+
+
+-----------------------------------------------------------
+10. VERZE DOKUMENTU
+-----------------------------------------------------------
+Verze: KB-POND-15 – V1
+Poslední aktualizace: 2025-02
+Určeno pro: Aquantis Knowledge Base (interní použití)

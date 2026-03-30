@@ -1,0 +1,207 @@
+Aquantis_KB-POND-01_ZAKLADY_RYBNIKARSTVI_V1
+==========================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument slouží jako základní vstupní kámen
+pro oblast rybníkářství a tradiční akvakultury
+v systému Aquantis.
+
+Popisuje:
+- základní principy rybníkářství,
+- rozdíly mezi rybníkem a RAS,
+- klíčové ekologické procesy,
+- limity řízení produkce v otevřeném systému.
+
+Dokument je formulován jako odborná syntéza
+veřejně dostupných zdrojů (FAO, WorldFish,
+evropská rybníkářská praxe, univerzitní materiály)
+a neobsahuje žádný text převzatý 1:1.
+
+
+------------------------------------------------
+1. CO JE RYBNÍKÁŘSTVÍ
+------------------------------------------------
+
+Rybníkářství je forma akvakultury využívající
+otevřené nebo polosamostatné vodní ekosystémy,
+kde produkce ryb probíhá v interakci s přírodními
+procesy.
+
+Na rozdíl od RAS:
+- není systém uzavřený,
+- kvalitu vody nelze řídit okamžitě,
+- biologie má větší roli než technologie.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ ROZDÍLY: RYBNÍK VS. RAS
+------------------------------------------------
+
+RYBNÍK:
+- otevřený ekosystém,
+- závislý na počasí, srážkách, slunci,
+- hlavní roli hraje primární produkce (plankton),
+- pomalejší reakce na zásahy.
+
+RAS:
+- technický systém,
+- přesná kontrola vody,
+- rychlé reakce,
+- vyšší CAPEX/OPEX.
+
+Rybník nelze „řídit“, pouze „usměrňovat“.
+
+
+------------------------------------------------
+3. EKOLOGICKÝ ZÁKLAD RYBNÍKA
+------------------------------------------------
+
+Produkce ryb je založena na potravním řetězci:
+
+Slunce
+→ fytoplankton
+→ zooplankton
+→ bentos
+→ ryby
+
+Klíčové procesy:
+- fotosyntéza,
+- respirace,
+- mineralizace organické hmoty,
+- koloběh dusíku a fosforu.
+
+Produkční kapacita rybníka je omezená
+nosnou kapacitou ekosystému.
+
+
+------------------------------------------------
+4. ROLE PRIMÁRNÍ PRODUKCE
+------------------------------------------------
+
+Fytoplankton:
+- produkuje kyslík,
+- slouží jako základ potravní pyramidy,
+- stabilizuje vodní prostředí.
+
+Rizika:
+- přemnožení planktonu → noční hypoxie,
+- kolaps planktonu → úhyny ryb.
+
+Řízení:
+- hnojení (organické / minerální),
+- regulace obsádky,
+- kontrola průhlednosti vody (Secchi disk).
+
+
+------------------------------------------------
+5. KYSLÍKOVÁ DYNAMIKA V RYBNÍKU
+------------------------------------------------
+
+Typický denní cyklus:
+- maximum O₂ odpoledne,
+- minimum O₂ brzy ráno.
+
+Rizika:
+- letní noci,
+- zatažené dny,
+- vysoká biomasa ryb,
+- rozklad organické hmoty.
+
+Na rozdíl od RAS:
+- nelze kyslík „dodat okamžitě“,
+- prevence je klíčová.
+
+
+------------------------------------------------
+6. NOSNÁ KAPACITA RYBNÍKA
+------------------------------------------------
+
+Nosná kapacita je dána:
+- hloubkou,
+- typem dna,
+- přítokem vody,
+- živinami,
+- teplotním režimem.
+
+Překročení nosné kapacity vede k:
+- kyslíkovým deficitům,
+- zpomalení růstu,
+- zvýšené mortalitě.
+
+
+------------------------------------------------
+7. TYPY RYBNÍKŮ
+------------------------------------------------
+
+- produkční rybníky,
+- výtažní rybníky,
+- plůdkové rybníky,
+- zimoviště,
+- retenční rybníky.
+
+Každý typ má jiný režim:
+- obsádky,
+- hloubky,
+- hospodaření s vodou.
+
+
+------------------------------------------------
+8. ROLE MANAŽERA RYBNÍKA
+------------------------------------------------
+
+Úkolem není „optimalizovat parametry“,
+ale:
+- číst signály ekosystému,
+- pracovat s dlouhodobým trendem,
+- předcházet krizím.
+
+Zkušenost a pozorování jsou stejně důležité
+jako měření.
+
+
+------------------------------------------------
+9. ZÁKLADNÍ RIZIKA RYBNÍKÁŘSTVÍ
+------------------------------------------------
+
+- kyslíkové deficity,
+- přehnojení,
+- zarůstání,
+- predátoři,
+- klimatické extrémy,
+- eutrofizace.
+
+
+------------------------------------------------
+10. VZTAH K DALŠÍM KB-POND
+------------------------------------------------
+
+Tento dokument je základ pro:
+- KB-POND-02 Hydrologie a voda,
+- KB-POND-03 Kvalita vody v rybníku,
+- KB-POND-04 Obsádky a druhy,
+- KB-POND-05 Krmení v rybnících.
+
+Bez pochopení tohoto dokumentu
+nelze správně interpretovat další kapitoly.
+
+
+------------------------------------------------
+11. ODBORNÝ ZÁKLAD (PARAFRÁZOVÁNO)
+------------------------------------------------
+
+Dokument vychází ze syntézy:
+- FAO Fisheries & Aquaculture Technical Papers,
+- WorldFish pond aquaculture manuals,
+- evropské rybníkářské praxe (CZ, AT, DE),
+- univerzitních extension materiálů.
+
+Formulace jsou originální a právně bezpečné.
+
+
+------------------------------------------------
+12. VERZE
+------------------------------------------------
+Verze: KB-POND-01 – V1
+Datum: 2025-02
+Určeno pro: Aquantis Knowledge Base (interní použití)

@@ -1,0 +1,203 @@
+Aquantis_KB-AQUA-TROPICAL-06_TROPICKÉ_ROSTLINY_A_JEJICH_ROLE_V1
+=================================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – tropická akvária
+Typ dokumentu: Technický / biologický
+Použití v Aquantis: Diagnostika, návrh akvária, prevence problémů
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+------------------------------------------------
+1. ROLE ROSTLIN V TROPICKÉM AKVÁRIU
+------------------------------------------------
+
+Tropické vodní rostliny plní v akváriu několik klíčových funkcí:
+
+- biologická filtrace (příjem NH₄⁺, NO₃⁻),
+- stabilizace mikroprostředí,
+- produkce kyslíku během fotoperiody,
+- úkryt a redukce stresu ryb,
+- potlačení řas konkurencí o živiny,
+- estetická a biotopová funkce.
+
+V tropických systémech nejsou rostliny pouze dekorací,
+ale aktivním stabilizačním prvkem ekosystému.
+
+------------------------------------------------
+2. ZÁKLADNÍ SKUPINY TROPICKÝCH ROSTLIN
+------------------------------------------------
+
+2.1 Rostliny rychle rostoucí (high uptake)
+- Ceratophyllum
+- Hygrophila
+- Limnophila
+- Rotala
+
+Funkce:
+- rychlá spotřeba dusíku,
+- potlačení řas v nových nádržích,
+- stabilizace po zásahu (čištění, výměna vody).
+
+2.2 Rostliny pomalu rostoucí
+- Anubias
+- Microsorum (javský kapradiník)
+- Bucephalandra
+
+Funkce:
+- stabilita, nízké nároky,
+- vhodné pro low-tech nádrže,
+- náchylné k řasám při nadbytku živin.
+
+2.3 Růžicové a substrátové rostliny
+- Echinodorus
+- Cryptocoryne
+
+Funkce:
+- silný kořenový systém,
+- významná vazba živin v substrátu,
+- citlivé na změny prostředí (crypt melt).
+
+------------------------------------------------
+3. NÁROKY NA SVĚTLO
+------------------------------------------------
+
+Základní rozdělení:
+
+- Low light: 10–20 lm/l
+- Medium light: 20–35 lm/l
+- High light: 35–50+ lm/l
+
+Rizika:
+- příliš silné světlo bez CO₂ → masivní řasy,
+- slabé světlo → zakrnění, rozpad pletiv.
+
+Fotoperioda:
+- standardně 7–9 hodin,
+- stabilita je důležitější než délka.
+
+------------------------------------------------
+4. CO₂ A UHLÍK
+------------------------------------------------
+
+V tropických rostlinných akváriích je uhlík limitujícím prvkem.
+
+Možnosti:
+- atmosférický CO₂ (low-tech),
+- tlakové CO₂ systémy,
+- tekutý uhlík (opatrně – toxicita).
+
+Optimální koncentrace CO₂:
+- 15–30 mg/l (rostlinná akvária),
+- stabilita je klíčová – výkyvy = stres rostlin i ryb.
+
+------------------------------------------------
+5. ŽIVINY A HNOJENÍ
+------------------------------------------------
+
+Makroživiny:
+- Dusík (N): růst listů
+- Fosfor (P): energie, kořeny
+- Draslík (K): buněčné funkce
+
+Mikroživiny:
+- železo (Fe),
+- mangan, zinek, bor.
+
+Typické chyby:
+- přehnojení bez dostatečného světla,
+- nulové hnojení v silně osázené nádrži,
+- ignorování substrátového vyčerpání.
+
+------------------------------------------------
+6. SUBSTRÁT A KOŘENOVÁ ZÓNA
+------------------------------------------------
+
+Typy substrátů:
+- inertní (štěrk, písek),
+- aktivní (soil).
+
+Role substrátu:
+- zásobárna živin,
+- biologická filtrace,
+- mikrobiální aktivita.
+
+Pozor:
+- aktivní substráty mění pH a KH,
+- vyžadují plánované doplňování živin.
+
+------------------------------------------------
+7. ROSTLINY A STABILITA BIOLOGIE
+------------------------------------------------
+
+Rostliny:
+- snižují špičky NH₄⁺ a NO₃⁻,
+- stabilizují nitrifikační procesy,
+- zmírňují následky překrmení.
+
+V silně osázených nádržích:
+- biofiltr je doplňkový,
+- ale nikdy ne zcela nahraditelný.
+
+------------------------------------------------
+8. ČASTÉ PROBLÉMY A JEJICH PŘÍČINY
+------------------------------------------------
+
+Symptom → Pravděpodobná příčina
+
+- děravé listy → nedostatek K
+- žloutnutí mladých listů → nedostatek Fe
+- řasy na pomalu rostoucích rostlinách → přebytek živin / slabý růst
+- rozpad crypt → náhlá změna parametrů
+
+------------------------------------------------
+9. ROSTLINY A RYBY – KOMPATIBILITA
+------------------------------------------------
+
+Nevhodné kombinace:
+- velké cichlidy × jemnolisté rostliny,
+- zlaté rybky × tropické rostliny,
+- intenzivní hrabání × jemný substrát.
+
+Vhodné kombinace:
+- tetry + hustá výsadba,
+- skaláry + vysoké rostliny,
+- labyrintky + plovoucí rostliny.
+
+------------------------------------------------
+10. SEZÓNNOST A DLOUHODOBÝ MANAGEMENT
+------------------------------------------------
+
+I v tropickém akváriu existuje „umělá sezónnost“:
+
+- fáze růstu,
+- fáze údržby,
+- fáze regenerace po zásahu.
+
+Dlouhodobě stabilní nádrže:
+- minimální zásahy,
+- pravidelné malé korekce,
+- žádné náhlé změny.
+
+------------------------------------------------
+11. ZDROJE A ODBORNÉ PODKLADY (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+- Tropica Aquarium Plants Guides
+- Dennerle Plant System Manuals
+- Walstad D. – Ecology of the Planted Aquarium
+- University of Florida IFAS – Aquatic Plants
+- Aquatic Botany Journal (open-access studie)
+- Praktické zkušenosti z dlouhodobě stabilních tropických nádrží
+
+Text je autorsky přepracovaný a slouží jako odborný základ
+pro Aquantis Knowledge Base.
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-TROPICAL-06 – V1
+Určeno pro: Aquantis Knowledge Base

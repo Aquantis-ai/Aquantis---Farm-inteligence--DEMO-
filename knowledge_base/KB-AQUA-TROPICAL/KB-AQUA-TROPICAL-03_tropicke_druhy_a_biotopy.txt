@@ -1,0 +1,220 @@
+KB-AQUA-TROPICAL-03 – TROPICKÉ DRUHY A JEJICH BIOTOPY (V1)
+========================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Akvaristika – tropické systémy
+Typ dokumentu: Habitat & Species Mapping
+Použití v Aquantis: Diagnostika, návrh osádky, kompatibilita druhů
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument mapuje hlavní skupiny tropických akvarijních ryb
+na jejich přirozené biotopy a typy vody (blackwater, clearwater,
+whitewater).
+
+Cílem je:
+- zabránit nekompatibilním kombinacím druhů,
+- správně nastavit chemii vody,
+- vysvětlit rozdíly v chování, výživě a citlivosti ryb,
+- sloužit jako referenční základ pro diagnostiku problémů
+  vzniklých z nevhodného prostředí.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ TYPY TROPICKÝCH VOD
+------------------------------------------------
+
+Tropické sladké vody lze zjednodušeně rozdělit na:
+
+1) Blackwater (černé vody)
+2) Clearwater (čiré vody)
+3) Whitewater (bílé / kalné vody)
+
+Každý typ má:
+- jinou chemii,
+- jinou mikrobiologii,
+- jiný planktonový základ,
+- jiný tlak na adaptaci ryb.
+
+
+------------------------------------------------
+3. BLACKWATER – ČERNÉ VODY
+------------------------------------------------
+
+Charakteristika:
+- velmi nízká mineralizace
+- pH obvykle 4.0–6.0
+- GH/KH často < 2 °dH
+- vysoký obsah huminových látek
+- nízká bakteriální aktivita
+- tmavé zabarvení vody
+
+Typické oblasti:
+- Amazonie (Rio Negro)
+- Orinoko
+- některé části jihovýchodní Asie
+
+Typické skupiny ryb:
+- Tetry (Paracheirodon, Hyphessobrycon)
+- Diskus (Symphysodon spp.)
+- Skaláry (Pterophyllum spp.)
+- Trpasličí cichlidy (Apistogramma)
+- Některé labyrintky (Betta wild forms)
+
+Specifické adaptace:
+- vysoká citlivost na NO₂ a NH₃
+- špatná tolerance tvrdé vody
+- slabší imunita v nevhodných podmínkách
+- přirozeně nízká bakteriální zátěž
+
+Časté chyby v akváriu:
+- kombinace s rybami z tvrdé vody
+- příliš silná filtrace a proudění
+- vysoké pH z vodovodní vody
+- přerybnění
+
+
+------------------------------------------------
+4. CLEARWATER – ČIRÉ VODY
+------------------------------------------------
+
+Charakteristika:
+- střední mineralizace
+- pH obvykle 6.0–7.5
+- GH 3–10 °dH
+- vysoká průhlednost vody
+- stabilnější chemie než blackwater
+
+Typické oblasti:
+- většina tropických řek
+- horské přítoky
+- jezera a laguny
+
+Typické skupiny ryb:
+- Živorodky (některé lokální populace)
+- Cichlidy (část amerických a afrických druhů)
+- Dania, razbory
+- Sumci (Corydoras, Loricariidae)
+- Některé kaprovité ryby
+
+Specifické adaptace:
+- lepší tolerance kolísání parametrů
+- vyšší metabolická aktivita
+- vyšší spotřeba kyslíku
+- lepší adaptace na filtrační systémy
+
+Časté chyby v akváriu:
+- kombinace s extrémními blackwater druhy
+- nedostatečné okysličení
+- zanedbání proudění vody
+
+
+------------------------------------------------
+5. WHITEWATER – BÍLÉ / KALNÉ VODY
+------------------------------------------------
+
+Charakteristika:
+- vysoký obsah suspendovaných částic
+- pH obvykle 6.5–7.5
+- vyšší vodivost
+- vysoký obsah živin
+- vysoká biologická aktivita
+
+Typické oblasti:
+- Amazonka (hlavní tok)
+- velké tropické řeky
+- záplavové oblasti
+
+Typické skupiny ryb:
+- Velké cichlidy
+- Kaprovité ryby
+- Sumci (Pangasius, Pimelodus)
+- Některé druhy tetry
+
+Specifické adaptace:
+- vysoká tolerance organické zátěže
+- silný metabolismus
+- vyšší produkce odpadu
+- nižší citlivost na bakterie
+
+Časté chyby v akváriu:
+- příliš čistá a „sterilní“ voda
+- slabá mechanická filtrace
+- podcenění biologické zátěže
+
+
+------------------------------------------------
+6. MAPOVÁNÍ DRUHŮ NA BIOTOPY (PŘÍKLADY)
+------------------------------------------------
+
+Diskus:
+- typ vody: blackwater
+- pH: 5.0–6.5
+- GH: < 3 °dH
+- citlivost: velmi vysoká
+
+Neonka modrá:
+- typ vody: blackwater
+- pH: 4.5–6.5
+- GH: < 4 °dH
+
+Gupka:
+- typ vody: clearwater
+- pH: 7.0–8.0
+- GH: 8–20 °dH
+
+Skalára:
+- typ vody: přechod blackwater/clearwater
+- pH: 6.0–7.0
+- GH: 3–8 °dH
+
+Africké cichlidy (Malawi):
+- typ vody: clearwater
+- pH: 7.8–8.6
+- GH: 10–20 °dH
+
+
+------------------------------------------------
+7. DŮSLEDKY PRO NÁVRH AKVÁRIA
+------------------------------------------------
+
+Správné přiřazení biotopu:
+- snižuje stres ryb,
+- zlepšuje imunitu,
+- zvyšuje přirozené chování,
+- snižuje výskyt nemocí.
+
+Aquantis musí:
+- rozpoznat původ druhů,
+- varovat před nekompatibilní kombinací,
+- doporučit úpravu vody podle biotopu,
+- vysvětlit biologické důvody.
+
+
+------------------------------------------------
+8. ZDROJE (PARAFRÁZOVANÉ)
+------------------------------------------------
+
+Tento dokument je syntézou poznatků z:
+- Amazonian Fish Ecology (FAO, různé roky),
+- Kullander, Cichlid fishes of the Amazon River drainage,
+- FishBase (habitat & water chemistry data),
+- Akvaristické univerzitní materiály (UF/IFAS, University of Florida),
+- dlouhodobých chovatelských best practices.
+
+Text je zcela nově formulovaný a slouží jako
+interní odborný základ Aquantis Knowledge Base.
+
+
+------------------------------------------------
+9. VERZE DOKUMENTU
+------------------------------------------------
+KB-AQUA-TROPICAL-03 – V1
+Určeno pro: Aquantis Knowledge Base

@@ -1,0 +1,329 @@
+Aquantis_KB24_ALARMY_A_LOGIKA_VYSTRAH_V_RAS_V1
+==============================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument definuje principy návrhu alarmů a logiky výstrah
+v recirkulačních systémech (RAS) pro akvakulturu.
+
+Cíl:
+- nastavit rozumné a bezpečné limity pro klíčové parametry (O₂, pH, NO₂, průtok, napájení),
+- popsat úrovně alarmů (INFO / WARNING / CRITICAL),
+- vysvětlit logiku zpoždění, hystereze a potvrzování alarmů,
+- poskytnout praktické příklady alarmové matice, které lze přizpůsobit konkrétní farmě.
+
+Dokument je obecný – konkrétní limity je nutné vždy
+doladit podle druhu ryb, stáří, technologie a lokálních standardů.
+
+
+------------------------------------------------
+1. ROLE ALARMOVÉHO SYSTÉMU V RAS
+------------------------------------------------
+
+Alarmový systém v RAS má tři hlavní funkce:
+
+1) Včasná detekce odchylek
+   - zachytit trend dřív, než se z něj stane havárie (např. postupný pokles O₂,
+     pomalý nárůst NO₂, kolísání pH).
+
+2) Podpora rozhodování
+   - poskytovat obsluze jasnou informaci, CO je špatně a JAK vážné to je
+     (INFO vs WARNING vs CRITICAL),
+   - u kritických alarmů být navázaný na akční plány (SMS, volání, automatické zásahy).
+
+3) Dokumentace provozu
+   - logovat alarmy, potvrzení, trvání a zásahy,
+   - umožnit zpětnou analýzu (pro optimalizaci nastavení a pro audit).
+
+
+------------------------------------------------
+2. ÚROVNĚ ALARMŮ A OBECNÁ LOGIKA
+------------------------------------------------
+
+Doporučené základní úrovně:
+
+- INFO (událost / upozornění)
+  - něco je mimo ideál, ale neohrožuje to přímo ryby.
+  - příklad: NO₃ stoupá nad dlouhodobý cíl, O₂ klesá na spodní hranici komfortu.
+
+- WARNING (varování – zásah vhodný)
+  - stav, který už může zhoršovat pohodu ryb nebo stabilitu biofiltru,
+    pokud bude trvat déle.
+  - příklad: O₂ ~ 5 mg/l u pstruhů, NO₂ ~ 0.3–0.5 mg/l.
+
+- CRITICAL (kritický alarm – okamžitý zásah nutný)
+  - parametry jsou v pásmu akutního rizika,
+    je ohrožená welfare ryb, nitrifikace nebo stabilita systému.
+  - příklad: O₂ < 4 mg/l, NO₂ > 1.0 mg/l, úplný výpadek průtoku, výpadek napájení.
+
+Obecné zásady:
+- INFO alarmy nemusí spouštět SMS/telefon, ale logují se.
+- WARNING alarmy mohou posílat SMS / push notifikaci.
+- CRITICAL alarmy by měly spouštět:
+  - SMS,
+  - telefonní dialer / aplikaci,
+  - případně automatický zásah (zapnutí záložní aerace, nouzového čerpadla apod.).
+
+
+------------------------------------------------
+3. ALARMY NA ROZPUŠTĚNÝ KYSLÍK (O₂)
+------------------------------------------------
+
+Rozdělení dle skupin druhů (orientačně):
+
+- studenovodní (pstruh duhový, siven, losos),
+- teplovodní (kapr, amur, tolstolobik, lín),
+- vysoce teplovodní (tilapie, sumci, pangas),
+- jezírkové okrasné (koi kapr, zlatý lín, karas zlatý).
+
+Příklad pro hlavní chovné tanky:
+
+STUDENOVODNÍ (pstruh, siven, losos)
+- INFO: O₂ 6.0–6.5 mg/l (trend klesání pod komfort)
+- WARNING: O₂ 5.0–6.0 mg/l
+- CRITICAL: O₂ < 5.0 mg/l (u intenzivních výkrmů lze nastavit < 4.5 mg/l jako „hard alarm“)
+
+TEPLOVODNÍ (kapr, amur, tolstolobik, lín)
+- INFO: O₂ 5.0–5.5 mg/l
+- WARNING: O₂ 4.5–5.0 mg/l
+- CRITICAL: O₂ < 4.5 mg/l
+
+TILAPIE / SUMCI / PANGAS
+- INFO: O₂ 4.0–4.5 mg/l
+- WARNING: O₂ 3.5–4.0 mg/l
+- CRITICAL: O₂ < 3.5 mg/l
+
+JEZÍRKA A KOI
+- INFO: O₂ 5.0–6.0 mg/l
+- WARNING: O₂ 4.5–5.0 mg/l
+- CRITICAL: O₂ < 4.5 mg/l
+
+Doporučená logika:
+- krátké zpoždění (delay) pro CRITICAL: např. 30–60 s
+- delší zpoždění pro WARNING: 2–5 min
+- INFO může být bez zpoždění, ale s hysterézí (např. alarm při poklesu pod limit,
+  klesání ukončit až při návratu nad limit + 0.2 mg/l).
+
+Pro RAS je vhodné oddělit:
+- alarmy z tankových sond,
+- alarmy z centrálního O₂ systému (hlavní rozvod, saturátor, tlak v systému apod.).
+
+
+------------------------------------------------
+4. ALARMY NA pH
+------------------------------------------------
+
+Obecně:
+- cílové pH: 6.8–7.8 (podle druhu),
+- v RAS je důležitá stabilita – výkyvy jsou často horší než mírně „mimo ideál“.
+
+Příklad obecného nastavení:
+
+INFO:
+- pH 6.6–6.8 nebo 7.8–8.0 (blíží se hraně)
+
+WARNING:
+- pH 6.4–6.6 nebo 8.0–8.2
+
+CRITICAL:
+- pH < 6.4 (riziko inhibice nitrifikace, acid stress)
+- pH > 8.2 (zvyšuje toxickou NH₃ frakci)
+
+V praxi může být pro studenovodní druhy nastaveno užší pásmo
+než pro kapra nebo tilapii.
+
+Logika:
+- použít delší zpoždění (např. 5–10 min), protože pH se mění pomaleji,
+- používat hysterézi (např. CRITICAL alarm se vypne až při návratu
+  do bezpečného pásma + 0.1–0.2 pH jednotky).
+
+
+------------------------------------------------
+5. ALARMY NA NITRIT (NO₂⁻)
+------------------------------------------------
+
+NO₂ je akutně toxický – alarmové limity jsou kritické pro prevenci úhynů.
+
+Obecně (většina druhů):
+- INFO: NO₂ 0.2–0.3 mg/l
+- WARNING: NO₂ 0.3–0.5 mg/l
+- CRITICAL: NO₂ > 0.5–1.0 mg/l (podle citlivosti druhu)
+
+Citlivější druhy (pstruh, siven, losos, jeseteři, KOI):
+- INFO: NO₂ 0.1–0.2 mg/l
+- WARNING: NO₂ 0.2–0.3 mg/l
+- CRITICAL: NO₂ > 0.3–0.5 mg/l
+
+Méně citlivé druhy (tilapie, některé sumčí druhy):
+- INFO: NO₂ 0.3–0.5 mg/l
+- WARNING: NO₂ 0.5–0.7 mg/l
+- CRITICAL: NO₂ > 0.7–1.0 mg/l
+
+Logika:
+- NO₂ se mění pomaleji než O₂, zpoždění alarmu může být v řádu 10–30 minut,
+  aby se eliminovaly jednotlivé špičky měření,
+- CRITICAL alarm by ale neměl být „uspaný“ příliš dlouho – u citlivých druhů
+  zvolit raději kratší delay a pevný akční plán.
+
+
+------------------------------------------------
+6. ALARMY NA PRŮTOK, HLADINU A RYCHLOST VODY
+------------------------------------------------
+
+Klíčové prvky:
+- průtok hlavním okruhem (k filtraci),
+- průtok do jednotlivých tanků,
+- hladina v nádržích / sumpu,
+- tlak v potrubí (pokud je měřen).
+
+Příklady:
+
+Hlavní recirkulační průtok:
+- INFO: pokles na 90–95 % nominálního průtoku
+- WARNING: 80–90 %
+- CRITICAL: < 80 % nebo prudký pokles (např. 20 % během 1–2 minut)
+
+Průtok do jednotlivých tanků:
+- INFO: odchylka ±10 % od cílového průtoku
+- WARNING: odchylka ±20 %
+- CRITICAL: průtok → 0 nebo > 150 % (překročení kapacity přepadu, riziko přelití)
+
+Hladina v sumpu:
+- INFO: blíží se min/max pracovním hranicím,
+- WARNING: hladina pod min. nebo nad max. (riziko nasávání vzduchu nebo přelivu),
+- CRITICAL: kriticky nízká hladina (nasávání vzduchu do pump, kavitační riziko).
+
+Logika:
+- průtokové senzory často „šumí“, nutné filtrovat data a mít krátké zpoždění (30–120 s),
+- CRITICAL alarmy průtoku by měly být navázané na nouzovou logiku:
+  - automatické vypnutí některých okruhů, pokud hrozí suchý běh čerpadel,
+  - zapnutí záložních pump (N+1).
+
+
+------------------------------------------------
+7. ALARMY NA NAPÁJENÍ A ZÁLOŽNÍ ZDROJE
+------------------------------------------------
+
+Kategorie:
+
+1) Výpadek sítě (grid power fail)
+   - CRITICAL alarm: okamžitý (0–5 s),
+   - akce: automatické přepnutí na UPS / diesel agregát,
+   - SMS/telefon: okamžitě.
+
+2) Běh na agregát / UPS
+   - INFO: běží záložní napájení,
+   - WARNING: nízké palivo / nízká kapacita baterie,
+   - CRITICAL: riziko vypnutí záložního zdroje (palivo < X %, baterie < Y %).
+
+3) Výpadek napájení konkrétní větve (např. aerace / filtrace / senzory)
+   - WARNING: výpadek méně kritických zátěží,
+   - CRITICAL: výpadek napájení pro hlavní recirkulaci, aeraci nebo O₂ systém.
+
+Důležité:
+- testovat alarmy výpadku napájení pravidelně (např. měsíčně),
+- logovat DÉLKU výpadku a reakční čas přepnutí,
+- mít jasné akční plány pro „blackout > X minut“.
+
+
+------------------------------------------------
+8. ZPOŽDĚNÍ, HYSTEREZE A ALARM FLOODING
+------------------------------------------------
+
+Zpoždění (delay):
+- krátké pro rychlé parametry (O₂, průtok, napájení),
+- delší pro pomalejší parametry (pH, NO₂, NO₃).
+
+Hystereze:
+- alarm se aktivuje při překročení limitu,
+- deaktivuje se až při návratu do bezpečné zóny s určitou rezervou
+  (např. O₂ CRITICAL < 4.5 mg/l, vypnutí alarmu až při > 4.8 mg/l).
+
+Alarm flooding:
+- nesmí dojít ke stavu, kdy se obsluha topí v desítkách alarmů najednou.
+Praktická opatření:
+- seskupovat alarmy (např. „Low O₂ group alarm“),
+- mít „root cause“ alarmy (výpadek napájení → nevypisovat 30 dalších sekundárních alarmů),
+- používat priority (CRITICAL nadřazené WARNING a INFO).
+
+
+------------------------------------------------
+9. PŘÍKLAD ALARMOVÉ MATICE (ZJEDNODUŠENÁ)
+------------------------------------------------
+
+Níže je orientační matice – konkrétní hodnoty je nutno upravit dle farmy.
+
+O₂ – pstruh / siven:
+- INFO: O₂ 6.0–6.5 mg/l (delay: 2 min)
+- WARNING: O₂ 5.0–6.0 mg/l (delay: 1 min, SMS)
+- CRITICAL: O₂ < 5.0 mg/l (delay: 30 s, SMS + telefon, automatická záložní aerace)
+
+NO₂ – citlivé druhy:
+- INFO: 0.1–0.2 mg/l (delay: 30 min)
+- WARNING: 0.2–0.3 mg/l (delay: 20 min, SMS)
+- CRITICAL: > 0.3–0.5 mg/l (delay: 10–15 min, SMS + call, doporučit částečnou výměnu vody)
+
+pH:
+- INFO: 6.6–6.8 / 7.8–8.0 (delay: 10 min)
+- WARNING: 6.4–6.6 / 8.0–8.2 (delay: 10 min)
+- CRITICAL: < 6.4 nebo > 8.2 (delay: 5–10 min, SMS + call)
+
+Průtok hlavním okruhem:
+- INFO: 90–95 % nominálu (delay: 2 min)
+- WARNING: 80–90 % (delay: 1 min, SMS)
+- CRITICAL: < 80 % nebo pokles > 20 % během 1–2 min (delay: 30 s, SMS + call, automatické zásahy)
+
+Napájení:
+- CRITICAL: výpadek sítě (delay: 0–5 s, okamžitá reakce),
+- INFO: systém běží na agregát (log + SMS),
+- WARNING: nízké palivo (< X hodin provozu) / baterie (< Y %).
+
+
+------------------------------------------------
+10. TESTOVÁNÍ A VALIDACE ALARMŮ
+------------------------------------------------
+
+Aby alarmový systém nebyl jen teorie, je nutné:
+
+1) Pravidelně testovat:
+   - výpadek napájení,
+   - simulaci nízkého O₂ (např. zkušebně snížit setpoint v jednom tanku),
+   - simulaci výpadku pumpy.
+
+2) Dokumentovat:
+   - kdo byl upozorněn,
+   - jak rychle reagoval,
+   - jak dlouho trval stav.
+
+3) Revidovat limity:
+   - na základě zkušeností,
+   - po změně technologie (nový druh, nové tanky, jiné zatížení).
+
+4) Mít návaznost na akční plány:
+   - pro každý CRITICAL alarm by měl existovat stručný „protokol první reakce“
+     (např. KB10 – havarijní scénáře).
+
+
+------------------------------------------------
+11. VAZBA NA AQUANTIS A KNOWLEDGE BASE
+------------------------------------------------
+
+Model Aquantis může využívat tuto KB tak, že:
+
+- při interpretaci dat ze senzorů bude:
+  - vysvětlovat, PROČ se alarm aktivoval,
+  - navrhovat první kroky obsluze,
+  - odkazovat na relevantní KB dokumenty (např. KB01 – kvalita vody, KB16 – mikrobiologie RAS).
+
+- v budoucnu může Aquantis:
+  - generovat návrhy alarmových matic pro konkrétní farmu,
+  - analyzovat historii alarmů a doporučit úpravu limitů nebo logiky.
+
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+
+Verze: KB24 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)

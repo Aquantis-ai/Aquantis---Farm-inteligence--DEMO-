@@ -1,0 +1,219 @@
+KB-KOI-14 – VIRY KOI (KHV, SVC, HERPESVIRY) (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: KOI – zdraví a biosecurity
+Typ dokumentu: Odborný referenční dokument
+Použití v Aquantis: Diagnostika, prevence, krizové řízení
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument shrnuje klíčové virové choroby KOI kaprů,
+jejich biologii, projevy, rizika přenosu a principy prevence.
+
+Dokument slouží jako:
+- diagnostická opora (symptomatika),
+- nástroj prevence a biosecurity,
+- podklad pro rozhodování v krizových situacích.
+
+Neobsahuje léčebné protokoly s léčivy – virová onemocnění
+nemají kauzální léčbu.
+
+
+------------------------------------------------
+2. ZÁKLADNÍ CHARAKTERISTIKA VIROVÝCH ONEMOCNĚNÍ KOI
+------------------------------------------------
+Virové choroby KOI jsou:
+- vysoce nakažlivé,
+- často latentní (skryté nosičství),
+- schopné vyvolat masivní mortalitu,
+- prakticky neléčitelné.
+
+Zásadními faktory jsou:
+- teplota vody,
+- stres,
+- hustota ryb,
+- import nových jedinců.
+
+
+------------------------------------------------
+3. KOI HERPESVIRUS (KHV, CyHV-3)
+------------------------------------------------
+
+3.1 Základní charakteristika
+----------------------------
+- DNA virus z čeledi Herpesviridae
+- Primární hostitel: kapr obecný (Cyprinus carpio) a KOI
+- Jedna z nejzávažnějších chorob KOI vůbec
+
+3.2 Teplotní závislost
+----------------------
+- Aktivní infekce: cca 16–28 °C
+- Optimální šíření: 18–25 °C
+- Pod 13 °C a nad 30 °C může přejít do latentní fáze
+
+3.3 Klinické příznaky
+---------------------
+- apatie, ztráta rovnováhy
+- ryby stojí u hladiny nebo u výtoku
+- nekrotické změny žaber (bledé, rozpadlé)
+- zvýšená produkce hlenu
+- zapadlé oči
+- rychlá mortalita (30–90 % populace)
+
+3.4 Přenos
+-----------
+- přímý kontakt ryba–ryba
+- voda (extrémně efektivní)
+- nástroje, sítě, obuv, ruce
+- latentní nosiči bez příznaků
+
+3.5 Diagnostika
+---------------
+- PCR test (žábry, ledviny)
+- sérologie (omezená výpovědní hodnota)
+- klinický obraz + historie teploty
+
+3.6 Řízení nákazy
+-----------------
+- okamžitá izolace systému
+- zastavení přesunů ryb
+- kontaktování veterinárních orgánů
+- v některých zemích povinné hlášení
+
+
+------------------------------------------------
+4. SVC – SPRING VIREMIA OF CARP
+------------------------------------------------
+
+4.1 Charakteristika
+-------------------
+- RNA virus (Rhabdoviridae)
+- Postihuje kaprovité ryby
+- Regulované onemocnění v EU
+
+4.2 Teplotní okno
+-----------------
+- typicky 10–17 °C
+- nejčastěji na jaře
+
+4.3 Klinické příznaky
+---------------------
+- krváceniny na kůži a ploutvích
+- exoftalmus (vypouklé oči)
+- ascites (nafouklé břicho)
+- apatie, ztráta orientace
+
+4.4 Přenos
+-----------
+- voda
+- kontakt ryb
+- vektory (ptáci)
+
+4.5 Diagnostika
+---------------
+- PCR
+- virologické kultivace
+- histopatologie
+
+4.6 Právní význam
+-----------------
+- v EU povinně hlášené onemocnění
+- možnost karanténních opatření
+
+
+------------------------------------------------
+5. DALŠÍ HERPESVIRY A VIREMIE
+------------------------------------------------
+
+- CyHV-1 (kapří herpesvirus 1)
+- CyHV-2 (častěji u karasů)
+- méně časté, ale potenciálně nebezpečné
+
+Tyto viry:
+- mohou být latentní,
+- aktivují se stresem,
+- často zhoršují průběh jiných onemocnění.
+
+
+------------------------------------------------
+6. LATENTNÍ NOSIČSTVÍ A STRES
+------------------------------------------------
+Herpesviry mají schopnost:
+- přežívat v těle ryby bez klinických příznaků,
+- reaktivovat se při stresu.
+
+Spouštěče reaktivace:
+- teplotní šok
+- transport
+- třídění
+- vysoká hustota
+- špatná kvalita vody
+
+
+------------------------------------------------
+7. PREVENCE A BIOSECURITY
+------------------------------------------------
+
+7.1 Základní principy
+---------------------
+- striktní karanténa nových ryb (min. 4–6 týdnů)
+- oddělené nástroje pro každé jezírko
+- dezinfekce sítí a vybavení
+- kontrola původu ryb
+
+7.2 Karanténní management
+-------------------------
+- samostatný systém
+- kontrolovaný teplotní režim
+- postupné teplotní cykly (KHV risk window)
+- sledování chování a příjmu potravy
+
+7.3 Management rizik
+--------------------
+- nikdy nemíchat ryby z různých zdrojů
+- omezit návštěvy a sdílení techniky
+- evidence pohybu ryb
+
+
+------------------------------------------------
+8. ROZHODOVACÍ SCHÉMA (ZJEDNODUŠENÉ)
+------------------------------------------------
+
+Náhlá mortalita + teplota 18–25 °C?
+→ Podezření na KHV
+
+Krváceniny + jarní období + 10–15 °C?
+→ Podezření na SVC
+
+Bez příznaků, ale po transportu ztráty?
+→ Latentní virová infekce + stres
+
+
+------------------------------------------------
+9. ODBORNÁ VÝCHODISKA (PARAFRÁZOVANÁ)
+------------------------------------------------
+Dokument vychází ze syntézy:
+- FAO Aquatic Animal Health Manuals
+- OIE / WOAH Fish Disease Sheets
+- EU Animal Health Law (SVC, KHV)
+- University Extension Materials (UK, NL, DE)
+- KOI Health & Biosecurity Guidelines (KOI organizations)
+
+Text je autorsky přeformulovaný a slouží jako
+odborný referenční základ pro Aquantis.
+
+
+------------------------------------------------
+10. VERZE DOKUMENTU
+------------------------------------------------
+KB-KOI-14 – V1
+Určeno pro: Aquantis Knowledge Base
+Použití: Diagnostika, prevence, krizové scénáře

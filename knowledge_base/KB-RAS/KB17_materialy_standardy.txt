@@ -1,0 +1,217 @@
+Aquantis_KB17_RAS_KONSTRUKČNÍ_MATERIÁLY_A_TECHNICKÉ_STANDARDY_V1
+================================================================
+
+ÚČEL DOKUMENTU
+----------------------------------------------------------------
+Tento dokument shrnuje hlavní konstrukční materiály používané v RAS systémech,
+jejich vlastnosti, výhody, limity a doporučené technické standardy pro nádrže,
+rozvody, biofiltry a podporující komponenty.
+
+Obsah je syntézou otevřených odborných zdrojů:
+- FAO aquaculture engineering guidelines,
+- Univerzitní extension materiály (Auburn, UF/IFAS, NC State),
+- Průmyslové standardy výrobců RAS technologií (parafrázovaně),
+- Best practices z komerčních RAS provozů EU/USA.
+
+Text je zcela nově formulovaný a právně bezpečný.
+
+
+----------------------------------------------------------------
+1. HLAVNÍ MATERIÁLY POUŽÍVANÉ V RAS SYSTÉMECH
+----------------------------------------------------------------
+
+Níže uvedené materiály se používají v různých částech systému podle požadavků
+na hygienu, mechanickou odolnost, chemickou inertnost a životnost.
+
+1.1 Polyetylen (HDPE)
+- Výhody:
+  - vysoká chemická odolnost,
+  - inertní vůči pH, solím, ozonu,
+  - dlouhá životnost (20–30 let),
+  - jednoduché svařování, modulární systémy.
+- Nevýhody:
+  - nižší tuhost než sklolaminát,
+  - větší tloušťka potřebná pro velké nádrže.
+- Využití:
+  - kruhové nádrže,
+  - rozvody, potrubí, sekční nádrže.
+
+1.2 Polypropylen (PP)
+- Výhody: vyšší teplotní stabilita, odolný vůči mechanickému namáhání.
+- Nevýhody: hůře svařitelný než HDPE.
+- Využití: potrubní systémy, sedimentační sekce, komponenty biofiltrů.
+
+1.3 PVC (U-PVC / C-PVC)
+- Výhody: snadná dostupnost, nízká cena.
+- Nevýhody: méně vhodné pro ozon, omezená teplotní stabilita.
+- Využití: menší rozvody, ventilační a bypass okruhy.
+
+1.4 Sklolaminát (GRP / FRP)
+- Výhody:
+  - velmi vysoká tuhost,
+  - nízká hmotnost,
+  - chemická stabilita.
+- Nevýhody:
+  - vyšší cena,
+  - speciální výroba na zakázku.
+- Využití:
+  - velké kruhové nádrže,
+  - sedimentační a kalové sekce,
+  - pokročilé protein skimmery.
+
+1.5 Nerezová ocel (AISI 304/316)
+- Výhody:
+  - mechanická stabilita,
+  - odolnost vůči tlaku.
+- Nevýhody:
+  - citlivost na chloridy (korozní riziko),
+  - vysoká cena.
+- Využití:
+  - vysokotlaké části (čerpadla, ventily),
+  - nosné konstrukce,
+  - speciální výměníky.
+
+1.6 Beton
+- Výhody: dlouhá životnost, stabilita, levný pro velké objemy.
+- Nevýhody: nutnost kvalitní povrchové úpravy (epoxidy),
+- Využití:
+  - bazénové RAS,
+  - masivní sedimentační tanky.
+
+
+----------------------------------------------------------------
+2. POVRCHOVÉ ÚPRAVY A OCHRANNÉ NÁTĚRY
+----------------------------------------------------------------
+
+2.1 Epoxidové nátěry
+- používané na beton, kov, FRP
+- zajišťují chemickou inertnost
+- kompatibilní s potravinářským prostředím
+- nutná certifikace pro pitnou vodu v některých zemích
+
+2.2 Polyuretanové nátěry
+- flexibilnější než epoxid
+- vyšší odolnost proti abrazi
+- méně odolné proti vysokému ozonu
+
+2.3 Gelcoat (u FRP)
+- standardní povrchová úprava sklolaminátu
+- hladký povrch → snadné čištění
+- stabilita vůči UV a ozonu (v rámci limitů)
+
+
+----------------------------------------------------------------
+3. STANDARDY PRO NÁDRŽE A KONSTRUKČNÍ PRVKY
+----------------------------------------------------------------
+
+3.1 Geometrie nádrží
+- Kruhové nádrže:
+  - nejlepší hydraulické vlastnosti,
+  - podporují self-cleaning efekt.
+- Radius zkosení dna min. 3–5 % průměru.
+- Rychlost rotace vody: 5–20 cm/s podle druhu ryb.
+
+3.2 Konstrukční standardy
+- Minimální tloušťka stěn (orientačně):
+  - HDPE: 8–15 mm (malé tanky), 20–40 mm (velké)
+  - FRP: 5–10 mm podle průměru
+- Protiskluzová úprava v servisních zónách
+- Přístupové lávky s nosností min. 150 kg/m²
+
+3.3 Vtoky a výtoky
+- Tangenciální vstup podporuje rotační proudění.
+- Minimálně 1,5–2× kompletní výměna tanku/h proběhne skrz výtok.
+- Odvod kalu je optimalizovaný pomocí centrálního dna a konického profilu.
+
+
+----------------------------------------------------------------
+4. POTRUBNÍ SYSTÉMY A TLAKOVÉ NÁROKY
+----------------------------------------------------------------
+
+4.1 Dimenzování potrubí
+- Doporučená rychlost proudění:
+  - gravitační úseky: 0.3–0.7 m/s
+  - tlakové úseky: 1.0–1.5 m/s
+- PVC-U nebo HDPE SDR11 jsou nejčastější volby.
+
+4.2 Armatury
+- Kulové ventily: malé okruhy, bypassy.
+- Nožové šoupě: sedimentační sekce, kalové odtoky.
+- Motorizované klapky: automatizace RAS, řízení průtoku.
+
+4.3 Ozon–kompatibilita
+- Pozor na PVC, PP → rychle degradují při vysokém ozonu.
+- HDPE a PVDF jsou nejvhodnější.
+
+
+----------------------------------------------------------------
+5. STANDARDY PRO BIOFILTRY A FILTRACI
+----------------------------------------------------------------
+
+5.1 Moving Bed (MBBR)
+- Materiály: HDPE carrier médium, PP komory.
+- Minimální volný objem: 40–60 %.
+- Průměrná ORP: 250–350 mV (bez ozonu).
+
+5.2 Fixed Bed (FBBR)
+- Konstrukční požadavky:
+  - rovnoměrné rozdělení toku,
+  - jednoduchý přístup pro čištění.
+- Materiály: FRP, HDPE, PP.
+
+5.3 Protein skimmery
+- Nejčastěji FRP nebo PVC.
+- Pracovní ORP do 350–380 mV.
+- Vysoká citlivost na materiál těla a těsnění.
+
+
+----------------------------------------------------------------
+6. NÁVRHOVÉ ZÁSADY PRO MATERIÁLY VE VZTAHU K RAS
+----------------------------------------------------------------
+
+6.1 Hygienická inertnost
+Materiály by neměly uvolňovat:
+- ftaláty,
+- těžké kovy,
+- plastifikátory,
+- organické kontaminanty.
+
+HDPE a FRP splňují tyto požadavky nejlépe.
+
+6.2 Odolnost proti čištění
+- UV dezinfekce → kompatibilní téměř se vším.
+- Ozon → nutné volit odolné polymery (HDPE, PVDF).
+- Peroxid vodíku → FRP a HDPE velmi stabilní.
+
+6.3 Tepelná stabilita
+- U teplovodních druhů (tilapie, sumec) doporučena vyšší teplotní tolerance materiálu.
+
+6.4 Servisní přístupnost
+- všechny filtrační komponenty musí být přístupné bez kompletního vypouštění.
+
+
+----------------------------------------------------------------
+7. REAL-CASE SCÉNÁŘE Z PRAXE
+----------------------------------------------------------------
+
+Scénář 1: Degradace PVC v ozonovém okruhu
+- Po 6 měsících provozu PVC trubky ztvrdly a praskaly.
+- Řešení: kompletní přechod na HDPE SDR11.
+
+Scénář 2: Kolaps FRP nádrže kvůli nedostatečné tloušťce
+- Při průměru 8 m byla stěna pouze 6 mm.
+- Po napuštění došlo k deformaci.
+- Řešení: zesílení laminátu na 12 mm + výztužné žebra.
+
+Scénář 3: Chemická interakce epoxidu se silným ozonem
+- ORP přesahovalo 450 mV.
+- Povrch začal křehnout.
+- Řešení: instalace ozonového destruktoru + snížení dávky ozonu.
+
+
+----------------------------------------------------------------
+8. VERZE A METADATA
+----------------------------------------------------------------
+Verze: KB17 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)

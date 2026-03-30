@@ -1,0 +1,236 @@
+Aquantis_KB30_WELFARE_V_RAS_V1
+================================================
+
+ÚČEL DOKUMENTU
+------------------------------------------------
+Tento dokument definuje principy welfare ryb v recirkulačních akvakulturních systémech (RAS).
+Slouží jako odborný referenční materiál pro:
+- diagnostiku stresu a zhoršeného welfare,
+- návrh technologických a provozních opatření,
+- dlouhodobou stabilitu produkce,
+- splnění etických a certifikačních požadavků (ASC, EU welfare rámce).
+
+Dokument je syntézou poznatků z:
+- FAO & OIE doporučení pro welfare ryb,
+- ASC RAS Module,
+- vědeckých studií (Aquaculture, Journal of Fish Biology, Reviews in Aquaculture),
+- univerzitních extension materiálů,
+- dlouhodobé provozní praxe v RAS systémech.
+
+Neobsahuje žádný převzatý text 1:1.
+
+
+------------------------------------------------
+1. DEFINICE WELFARE RYB V RAS
+------------------------------------------------
+
+Welfare ryb je stav, ve kterém jsou splněny:
+- fyziologické potřeby,
+- behaviorální potřeby,
+- zdravotní potřeby,
+- schopnost adaptace bez chronického stresu.
+
+V RAS systémech je welfare:
+- přímo závislé na technologii,
+- silně ovlivněno managementem,
+- klíčovým faktorem ekonomické návratnosti (růst, FCR, mortalita).
+
+Zhoršené welfare se často projeví dříve změnou chování než úhynem.
+
+
+------------------------------------------------
+2. HLAVNÍ STRESORY V RAS
+------------------------------------------------
+
+2.1 Fyzikální stresory
+- Nízký O₂ / kolísání O₂
+- Vysoké CO₂
+- Nevhodná teplota nebo rychlé změny
+- Nevhodná intenzita proudění
+- Nevhodné osvětlení
+
+2.2 Chemické stresory
+- Zvýšený TAN / NO₂
+- Kolísání pH
+- Nízká alkalita
+- Organické zatížení (BOD, DOC)
+
+2.3 Biologické stresory
+- Vysoká hustota obsádky
+- Agresivita / dominance
+- Paraziti a subklinické infekce
+
+2.4 Provozní stresory
+- Manipulace (třídění, odlov)
+- Náhlé změny krmení
+- Vibrace, hluk, světelné šoky
+
+
+------------------------------------------------
+3. SVĚTLO A FOTOPERIODA
+------------------------------------------------
+
+Světlo ovlivňuje:
+- hormonální regulaci,
+- růst,
+- chování,
+- stresovou odpověď.
+
+Doporučení:
+- Stabilní fotoperioda (např. 12L:12D nebo druhově specifická)
+- Vyhnout se náhlým přechodům tma/světlo
+- Tlumené světlo u citlivých druhů (candát, jeseter)
+
+Orientace:
+- intenzita: 50–300 lux podle druhu
+- difuzní světlo je vhodnější než bodové
+
+Poznámka:
+Příliš silné světlo zvyšuje agresivitu a stres, zejména u predátorů.
+
+
+------------------------------------------------
+4. HUSTOTA OBSÁDKY A PROSTOR
+------------------------------------------------
+
+Hustota je jeden z nejsilnějších welfare faktorů.
+
+Obecné principy:
+- biologická únosnost ≠ welfare optimum
+- vyšší hustota = vyšší stres i při dobré kvalitě vody
+
+Příklady orientačních limitů:
+- pstruh: 40–80 kg/m³ (podle velikosti)
+- candát: 20–50 kg/m³
+- tilapie: 60–120 kg/m³
+- sumec africký: 80–150 kg/m³
+
+Při vysokých hustotách:
+- roste agresivita,
+- zhoršuje se FCR,
+- roste náchylnost k nemocem.
+
+
+------------------------------------------------
+5. PROUDĚNÍ A CHOVÁNÍ RYB
+------------------------------------------------
+
+Proudění ovlivňuje:
+- energetický výdej,
+- pozici ryb v tanku,
+- interakce mezi jedinci.
+
+Welfare optimum:
+- ryby udržují pozici bez nadměrné námahy
+- nejsou vytlačovány ke stěnám nebo k hladině
+
+Příliš nízké proudění:
+- stagnace,
+- špatná distribuce O₂,
+- zvýšený stres dominantních jedinců
+
+Příliš vysoké proudění:
+- chronická únava,
+- horší růst,
+- deformace těla u juvenilních ryb
+
+
+------------------------------------------------
+6. BEHAVIORÁLNÍ INDIKÁTORY WELFARE
+------------------------------------------------
+
+Pozitivní welfare:
+- rovnoměrné rozložení ryb
+- klidné plavání proti proudu
+- synchronizované krmení
+- rychlá reakce na krmivo
+
+Negativní welfare:
+- shlukování u hladiny
+- apatie nebo chaotické plavání
+- agresivní útoky
+- odmítání krmiva
+- izolace jednotlivců
+
+Behaviorální změny jsou často první varovný signál.
+
+
+------------------------------------------------
+7. FYZIOLOGICKÉ A ZDRAVOTNÍ INDIKÁTORY
+------------------------------------------------
+
+Indikátory zhoršeného welfare:
+- zvýšený kortizol (laboratorně)
+- zhoršený FCR
+- pomalejší růst
+- poškození ploutví
+- kožní léze
+- zvýšená mortalita bez jasné infekce
+
+Welfare a imunita jsou úzce propojené:
+chronický stres = oslabená imunita.
+
+
+------------------------------------------------
+8. WELFARE A KRMITELNOST
+------------------------------------------------
+
+Krmení je silný welfare indikátor:
+- změna chuti k jídlu = první signál problému
+- nerovnoměrný příjem krmiva ukazuje na stres nebo dominanci
+
+Doporučení:
+- více menších krmných dávek
+- rovnoměrná distribuce krmiva
+- sledování chování během krmení
+
+
+------------------------------------------------
+9. MANAGEMENTOVÁ OPATŘENÍ PRO ZLEPŠENÍ WELFARE
+------------------------------------------------
+
+1. Stabilní prostředí (bez rychlých změn)
+2. Kvalitní monitoring (O₂, CO₂, pH, NO₂)
+3. Optimalizace hustoty
+4. Minimalizace manipulace
+5. Přizpůsobení světla a proudění druhu
+6. Rychlá reakce na behaviorální změny
+7. Školený personál schopný číst chování ryb
+
+
+------------------------------------------------
+10. WELFARE A CERTIFIKACE
+------------------------------------------------
+
+Welfare je klíčovým kritériem:
+- ASC RAS Module
+- EU welfare guidelines
+- některé národní legislativy
+
+Dokumentace welfare:
+- záznamy chování,
+- mortalita,
+- zásahy,
+- havarijní události
+
+Dobré welfare = nižší riziko regulatorních problémů.
+
+
+------------------------------------------------
+11. SHRNUTÍ PRO AQUANTIS
+------------------------------------------------
+
+Aquantis musí welfare chápat jako:
+- dynamický proces,
+- kombinaci fyzikálních, biologických a provozních faktorů,
+- klíčový diagnostický nástroj.
+
+Změna chování ryb je často nejrychlejší a nejspolehlivější indikátor problému v RAS.
+
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+Verze: KB30 – V1  
+Poslední aktualizace: 2025-02  
+Určeno pro: Aquantis Knowledge Base (interní použití)

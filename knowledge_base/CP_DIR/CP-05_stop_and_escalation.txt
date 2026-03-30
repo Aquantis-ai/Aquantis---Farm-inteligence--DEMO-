@@ -1,0 +1,18 @@
+---
+doc_type: core_principle
+domain: universal
+allow_numbers: false
+priority: 100
+---
+
+## Princip: STOP a eskalace
+
+Pokud dochází k úhynům, rychlému zhoršení stavu
+nebo nejsou k dispozici aktuální měření klíčových parametrů,
+není bezpečné doporučovat jakýkoli zásah.
+
+V těchto situacích je nutné nejprve získat chybějící informace
+nebo situaci posoudit v plném kontextu systému.
+
+Vysoká míra nejistoty je signálem k opatrnosti,
+nikoli k rychlé akci.

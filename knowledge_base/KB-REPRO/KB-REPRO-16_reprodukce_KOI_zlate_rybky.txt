@@ -1,0 +1,224 @@
+Aquantis_KB-REPRO-16_REPRODUKCE_KOI_A_ZLATÉ_RYBKY_V1
+==================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Reprodukce ryb
+Typ dokumentu: Technický + praktický reprodukční protokol
+Použití v Aquantis: Diagnostika, plánování výtěrů, prevence chyb
+Vhodné pro RAG: Ano
+Verze: V1
+Cílová skupina: KOI chovatelé (hobby i profesionální), líhně, okrasná jezírka
+
+
+------------------------------------------------
+1. SPECIFIKA REPRODUKCE OKRASNÝCH KAPRŮ
+------------------------------------------------
+
+KOI kapr (Cyprinus rubrofuscus "koi") a zlatá rybka (Carassius auratus)
+patří mezi kaprovité ryby, ale jejich reprodukce má specifika daná:
+
+- dlouhodobou domestikací,
+- selekcí na barvu a tvar (ne na plodnost),
+- častým chovem v umělých podmínkách,
+- vysokou citlivostí jiker a larev na kvalitu vody.
+
+Na rozdíl od produkčního kapra je cílem:
+- maximalizovat přežití kvalitního plůdku,
+- minimalizovat deformace,
+- zachovat genetickou a fenotypovou kvalitu (barva, kresba).
+
+
+------------------------------------------------
+2. POHLAVNÍ DOSPĚLOST A VÝBĚR GENERAČNÍCH RYB
+------------------------------------------------
+
+KOI kapr:
+- samci: 2–3 roky
+- samice: 3–5 let
+- ideální hmotnost samice: > 2 kg
+
+Zlatá rybka:
+- samci: 1–2 roky
+- samice: 2–3 roky
+
+Kritéria výběru:
+- bez deformací (hlava, páteř, ploutve),
+- bez kožních lézí,
+- aktivní chování,
+- správná tělesná kondice (ne přetučnění),
+- u KOI preference požadovaných barevných linií.
+
+Poznámka:
+Selektované KOI linie mají často nižší fertilitu než běžný kapr.
+
+
+------------------------------------------------
+3. SPOUŠTĚČE TŘENÍ
+------------------------------------------------
+
+Hlavní environmentální spouštěče:
+
+Teplota:
+- KOI: 18–22 °C (optimální 20–22 °C)
+- zlatá rybka: 16–20 °C
+
+Fotoperioda:
+- prodlužující se den (jaro)
+- > 12–14 hodin světla
+
+Hydraulika:
+- zvýšený průtok,
+- simulace deště,
+- mírné proudění v třecím prostoru
+
+Kvalita vody:
+- O₂ > 6 mg/l
+- pH 6.8–7.6
+- NH₃ prakticky nulové
+- NO₂ < 0.1 mg/l
+
+
+------------------------------------------------
+4. PŘIROZENÉ TŘENÍ KOI A ZLATÉ RYBKY
+------------------------------------------------
+
+Typ tření:
+- substrátové tření
+- jikry jsou lepkavé
+
+Používané třecí substráty:
+- třecí rohože (koi brushes),
+- syntetická vlákna,
+- vodní rostliny (v hobby jezírkách).
+
+Průběh:
+1. Samci pronásledují samici.
+2. Mechanická stimulace uvolní jikry.
+3. Oplodnění probíhá okamžitě.
+4. Tření trvá několik hodin (často brzy ráno).
+
+Rizika:
+- požírání jiker rodiči,
+- mechanické poškození,
+- bakteriální kontaminace.
+
+
+------------------------------------------------
+5. MANIPULACE PO TŘENÍ
+------------------------------------------------
+
+Bezprostředně po tření:
+- odstranit rodiče (do 1–2 hodin),
+- jemně opláchnout substrát,
+- zajistit silnou aeraci.
+
+Doporučení:
+- nikdy nenechávat rodiče s jikrami,
+- nenechat substrát vyschnout,
+- minimalizovat manipulaci rukama.
+
+
+------------------------------------------------
+6. INKUBACE JIKER
+------------------------------------------------
+
+Optimální podmínky:
+- teplota: 20–23 °C
+- O₂: > 7 mg/l
+- jemná aerace
+- nízké organické zatížení
+
+Doba líhnutí:
+- KOI: 3–5 dní (dle teploty)
+- zlatá rybka: 3–4 dny
+
+Hlavní rizika:
+- plísně (Saprolegnia),
+- bakteriální rozklad,
+- hypoxie.
+
+Poznámka:
+V hobby chovech se často podceňuje význam průtoku a kyslíku.
+
+
+------------------------------------------------
+7. LARVY A PRVNÍ KRITICKÉ OBDOBÍ
+------------------------------------------------
+
+Rozplavání:
+- 2–3 dny po vylíhnutí
+
+První krmení:
+- KOI: infusoria → nauplie Artemia
+- zlatá rybka: jemný plankton, rotatoria
+
+Kritické chyby:
+- pozdní zahájení krmení,
+- příliš hrubé krmivo,
+- špatná kvalita vody.
+
+Nejvyšší mortalita:
+- 3.–10. den po rozplavání
+
+
+------------------------------------------------
+8. SPECIFIKA SELEKCE KOI PLŮDKU
+------------------------------------------------
+
+KOI mají extrémně vysokou variabilitu:
+- většina plůdku není vhodná pro další chov.
+
+Selektivní kroky:
+- první selekce: 2–4 týdny
+- druhá selekce: 6–8 týdnů
+
+Cíle selekce:
+- symetrie těla,
+- kvalita kresby,
+- absence deformací.
+
+Poznámka:
+Až 90 % plůdku je vyřazeno při profesionálním KOI chovu.
+
+
+------------------------------------------------
+9. ČASTÉ CHYBY V KOI REPRODUKCI
+------------------------------------------------
+
+- příliš mladé samice,
+- přetučnění generační ryby,
+- špatná kvalita vody během tření,
+- ponechání rodičů u jiker,
+- nedostatek kyslíku,
+- podcenění prvního krmení.
+
+V hobby chovech:
+- spontánní tření bez kontroly,
+- vysoká mortalita larev,
+- nekontrolované křížení linií.
+
+
+------------------------------------------------
+10. ZDROJE A ODBORNÁ VÝCHODISKA
+------------------------------------------------
+
+Dokument vychází ze syntézy otevřených a obecně uznávaných zdrojů:
+
+- FAO – Reproductive biology of Cyprinids
+- Koi Organisation International (KOI) – breeding guidelines
+- University extension materials (ornamental carp reproduction)
+- Practical koi breeding manuals (Japan, EU)
+- Scientific literature on Cyprinidae reproduction
+
+Text je plně parafrázovaný a vytvořený pro interní použití
+v Aquantis Knowledge Base.
+
+
+------------------------------------------------
+11. VERZE DOKUMENTU
+------------------------------------------------
+KB-REPRO-16 – V1
+Poslední aktualizace: 2025-02
+Určeno pro: Aquantis Knowledge Base

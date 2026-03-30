@@ -1,0 +1,220 @@
+KB-KOI-POND-04 – ZIMOVÁNÍ HOBBY JEZÍREK (V1)
+================================================
+
+------------------------------------------------
+METADATA
+------------------------------------------------
+KB oblast: Okrasná jezírka / Hobby chovy
+Typ dokumentu: Technický & provozní manuál
+Použití v Aquantis: Sezónní management, diagnostika zimních úhynů
+Vhodné pro RAG: Ano
+Verze: V1
+Poslední aktualizace: 2025-02
+
+
+------------------------------------------------
+1. ÚČEL A VÝZNAM ZIMOVÁNÍ JEZÍRKA
+------------------------------------------------
+
+Zimování je kritické období pro přežití ryb v okrasných jezírkách.
+Většina zimních úhynů není způsobena samotným chladem, ale:
+
+- nedostatkem kyslíku,
+- hromaděním toxických plynů (CO₂, H₂S),
+- rozkladem organické hmoty,
+- chybnou manipulací s technologií,
+- nevhodnou hloubkou jezírka.
+
+Cílem zimního managementu je:
+- zajistit stabilní vodní prostředí pod ledem,
+- minimalizovat stres ryb,
+- zabránit toxickým procesům na dně jezírka.
+
+
+------------------------------------------------
+2. FYZIKA A BIOLOGIE ZIMNÍHO JEZÍRKA
+------------------------------------------------
+
+Základní principy:
+- Voda má nejvyšší hustotu při 4 °C → tato vrstva se drží u dna.
+- Při správné hloubce jezírka ryby zimují v tzv. „teplé vrstvě“.
+- Led izoluje vodu, ale zároveň brání výměně plynů.
+
+Rizikové procesy v zimě:
+- rozklad sedimentu → tvorba CO₂, CH₄, H₂S,
+- spotřeba kyslíku mikroorganismy,
+- nulová fotosyntéza (krátký den, sníh na ledu).
+
+
+------------------------------------------------
+3. MINIMÁLNÍ TECHNICKÉ POŽADAVKY NA ZIMOVÁNÍ
+------------------------------------------------
+
+### 3.1 Hloubka jezírka
+- minimální bezpečná hloubka: 120–150 cm
+- ideální pro KOI a větší ryby: ≥ 160–180 cm
+
+Mělčí jezírka:
+- vyšší riziko promrznutí,
+- kolísání teploty,
+- vyšší mortalita.
+
+### 3.2 Objem jezírka
+- < 5 m³ → vysoké riziko zimních problémů
+- 5–10 m³ → zvládnutelné s technickými opatřeními
+- > 10 m³ → stabilnější systém
+
+
+------------------------------------------------
+4. PŘÍPRAVA JEZÍRKA PŘED ZIMOU
+------------------------------------------------
+
+### 4.1 Odstranění organické hmoty
+Před zimou:
+- odstranit listí,
+- odkalit dno,
+- vyčistit filtrační komory,
+- snížit množství kalu.
+
+Organická hmota = hlavní zdroj zimní toxicity.
+
+### 4.2 Omezení krmení
+- při teplotě < 10 °C → výrazně omezit krmení
+- < 6–8 °C → krmení zcela zastavit
+- nestrávené krmivo = toxická zátěž
+
+
+------------------------------------------------
+5. TECHNICKÁ OPATŘENÍ V ZIMĚ
+------------------------------------------------
+
+### 5.1 Udržení otvoru v ledu
+Zásadní opatření!
+
+Možnosti:
+- plovoucí zimní plovák (polystyren),
+- vzduchovací kámen v mělké části,
+- nízkovýkonný kompresor,
+- jezírkový odmrazovač.
+
+⚠️ Nikdy:
+- nerozbíjet led mechanicky (rázové vlny → stres, poškození plynového měchýře).
+
+### 5.2 Aerace v zimě
+- slabá, kontinuální aerace
+- umístit difuzor do horní části vodního sloupce
+- neprovzdušňovat dno → narušení teplé vrstvy
+
+### 5.3 Filtrace v zimě
+Možnosti:
+- filtrace vypnuta (běžné u hobby jezírek),
+- částečný zimní provoz (jen mechanika).
+
+Biologická filtrace:
+- při teplotách < 6 °C prakticky nefunguje,
+- bakterie přechází do klidového stavu.
+
+
+------------------------------------------------
+6. CHOVÁNÍ RYB V ZIMĚ – CO JE NORMÁLNÍ
+------------------------------------------------
+
+Normální projevy:
+- minimální pohyb,
+- shlukování u dna,
+- pomalé dýchání,
+- žádný příjem potravy.
+
+Varovné signály:
+- ryby u hladiny pod ledem,
+- rychlé dýchání,
+- ztráta rovnováhy,
+- masové úhyny během oblevy.
+
+
+------------------------------------------------
+7. ZIMOVÁNÍ PODLE DRUHŮ (STRUČNÝ PŘEHLED)
+------------------------------------------------
+
+### KOI kapr
+- velmi odolný, pokud je jezírko dostatečně hluboké
+- citlivý na špatnou kvalitu vody
+
+### Karas zlatý, lín zlatý
+- velmi tolerantní druhy
+- vhodné i pro menší jezírka
+
+### Jeseter
+⚠️ Problematický zimní druh:
+- vyžaduje proudění a kyslík
+- špatně snáší stagnující vodu
+- vysoké riziko zimních úhynů v hobby jezírkách
+
+### Sumcovité ryby
+- citlivé na nízký kyslík
+- nevhodné pro malé jezírko bez aerace
+
+
+------------------------------------------------
+8. ČASTÉ CHYBY PŘI ZIMOVÁNÍ
+------------------------------------------------
+
+- příliš mělké jezírko,
+- ponechání velkého množství listí,
+- příliš silná aerace u dna,
+- rozbíjení ledu,
+- krmení při nízké teplotě,
+- přerybnění před zimou.
+
+
+------------------------------------------------
+9. RYCHLÁ DIAGNOSTIKA ZIMNÍCH PROBLÉMŮ
+------------------------------------------------
+
+### Ryby hynou během zimy:
+- nedostatek kyslíku,
+- toxické plyny z rozkladu.
+
+### Ryby hynou při oblevě:
+- náhlý pokles O₂,
+- uvolnění toxických plynů,
+- teplotní šok.
+
+### Jednotlivé úhyny:
+- oslabení jedinci,
+- dlouhodobý stres z podzimu.
+
+
+------------------------------------------------
+10. SHRNUTÍ BEST PRACTICES
+------------------------------------------------
+
+1. Dostatečná hloubka jezírka.
+2. Minimální organická zátěž před zimou.
+3. Trvale otevřený otvor v ledu.
+4. Jemná aerace mimo dno.
+5. Žádné krmení při nízkých teplotách.
+6. Klid a minimum zásahů.
+
+Zimní období je o stabilitě, ne o aktivitě systému.
+
+
+------------------------------------------------
+11. ODBORNÉ ZDROJE – KONSOLIDOVANÉ PRINCIPY
+------------------------------------------------
+
+Dokument je založen na:
+- univerzitních extension materiálech (cold-water pond management),
+- praktických manuálech KOI chovů (Japonsko, EU),
+- dlouhodobých best practices hobby jezírek,
+- environmentální fyzice stojatých vod.
+
+Text je parafrázovaný a právně bezpečný.
+
+
+------------------------------------------------
+12. VERZE DOKUMENTU
+------------------------------------------------
+KB-KOI-POND-04 – V1
+Určeno pro: Aquantis Knowledge Base
+Stav: Produkční dokument
