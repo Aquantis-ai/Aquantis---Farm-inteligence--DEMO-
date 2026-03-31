@@ -8,10 +8,16 @@ from uuid import uuid4
 import streamlit as st
 
 from modules.ui_text import t
+from modules.workspace import get_workspace_id
 
 
-FARM_PROFILES_PATH = Path("data") / "farm_profiles.json"
-FARM_PROFILES_PATH.parent.mkdir(parents=True, exist_ok=True)
+DATA_DIR = Path("data")
+DATA_DIR.mkdir(parents=True, exist_ok=True)
+
+
+def _get_farm_profiles_path() -> Path:
+    workspace_id = get_workspace_id()
+    return DATA_DIR / f"farm_profiles_{workspace_id}.json"
 
 
 KB_SPECIES_LIST = [
@@ -73,16 +79,18 @@ def _new_id(prefix: str) -> str:
 
 
 def _load_db() -> dict:
-    if not FARM_PROFILES_PATH.exists():
+    farm_profiles_path = _get_farm_profiles_path()
+    if not farm_profiles_path.exists():
         return {"active_farm_id": None, "farms": []}
     try:
-        return json.loads(FARM_PROFILES_PATH.read_text(encoding="utf-8"))
+        return json.loads(farm_profiles_path.read_text(encoding="utf-8"))
     except Exception:
         return {"active_farm_id": None, "farms": []}
 
 
 def _save_db(db: dict):
-    FARM_PROFILES_PATH.write_text(json.dumps(db, ensure_ascii=False, indent=2), encoding="utf-8")
+    farm_profiles_path = _get_farm_profiles_path()
+    farm_profiles_path.write_text(json.dumps(db, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
 def _get_active_farm(db: dict) -> Optional[dict]:

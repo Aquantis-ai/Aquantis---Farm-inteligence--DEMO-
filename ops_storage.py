@@ -5,10 +5,15 @@ from pathlib import Path
 import json
 import pandas as pd
 
+from modules.workspace import get_workspace_id
+
 DATA_DIR = Path("data")
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 
-DAILY_LOG_PATH = DATA_DIR / "daily_log.jsonl"
+
+def _get_daily_log_path() -> Path:
+    workspace_id = get_workspace_id()
+    return DATA_DIR / f"daily_log_{workspace_id}.jsonl"
 
 
 def _now_utc_iso() -> str:
@@ -16,7 +21,8 @@ def _now_utc_iso() -> str:
 
 
 def _save_daily_logs(records: list[dict]) -> None:
-    with open(DAILY_LOG_PATH, "w", encoding="utf-8") as f:
+    daily_log_path = _get_daily_log_path()
+    with open(daily_log_path, "w", encoding="utf-8") as f:
         for rec in records:
             f.write(json.dumps(rec, ensure_ascii=False) + "\n")
 
@@ -35,9 +41,10 @@ def append_daily_log(record: dict) -> dict:
     farm_id = str(rec.get("farm_id") or "")
     unit_id = str(rec.get("unit_id") or "")
     date_key = str(rec.get("date") or "")
+    daily_log_path = _get_daily_log_path()
 
     if not farm_id or not unit_id or not date_key:
-        with open(DAILY_LOG_PATH, "a", encoding="utf-8") as f:
+        with open(daily_log_path, "a", encoding="utf-8") as f:
             f.write(json.dumps(rec, ensure_ascii=False) + "\n")
         return rec
 
@@ -65,10 +72,11 @@ def append_daily_log(record: dict) -> dict:
 
 
 def load_daily_logs() -> list[dict]:
-    if not DAILY_LOG_PATH.exists():
+    daily_log_path = _get_daily_log_path()
+    if not daily_log_path.exists():
         return []
     out: list[dict] = []
-    with open(DAILY_LOG_PATH, "r", encoding="utf-8") as f:
+    with open(daily_log_path, "r", encoding="utf-8") as f:
         for line in f:
             line = (line or "").strip()
             if not line:

@@ -6,9 +6,15 @@ from pathlib import Path
 import json
 import pandas as pd
 
+from modules.workspace import get_workspace_id
+
 INCIDENTS_DIR = Path("incidents")
 INCIDENTS_DIR.mkdir(parents=True, exist_ok=True)
-INCIDENTS_LOG_PATH = INCIDENTS_DIR / "incidents_log.jsonl"
+
+
+def _get_incidents_log_path() -> Path:
+    workspace_id = get_workspace_id()
+    return INCIDENTS_DIR / f"incidents_log_{workspace_id}.jsonl"
 
 
 def _now_utc_iso() -> str:
@@ -22,15 +28,17 @@ def _new_id(prefix: str = "INC") -> str:
 def append_record(record: dict):
     record = dict(record or {})
     record.setdefault("timestamp_utc", _now_utc_iso())
-    with open(INCIDENTS_LOG_PATH, "a", encoding="utf-8") as f:
+    incidents_log_path = _get_incidents_log_path()
+    with open(incidents_log_path, "a", encoding="utf-8") as f:
         f.write(json.dumps(record, ensure_ascii=False) + "\n")
 
 
 def load_incidents() -> list[dict]:
-    if not INCIDENTS_LOG_PATH.exists():
+    incidents_log_path = _get_incidents_log_path()
+    if not incidents_log_path.exists():
         return []
     out = []
-    with open(INCIDENTS_LOG_PATH, "r", encoding="utf-8") as f:
+    with open(incidents_log_path, "r", encoding="utf-8") as f:
         for line in f:
             line = (line or "").strip()
             if not line:
@@ -150,7 +158,9 @@ def reopen_incident(incident_id: str):
     upd["resolved_at_utc"] = None
 
     append_record(upd)
-    return upd 
+    return upd
+
+
 # ---------------------------------------------------------
 # Workspace helpers (append-only risk_bundle updates)
 # ---------------------------------------------------------
@@ -279,3 +289,4 @@ def set_workspace_status(incident_id: str, status: str):
 
     append_record(upd)
     return upd
+ 
